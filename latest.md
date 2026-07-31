@@ -1,27 +1,40 @@
-📚 Daily Writer's Scout — Thursday, 30 July 2026
+📚 Daily Writer's Scout — Friday, 31 July 2026
 
-1. 🤖 Perplexity is opening an ebook store
-The AI search engine Perplexity announced it will sell ebooks directly to its hundreds of millions of users, building its catalogue through publishers and distributors — which for indie authors most likely means access via aggregators like Draft2Digital or PublishDrive. Covered in ALLi's Self-Publishing News podcast on 24 July, this is a genuinely new kind of shop front: an AI answer engine becoming a bookseller.
-🔗 https://selfpublishingadvice.org/podcast-perplexity-launches-an-ebook-store/
-💬 Would you list your books in an AI company's store, or does that feel like feeding the machine that summarises books for free? Where's your line?
+1. Simon & Schuster launches a digital imprint aimed squarely at indie authors
+Announced 30 July: "Simon Stream" is a digital-first imprint from Simon & Schuster targeting self-published authors, releasing across ebook, audiobook and print, offering 50% net ebook royalties plus marketing through influencer-led reading clubs. It is the second Big Five move on successful indies in a month, and the pitch is explicit — editorial and marketing muscle in exchange for a big slice of your royalty.
+🔗 https://selfpublishingadvice.org/simon-and-schuster-launches-digital-imprint/
+💬 50% net on ebooks versus 70% on KDP and keeping control — what would a publisher have to put on the table to make you sign?
 
-2. The Library of Congress is acquiring self-published books
-Also reported by ALLi on 24 July: the Library of Congress has begun a programme to acquire self-published titles alongside traditional ones. Beyond the cultural legitimacy — your indie book in the USA's national library — it connects to copyright registration, which has become the paperwork that matters most in the AI-lawsuit era.
-🔗 https://selfpublishingadvice.org/podcast-perplexity-launches-an-ebook-store/
-💬 Have you registered your copyright with the US Copyright Office (or your country's equivalent)? What made you do it — or put it off?
+2. And the room is already arguing about exactly that question
+The biggest thread on r/selfpublish this week (posted 30 July, 110 replies and climbing) asks how people chose between self-publishing and traditional — not which is better, but what actually decided it for them. The timing next to the Simon Stream news is a coincidence worth noticing.
+🔗 https://www.reddit.com/r/selfpublish/comments/1vaue4g/selfpublishing_vs_traditional_publishing_how_did_you_pick_your_lane/
+💬 What tipped YOUR decision — money, control, speed, a bad experience, or something you didn't expect?
 
-3. An author published their full numbers from a $655 newsletter-promo push
-A member of r/selfpublish ran book one of their urban fantasy series free for five days, discounted the rest of the series, and paid a set of fantasy-newsletter promo services (Robin Reads among them) — then posted the complete breakdown on 29 July of who they paid, what it cost, and what came back. Real numbers from a real campaign are rarer than they should be.
-🔗 https://www.reddit.com/r/selfpublish/comments/1va9pl8/results_of_655_dollar_newsletter_promo_push/
-💬 Have you ever paid for a newsletter promo? Share your best and worst result — let's build our own data set.
+3. Canadian ebook spending falls to a five-year low — a pricing warning worth reading
+Also reported 30 July: 71% of Canadians read ebooks in 2025, but spending dropped to its lowest since 2020, the average price paid fell to about $11.85 from $13.50 the year before, and only 38% bought at full price — a four-year low. Canada isn't most of our market, but reader price-sensitivity rarely stays in one country, and it lands the same month KDP raised its 70% royalty ceiling to $12.99.
+🔗 https://selfpublishingadvice.org/simon-and-schuster-launches-digital-imprint/
+💬 Have you tested a higher price since the KDP change, or are your readers telling you to hold steady?
 
-4. "Why won't people leave reviews?" — the week's biggest discussion
-The top thread on r/selfpublish this week (posted 28 July, dozens of replies): readers who tell the author they loved the book still won't write a review — one friend said flatly "I don't leave reviews." The replies dig into why: review anxiety, not knowing what to say, and Amazon quietly removing star-only ratings from ineligible accounts.
-🔗 https://www.reddit.com/r/selfpublish/comments/1v95zu0/why_wont_people_leave_reviews/
-💬 What's the single ask that actually gets YOUR readers to leave a review? Exact wording welcome.
+4. BookTok's cash value gets a number — from a report TikTok paid for
+A Public First study reported on 28 July puts BookTok's contribution to UK book spending at £175 million (about US$233 million). Read it with your eyes open: TikTok commissioned the research, so treat the figure as advocacy rather than an audit. The underlying claim — that a young readership is being pulled back into books — is still the most useful thing in it for anyone deciding where to spend marketing time.
+🔗 https://selfpublishingadvice.org/financial-impact-of-booktok/
+💬 Has BookTok ever moved copies for you, or is it a lot of views and a quiet sales dashboard?
+
+5. 🤖 The Self-Publishing Show turns your book into an AI movie (part one)
+Episode 458 went up this morning, titled "Your Book As An AI Movie (Part 1)". Pointer only — we haven't watched it — but the title alone marks where the conversation has moved: not AI writing the book, AI adapting the finished one into video. Part two presumably follows next week.
+🔗 https://www.youtube.com/watch?v=zXl6CJUUuak
+💬 Would you let an AI make a trailer or a full visual version of your book — and would you tell your readers it was AI?
+
+6. 🎬 Proving demand for your story before Hollywood hears about it
+The Creative Penn published an interview on 29 July with screenwriter Brooks Elms, titled "How To Prove The Demand For Your Stories And Get The Attention Of Hollywood". Pointer only, from the title and channel — the framing is the interesting part: evidence of an audience as the thing that opens the door, rather than the pitch itself.
+🔗 https://www.youtube.com/watch?v=CohyZEYIYJ4
+💬 If a producer asked you to prove readers want your story, what would you actually show them?
+
+7. One author's public plan for selling more books this year
+Heart Breathings posted "My Bestseller Plan: How I'm Selling More Books in 2026" on 30 July, continuing her PROJECT 180 accountability run. Pointer only — but a working author publishing her sales plan while she executes it is a rarer thing than another marketing listicle.
+🔗 https://www.youtube.com/watch?v=AzCY1ylvRI4
+💬 Do you have a written plan for selling this year, or does marketing happen whenever the writing lets it?
 
 —
-A quiet news day — four items that earned their place rather than padding to five.
-YouTube lane: unreachable this run (all six curated channel feeds returned errors across repeated retries) — back tomorrow.
-Screen lane: nothing fresh today.
+Seven items today. YouTube lane: partially recovered — the RSS feeds refused every request again, so the sweep ran from the channel pages instead; four of the six curated channels came back, ALLi and Self-Publishing with Dale were unreachable. Video items are pointer-only: title, channel and date, nothing watched.
 Curated daily for this community. Spotted something worth sharing? Post it below.
