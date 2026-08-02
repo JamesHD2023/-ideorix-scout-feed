@@ -1,27 +1,16 @@
-📚 Daily Writer's Scout — Saturday, 01 August 2026
+📚 Daily Writer's Scout — Sunday, 02 August 2026
 
-1. 🤖 Substack turned an AI detector on its writers — and the backlash is fierce
-Dale L. Roberts' news video (posted 30 July) leads with Substack's new AI-detection tool and the swift pushback from writers — false-positive fears, "witch hunt" complaints, and the reputational stakes when an algorithm judges your prose. His episode also covers a proposed US Copyright Office fee increase (single-work registration heading from $45 to $55, due this autumn unless Congress blocks it — registering sooner is cheaper) and IngramSpark news. A video pointer — the details are his to lay out — but the throughline matters to every one of us: platforms are starting to score authorship itself, and detectors misfire on real human writing.
-🔗 https://www.youtube.com/watch?v=y41CRIVzSoI
-💬 If your platform showed readers an "AI score" on your posts, would you stay, disclose, or leave? What would a false flag do to you?
+1. 🤖 It's live: the EU's AI transparency rules are in force as of today
+We flagged this on Wednesday — today it's real. From 2 August, the European Commission's AI Office and national authorities begin enforcing the AI Act's transparency duties (announced by the Commission on 31 July): AI systems must tell people when they're interacting with AI, deepfakes must be labelled, and AI-generated or AI-altered content must carry machine-readable marks so it can be detected — with fines that can reach 7% of global turnover for providers who don't comply. For authors, the near-term burden sits on the PLATFORMS and AI providers you use, not on you personally — but if you sell to EU readers and use AI in your covers, audio, or marketing assets, the labelling conversation now has legal weight behind it, and honest disclosure habits formed now will age well.
+🔗 https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august
+💬 Do you disclose AI use anywhere in your process today — covers, narration, marketing images? Would a law making platforms label it change what you do?
 
-2. "We're being hit by a tsunami of really good scam emails" — an author's PSA worth reading
-A veteran indie posted a detailed warning on r/selfpublish (31 July, 78 comments and climbing): scammers are now impersonating real literary agents, real small publishers, and real industry names — emails that don't ask for money up front, reference your actual book, and read legitimately enough to fool experienced authors. The post walks through the tells; the replies add more. The oldest rule holds: money flows TO the author, and any "agent" who found you unsolicited deserves a hard second look.
-🔗 https://www.reddit.com/r/selfpublish/comments/1vbs1hz/author_psa_were_being_hit_by_a_tsunami_of_really/
-💬 Have you had one of these near-miss emails? Share the tell that gave it away — your example might save someone here.
-
-3. Yes, you can revise — or retire — a book you've already published
-ALLi's craft post (28 July) tackles a question members ask constantly: what do you do about the early book that no longer represents you? Indies hold an advantage trad authors don't — you can revise, re-cover, or quietly retire a title without anyone's permission. The piece covers when revision is warranted (repeated reader feedback patterns, evolved craft), the mechanics (when a new ISBN is needed), and the reframe that retiring a book is strategy, not failure.
-🔗 https://selfpublishingadvice.org/can-you-really-revise-or-retire-a-book-youve-already-published-yes-heres-how/
-💬 Would you revise your first book if you could — or does it deserve to stand as it was?
-
-4. ALLi on selling more books: indie promotion, explained plainly
-The Alliance of Independent Authors posted "How to Sell More Books: Indie Promotion Explained" on 31 July, with a free companion cheat sheet. A video pointer from the listing — but ALLi's marketing explainers are consistently grounded, and "promotion, explained without hype" is rarer than it should be.
-🔗 https://www.youtube.com/watch?v=NXCGpmPJAZU
-💬 What's the ONE promotion channel that has actually sold books for you — not clicks, books?
+2. Marketing in fandom spaces — where's the line?
+A hard-SF author asked r/selfpublish yesterday (1 August, 91 replies and climbing): readers compare my book to Andy Weir and The Expanse — is it fair game to go market it in those fandoms' subreddits, or is that going too far? The replies are a masterclass in the difference between joining a community and strip-mining one — and most fandom spaces ban direct promo outright, which makes the HOW matter more than the whether.
+🔗 https://www.reddit.com/r/selfpublish/comments/1vcuvbk/marketing_how_far_is_too_far/
+💬 Have you ever promoted in a fandom space for a comparable author? What worked without getting you (rightly) run out of town?
 
 —
-Four items on a quiet Saturday — no padding to five.
-YouTube lane: fully recovered — all six curated channel feeds pulled cleanly this morning after last week's outage, dates verified inside each feed. Video items are pointers (title, date, and the channel's own description), nothing watched.
-Screen lane: nothing fresh today. AI lane carried by item 1.
+A quiet Sunday — two items that earned their place rather than padding to five.
+AI lane carried by item 1. YouTube lane: all six curated feeds pulled cleanly; nothing fresh since yesterday's edition. Screen lane: nothing fresh today.
 Curated daily for this community. Spotted something worth sharing? Post it below.
