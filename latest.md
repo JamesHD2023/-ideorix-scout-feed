@@ -1,16 +1,16 @@
-📚 Daily Writer's Scout — Sunday, 02 August 2026
+📚 Daily Writer's Scout — Monday, 03 August 2026
 
-1. 🤖 It's live: the EU's AI transparency rules are in force as of today
-We flagged this on Wednesday — today it's real. From 2 August, the European Commission's AI Office and national authorities begin enforcing the AI Act's transparency duties (announced by the Commission on 31 July): AI systems must tell people when they're interacting with AI, deepfakes must be labelled, and AI-generated or AI-altered content must carry machine-readable marks so it can be detected — with fines that can reach 7% of global turnover for providers who don't comply. For authors, the near-term burden sits on the PLATFORMS and AI providers you use, not on you personally — but if you sell to EU readers and use AI in your covers, audio, or marketing assets, the labelling conversation now has legal weight behind it, and honest disclosure habits formed now will age well.
-🔗 https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august
-💬 Do you disclose AI use anywhere in your process today — covers, narration, marketing images? Would a law making platforms label it change what you do?
+1. US literary agents just rewrote their own rulebook around indie authors
+Reported by ALLi on 1 August: the Association of American Literary Agents has updated its Canon of Ethics — the first revision in four years — explicitly to reflect how self-publishing and hybrid publishing have changed the profession. The headlines: agents may now offer paid marketing and editorial services, including to authors they do NOT represent; referrals to third-party services must disclose any fees; and agents may even act as publishers, provided conflicts of interest are managed. Read it both ways: it is formal recognition that indie authors are reshaping the industry — and it moves the old bright line. "An agent never charges the author" was the classic scam tell; now some agent fees are legitimate under the canon. The rule that survives: legitimacy lives in DISCLOSURE — clear fees, declared conflicts, and services you sought out, not ones that arrived unsolicited (see Saturday's scam PSA).
+🔗 https://selfpublishingadvice.org/us-agents-change-their-guidelines/
+💬 Would you pay an agent for marketing help without representation — or does mixing the roles worry you more than it helps?
 
-2. Marketing in fandom spaces — where's the line?
-A hard-SF author asked r/selfpublish yesterday (1 August, 91 replies and climbing): readers compare my book to Andy Weir and The Expanse — is it fair game to go market it in those fandoms' subreddits, or is that going too far? The replies are a masterclass in the difference between joining a community and strip-mining one — and most fandom spaces ban direct promo outright, which makes the HOW matter more than the whether.
-🔗 https://www.reddit.com/r/selfpublish/comments/1vcuvbk/marketing_how_far_is_too_far/
-💬 Have you ever promoted in a fandom space for a comparable author? What worked without getting you (rightly) run out of town?
+2. Anthologies and collections can win book awards — and the maths favours anthologies
+Also from ALLi (1 August): shorter-work books qualify for far more award programmes than most authors assume — anthologies (multiple authors, shared theme) are judged on thematic cohesion and editorial vision, collections (one author's shorter works) on consistency of voice. The sleeper insight is the marketing arithmetic: a multi-author anthology win is shareable by EVERY contributor to their own audience — one award, a dozen announcement campaigns. For anyone sitting on a drawer of short stories, this is a credential path that costs less than a novel.
+🔗 https://selfpublishingadvice.org/anthology-or-collection/
+💬 Have you ever entered (or won) an award with an anthology or collection? Did the win move any books?
 
 —
-A quiet Sunday — two items that earned their place rather than padding to five.
-AI lane carried by item 1. YouTube lane: all six curated feeds pulled cleanly; nothing fresh since yesterday's edition. Screen lane: nothing fresh today.
+A quiet Monday — two items that earned their place rather than padding to five.
+AI lane: quiet today — no fresh, unduplicated AI-and-writing story cleared the gate (the EU rules going live ran yesterday). YouTube lane: all six curated feeds pulled cleanly; nothing new since Friday's videos. Screen lane: nothing fresh today.
 Curated daily for this community. Spotted something worth sharing? Post it below.
