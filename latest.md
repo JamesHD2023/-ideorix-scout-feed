@@ -1,51 +1,51 @@
-📚 Daily Writer's Scout — Wednesday, 05 August 2026
+📚 Daily Writer's Scout — Thursday, 06 August 2026
 
-1. A UK genre-fiction publisher has been bought by an audiobook giant
+1. 🤖 "They came for the em dash and I said nothing" — the AI-suspicion creep is eating ordinary style
 
-RBmedia, the Maryland audio company, acquired UK independent publisher Boldwood Books on 4 August for an undisclosed sum. Boldwood launched in 2019, has published around 2,000 titles from nearly 250 authors, passed 50 million lifetime sales this year, and took Independent Publisher of the Year at the 2025 British Book Awards; Amanda Ridout stays on as chief executive. Worth watching because an audio-first buyer paying for a fast-growing digital-first genre house tells you where commercial fiction rights are being priced right now — and Boldwood is one of the few UK houses that indie-minded genre authors actively submit to.
+The week's liveliest writing thread, posted 5 August: an author working on a book description reaches for the classic "not X, but Y" construction — the shape of "ask not what your country can do for you" — and stops, because readers now flag it as an AI tell. First bullet points, then em-dashes, now a rhetorical structure old as Cicero. The thread is half comedy, half genuine unease about writers sanding their own voice down to avoid suspicion.
 
-🔗 https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100985-rbmedia-acquires-u-k-indie-boldwood-books.html
+🔗 https://www.reddit.com/r/selfpublish/comments/1vglrb9/they_came_for_the_em_dash_and_i_said_nothing/
 
-💬 If an audio-first publisher made you an offer for your series tomorrow, which rights would you refuse to hand over, and why that one?
-
-
-2. 🤖 Another publisher signs an AI licensing deal — and this one is built to pay authors
-
-Princeton University Press signed a partnership with Cashmere on 4 August, using the platform as a gateway to license its catalogue to what both parties call copyright-compliant AI systems, with citation and author compensation written into the terms. Princeton joins Rockefeller University Press and Springer on the same platform. It is academic rather than trade publishing, but it is the clearest sign yet that a paid, opt-in route for AI licensing is being built in parallel to the scraping that authors have been fighting in court.
-
-🔗 https://www.thebookseller.com/news/princeton-university-press-partners-with-cashmere-on-ai-licensing
-
-💬 If a platform offered to license your backlist for AI training with a per-use fee and your name attached, what would your price be — or is it no at any price?
+💬 Have you changed anything about how you write — punctuation, phrasing, structure — purely to avoid looking like AI? Where is your line?
 
 
-3. Thirty-five fiction podcasts are being turned into audiobooks
+2. Launching with 300 dollars, no following and five hours a week — the honest maths
 
-Podium began rolling out audiobook adaptations of 35 serialised fiction podcasts from the Realm network on 4 August, spanning contemporary romance, science fiction, horror, thriller, fantasy, comedy and adventure, with narrators including Fred Armisen, Tatiana Maslany, Kelly Marie Tran and Sanaa Lathan. The 35 properties become 47 titles because multi-season series are being split rather than compressed, with everything due out by spring 2027. The interesting part for indies is the direction of travel: audio-first serialised fiction proving an audience, then being packaged and sold as audiobooks.
+A writer launching later this year laid out their real situation on 5 August: no social following, no newsletter, 300 dollars, five hours a week — and asked what actually moves the needle. The replies are a compact field guide to the current promo stack: Freebooksy-class newsletter promos, BookFunnel swaps, ARC teams through StoryOrigin or BookSirens, and where a small Amazon ads budget does and doesn't help. Worth reading for the ruthless prioritisation more than any single tool.
 
-🔗 https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100953-podium-to-publish-35-serialized-realm-podcasts-as-audiobooks.html
+🔗 https://www.reddit.com/r/selfpublish/comments/1vgb425/how_to_promote_your_book_with_basically_no/
 
-💬 Have you ever released fiction in audio or serial form before the book existed? Did the audience follow you to the finished title?
-
-
-4. A KDP paperback error is catching authors who did nothing wrong
-
-An author posting on 2 August hit the message "You cannot schedule a release date for an ISBN that has been previously published to Amazon" while setting up an October paperback, despite never having published that ISBN anywhere — their only distributor is KDP, and the ISBN appears nowhere but Goodreads. The thread has drawn others recognising the same wall. If you have a pre-order or a dated launch coming, it is worth setting your paperback up early rather than discovering this a fortnight out.
-
-🔗 https://www.reddit.com/r/selfpublish/comments/1vddsvq/kdp_issue_you_cannot_schedule_a_release_date_for/
-
-💬 Has this ISBN error hit one of your releases? What actually got it cleared — support, a new ISBN, or waiting it out?
+💬 If you had to relive your launch with 300 dollars and five hours a week, what is the ONE thing you'd spend it on?
 
 
-5. A debut that earned 2,000 dollars in two weeks, broken down honestly
+3. Indie authors and indie bookstores — a bridge someone is finally building
 
-An author published a full account on 30 July of a debut that made around 2,000 dollars in its first fortnight, written plainly — including that English is their second language and that the book came out of spotting a hot niche on Amazon and moving fast. What lifts it above the usual success post is the "what didn't work" half, which is the part most breakdowns quietly leave out.
+A thread from 5 August by a self-published author working to connect indie authors with independent bookstores, arguing the two camps need each other more than ever: traditional publishing is getting more conservative, marginalised authors are being left out, and the platforms that created the indie boom are increasingly unreliable partners. The discussion covers consignment terms, local-author shelves, and what makes a bookstore actually say yes.
 
-🔗 https://www.reddit.com/r/selfpublish/comments/1vb489i/my_debut_book_made_2k_in_2_weeks_what_worked_and/
+🔗 https://www.reddit.com/r/selfpublish/comments/1vgc6zi/bridging_the_gap_between_indie_authors_and_indie/
 
-💬 When you look back at your own launch, which single thing did the most work — and which thing you were sure about turned out to be wasted effort?
+💬 Has a local independent bookstore ever stocked your book? What was the pitch that worked — or the wall you hit?
 
 
-Scout notes: five items today rather than the usual six or seven — the freshness gate and the ledger did their work and I would rather ship five honest ones. Two stories were refused: the 4 August follow-ups on the withdrawn seven-figure debut, because that was yesterday's lead story here, and a 3 August radio discussion of the 1.5 billion dollar Anthropic settlement, because the claims deadline closed in March and there is nothing left for members to act on. YouTube lane: the RSS feeds refused this workspace on every retry, so the lane ran on the channel-page route instead and all six channels were reached — but every video inside the seven-day window had already featured here, so nothing fresh today. Author Help UK blocked automated reading again, and the BookBub blog would not resolve. Screen lane: nothing in gate — Slamdance's final deadline passed on 3 August and the next open contest deadline is 9 September, too far out to call urgent.
+4. If you sell direct, check your Stripe settings this week
+
+Flagged in Author Help UK's 3 August roundup (the original notice circulated on Mastodon, so we verified via the roundup rather than the source): Stripe has switched on an AI-powered version of its Radar fraud system by default. For authors selling books direct, an over-eager fraud filter can silently decline legitimate readers' cards. If you want the old behaviour, the setting is changing your Radar plan to Radar Lite — worth two minutes in your dashboard if direct sales are part of your income.
+
+🔗 https://authorhelp.uk/weekly-news-3rd-august-2026/
+
+💬 Do you sell direct — and have you ever traced a "failed payment" complaint back to a fraud filter rather than the reader's card?
+
+
+5. Joanna Penn: from blog to community to book
+
+New on The Creative Penn's channel, published 4 August: "From Blog To Community To Book: A Non-Fiction Author's Journey With Suzanne Smith" — the build-the-audience-first path to a non-fiction book, told through one author's route from blogging to community to a finished title. (Pointer only — we haven't watched it; the RSS feed was unavailable this morning so no description was retrievable.)
+
+🔗 https://www.youtube.com/watch?v=KSOPOzPZ0L0
+
+💬 Did your book come first, or your audience? If you could rerun it, which would you build first?
+
+
+Scout notes: five items today — the gate did its work on a quiet trade-news morning. Refused: the AI-companies-destroying-books story (Futurism, 25 July — the same story as our 28 July item, and outside the freshness window), the Audible ACX royalty-model deadline (announced in May; the end-of-year deadline is too far out to run as an act-now item), and the Spotify/Bookshop physical-book tie-up (launched in April). ALLi's news listing carried nothing new in gate. YouTube lane ran on the channel-page fallback (the RSS feeds refused this workspace after retries): all six channels reached, one fresh video (item 5), dates derived from the pages as stated. Screen lane: quiet today. AI lane: item 1 carries the beat.
 
 —
 Curated daily for this community. Spotted something worth sharing?
