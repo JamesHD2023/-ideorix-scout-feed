@@ -1,42 +1,42 @@
-📚 Daily Writer's Scout — Friday, 07 August 2026
+📚 Daily Writer's Scout — Saturday, 08 August 2026
 
-1. 🤖 The first big study of AI books on Amazon: a quarter of new self-published titles show AI fingerprints
+1. What thirty-odd books taught one author about surviving the second draft
 
-Researcher Tuhin Chakrabarty analysed 14,419 self-published titles from 2023 to 2026 and found more than a quarter showing signs of AI use — with self-published output up nearly 20 percent while sales grew less than 10 percent. The AI-flagged books sell less than human-written ones but are far from ignored, which is exactly why the study is titled "Generative AI Floods and Dilutes the Market for Books". ALLi's news desk covered it on 6 August, alongside New York Times reporting on authors seeing sales cliffs as the flood rises, and makes the fair point that the research describes the market rather than shaming any author.
+Noah Charney, who has written more than thirty books, published a piece with ALLi on 5 August on the draft most writers dread. Three things he actually does: reverse-outline the whole book by summarising each chapter in a single sentence, so structural faults show up as a list rather than a feeling; gather every passage covering the same subject and keep only the simplest version; and open each chapter with an image, an action or a question instead of clearing his throat. His framing is the useful part — expect many drafts, and the second one stops having to be perfect.
 
-🔗 https://selfpublishingadvice.org/ai-in-self-published-amazon-books/
+🔗 https://selfpublishingadvice.org/what-writing-over-30-books-has-taught-me-about-surviving-the-second-draft/
 
-💬 A fifth more books chasing barely-growing sales: are you feeling that dilution in your own niche — and what's cutting through it for you?
-
-
-2. 🤖 A seven-figure indie deal now comes with an AI question attached
-
-ALLi's 4 August news summary contrasts two big-money deals: H. M. Wolfe's indie hit Daggermouth landed a seven-figure, two-book Simon & Schuster contract — then the same researcher's analysis suggested the novel may be substantially AI-generated, while a second deal collapsed outright when the publisher couldn't substantiate the book wasn't AI-assisted. Nobody yet agrees on what proof should even look like, and ALLi's editor warns that unsubstantiated accusations can wreck a career as surely as undisclosed AI can wreck a deal.
-
-🔗 https://selfpublishingadvice.org/a-tale-of-two-seven-figure-deals/
-
-💬 If a publisher asked you tomorrow to prove your book was human-written, what evidence could you actually show them — drafts, notes, version history?
+💬 Which of the three would change your next revision most — the reverse-outline, the repetition sweep, or cutting the throat-clearing at chapter openings? And what does your own second draft usually fix?
 
 
-3. The UK weekly worth ten minutes: Author Help's 3 August roundup
+2. A week's worth of business news for authors, in one place
 
-Author Help UK's Monday roundup (3 August) bundles the week for British and European authors: the Stripe payment-screening change that affects authors selling direct, Jane Friedman's case for starting book publicity locally, ALLi's guide to revising or retiring an already-published book, and craft pieces on avoiding token minority characters and writing as a time-poor parent. A solid one-stop catch-up if the week ran away from you.
+The Fussy Librarian's author newswire for 5 August rounds up four things worth your time: Victoria Strauss on the revised US literary-agent ethics rules (and her note that there is still no AI language in them), narrator Hannibal Hills on how to actually judge audiobook voice talent before you hire, Hannah Jacobson confirming that anthologies and collections are eligible for book awards, and Penny Sansevieri on the seven signs you have outgrown doing your own marketing. A good browse if you missed the week.
 
-🔗 https://authorhelp.uk/weekly-news-3rd-august-2026/
+🔗 https://www.thefussylibrarian.com/newswire/for-authors/2026/08/05/business-and-marketing-updates-for-authors-august-5-2026
 
-💬 Which would help you more right now: better local publicity, or finally deciding what to do with that older book in your backlist?
+💬 Anthologies being award-eligible surprises a lot of people — has anyone here entered a collection or anthology for an award, and how did it go?
 
 
-4. Barnes & Noble may turn down your book signing — Dale Roberts explains why (video)
+3. ALLi on indie promotion, from the top
 
-Dale Roberts published his weekly self-publishing news video on 6 August, leading on why Barnes & Noble stores may reject indie book-signing requests — worth knowing before you pitch your local store. Title-and-date pointer only today: the video is fresh and we haven't watched it for you, so bring your own verdict back to the group.
+ALLi posted a new promotion explainer on 6 August, walking through how indie authors actually sell more books rather than just publishing more of them. Pointer only from us — we have the title, the date and the description, not a viewing, so treat this as a signpost rather than a review. It comes with a free principles cheat sheet if you want the summary before committing the time.
 
-🔗 https://www.youtube.com/watch?v=61voMQvOFNE
+🔗 https://www.youtube.com/watch?v=xxmyggckVr8
 
-💬 Has anyone here actually landed a bookshop signing or shelf placement as an indie? What worked — and what got you turned away?
+💬 If you had to name the one promotion habit that moved your numbers most — and the one that wasted your money — what would they be?
 
+
+Scout notes
+
+Short edition today, honestly. The sweep ran in full and turned up eight candidates, but five had already run this week and the ledger took them out: the Chakrabarty AI study, the seven-figure deal pulled after AI allegations, the US agent ethics change, the Author Help UK weekly, and the Barnes & Noble signings video. A Saturday after a heavy news week leaves thin pickings, and three real items beat five padded ones.
+
+AI lane: quiet today. The big AI story of the moment — AI firms buying up old books to scan and destroy them — is dated 29 to 31 July across Fortune, Boing Boing and Novara Media, so it falls outside our seven-day freshness rule. It is a real story and worth your attention; it is just not today's news.
+
+YouTube lane: ran, with effort. Five of six feeds refused on the first pass; four came back on retry, Heart Breathings needed the channel-page route, and Kindlepreneur has posted nothing since March. Video items are title-and-date pointers, never written as though watched.
+
+Writer-community lane unreachable this run — Reddit's public feed refused automated reads, so no r/selfpublish or r/writing item today. Publishing Perspectives also returned an empty fetch. Screen lane: nothing carrying a verifiable date inside the window, so no screen item today.
 
 —
-Curated daily for this community. Spotted something worth sharing? Post it below.
-
-Scout notes: a four-item day — the freshness gate and this week's earlier editions took the rest. AI lane: two items today. YouTube lane ran on the channel-page fallback (the RSS feeds refused this environment again; all six channels swept, none missing). Reddit's feeds blocked automated readers today, so the communities lane ran on search only. Screen lane: nothing fresh today.
+Curated daily for this community. Spotted something worth sharing?
+Post it below.
