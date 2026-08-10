@@ -1,52 +1,69 @@
-📚 Daily Writer's Scout — Sunday, 09 August 2026
+📚 Daily Writer's Scout — Monday, 10 August 2026
 
-1. Five indie manga publishers form an alliance, and they want writers on the list
+1. 🤖 Sudowrite cuts its credit costs, some models by 70%
 
-ALLi's news summary yesterday flagged the launch of the Indie Manga Alliance, starting as five independent US-based publishers but openly aiming wider than that. The group's site carries a form for anyone who wants to take part or follow the work, and it has a category specifically for writers — so if you write manga or comics scripts, you can put your name in front of the people building this rather than waiting to hear about it later. Worth noting how young the group is: this is the moment when a new body is still deciding what it does, which is when a founding voice counts for most.
+Sudowrite's release notes for 3 August drop the credit cost of its main
+models — GPT-5.6 Luna now burns 70% fewer credits, Terra 10% fewer, and
+GPT-5.5 around 12% fewer — alongside cheaper scene generation on long
+projects. The same update fixes a batch of Chat problems, including
+questions that quietly spent credits without doing work. If you budget
+your month by credits, the arithmetic on your usual workflow just
+changed.
 
-🔗 https://selfpublishingadvice.org/indie-manga-publishers-join-forces/
+🔗 https://releasebot.io/updates/sudowrite
 
-💬 Have you ever got in early with a new group, alliance or co-op in your genre — and did it actually pay off in readers or contacts?
-
-
-2. A "Couch to 5K" for reading — Naomi Alderman's eight-week programme
-
-The same ALLi summary (8 August) closed with something aimed at the other side of the desk: author Naomi Alderman has launched a three-track, eight-week structured programme to rebuild a reading habit, modelled on the running scheme that took people from the sofa to five kilometres. The tracks are practical rather than aspirational — twenty minutes a day, swapping phone time for book time, or finding a way into the books you keep meaning to read. For anyone who sells books, a serious attempt to grow the number of people who actually finish them is not a soft story.
-
-🔗 https://selfpublishingadvice.org/indie-manga-publishers-join-forces/
-
-💬 If you could hand a lapsed reader ONE book to restart the habit, which would you choose — and why that one?
-
-
-3. "What actually made your first book sell?" — the r/selfpublish thread of the day
-
-Yesterday's top thread on r/selfpublish asked authors with a genuinely successful first book to name what did it: prose, plot, cover, blurb, marketing, the idea, or finding the right audience. Nearly fifty replies in, the honest answer coming back is "all of it, plus some luck" — which is less satisfying than a single lever but a lot closer to what most launches look like. The value here is the sheer number of people answering from their own numbers rather than from theory.
-
-🔗 https://www.reddit.com/r/selfpublish/comments/1vizb0v/what_actually_made_your_first_book_sell/
-
-💬 Same question, your answer: what one thing moved the needle most on YOUR first book — and what did you overrate at the time?
+💬 If you pay for AI writing tools, how do you actually track what a
+draft costs you — and has a price change ever made you switch tools
+mid-book?
 
 
-4. Audible opens a bulk-sales channel with Audible for Business
+2. Casting your audiobook narrator: what to listen for in an audition
 
-Reported on 5 August in Jane Friedman's industry round-up: Audible has launched Audible for Business, which allows audiobooks to be sold and distributed in bulk — for events and conferences, for large groups of employees, or as part of marketing campaigns. That is a route most indie authors never think about, and bulk is where non-fiction authors in particular have long left money behind. Details are thin so far, so treat this as a channel to watch rather than a form to fill in today.
+Writing on Jane Friedman's site on 5 August, Hannibal Hills argues the
+narrator decision matters more than most authors assume, and that it
+starts with a casting call describing your book's tone and point of
+view rather than a generic ask. When auditions come in, he says to
+judge distinct character voices, handling of dramatic tension, and
+whether pacing holds up over a long passage — not simply which voice
+you personally like. He lays out the three ways narrators get paid:
+per finished hour, royalty share, and hybrid.
 
-🔗 https://janefriedman.com/audible-launches-audible-for-business/
+🔗 https://janefriedman.com/choosing-the-right-voice-for-your-audiobook/
 
-💬 Has a bulk or corporate order ever come your way — a company, a conference, a school — and how did you handle the pricing?
+💬 For those who have made an audiobook — did you go per-finished-hour
+or royalty share, and knowing what you know now, would you choose the
+same again?
 
 
-5. 🎬 Wscripted names 12 finalists for its Cannes Screenplay List
+3. Your premise is not your plot
 
-Deadline reported on 7 August that Wscripted has unveiled the finalists for the sixth edition of its Cannes Screenplay List, spotlighting screenplays by women and non-binary writers, with 12 projects chosen by a jury of Elisabeth Moss, Daphne Schmon and Ash Mayfair. Lists like this are one of the few routes where an unproduced script gets read by people who can move it, and six editions in, this one has a track record worth knowing about if you are writing features.
+Peter Gelfan, writing on 4 August, separates two things writers often
+run together: the premise is the what-if seed, while the plot is your
+protagonist's struggle with it. His test is a question — who deals with
+this premise, and how? — and his practical advice is to start the plot
+early, cut the setup, and make sure the obstacles are genuinely hard
+and the antagonist is not a pushover.
 
-🔗 https://deadline.com/2026/08/wscripted-2026-screenplay-list-finalists-elisabeth-moss-1237028118/
+🔗 https://janefriedman.com/your-premise-is-not-your-plot/
 
-💬 Screenwriters here — have you ever entered a curated list or lab rather than a contest, and did the reading actually lead anywhere?
+💬 Think about your current project: can you say in one sentence what
+your protagonist is struggling AGAINST? If that comes out vague, is the
+premise doing work the plot should be doing?
 
 —
-Scout notes: 5 items today rather than the usual 6 to 10 — a Sunday build, and the freshness gate plus the 45-day ledger cleared out most of what the sweep turned up. AI lane: quiet today — every AI-and-writing story the sweep surfaced was either already featured this week or carried no verifiable date inside 7 days, so nothing was forced in. YouTube lane: all six curated channel feeds pulled cleanly, and every video inside the 7-day window had already been featured in the past week, so there is nothing new to point you at. Publishing Perspectives' own feed refused an automated read this morning and was reached through search instead; Kindlepreneur's blog feed is returning a dead code (its YouTube feed is fine).
+Scout notes: a thin edition today, honestly. This build ran at 05:10 UTC
+on a Monday, before the week's news cycle exists, and the weekend
+editions had already taken the stories now on the wire — every dated
+item on ALLi's news listing, Author Help UK's latest weekly, and all six
+YouTube channels was already featured here in the last 45 days. Three
+items cleared the freshness gate rather than five; nothing was padded to
+fill the gap. YouTube lane: nothing fresh today (all six curated feeds
+pulled and read; every video inside the 7-day window has already run).
+Author Help UK's 10 August weekly was not published yet at run time.
+Publishing Perspectives returned an empty page this run, and Writer
+Beware and Reddit both refused automated fetches — those lanes are
+uncovered today rather than quiet. The Sudowrite item is dated 3 August,
+the outer edge of the 7-day window.
 
-—
 Curated daily for this community. Spotted something worth sharing?
 Post it below.
