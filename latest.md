@@ -1,69 +1,58 @@
-📚 Daily Writer's Scout — Monday, 10 August 2026
+📚 Daily Writer's Scout — Tuesday, 11 August 2026
 
-1. 🤖 Sudowrite cuts its credit costs, some models by 70%
+1. Start your Christmas gift-list pitches now, not in December
 
-Sudowrite's release notes for 3 August drop the credit cost of its main
-models — GPT-5.6 Luna now burns 70% fewer credits, Terra 10% fewer, and
-GPT-5.5 around 12% fewer — alongside cheaper scene generation on long
-projects. The same update fixes a batch of Chat problems, including
-questions that quietly spent credits without doing work. If you budget
-your month by credits, the arithmetic on your usual workflow just
-changed.
+IngramSpark published a step-by-step guide on 5 August to getting a book onto holiday gift guides, and the useful part is the timing. Bloggers, indie bookshops, podcasters and local media build those lists in October and November, and bigger magazines start earlier still, so a December pitch arrives long after the decisions are made. Their advice is to begin outreach by early October with ten or twenty well-chosen contacts rather than a mass mailout.
 
-🔗 https://releasebot.io/updates/sudowrite
+🔗 https://www.ingramspark.com/blog/6-steps-to-get-your-book-on-holiday-gift-lists
 
-💬 If you pay for AI writing tools, how do you actually track what a
-draft costs you — and has a price change ever made you switch tools
-mid-book?
+💬 Have you ever landed a spot on a gift guide or a bookshop recommendation table? What did you send them, and how far ahead did you ask?
 
 
-2. Casting your audiobook narrator: what to listen for in an audition
+2. A working week in the life of a part-time author
 
-Writing on Jane Friedman's site on 5 August, Hannibal Hills argues the
-narrator decision matters more than most authors assume, and that it
-starts with a casting call describing your book's tone and point of
-view rather than a generic ask. When auditions come in, he says to
-judge distinct character voices, handling of dramatic tension, and
-whether pacing holds up over a long passage — not simply which voice
-you personally like. He lays out the three ways narrators get paid:
-per finished hour, royalty share, and hybrid.
+BookBub followed romantasy author Megan Van Dyke through an ordinary week in a 6 August post, part of a series built on a survey of more than 500 authors. She describes a small-press debut in 2022 that built her readership but lost her money, the switch to self-publishing everything not already under contract, and the slow additions since: signed copies through Etsy, a few in-person events, and this year a push into indie bookshops that is now a growing share of her print income.
 
-🔗 https://janefriedman.com/choosing-the-right-voice-for-your-audiobook/
+🔗 https://insights.bookbub.com/day-in-the-life-of-a-part-time-author/
 
-💬 For those who have made an audiobook — did you go per-finished-hour
-or royalty share, and knowing what you know now, would you choose the
-same again?
+💬 If you write around a job, what does your writing week actually look like — and which single change bought you the most time?
 
 
-3. Your premise is not your plot
+3. 🎬 What a film or TV option really costs you
 
-Peter Gelfan, writing on 4 August, separates two things writers often
-run together: the premise is the what-if seed, while the plot is your
-protagonist's struggle with it. His test is a question — who deals with
-this premise, and how? — and his practical advice is to start the plot
-early, cut the setup, and make sure the obstacles are genuinely hard
-and the antagonist is not a pushover.
+Entertainment lawyer Maggie Marr walked through how books actually reach the screen on Written Word Media's 4 August podcast: what an option agreement costs, what you give up while it runs, and why a development executive cares more about your reader platform than your publisher. She argues indie authors are less disadvantaged than they assume, names the red flags of a scam Hollywood inquiry — including a long con she has watched play out — and points to Rightscenter as a free way to make film and TV rights discoverable.
 
-🔗 https://janefriedman.com/your-premise-is-not-your-plot/
+🔗 https://www.writtenwordmedia.com/how-your-book-can-become-a-hollywood-movie-with-maggie-marr/
 
-💬 Think about your current project: can you say in one sentence what
-your protagonist is struggling AGAINST? If that comes out vague, is the
-premise doing work the plot should be doing?
+💬 Has anyone ever approached you about screen rights? What did they ask for, and did anything about the approach feel off?
+
+
+4. The author who sued over Crave now has to pay the other side's costs
+
+Jane Friedman reported on 5 August that the author behind the long-running copyright claim against the Crave series has lost, and has been ordered to pay the defendants' legal fees. The judge found the case was brought in bad faith and noted that a fee award might deter other suits with unreasonable claims; the costs on the other side ran past three million dollars between the publisher, the agent and the author.
+
+🔗 https://janefriedman.com/author-not-only-loses-copyright-lawsuit-but-has-to-pay-defendants-legal-fees/
+
+💬 Where is the line for you between "that book is suspiciously close to mine" and something genuinely worth taking to a lawyer?
+
+
+5. A UK weekly worth the two minutes
+
+Author Help's round-up for 10 August is a short, UK-facing list of links worth an author's time — this week the gift-list guide above, a piece on why rest is not the enemy of productivity, the day-in-the-life above, and coverage of the book deal pulled over AI allegations. It lands every Monday, which makes it a reliable start to the week for authors on this side of the Atlantic.
+
+🔗 https://authorhelp.uk/weekly-news-10th-august-2026/
+
+💬 Which writing newsletter actually earns its place in your inbox — and which have you quietly unsubscribed from this year?
+
+
+Scout notes: five items today, an honestly thin day. The primary lane's dated ALLi news summaries from 6, 7 and 8 August had all already run this week, so the freshness gate and the 45-day ledger did most of the editing.
+
+AI lane: quiet today. Everything fresh in the lane had already been featured — Sudowrite's credit reductions, the deal withdrawn over AI allegations, and the study of AI titles on Amazon.
+
+YouTube lane: nothing fresh today. The RSS endpoint returned 404 for all six curated feeds, so the lane ran on the channel-page fallback route; all six channels were reached, and every video inside the seven-day window had already been featured in the last 45 days.
+
+Two verification notes. The Crave costs ruling is dated from Jane Friedman's 5 August report — the court order's own date could not be pinned, because the legal blog carrying it refuses automated readers from here. And Reddit could not be read from this workspace today, so the writer-community lane is missing rather than empty.
 
 —
-Scout notes: a thin edition today, honestly. This build ran at 05:10 UTC
-on a Monday, before the week's news cycle exists, and the weekend
-editions had already taken the stories now on the wire — every dated
-item on ALLi's news listing, Author Help UK's latest weekly, and all six
-YouTube channels was already featured here in the last 45 days. Three
-items cleared the freshness gate rather than five; nothing was padded to
-fill the gap. YouTube lane: nothing fresh today (all six curated feeds
-pulled and read; every video inside the 7-day window has already run).
-Author Help UK's 10 August weekly was not published yet at run time.
-Publishing Perspectives returned an empty page this run, and Writer
-Beware and Reddit both refused automated fetches — those lanes are
-uncovered today rather than quiet. The Sudowrite item is dated 3 August,
-the outer edge of the 7-day window.
-
 Curated daily for this community. Spotted something worth sharing?
 Post it below.
