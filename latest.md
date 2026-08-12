@@ -1,58 +1,43 @@
-📚 Daily Writer's Scout — Tuesday, 11 August 2026
+📚 Daily Writer's Scout — Wednesday, 12 August 2026
 
-1. Start your Christmas gift-list pitches now, not in December
+1. Libro.fm is adding e-books, bookshops first
 
-IngramSpark published a step-by-step guide on 5 August to getting a book onto holiday gift guides, and the useful part is the timing. Bloggers, indie bookshops, podcasters and local media build those lists in October and November, and bigger magazines start earlier still, so a December pitch arrives long after the decisions are made. Their advice is to begin outreach by early October with ten or twenty well-chosen contacts rather than a mass mailout.
+Libro.fm — the audiobook shop that shares its sales with local bookstores — said on 11 August that it will start selling e-books, rolling out to independent bookshops first to refine the service before a wider consumer launch in 2027. A feature called LibroSync will let a reader move between the audiobook and the e-book of the same title. ALLi's summary is straight about the limit: the announcement is reader- and bookshop-facing, and it does not yet say how indie authors will be able to get their e-books in.
 
-🔗 https://www.ingramspark.com/blog/6-steps-to-get-your-book-on-holiday-gift-lists
+🔗 https://selfpublishingadvice.org/libro-fm-plans-e-book-launch/
 
-💬 Have you ever landed a spot on a gift guide or a bookshop recommendation table? What did you send them, and how far ahead did you ask?
-
-
-2. A working week in the life of a part-time author
-
-BookBub followed romantasy author Megan Van Dyke through an ordinary week in a 6 August post, part of a series built on a survey of more than 500 authors. She describes a small-press debut in 2022 that built her readership but lost her money, the switch to self-publishing everything not already under contract, and the slow additions since: signed copies through Etsy, a few in-person events, and this year a push into indie bookshops that is now a growing share of her print income.
-
-🔗 https://insights.bookbub.com/day-in-the-life-of-a-part-time-author/
-
-💬 If you write around a job, what does your writing week actually look like — and which single change bought you the most time?
+💬 If a bookshop-first e-book store opened to indies tomorrow, would you list your books there — and what royalty would make the extra admin worth it?
 
 
-3. 🎬 What a film or TV option really costs you
+2. A debut earned $12,942 in ten weeks with no Kindle Unlimited
 
-Entertainment lawyer Maggie Marr walked through how books actually reach the screen on Written Word Media's 4 August podcast: what an option agreement costs, what you give up while it runs, and why a development executive cares more about your reader platform than your publisher. She argues indie authors are less disadvantaged than they assume, names the red flags of a scam Hollywood inquiry — including a long con she has watched play out — and points to Rightscenter as a free way to make film and TV rights discoverable.
+Ashli O'Connell published a full accounting on Jane Friedman's site on 11 August: her debut historical novel took $12,942.76 across 2,537 units in its first ten weeks — 1,786 on Amazon, 583 through Draft2Digital, 145 via IngramSpark and 23 sold locally. She stayed out of Kindle Unlimited on purpose so she could price alongside traditionally published books, spent $4,404 on an editor, a designer and a proofreader, and tested her positioning with $5-a-day ads six months before launch. Her own verdict is the part worth arguing with: the slow platform-building mattered less than reader word of mouth.
 
-🔗 https://www.writtenwordmedia.com/how-your-book-can-become-a-hollywood-movie-with-maggie-marr/
+🔗 https://janefriedman.com/how-a-debut-self-published-novel-earned-five-figures-in-10-weeks-without-kindle-unlimited/
 
-💬 Has anyone ever approached you about screen rights? What did they ask for, and did anything about the approach feel off?
-
-
-4. The author who sued over Crave now has to pay the other side's costs
-
-Jane Friedman reported on 5 August that the author behind the long-running copyright claim against the Crave series has lost, and has been ordered to pay the defendants' legal fees. The judge found the case was brought in bad faith and noted that a fee award might deter other suits with unreasonable claims; the costs on the other side ran past three million dollars between the publisher, the agent and the author.
-
-🔗 https://janefriedman.com/author-not-only-loses-copyright-lawsuit-but-has-to-pay-defendants-legal-fees/
-
-💬 Where is the line for you between "that book is suspiciously close to mine" and something genuinely worth taking to a lawyer?
+💬 She spent roughly $5,450 before launch and made it back about twice over in ten weeks. What did you spend on your first book, and would you spend it the same way again?
 
 
-5. A UK weekly worth the two minutes
+3. 🤖 A $2m debut deal was cancelled over suspected AI assistance
 
-Author Help's round-up for 10 August is a short, UK-facing list of links worth an author's time — this week the gift-list guide above, a piece on why rest is not the enemy of productivity, the day-in-the-life above, and coverage of the book deal pulled over AI allegations. It lands every Monday, which makes it a reliable start to the week for authors on this side of the Atlantic.
+Jane Friedman reported on 5 August that a debut author's book deal, worth more than $2m, was cancelled after his agents came to believe the manuscript was substantially AI-assisted. In the comments below the piece she adds something starker than the headline: agents are telling her they suspect around half of the submissions they now receive are heavily AI-assisted, and that few authors disclose it. The reasoning behind the headline's "end of an era" line from Hugh Howey sits behind the paywall, so read that framing as the article's rather than a quote we can put in front of you.
 
-🔗 https://authorhelp.uk/weekly-news-10th-august-2026/
+🔗 https://janefriedman.com/seven-figure-book-deal-canceled-hugh-howey-says-its-the-end-of-an-era/
 
-💬 Which writing newsletter actually earns its place in your inbox — and which have you quietly unsubscribed from this year?
+💬 If half of all submissions really are heavily AI-assisted and almost nobody is declaring it, what would a disclosure rule you would be happy to sign actually say?
 
 
-Scout notes: five items today, an honestly thin day. The primary lane's dated ALLi news summaries from 6, 7 and 8 August had all already run this week, so the freshness gate and the 45-day ledger did most of the editing.
+4. What a cover designer wishes you would send first
 
-AI lane: quiet today. Everything fresh in the lane had already been featured — Sudowrite's credit reductions, the deal withdrawn over AI allegations, and the study of AI titles on Amazon.
+The Self-Publishing with Dale newsletter gave a working designer the floor on 5 August, and his advice is mostly unglamorous: send the trim size and the print platform up front so the specs can be checked, and be specific, because vague direction is the commonest reason a first pass misses. On AI he is matter-of-fact — he uses it for colour combinations and rough layout options to compare, and will work entirely without generative AI for authors who ask, using research, a mood board and sketches instead.
 
-YouTube lane: nothing fresh today. The RSS endpoint returned 404 for all six curated feeds, so the lane ran on the channel-page fallback route; all six channels were reached, and every video inside the seven-day window had already been featured in the last 45 days.
+🔗 https://selfpub.substack.com/p/what-authors-should-know-before-hiring
 
-Two verification notes. The Crave costs ruling is dated from Jane Friedman's 5 August report — the court order's own date could not be pinned, because the legal blog carrying it refuses automated readers from here. And Reddit could not be read from this workspace today, so the writer-community lane is missing rather than empty.
+💬 When you last hired a cover designer, what one piece of information did you forget to send that cost you a round of revisions?
+
 
 —
+Scout notes: four items today rather than five or more. The seven-day freshness gate and the 45-day ledger left this many standing, and a short honest edition beats a padded one. The YouTube lane ran on the channel-page fallback because the RSS feeds returned 404 for all six curated channels; five of the six had a video inside seven days, but four had already been featured here and the fifth was off-topic, so that lane yields nothing new today. Reddit was unreachable this run — both the JSON endpoint and the page fetch were refused — so the community lane is missing rather than quiet. Publishing Perspectives and the Kindlepreneur blog returned empty bodies. Screen lane: nothing screen-specific inside seven days, the WGA's Paramount-Warner Bros. Discovery suit being 14 July and out of gate.
+
 Curated daily for this community. Spotted something worth sharing?
 Post it below.
