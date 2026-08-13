@@ -1,43 +1,96 @@
-📚 Daily Writer's Scout — Wednesday, 12 August 2026
+📚 Daily Writer's Scout — Thursday, 13 August 2026
 
-1. Libro.fm is adding e-books, bookshops first
+1. 🤖 A Big Five chief warns an AI-assisted book might count as public domain
 
-Libro.fm — the audiobook shop that shares its sales with local bookstores — said on 11 August that it will start selling e-books, rolling out to independent bookshops first to refine the service before a wider consumer launch in 2027. A feature called LibroSync will let a reader move between the audiobook and the e-book of the same title. ALLi's summary is straight about the limit: the announcement is reader- and bookshop-facing, and it does not yet say how indie authors will be able to get their e-books in.
+HarperCollins CEO Brian Murray, talking on 6 August around the company's
+fiscal 2026 results, called the AI-authorship position "very murky" and
+said an AI-assisted book "could very well be treated as a book in the
+public domain" — a copyright question with real money attached to it. He
+dismissed AI-detection software as the answer and argued that agents,
+authors and publishers should instead settle on shared best practices,
+with authors possibly keeping records of how a book was written and
+disclosing AI use up front. It lands days after the cancelled seven-figure
+deals over AI suspicion.
 
-🔗 https://selfpublishingadvice.org/libro-fm-plans-e-book-launch/
+🔗 https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101002-brian-murray-calls-for-industrywide-solutions-to-issues-around-ai-authorship.html
 
-💬 If a bookshop-first e-book store opened to indies tomorrow, would you list your books there — and what royalty would make the extra admin worth it?
-
-
-2. A debut earned $12,942 in ten weeks with no Kindle Unlimited
-
-Ashli O'Connell published a full accounting on Jane Friedman's site on 11 August: her debut historical novel took $12,942.76 across 2,537 units in its first ten weeks — 1,786 on Amazon, 583 through Draft2Digital, 145 via IngramSpark and 23 sold locally. She stayed out of Kindle Unlimited on purpose so she could price alongside traditionally published books, spent $4,404 on an editor, a designer and a proofreader, and tested her positioning with $5-a-day ads six months before launch. Her own verdict is the part worth arguing with: the slow platform-building mattered less than reader word of mouth.
-
-🔗 https://janefriedman.com/how-a-debut-self-published-novel-earned-five-figures-in-10-weeks-without-kindle-unlimited/
-
-💬 She spent roughly $5,450 before launch and made it back about twice over in ten weeks. What did you spend on your first book, and would you spend it the same way again?
-
-
-3. 🤖 A $2m debut deal was cancelled over suspected AI assistance
-
-Jane Friedman reported on 5 August that a debut author's book deal, worth more than $2m, was cancelled after his agents came to believe the manuscript was substantially AI-assisted. In the comments below the piece she adds something starker than the headline: agents are telling her they suspect around half of the submissions they now receive are heavily AI-assisted, and that few authors disclose it. The reasoning behind the headline's "end of an era" line from Hugh Howey sits behind the paywall, so read that framing as the article's rather than a quote we can put in front of you.
-
-🔗 https://janefriedman.com/seven-figure-book-deal-canceled-hugh-howey-says-its-the-end-of-an-era/
-
-💬 If half of all submissions really are heavily AI-assisted and almost nobody is declaring it, what would a disclosure rule you would be happy to sign actually say?
+💬 If a retailer or publisher asked you to show how your book was written, could you? What could you actually produce today?
 
 
-4. What a cover designer wishes you would send first
+2. 🤖 Spotify will badge AI artist personas — and cut them out of recommendations
 
-The Self-Publishing with Dale newsletter gave a working designer the floor on 5 August, and his advice is mostly unglamorous: send the trim size and the print platform up front so the specs can be checked, and be specific, because vague direction is the commonest reason a first pass misses. On AI he is matter-of-fact — he uses it for colour combinations and rough layout options to compare, and will work entirely without generative AI for authors who ask, using research, a mood board and sketches instead.
+Spotify said on 11 August that from mid-September an "AI Persona" badge
+will appear on profiles whose artist identity is AI-generated, and that
+those profiles will be left out of editorial, algorithmic and personalised
+recommendations by default. It will not rely on self-disclosure alone: it
+says it will also review profiles whose name and imagery look like a
+photorealistic AI-generated identity. Spotify sells audiobooks as well as
+music, so this is a large retailer deciding that an undisclosed AI
+identity costs you discovery — the practical penalty, not just a label.
 
-🔗 https://selfpub.substack.com/p/what-authors-should-know-before-hiring
+🔗 https://newsroom.spotify.com/2026-08-11/ai-persona-badges-transparency/
 
-💬 When you last hired a cover designer, what one piece of information did you forget to send that cost you a round of revisions?
+💬 If your book retailer added a visible AI label tomorrow, what should it
+actually label — the writing, the narration, the cover art, or the author
+identity?
 
+
+3. Why your book description falls flat, and how to fix it
+
+A guest piece on Jane Friedman's site, published 12 August by Morgan Lee
+Clasper, takes apart the blurb problem most of us have: a description that
+lists facts about a character instead of building a feeling. The advice is
+concrete — open on emotion rather than a CV line ("Former Special Agent
+Mark Dyers swore he'd never carry a gun again" instead of listing his
+service record), cut world-building that needs explaining, put internal
+and external conflict side by side, and let each sentence push the next
+with "but", "when" and "after" so the copy gathers pace toward a closing
+question.
+
+🔗 https://janefriedman.com/why-your-book-description-feels-flat-and-how-to-fix-it/
+
+💬 Post the first line of your book description. What feeling is it
+reaching for, and does it get there?
+
+
+4. Joanna Penn on going indie, innovation, and the grind of book marketing
+
+The Creative Penn posted a new episode with John Bond on 12 August, on
+going indie, where publishing innovation is actually coming from, and why
+book marketing stays stubbornly hard. Flagging it rather than reviewing
+it: the YouTube feeds refused this workspace today, so this came from the
+channel page, which gives titles and timings but no description.
+
+🔗 https://www.youtube.com/watch?v=b4f0Zge-FOE
+
+💬 Of everything you have tried to sell books, what actually moved the
+needle — and what did you quietly stop doing?
+
+
+Scout notes
+
+Four items today rather than the usual five to ten. The sweep ran in full;
+the freshness gate and the 45-day ledger simply left these four standing,
+because this week's bigger stories — the Libro.fm e-book launch, the indie
+manga alliance, the cancelled seven-figure deals — have already run here.
+
+🤖 AI lane: two items today.
+
+YouTube lane: the RSS feeds returned 404 for all six curated channels, so
+the lane ran on the channel-page fallback. Dates on that route are
+relative, so the 12 August above is derived from a "22 hours ago" stamp
+read this morning, not a date printed by YouTube; descriptions are not
+available that way, which is why item 4 is a pointer. Five channels read
+cleanly; the ALLi channel returned no readable entries today.
+
+Screen lane: nothing in gate. The one candidate — a Deadline piece on WGA
+West employment figures — is closed to automated readers and its
+publication date could not be pinned, and the guild report behind it was
+released last month.
+
+Community lane: Reddit refused automated reads today, so no discussion
+thread this morning. Writer Beware's blog also returned a 403.
 
 —
-Scout notes: four items today rather than five or more. The seven-day freshness gate and the 45-day ledger left this many standing, and a short honest edition beats a padded one. The YouTube lane ran on the channel-page fallback because the RSS feeds returned 404 for all six curated channels; five of the six had a video inside seven days, but four had already been featured here and the fifth was off-topic, so that lane yields nothing new today. Reddit was unreachable this run — both the JSON endpoint and the page fetch were refused — so the community lane is missing rather than quiet. Publishing Perspectives and the Kindlepreneur blog returned empty bodies. Screen lane: nothing screen-specific inside seven days, the WGA's Paramount-Warner Bros. Discovery suit being 14 July and out of gate.
-
 Curated daily for this community. Spotted something worth sharing?
 Post it below.
