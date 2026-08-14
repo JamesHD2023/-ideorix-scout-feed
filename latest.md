@@ -1,96 +1,51 @@
-📚 Daily Writer's Scout — Thursday, 13 August 2026
+📚 Daily Writer's Scout — Friday, 14 August 2026
 
-1. 🤖 A Big Five chief warns an AI-assisted book might count as public domain
+1. Scam alert: pirated copies of indie books are being sold on Google Play under fake author names
 
-HarperCollins CEO Brian Murray, talking on 6 August around the company's
-fiscal 2026 results, called the AI-authorship position "very murky" and
-said an AI-assisted book "could very well be treated as a book in the
-public domain" — a copyright question with real money attached to it. He
-dismissed AI-detection software as the answer and argued that agents,
-authors and publishers should instead settle on shared best practices,
-with authors possibly keeping records of how a book was written and
-disclosing AI use up front. It lands days after the cancelled seven-figure
-deals over AI suspicion.
+ALLi's Spammers and Scammers column, published 11 August, reports authors finding their books scraped and resold on Google Play Books under false names — with Google slow to act on takedowns. The practical defence: set Google Alerts for your titles, claim your own listings on Play Books so imposters can't fill the gap, and file a formal DMCA notice listing every infringing URL with proof of ownership. No response in six weeks? Refile, and keep records of everything.
 
-🔗 https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101002-brian-murray-calls-for-industrywide-solutions-to-issues-around-ai-authorship.html
+🔗 https://selfpublishingadvice.org/spammers-and-scammers-what-to-do-when-your-book-is-sold-under-a-false-name/
 
-💬 If a retailer or publisher asked you to show how your book was written, could you? What could you actually produce today?
+💬 Have you ever searched a retailer for your own book and found a copy you didn't publish? What happened, and did the takedown work?
 
 
-2. 🤖 Spotify will badge AI artist personas — and cut them out of recommendations
+2. 🤖 The Self Publishing Show crosses "the AI boundary" — watermarking and detection
 
-Spotify said on 11 August that from mid-September an "AI Persona" badge
-will appear on profiles whose artist identity is AI-generated, and that
-those profiles will be left out of editorial, algorithmic and personalised
-recommendations by default. It will not rely on self-disclosure alone: it
-says it will also review profiles whose name and imagery look like a
-photorealistic AI-generated identity. Spotify sells audiobooks as well as
-music, so this is a large retailer deciding that an undisclosed AI
-identity costs you discovery — the practical penalty, not just a label.
+Episode 460 of The Self Publishing Show, published 13 August, has James Blatch (checking in from New Zealand) and Cissy Mecca tackling what the show calls the increasingly complicated relationship between authors and AI — the episode notes lead with AI watermarking and detection. Pointer only: that's what the show's own notes say, and it's the AI question of the moment for anyone publishing on platforms that are starting to scan.
 
-🔗 https://newsroom.spotify.com/2026-08-11/ai-persona-badges-transparency/
+🔗 https://www.youtube.com/watch?v=hIWfRYcYx-A
 
-💬 If your book retailer added a visible AI label tomorrow, what should it
-actually label — the writing, the narration, the cover art, or the author
-identity?
+💬 If retailers started watermark-scanning manuscripts tomorrow, would it change how you use AI in your process — or how you'd prove your words are your own?
 
 
-3. Why your book description falls flat, and how to fix it
+3. 🤖 Europe's new AI rules are reaching authors worldwide — Dale's news round-up
 
-A guest piece on Jane Friedman's site, published 12 August by Morgan Lee
-Clasper, takes apart the blurb problem most of us have: a description that
-lists facts about a character instead of building a feeling. The advice is
-concrete — open on emotion rather than a CV line ("Former Special Agent
-Mark Dyers swore he'd never carry a gun again" instead of listing his
-service record), cut world-building that needs explaining, put internal
-and external conflict side by side, and let each sentence push the next
-with "but", "when" and "after" so the copy gathers pace toward a closing
-question.
+Self-Publishing with Dale's weekly news episode, dated 13 August, leads on Europe's new AI rules reaching authors well beyond Europe. Context from this week's coverage: the EU AI Act's main obligations, including its transparency rules, took effect on 2 August — and if you sell into the EU, the ripples are heading your way. Title-and-date pointer only: the channel's feed refused automated readers today, so we couldn't read the episode notes.
 
-🔗 https://janefriedman.com/why-your-book-description-feels-flat-and-how-to-fix-it/
+🔗 https://www.youtube.com/watch?v=I7hskWGurDU
 
-💬 Post the first line of your book description. What feeling is it
-reaching for, and does it get there?
+💬 Do you sell into the EU? Has any platform or store asked you for an AI disclosure yet — and would you know what to write if one did?
 
 
-4. Joanna Penn on going indie, innovation, and the grind of book marketing
+4. Beta readers work best as readers, not critics
 
-The Creative Penn posted a new episode with John Bond on 12 August, on
-going indie, where publishing innovation is actually coming from, and why
-book marketing stays stubbornly hard. Flagging it rather than reviewing
-it: the YouTube feeds refused this workspace today, so this came from the
-channel page, which gives titles and timings but no description.
+ALLi's podcast, published 12 August, pairs Howard Lovy with novelist Elizabeth Gauffreau on what beta readers are actually for: reader response, not critique. Ask where they were gripped, bored or confused — not how they'd rewrite it (that's a developmental editor's job) — and set expectations clearly before the manuscript ever goes out.
 
-🔗 https://www.youtube.com/watch?v=b4f0Zge-FOE
+🔗 https://selfpublishingadvice.org/podcast-beta-readers/
 
-💬 Of everything you have tried to sell books, what actually moved the
-needle — and what did you quietly stop doing?
+💬 What's the single best question you've ever asked a beta reader — the one that got you an answer you actually used?
 
 
-Scout notes
+5. 🎬 Free TV writers' support-staff training is open for applications — until 13 September
 
-Four items today rather than the usual five to ten. The sweep ran in full;
-the freshness gate and the 45-day ledger simply left these four standing,
-because this week's bigger stories — the Libro.fm e-book launch, the indie
-manga alliance, the cancelled seven-figure deals — have already run here.
+The Writers Guild Foundation's Writers' Access Support Staff Training Program opened applications on Thursday 13 August, closing 13 September. It's a free three-month online course (Thursday evenings, optional LA networking) preparing writers from under-represented groups — BIPOC, LGBTQ+, disabled, and writers over 50 encouraged — for writers' assistant and script coordinator roles in US television. No professional credits required; US work authorisation is.
 
-🤖 AI lane: two items today.
+🔗 https://www.wgfoundation.org/programs/writers-access-support-staff-training-program/apply
 
-YouTube lane: the RSS feeds returned 404 for all six curated channels, so
-the lane ran on the channel-page fallback. Dates on that route are
-relative, so the 12 August above is derived from a "22 hours ago" stamp
-read this morning, not a date printed by YouTube; descriptions are not
-available that way, which is why item 4 is a pointer. Five channels read
-cleanly; the ALLi channel returned no readable entries today.
+💬 Would you take a support-staff seat in someone else's writers' room to learn the trade from the inside — or does that path feel like a detour from your own pages?
 
-Screen lane: nothing in gate. The one candidate — a Deadline piece on WGA
-West employment figures — is closed to automated readers and its
-publication date could not be pinned, and the guild report behind it was
-released last month.
-
-Community lane: Reddit refused automated reads today, so no discussion
-thread this morning. Writer Beware's blog also returned a 403.
 
 —
-Curated daily for this community. Spotted something worth sharing?
-Post it below.
+Curated daily for this community. Spotted something worth sharing? Post it below.
+
+Scout notes: five items today — an honest thin-ish Friday once the freshness gate and this week's editions had done their work. The Dale item ran on YouTube's channel-page fallback (the RSS feed refused automated readers for that channel), so it's a title-and-date pointer with no episode notes read. Reddit blocks automated readers from this workspace and search surfaced nothing datable, so the community lane is quiet today. Trade press carried nothing this week that touches indie authors directly.
