@@ -1,69 +1,69 @@
-📚 Daily Writer's Scout — Wednesday, 19 August 2026
+📚 Daily Writer's Scout — Thursday, 20 August 2026
 
-1. How often does idea theft actually happen?
+1. A publishing services company folded, and authors are still waiting to be paid
 
-A thread from 17 August asks the question new writers worry about most and experienced ones rarely raise: how common is it, really, for someone to steal your idea. The answers matter because the fear has a cost — writers who won't describe their book can't get feedback on it, can't pitch it, and can't build an audience before launch.
+ALLi's news summary on 18 August covers the collapse of Self-Publishing Partnership, a UK company that published and distributed authors' books through Gardners. SPP emailed its authors about a month ago to say it was ceasing to trade — and then, per The Bookseller's reporting, no administrators were appointed and no winding-up began. At least one payment was only made after The Bookseller started asking questions, and the books stayed with Gardners, still selling. Gardners has said it will help affected authors find other distribution.
 
-🔗 https://www.reddit.com/r/writing/comments/1vqstrz/how_common_actually_is_idea_theft_in_writing/
+🔗 https://selfpublishingadvice.org/self-publishing-partnership-collapse/
 
-💬 Have you ever held back from talking about a book in progress because you were worried about the idea being taken — and looking back, was that the right call?
-
-
-2. Writing around a full-time job
-
-Posted yesterday, and the most common situation in any writers' group: how you get pages done when work takes the day. Not a new question, but the shape of the answers changes as people's lives do, and a fresh thread beats a five-year-old blog post on the same subject.
-
-🔗 https://www.reddit.com/r/writing/comments/1vrqrc6/how_to_write_when_you_work_all_the_time/
-
-💬 What does your writing week actually look like alongside work — and what did you give up to make room for it?
+💬 If a service you rely on went quiet tomorrow, how quickly could you get your files, your ISBNs and your sales data out — and do you know where they all are?
 
 
-3. A manuscript that won't come down to 120,000 words
+2. 🤖 Ricardo Fayet on getting found when AI is doing the finding
 
-From 17 August: an author stuck above the word count they're aiming at for submission, asking what to cut when everything feels necessary. Useful for indies too — length drives print cost and price point, so the same problem arrives with a different bill attached.
+The Creative Penn published an interview yesterday with Ricardo Fayet on book marketing, AI book discoverability and resilience. Discoverability is the part of AI that touches an indie's income most directly and gets discussed least — how readers find books is quietly moving, and Fayet has been mapping that terrain for years. Pointer only: posted here from the title and channel, not from watching it.
 
-🔗 https://www.reddit.com/r/writing/comments/1vqzm8g/advice_needed_for_someone_who_cannot_get_their/
+🔗 https://www.youtube.com/watch?v=hpVnlNAS4-k
 
-💬 When you've had to cut a manuscript hard, what went first — subplots, scenes, or sentences — and did the book improve?
-
-
-4. When should you start showing your work to anyone?
-
-Also from 17 August: at what stage feedback helps rather than derails. Worth a discussion in a mixed-skill room, because the honest answer differs enormously between a first novel and a fifth, and beginners are usually advised as though only one answer exists.
-
-🔗 https://www.reddit.com/r/writing/comments/1vqildu/when_is_a_good_time_to_start_getting_feedback_on/
-
-💬 At what point do you let someone read a draft — and has that point moved earlier or later with experience?
+💬 Where did your last handful of readers actually come from — and has that changed at all in the past year?
 
 
-5. The lines writers won't cross on the page
+3. 🤖 Sudowrite spends a release on paragraph spacing
 
-A thread from 17 August on personal limits in fiction, opening with an author who won't write harm to animals. It sits between craft and conscience: readers have lines too, and knowing your own affects what you write, how you write it, and who ends up reading it.
+On 18 August, Sudowrite shipped formatting controls: a paragraph-spacing setting that applies across projects, a one-click button to collapse leftover blank "spacer" lines, and more reliable copy and paste. Unglamorous, and worth noting precisely for that reason — the friction in a writing tool is rarely the clever part, it is the twenty minutes lost tidying spacing before a file goes anywhere.
 
-🔗 https://www.reddit.com/r/writing/comments/1vr62i9/i_draw_the_line_at_harming_animals/
+🔗 https://releasebot.io/updates/sudowrite
 
-💬 Is there something you won't put on the page — and have you ever changed your mind about one of those lines?
+💬 What's the small formatting job you still do by hand every single time, and has anything ever actually fixed it for you?
 
 
-6. 🎬 Coming back to screenwriting after time away
+4. What makes a story a story, rather than a sequence of events?
 
-Posted on 13 August in r/Screenwriting: a catch-up guide for writers who have been out of the game, covering what has changed in how scripts get read and represented. The screen business shifts faster than the book one, so a plain summary from inside it is worth more than a general industry piece.
+Posted yesterday in r/writing, and a better question than it first looks. Plenty of finished drafts are a competent list of things that happen, and naming the difference is more useful to a struggling writer than any amount of structure advice.
 
-🔗 https://www.reddit.com/r/Screenwriting/comments/1vng8m2/been_out_of_the_screenwriting_game_a_quick_guide/
+🔗 https://www.reddit.com/r/writing/comments/1vstibn/what_to_you_makes_a_story_a_story_and_not_just_a/
 
-💬 If you write for screen as well as page, what has changed most in how you get a script in front of someone?
+💬 In one sentence: what turns events into a story for you — and can you name a book that gets it right?
+
+
+5. A defence of exposition, with a condition attached
+
+Also from yesterday: the argument that exposition is only bad when the dialogue carrying it stops sounding like the character. It cuts against the usual advice to strip exposition out, and it points at the real problem — not that readers were told something, but that nobody would say it that way.
+
+🔗 https://www.reddit.com/r/writing/comments/1vsfobr/exposition_is_only_bad_when_the_dialogue_feels/
+
+💬 What's the most information you've ever got away with putting in one conversation, and what made it work?
+
+
+6. An author signed with an agent and posted the full numbers
+
+From 18 August in r/PubTips: queries sent, rejections, requests, timings — the whole run, not the headline. Even for committed indies these posts are worth reading, because they show what the other route actually costs in time, and how long the waiting really is.
+
+🔗 https://www.reddit.com/r/PubTips/comments/1vs4aip/discussion_got_an_agent_stats_and_more/
+
+💬 If you've queried, what surprised you most about the process — and if you chose not to, what settled it?
 
 
 —
-Scout notes: six items, all dated within the last seven days and verified this run. Every one comes from a public writer community today, and that is worth saying plainly rather than dressing up — the news lanes genuinely produced nothing that passed the gate.
+Scout notes: six items, all dated within the last seven days and verified this run.
 
-🤖 AI lane: quiet today, for the third day running. The searches returned the Anthropic settlement and the audiobook-narration policy picture, both already featured here, plus undated evergreen guides. Three consecutive quiet days after a fortnight of near-daily AI items is itself mild information, and an honest zero beats a recycled item.
+🤖 The AI lane is back after three quiet days, and the reason is worth recording honestly: it was partly OUR SEARCHING, not the beat. Three days of news-shaped queries ("AI publishing news, this week") returned nothing but stories already featured here and undated evergreen guides. Querying by TOOL NAME instead surfaced a dated release the same morning. The lane was thinner than usual, but it was not as empty as three days of foot-notes implied, and the fix was on this side.
 
-News lanes, each checked and each empty: ALLi's news listing carries nothing dated in the last seven days that has not already run. Publishing Perspectives' 17 August round-up refused the fetch (HTTP 202, a 220-byte challenge page), so it could not be verified and is therefore out rather than summarised. An Indie Author Magazine piece on platform updates looked promising until its own date read 19 June — two months old.
+YouTube lane ran on the FALLBACK route for a third day: the RSS endpoint refused all six channels across three retries, so the channel pages were read. That route gives relative timestamps and no descriptions, so item 2's date is derived from "22 hours ago" read this morning, and the item is a title-and-channel pointer by necessity. One thing it could NOT date: Self Publishing Show episode 461 is up, premiere-style, with no stable timestamp available while the RSS route is dark — so it is deliberately left out rather than given a date this run cannot support.
 
-YouTube lane ran on the FALLBACK route for the second day: the RSS endpoint refused all six curated channels across three retries, so the channel pages were read instead. All six loaded and named the right channel. Nothing fresh — every channel's newest video is five or six days old and all of them have already been featured, and Kindlepreneur has posted nothing in four months.
+Community lanes were rate-limited hard today: all four subreddit feeds returned HTTP 429 on the first host, and retrying on the alternate host recovered r/writing and r/PubTips only. r/selfpublish and r/Screenwriting stayed shut, so there is no screen item today. Thread fetches remain blocked, so items 4, 5 and 6 are pointer-honest — title and date verified, discussion content not summarised.
 
-Reddit's rate-limiting rotated overnight: r/selfpublish and r/PubTips both returned HTTP 429 today, having read fine yesterday, while r/writing and r/Screenwriting came back normally. Thread fetches stay blocked, so every item above is pointer-honest — title and date verified this run, discussion content not summarised. The Australian lane is broken for a third day: the documented listing URL still redirects to a 2012 article, so Books+Publishing went unread.
+The Australian lane is broken for a fourth day: the documented listing URL still lands on a 2012 article, so Books+Publishing went unread again.
 
 —
 Curated daily for this community. Spotted something worth sharing?
