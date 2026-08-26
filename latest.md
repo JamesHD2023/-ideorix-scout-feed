@@ -1,85 +1,87 @@
-📚 Daily Writer's Scout — Tuesday, 25 August 2026
+📚 Daily Writer's Scout — Wednesday, 26 August 2026
 
-1. 🤖 Can AI replace your editor? Two people who use it daily say no
+1. "I went from being a writer to someone who only talks about writing"
 
-ALLi put the question to its own team on Sunday, and Michael La Ronn's answer is worth quoting because he is not an AI sceptic: "AI cannot replace an editor. I've used AI a lot... These are not substitutes for human editors at this point." What he and Sacha Black do endorse is narrower and more useful — using tools to hand a cleaner manuscript to the professional you hire, and catching the last errors before you publish. Their other point lands harder for anyone counting pennies: not every book needs the two-thousand-dollar line edit, and beta readers, author swaps and subscription editing are real options rather than consolation prizes.
+A writer posted yesterday about five finished books and no publishing deal, and about what happened when the belief finally went. They started writing in order to be published — they say so plainly — and enjoyed the books anyway, but the wanting chipped away at the enjoying, and once they stopped expecting the call they discovered they had no process underneath it. Their phrase for what they had been running on is the one that will stay with you: pure ego and faith. An unusually honest post about what carries you when the outcome stops being the reason.
 
-🔗 https://selfpublishingadvice.org/podcast-can-ai-replace-your-editor/
+🔗 https://old.reddit.com/r/writing/comments/1vyev4q/i_went_from_being_a_writer_to_someone_who_only/
 
-💬 Where's the line for you — what will you let a tool touch in your manuscript, and what stays human only?
-
-
-2. Is it fair that Amazon puts a rival's book under your own listing?
-
-An author asked yesterday in r/selfpublish whether it is right that a sponsored competing title, with more reviews and a similar subject, appears directly beneath their book description. Their argument is that a reader reaching the end of your blurb is handed a more "proven" alternative at exactly the moment of decision, and that this weighs hardest on authors who have not built up social proof yet. The thread is a good one because the answer is not obvious — it is how the store has always worked, and it is also a real tax on being new.
-
-🔗 https://old.reddit.com/r/selfpublish/comments/1vwyvuw/is_this_ethical_kdp_puts_a_better_reviewed_book/
-
-💬 Do you buy ads on your own book's page to hold that slot — and if you do, does it pay for itself?
+💬 What keeps you at the desk on the days when nothing is riding on it — and has that answer changed over the years?
 
 
-3. When sales fall off a cliff after years of steady work
+2. Seven weeks for a cover, and still not finished
 
-A thriller and science-fiction author posted yesterday that both sales and reviews have dropped sharply over the last four to six months after a long stretch of modest, reliable success on KDP Select. Their response is diversification rather than despair: staying in Select for ebooks while adding IngramSpark for print into channels Amazon does not reach, ISBNs and paperwork included. Whether or not the cause is ever identified, the plan is the interesting part.
+An author posted yesterday asking whether their experience with the cover service miblART is normal: engaged on 9 July, a first image two weeks later that disappointed, then a fortnight of silence, then an artist off sick, then a revision that still needed work, then another fortnight and an artist on holiday. They are not alleging anything worse than delay and are genuinely asking whether to stay or walk. The useful question underneath is one worth settling before you pay anyone: what does the contract say about turnaround and revision rounds?
 
-🔗 https://old.reddit.com/r/selfpublish/comments/1vx6mj2/sales_fell_off_a_cliff/
+🔗 https://old.reddit.com/r/selfpublish/comments/1vxndi3/anyone_else_using_miblart_for_book_covers_any/
 
-💬 Have your numbers shifted this year — and did you change anything, or wait it out?
-
-
-4. A former designer's verdict on formatting your own print book for nothing
-
-Also from yesterday: an author two weeks from launch, who spent a career in graphic and UX design, went looking for an InDesign replacement after dropping their Adobe subscription and reports that the current Affinity handled the whole print edition — master pages, paragraph styles, running headers, automatic page numbering and a print-ready PDF. The part worth knowing is that Affinity has been free since Canva relaunched it, so this is a professional page-layout route with no subscription attached.
-
-🔗 https://old.reddit.com/r/selfpublish/comments/1vwzgdw/affinity_is_a_great_tool_for_formatting_a_print/
-
-💬 What do you format in — and if you pay for it, what does it give you that a free tool doesn't?
+💬 What turnaround did your cover designer actually deliver against what they promised — and did you agree revision rounds up front?
 
 
-5. Two weeks out, no plan beyond ads
+3. The first review, and the numbers behind it
 
-An author posted yesterday that marketing has always been their weak point: their first novel launches in a fortnight, the strategy is "buy Amazon ads", and they know something is missing. They are asking small authors what actually worked. It is the most honest version of the question this room gets asked, and the replies are more useful for it.
+The counterweight, also from yesterday: an author whose debut launches on 1 September got their first Goodreads review from an ARC and posted the whole picture rather than just the good bit. Months of giving away ARCs, advertising on Facebook and TikTok, a free EPUB on their own site — which has produced 16 downloads since last week — and 43 followers so far. Their own summary of what they have learned is blunt: getting people to review your book is difficult, and free books will always go faster than reviews come back.
 
-🔗 https://old.reddit.com/r/selfpublish/comments/1vx1e3i/you_are_going_to_selfpublish_your_first_novel/
+🔗 https://old.reddit.com/r/selfpublish/comments/1vyc3ia/i_got_my_first_review/
 
-💬 If you were launching again next month with no list and no budget, what is the first thing you would do?
-
-
-6. 246 impressions, 40 clicks, zero readers
-
-An author asked yesterday what to make of six days on BookSirens: the book has been seen, it has been clicked, and not one reader has picked it up. They have been through two developmental passes, three proofreading and line passes, beta readers and their own ARC team, and they are trying to work out whether to wait it out or read the numbers as a verdict. A useful thread for anyone about to spend money on an ARC service.
-
-🔗 https://old.reddit.com/r/selfpublish/comments/1vxauk2/no_arc_readers_on_booksirens_after_6_days/
-
-💬 What ARC route has actually produced reviews for you — a service, a newsletter, or your own readers?
+💬 How many ARC copies did you give away to get your first ten honest reviews?
 
 
-7. Why do badly written books get published while good ones get turned down?
+4. When you can see four books but not the next chapter
 
-A writer posted yesterday about the historical novel that made them start writing in the first place — badly enough, in their view, to read like a published first draft, with flat characters and motivations that made no sense, on a subject that deserved better. The question underneath is the one every rejected writer circles: what is actually being bought, if not the quality of the prose. It is a proper argument, and the thread does not settle it.
+A writer returning to fiction after university described a specific and very common problem yesterday: the big picture arrives whole, spanning three or four books, and then the actual plot in front of them refuses to cohere. They are asking for the exercises, blogs and videos that helped others build the missing muscle. Worth reading for the range of answers, because plot is the one craft area where people genuinely work in incompatible ways.
 
-🔗 https://old.reddit.com/r/writing/comments/1vwwdq9/why_do_some_terribly_written_stories_get/
+🔗 https://old.reddit.com/r/writing/comments/1vy1iwk/tips_and_resources_for_people_who_struggle_with/
 
-💬 What published book convinced you that you could do this — and did you ever go back and reread it?
+💬 What actually taught you to plot — a book, a method, or simply finishing something bad first?
 
 
-8. 🎬 Software you bought outright, now stamping watermarks on your pages
+5. Fantasy that isn't castles and heraldry
 
-A screenwriter posted this morning that Highland 2, bought years ago as a paid licence, has started watermarking the PDFs it prints — and asked, reasonably, how it changed on their own machine. The most useful reply comes from someone it happened to as well: an update appears to have reverted the licence, and there is a Restore Purchase button in the bottom right of the update screen, grey and easy to miss. Check your own before you send a script anywhere.
+Also yesterday: a reader-writer asked why so much of the genre still runs on European folklore — stone castles, nobles and peasants, coats of arms — and asked for high fantasy built on other traditions instead. They are careful to say they do not know enough to write it themselves, which is the honest position and makes the recommendations in the thread more useful. A good one for a room full of people deciding what their next book will be.
 
-🔗 https://old.reddit.com/r/Screenwriting/comments/1vxonr8/highland_2_watermarked_now/
+🔗 https://old.reddit.com/r/writing/comments/1vyfxah/are_there_any_good_fantasy_novels_based_on_things/
 
-💬 Has an update ever changed software you had already paid for — and did you get it back?
+💬 What's the best fantasy you've read that owed nothing to medieval Europe — and what did it do differently?
+
+
+6. Writing fan fiction of your own novel
+
+A historical novelist admitted yesterday to writing short pieces set in their own book that nobody will ever see: indulgent scenes, slice-of-life offcuts, experiments in writing the way chroniclers wrote centuries ago. Their argument for it is practical rather than sentimental — it is enormous fun, and it keeps the strange material out of the actual manuscript. A pressure valve worth knowing about if your drafts keep sprouting things that do not belong.
+
+🔗 https://old.reddit.com/r/writing/comments/1vxy5ys/does_anybody_write_fan_fiction_to_their_own_books/
+
+💬 Do you write things set in your world that will never be published — and does it help the book, or just help you?
+
+
+7. A pen name, and the followers you already have
+
+A writer preparing to query in 2027 asked yesterday whether there is any way to carry a few hundred existing followers from their real-name accounts across to a pen-name presence without breaking the anonymity that is the point of the pen name. It is a question indies hit just as hard as querying writers, and often later than they should — the pen name is easy, the audience attached to your actual face is not portable.
+
+🔗 https://old.reddit.com/r/PubTips/comments/1vy0sk3/pubq_pen_names_and_social_media/
+
+💬 If you write under a pen name, how separate did you keep it — and would you do it the same way again?
+
+
+8. 🎬 A $500 option, a genre change, and a co-writer you did not ask for
+
+A screenwriter posted yesterday with the terms a producer has put in front of them: $500 to option the script for two years, a minimum $3,750 purchase price against a budget of at least $125,000, and — new in this round — the producer joining as co-writer, because Canadian funding requires the IP not to be exclusively non-Canadian. The script is also being moved to a different genre. Against that: a shoot this winter and a film in the market in 2027. They are asking whether the original could still be sold elsewhere afterwards. Instructive whatever you write, because this is what real option paper looks like at the small end.
+
+🔗 https://old.reddit.com/r/Screenwriting/comments/1vy7czn/update_on_option_and_purchase_price/
+
+💬 Would you take that deal for the credit and the momentum, or hold the rights and wait?
 
 
 —
-Scout notes: eight items, dated 23 to 25 August, all verified this run. The spread is wider than usual because Monday's edition did not run — the sweep and the send failed to fire — so today's picks up Monday's news as well as this morning's. Nothing here is older than the seven-day gate.
+Scout notes: eight items, all from the last two days, all verified this run. A community day rather than a news day — the sweep found no platform or industry announcement inside the gate, so nothing has been stretched to look like one.
 
-🤖 AI lane: today's lead. Both query shapes were also run for the tools strand and returned nothing dated inside the window.
+🤖 AI lane: quiet today. Both required query shapes were run — tool-named (Sudowrite, NovelCrafter, ProWritingAid, Atticus, Vellum, Scrivener release notes for 25 and 26 August) and news-shaped (AI disclosure, retailer policy and copyright rulings for this week). The only dated tool item remains Sudowrite's 18 August editor update, carried here on the 20th, and the strongest AI story the search surfaced was a 7 August piece on publishers turning away from generative AI, which is nineteen days old and therefore out.
 
-YouTube lane: swept in full. The RSS feeds were flaky rather than dead this morning — five of the six curated channels refused across four attempts each while Heart Breathings answered normally — so the five were read through the channel-page route instead and every video inside the window had already been featured here. The one genuinely new video was a short on morning writing routines, judged too thin to carry rather than padded in.
+YouTube lane: nothing fresh today. The feeds were flaky again — only one of six answered across four attempts each — so the other five were read through the channel-page route, and every video inside the seven-day window had already been featured here. Worth noting for the record that when a channel's feed refuses, its shorts become invisible, because the channel page lists long-form video only.
 
-Australian lane and the wider trade press were read and produced nothing that changes anything for an indie author this week. r/PubTips was reachable but carried only query critiques, which are not digest material. Items 2 to 8 are summarised from the posts themselves.
+Australian lane: read in full. The week's main story there is a distribution failure at Alliance Distribution Services following unauthorised activity on Hachette Australia's systems in late July, with backordered stock only now reaching booksellers. It is a serious trade story and it is left out on purpose — it does not change anything for a self-published author, and the fuller Books+Publishing coverage sits behind a subscription wall this run.
+
+All four community lanes read normally, though r/writing needed a retry. Every item is summarised from the post itself.
 
 —
 Curated daily for this community. Spotted something worth sharing?
