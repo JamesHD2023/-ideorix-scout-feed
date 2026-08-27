@@ -1,87 +1,85 @@
-📚 Daily Writer's Scout — Wednesday, 26 August 2026
+📚 Daily Writer's Scout — Thursday, 27 August 2026
 
-1. "I went from being a writer to someone who only talks about writing"
+1. What a BookBub featured deal actually did to one book's ranking, hour by hour
 
-A writer posted yesterday about five finished books and no publishing deal, and about what happened when the belief finally went. They started writing in order to be published — they say so plainly — and enjoyed the books anyway, but the wanting chipped away at the enjoying, and once they stopped expecting the call they discovered they had no process underneath it. Their phrase for what they had been running on is the one that will stay with you: pure ego and faith. An unusually honest post about what carries you when the outcome stops being the reason.
+An author posted a full timeline this morning after running their fourth BookBub featured deal on Sunday for a standalone time-travel debut, Amazon-exclusive. The detail worth the read is the LAG: 225 cumulative sales moved the rank from 380,325 to 274,890, another 131 sales moved it essentially nowhere — and then Amazon caught up all at once, dropping the book to 2,704 by Sunday evening and 687 by Monday morning, with number one in Alternative History and number two in Time Travel. By last night it had cooled to 2,505 on 902 cumulative sales. Their verdict: the burst paid for the deal, the page reads from here are profit, and they got their first international deal with only 18 ratings after early rejections.
 
-🔗 https://old.reddit.com/r/writing/comments/1vyev4q/i_went_from_being_a_writer_to_someone_who_only/
+🔗 https://old.reddit.com/r/selfpublish/comments/1vzi66o/impact_of_a_bookbub_featured_deal_on_amazon/
 
-💬 What keeps you at the desk on the days when nothing is riding on it — and has that answer changed over the years?
-
-
-2. Seven weeks for a cover, and still not finished
-
-An author posted yesterday asking whether their experience with the cover service miblART is normal: engaged on 9 July, a first image two weeks later that disappointed, then a fortnight of silence, then an artist off sick, then a revision that still needed work, then another fortnight and an artist on holiday. They are not alleging anything worse than delay and are genuinely asking whether to stay or walk. The useful question underneath is one worth settling before you pay anyone: what does the contract say about turnaround and revision rounds?
-
-🔗 https://old.reddit.com/r/selfpublish/comments/1vxndi3/anyone_else_using_miblart_for_book_covers_any/
-
-💬 What turnaround did your cover designer actually deliver against what they promised — and did you agree revision rounds up front?
+💬 If you've run a BookBub featured deal, did it pay for itself — and did the long tail or the spike matter more?
 
 
-3. The first review, and the numbers behind it
+2. One author's rough week with Atticus
 
-The counterweight, also from yesterday: an author whose debut launches on 1 September got their first Goodreads review from an ARC and posted the whole picture rather than just the good bit. Months of giving away ARCs, advertising on Facebook and TikTok, a free EPUB on their own site — which has produced 16 downloads since last week — and 43 followers so far. Their own summary of what they have learned is blunt: getting people to review your book is difficult, and free books will always go faster than reviews come back.
+A post this morning from someone who formatted two ebooks through KDP and made workable paperbacks out of Word, then bought Atticus for the third and says it has been worse: edits not saving, changes not applying, crashes that log them out, and Kindle Previewer and Calibre both unhappy with the output on simple formatting. They are asking, genuinely, whether this is everyone's experience or just theirs. One report is not a verdict on a tool a great many authors are happy with — but the thread is worth watching if you are about to buy it.
 
-🔗 https://old.reddit.com/r/selfpublish/comments/1vyc3ia/i_got_my_first_review/
+🔗 https://old.reddit.com/r/selfpublish/comments/1vziygy/is_atticus_always_this_bad/
 
-💬 How many ARC copies did you give away to get your first ten honest reviews?
-
-
-4. When you can see four books but not the next chapter
-
-A writer returning to fiction after university described a specific and very common problem yesterday: the big picture arrives whole, spanning three or four books, and then the actual plot in front of them refuses to cohere. They are asking for the exercises, blogs and videos that helped others build the missing muscle. Worth reading for the range of answers, because plot is the one craft area where people genuinely work in incompatible ways.
-
-🔗 https://old.reddit.com/r/writing/comments/1vy1iwk/tips_and_resources_for_people_who_struggle_with/
-
-💬 What actually taught you to plot — a book, a method, or simply finishing something bad first?
+💬 What do you format in, and did it earn back what you paid for it?
 
 
-5. Fantasy that isn't castles and heraldry
+3. If you go bankrupt, do your copyrights go too?
 
-Also yesterday: a reader-writer asked why so much of the genre still runs on European folklore — stone castles, nobles and peasants, coats of arms — and asked for high fantasy built on other traditions instead. They are careful to say they do not know enough to write it themselves, which is the honest position and makes the recommendations in the thread more useful. A good one for a room full of people deciding what their next book will be.
+An author asked yesterday what happens to their copyrights in bankruptcy, noting that the books are a side hobby making perhaps forty dollars in a good month and wondering whether that is too small to be worth seizing. It is an uncomfortable question and almost nobody thinks about it until they have to — a copyright is property, and property is what bankruptcy deals in. Rules differ by country and this is one to take to a professional rather than a forum, but the thread is a useful prompt to know where you stand.
 
-🔗 https://old.reddit.com/r/writing/comments/1vyfxah/are_there_any_good_fantasy_novels_based_on_things/
+🔗 https://old.reddit.com/r/selfpublish/comments/1vzas9h/if_i_declare_bankruotcy_will_i_lose_my_copyrights/
 
-💬 What's the best fantasy you've read that owed nothing to medieval Europe — and what did it do differently?
-
-
-6. Writing fan fiction of your own novel
-
-A historical novelist admitted yesterday to writing short pieces set in their own book that nobody will ever see: indulgent scenes, slice-of-life offcuts, experiments in writing the way chroniclers wrote centuries ago. Their argument for it is practical rather than sentimental — it is enormous fun, and it keeps the strange material out of the actual manuscript. A pressure valve worth knowing about if your drafts keep sprouting things that do not belong.
-
-🔗 https://old.reddit.com/r/writing/comments/1vxy5ys/does_anybody_write_fan_fiction_to_their_own_books/
-
-💬 Do you write things set in your world that will never be published — and does it help the book, or just help you?
+💬 Have you ever thought about your back catalogue as an asset — for tax, for a will, or for anything else?
 
 
-7. A pen name, and the followers you already have
+4. Print on demand, and the bookshop shelf
 
-A writer preparing to query in 2027 asked yesterday whether there is any way to carry a few hundred existing followers from their real-name accounts across to a pen-name presence without breaking the anonymity that is the point of the pen name. It is a question indies hit just as hard as querying writers, and often later than they should — the pen name is easy, the audience attached to your actual face is not portable.
+A first-time author asked this morning how POD and bookshops fit together: does the shop order from your printer, do you buy copies and carry them in yourself, or is a shelf simply not available to POD titles? A good beginner question with a genuinely layered answer involving discounts, returnability and which channel you print through — and one that is much cheaper to ask before you set your print options than after.
 
-🔗 https://old.reddit.com/r/PubTips/comments/1vy0sk3/pubq_pen_names_and_social_media/
+🔗 https://old.reddit.com/r/selfpublish/comments/1vzhg27/question_for_people_who_publish_pod_and_have/
 
-💬 If you write under a pen name, how separate did you keep it — and would you do it the same way again?
+💬 Have you got a POD title onto a physical shelf — and what did the shop actually need from you?
 
 
-8. 🎬 A $500 option, a genre change, and a co-writer you did not ask for
+5. Two colouring books, thirty copies, ten days
 
-A screenwriter posted yesterday with the terms a producer has put in front of them: $500 to option the script for two years, a minimum $3,750 purchase price against a budget of at least $125,000, and — new in this round — the producer joining as co-writer, because Canadian funding requires the IP not to be exclusively non-Canadian. The script is also being moved to a different genre. Against that: a shoot this winter and a film in the market in 2027. They are asking whether the original could still be sold elsewhere afterwards. Instructive whatever you write, because this is what real option paper looks like at the small end.
+Also this morning, and refreshingly small in scale: an author published two semi-local colouring books on 17 August and has sold thirty copies, fifteen of each, off the back of posting to friends and family, setting up a Facebook page and joining local groups. No ads, no funnel, no list. They are hoping to keep the momentum. It is a reminder that "local and specific" is a real strategy, not a consolation one.
 
-🔗 https://old.reddit.com/r/Screenwriting/comments/1vy7czn/update_on_option_and_purchase_price/
+🔗 https://old.reddit.com/r/selfpublish/comments/1vzi5v4/i_published_2_coloring_books_and_sold_30/
 
-💬 Would you take that deal for the credit and the momentum, or hold the rights and wait?
+💬 Has anything local ever outsold your online marketing — a shop, a group, a market stall, a school?
+
+
+6. Does a mystery need red herrings?
+
+A writer on the third draft of a mystery posted yesterday with a specific worry: they do not think the murderer is obvious, but there is also nobody else a reader could reasonably suspect. Their question is whether red herrings always make a mystery stronger, or whether it is a thing to leave to beta readers. The distinction the thread circles is a useful one for any genre — between hiding the answer and giving the reader something to be wrong about.
+
+🔗 https://old.reddit.com/r/writing/comments/1vz4dy4/does_a_mystery_need_red_herrings_to_be_completely/
+
+💬 In your genre, is the reader meant to be able to solve it — and what do you plant to make them guess wrong?
+
+
+7. 🎬 Who gets the credit when someone gave you the idea?
+
+A screenwriter laid out a real situation yesterday: they wrote the entire script for a holiday special built around a well-known entertainer, but the premise — a Christmas Carol variation with three different ghosts — came from the group's manager, who supplied that and little else. Now credits have to be assigned, and story by, written by and produced by are not interchangeable. The thread is a solid primer on how credit works when several people can each say they contributed something real.
+
+🔗 https://old.reddit.com/r/Screenwriting/comments/1vz2a7m/assigning_writing_credit_story_by_vs_written_by/
+
+💬 Have you ever had to negotiate credit on collaborative work — and did you settle it before or after the writing?
+
+
+8. Joanna Penn on drafting fast
+
+The Creative Penn published a new episode yesterday: "From Page One To Done: Fast Drafting Your Novel With Jessica Brody". Brody wrote Save the Cat! Writes a Novel and teaches a fast-drafting method; her book Page One to Done came out through Hay House in May. Pointer only — posted from the video's title and its verified publication, not from a listen.
+
+🔗 https://www.youtube.com/watch?v=5a-JErRKYwE
+
+💬 Do you draft fast and fix later, or slowly and carefully the first time — and has that changed across your books?
 
 
 —
-Scout notes: eight items, all from the last two days, all verified this run. A community day rather than a news day — the sweep found no platform or industry announcement inside the gate, so nothing has been stretched to look like one.
+Scout notes: eight items, all from yesterday and this morning, all verified this run.
 
-🤖 AI lane: quiet today. Both required query shapes were run — tool-named (Sudowrite, NovelCrafter, ProWritingAid, Atticus, Vellum, Scrivener release notes for 25 and 26 August) and news-shaped (AI disclosure, retailer policy and copyright rulings for this week). The only dated tool item remains Sudowrite's 18 August editor update, carried here on the 20th, and the strongest AI story the search surfaced was a 7 August piece on publishers turning away from generative AI, which is nineteen days old and therefore out.
+🤖 AI lane: quiet today. Both required query shapes were run — tool-named (Sudowrite, NovelCrafter, ProWritingAid, Atticus, Vellum, Scrivener release notes for the week of 24 August) and news-shaped (AI disclosure, publisher policy and copyright rulings for 26 and 27 August). Nothing dated inside the window that has not already run here; the searches returned only trackers, evergreen policy guides and the same Sudowrite editor update carried on the 20th.
 
-YouTube lane: nothing fresh today. The feeds were flaky again — only one of six answered across four attempts each — so the other five were read through the channel-page route, and every video inside the seven-day window had already been featured here. Worth noting for the record that when a channel's feed refuses, its shorts become invisible, because the channel page lists long-form video only.
+YouTube lane: the RSS feeds refused across the board this morning — all six channels, four attempts each — so the lane ran on the channel-page route again. One genuinely new video, item 8, whose title and channel were confirmed against YouTube's own oEmbed record rather than taken from the page scrape. Everything else inside the window had already been featured.
 
-Australian lane: read in full. The week's main story there is a distribution failure at Alliance Distribution Services following unauthorised activity on Hachette Australia's systems in late July, with backordered stock only now reaching booksellers. It is a serious trade story and it is left out on purpose — it does not change anything for a self-published author, and the fuller Books+Publishing coverage sits behind a subscription wall this run.
-
-All four community lanes read normally, though r/writing needed a retry. Every item is summarised from the post itself.
+Australian lane and the wider trade press were read and produced nothing inside the gate that changes anything for an indie author. All four community lanes read normally. Items 1 to 7 are summarised from the posts themselves; the figures in item 1 are the author's own, as posted.
 
 —
 Curated daily for this community. Spotted something worth sharing?
