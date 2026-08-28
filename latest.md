@@ -1,85 +1,85 @@
-📚 Daily Writer's Scout — Thursday, 27 August 2026
+📚 Daily Writer's Scout — Friday, 28 August 2026
 
-1. What a BookBub featured deal actually did to one book's ranking, hour by hour
+1. 🤖 "Does anyone else feel like ProWritingAid feels dumber recently?"
 
-An author posted a full timeline this morning after running their fourth BookBub featured deal on Sunday for a standalone time-travel debut, Amazon-exclusive. The detail worth the read is the LAG: 225 cumulative sales moved the rank from 380,325 to 274,890, another 131 sales moved it essentially nowhere — and then Amazon caught up all at once, dropping the book to 2,704 by Sunday evening and 687 by Monday morning, with number one in Alternative History and number two in Time Travel. By last night it had cooled to 2,505 on 902 cumulative sales. Their verdict: the burst paid for the deal, the page reads from here are profit, and they got their first international deal with only 18 ratings after early rejections.
+An author with a lifetime premium licence posted yesterday that the suggestions have started to feel obviously wrong in the way free tiers go wrong when they want you to upgrade, and that the editing reports are less useful than they were. They are asking, carefully, whether it is just them. Whatever the answer turns out to be, the question is one worth asking out loud about any tool you have stopped evaluating — the thing you bought is not necessarily the thing you are using now.
 
-🔗 https://old.reddit.com/r/selfpublish/comments/1vzi66o/impact_of_a_bookbub_featured_deal_on_amazon/
+🔗 https://old.reddit.com/r/selfpublish/comments/1w063aj/does_anyone_else_feel_like_prowritingaid_feels/
 
-💬 If you've run a BookBub featured deal, did it pay for itself — and did the long tail or the spike matter more?
-
-
-2. One author's rough week with Atticus
-
-A post this morning from someone who formatted two ebooks through KDP and made workable paperbacks out of Word, then bought Atticus for the third and says it has been worse: edits not saving, changes not applying, crashes that log them out, and Kindle Previewer and Calibre both unhappy with the output on simple formatting. They are asking, genuinely, whether this is everyone's experience or just theirs. One report is not a verdict on a tool a great many authors are happy with — but the thread is worth watching if you are about to buy it.
-
-🔗 https://old.reddit.com/r/selfpublish/comments/1vziygy/is_atticus_always_this_bad/
-
-💬 What do you format in, and did it earn back what you paid for it?
+💬 Have you noticed a tool you rely on getting worse rather than better — and did you switch, or wait it out?
 
 
-3. If you go bankrupt, do your copyrights go too?
+2. 🤖 Dale Roberts on Amazon's AI problems
 
-An author asked yesterday what happens to their copyrights in bankruptcy, noting that the books are a side hobby making perhaps forty dollars in a good month and wondering whether that is too small to be worth seizing. It is an uncomfortable question and almost nobody thinks about it until they have to — a copyright is property, and property is what bankruptcy deals in. Rules differ by country and this is one to take to a professional rather than a forum, but the thread is a useful prompt to know where you stand.
+Yesterday's Self-Publishing News round-up is titled "Amazon's AI Problems Are Getting Messy" and is dated 27 August. Dale's weekly news episodes are usually the fastest read on what has actually changed at the retailer rather than what people fear has. Pointer only — the title, channel and publication were verified this morning against YouTube's own records, but the episode was not watched, so nothing here summarises what he says.
 
-🔗 https://old.reddit.com/r/selfpublish/comments/1vzas9h/if_i_declare_bankruotcy_will_i_lose_my_copyrights/
+🔗 https://www.youtube.com/watch?v=aWWYcP6D6Ho
 
-💬 Have you ever thought about your back catalogue as an asset — for tax, for a will, or for anything else?
-
-
-4. Print on demand, and the bookshop shelf
-
-A first-time author asked this morning how POD and bookshops fit together: does the shop order from your printer, do you buy copies and carry them in yourself, or is a shelf simply not available to POD titles? A good beginner question with a genuinely layered answer involving discounts, returnability and which channel you print through — and one that is much cheaper to ask before you set your print options than after.
-
-🔗 https://old.reddit.com/r/selfpublish/comments/1vzhg27/question_for_people_who_publish_pod_and_have/
-
-💬 Have you got a POD title onto a physical shelf — and what did the shop actually need from you?
+💬 Have you or anyone you know had a book flagged over AI when it was written by hand — and how did it get resolved?
 
 
-5. Two colouring books, thirty copies, ten days
+3. Eighty-five of eighty-six clicks came from one campaign
 
-Also this morning, and refreshingly small in scale: an author published two semi-local colouring books on 17 August and has sold thirty copies, fifteen of each, off the back of posting to friends and family, setting up a Facebook page and joining local groups. No ads, no funnel, no list. They are hoping to keep the momentum. It is a reminder that "local and specific" is a real strategy, not a consolation one.
+An author posted their July Amazon Ads figures yesterday, and they are small enough to be honest: 23,134 impressions, 86 clicks, 10 attributed orders, $35.41 spent across four campaigns. The finding is the distribution. One automatic campaign targeting Spain took 85 of the 86 clicks and nearly all the money; a second auto campaign on the same books spent eleven cents in a whole month; two more spent nothing at all. Their point is sharp — the standard advice is to run several and let the data tell you which works, but this data is not saying one works better, it is saying three never started.
 
-🔗 https://old.reddit.com/r/selfpublish/comments/1vzi5v4/i_published_2_coloring_books_and_sold_30/
+🔗 https://old.reddit.com/r/selfpublish/comments/1vzozi7/85_of_my_86_ad_clicks_last_month_came_from_a/
 
-💬 Has anything local ever outsold your online marketing — a shop, a group, a market stall, a school?
-
-
-6. Does a mystery need red herrings?
-
-A writer on the third draft of a mystery posted yesterday with a specific worry: they do not think the murderer is obvious, but there is also nobody else a reader could reasonably suspect. Their question is whether red herrings always make a mystery stronger, or whether it is a thing to leave to beta readers. The distinction the thread circles is a useful one for any genre — between hiding the answer and giving the reader something to be wrong about.
-
-🔗 https://old.reddit.com/r/writing/comments/1vz4dy4/does_a_mystery_need_red_herrings_to_be_completely/
-
-💬 In your genre, is the reader meant to be able to solve it — and what do you plant to make them guess wrong?
+💬 When you run several campaigns, do they actually all spend — or does one quietly take everything?
 
 
-7. 🎬 Who gets the credit when someone gave you the idea?
+4. What is a big newsletter actually for?
 
-A screenwriter laid out a real situation yesterday: they wrote the entire script for a holiday special built around a well-known entertainer, but the premise — a Christmas Carol variation with three different ghosts — came from the group's manager, who supplied that and little else. Now credits have to be assigned, and story by, written by and produced by are not interchangeable. The thread is a solid primer on how credit works when several people can each say they contributed something real.
+A writer of standalone sci-fi thrillers asked yesterday why the subscriber number is treated as the goal. They already run a reader magnet and understand the mechanism; what they cannot see is the sense in paying for promos, swaps and ads to add thousands of people who signed up for a free book rather than for the writing. It is the right question at the right level of detail, and the answers separate people who have measured their list from people who have merely grown one.
 
-🔗 https://old.reddit.com/r/Screenwriting/comments/1vz2a7m/assigning_writing_credit_story_by_vs_written_by/
+🔗 https://old.reddit.com/r/selfpublish/comments/1vzu0bj/whats_the_point_of_growing_your_newsletter/
 
-💬 Have you ever had to negotiate credit on collaborative work — and did you settle it before or after the writing?
+💬 What proportion of your list has ever bought anything — and do you know, or are you guessing?
 
 
-8. Joanna Penn on drafting fast
+5. Reedsy will format your book for nothing
 
-The Creative Penn published a new episode yesterday: "From Page One To Done: Fast Drafting Your Novel With Jessica Brody". Brody wrote Save the Cat! Writes a Novel and teaches a fast-drafting method; her book Page One to Done came out through Hay House in May. Pointer only — posted from the video's title and its verified publication, not from a listen.
+A short, useful post this morning from someone who formatted their first print book in Word and does not want anyone else to go through it: Reedsy's free formatting tool will produce print and EPUB files in minutes, with three fonts to choose from and no fee. Their caveat is the good part — do not write the book in it. Draft where you know your files are safe, then bring the finished manuscript over to be formatted.
 
-🔗 https://www.youtube.com/watch?v=5a-JErRKYwE
+🔗 https://old.reddit.com/r/selfpublish/comments/1w0er79/for_those_new_to_this_reedsy_will_fromat_your/
 
-💬 Do you draft fast and fix later, or slowly and carefully the first time — and has that changed across your books?
+💬 What did you format your first book in, and what would you tell someone starting this week?
+
+
+6. Has anyone actually published under Creative Commons?
+
+An author asked yesterday for real experiences of self-publishing under a Creative Commons licence, up to and including CC0, which places the work in the public domain. It is a genuinely open question rather than a rhetorical one, and the answers matter beyond the people who will do it: knowing what you are giving up under each licence is worth understanding even if you never use one.
+
+🔗 https://old.reddit.com/r/selfpublish/comments/1w059yt/experiences_using_creative_commons_licenses_while/
+
+💬 Would you ever release a book, or part of one, under an open licence — and what would you want in return?
+
+
+7. Character arc, or character development — the same thing?
+
+A writer noticed yesterday that they had been using the two terms interchangeably, and then found a counter-example at book club: a character who barely changes across a novel while the reader's understanding of her changes completely. That is an emotional arc without development, and it made them ask whether the craft vocabulary is actually distinguishing two different things. A good thread for anyone who has been told their protagonist "doesn't grow".
+
+🔗 https://old.reddit.com/r/writing/comments/1vzunce/character_arc_or_character_development_is_there_a/
+
+💬 Have you written a character who stays the same while the reader changes their mind about them — and did it work?
+
+
+8. 🎬 250 episodes in, and the advice is not about writing
+
+A screenwriter posted notes yesterday from a conversation with Jeff Biederman, a TV writer and showrunner with more than 250 episodes across CTV, CBC, Disney and Netflix. The line they lead with is the one worth sitting with: the art is the given, and learning the business is how you stay working. Ideas, taste and ability are table stakes — the career is communication in the room, understanding production budgets, managing executives and staying organised. Uncomfortable, and it applies well outside television.
+
+🔗 https://old.reddit.com/r/Screenwriting/comments/1w09f4m/notes_from_a_250episode_tv_writer_showrunner_on/
+
+💬 How much of your writing time now goes on the business of it — and did you expect that split when you started?
 
 
 —
-Scout notes: eight items, all from yesterday and this morning, all verified this run.
+Scout notes: eight items, from yesterday and this morning, all verified this run.
 
-🤖 AI lane: quiet today. Both required query shapes were run — tool-named (Sudowrite, NovelCrafter, ProWritingAid, Atticus, Vellum, Scrivener release notes for the week of 24 August) and news-shaped (AI disclosure, publisher policy and copyright rulings for 26 and 27 August). Nothing dated inside the window that has not already run here; the searches returned only trackers, evergreen policy guides and the same Sudowrite editor update carried on the 20th.
+🤖 AI lane: two items today, both in the tools-and-acceptance strand. Nothing new surfaced on the legal or policy side inside the window.
 
-YouTube lane: the RSS feeds refused across the board this morning — all six channels, four attempts each — so the lane ran on the channel-page route again. One genuinely new video, item 8, whose title and channel were confirmed against YouTube's own oEmbed record rather than taken from the page scrape. Everything else inside the window had already been featured.
+YouTube lane: the RSS feeds refused for the second day running — all six channels, four attempts each — so the lane ran on the channel-page route. Worth recording plainly, because it caught something: the channel page and YouTube's own records gave DIFFERENT titles for item 2. The page had "Amazon Is Scanning Books & Flagging Humans"; YouTube's record says "Amazon's AI Problems Are Getting Messy". The second is the current one — the phrase from the page appears nowhere in YouTube's own data, and the newer title held across three separate checks — so the publisher retitled the episode after posting and the channel page is serving a stale copy. The current title is what runs above.
 
-Australian lane and the wider trade press were read and produced nothing inside the gate that changes anything for an indie author. All four community lanes read normally. Items 1 to 7 are summarised from the posts themselves; the figures in item 1 are the author's own, as posted.
+Australian lane and the wider trade press were read and produced nothing inside the gate that changes anything for an indie author. All four community lanes read normally. Items 1 and 3 to 8 are summarised from the posts themselves; the figures in item 3 are the author's own, as posted.
 
 —
 Curated daily for this community. Spotted something worth sharing?
