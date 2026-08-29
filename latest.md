@@ -1,85 +1,85 @@
-📚 Daily Writer's Scout — Friday, 28 August 2026
+📚 Daily Writer's Scout — Saturday, 29 August 2026
 
-1. 🤖 "Does anyone else feel like ProWritingAid feels dumber recently?"
+1. A hardcover blocked by a Catalog Integrity Notice that fits none of its own criteria
 
-An author with a lifetime premium licence posted yesterday that the suggestions have started to feel obviously wrong in the way free tiers go wrong when they want you to upgrade, and that the editing reports are less useful than they were. They are asking, carefully, whether it is just them. Whatever the answer turns out to be, the question is one worth asking out loud about any tool you have stopped evaluating — the thing you bought is not necessarily the thing you are using now.
+An author publishing their third novel — EPUB through Draft2Digital, hardcover through IngramSpark — posted yesterday that the hardcover will not go to global distribution. The button fails and returns a Catalog Integrity Notice, and they have gone through all nine listed criteria and none applies: their own work, no AI in text or cover, separate ISBNs for each edition, unique title and author, sensible price, nothing objectionable, copyright page complete. This is their second hardcover through the same route. Worth reading before you rely on a distribution date.
 
-🔗 https://old.reddit.com/r/selfpublish/comments/1w063aj/does_anyone_else_feel_like_prowritingaid_feels/
+🔗 https://old.reddit.com/r/selfpublish/comments/1w105mr/ingramspark_catalog_integrity_notice_problem/
 
-💬 Have you noticed a tool you rely on getting worse rather than better — and did you switch, or wait it out?
-
-
-2. 🤖 Dale Roberts on Amazon's AI problems
-
-Yesterday's Self-Publishing News round-up is titled "Amazon's AI Problems Are Getting Messy" and is dated 27 August. Dale's weekly news episodes are usually the fastest read on what has actually changed at the retailer rather than what people fear has. Pointer only — the title, channel and publication were verified this morning against YouTube's own records, but the episode was not watched, so nothing here summarises what he says.
-
-🔗 https://www.youtube.com/watch?v=aWWYcP6D6Ho
-
-💬 Have you or anyone you know had a book flagged over AI when it was written by hand — and how did it get resolved?
+💬 Have you hit an automated compliance block you could not map to any stated rule — and what actually got it lifted?
 
 
-3. Eighty-five of eighty-six clicks came from one campaign
+2. Page reads that went 457, then 1, then 10, then nothing
 
-An author posted their July Amazon Ads figures yesterday, and they are small enough to be honest: 23,134 impressions, 86 clicks, 10 attributed orders, $35.41 spent across four campaigns. The finding is the distribution. One automatic campaign targeting Spain took 85 of the 86 clicks and nearly all the money; a second auto campaign on the same books spent eleven cents in a whole month; two more spent nothing at all. Their point is sharp — the standard advice is to run several and let the data tell you which works, but this data is not saying one works better, it is saying three never started.
+A different kind of drop from the one we carried on Tuesday, and worth separating: this is not a slow decline in an established catalogue but a brand-new book going to zero in three days. Published on 3 August, averaging around 350 KENP page reads a day, worst day 92 — then four days ago 457, three days ago 1, two days ago 10, yesterday 0. The book is 450 pages. They are wondering whether contacting KDP is worth it. No cause is established in the thread, and none should be assumed.
 
-🔗 https://old.reddit.com/r/selfpublish/comments/1vzozi7/85_of_my_86_ad_clicks_last_month_came_from_a/
+🔗 https://old.reddit.com/r/selfpublish/comments/1w0lkrn/kenp_pages_fell_off_a_cliff/
 
-💬 When you run several campaigns, do they actually all spend — or does one quietly take everything?
-
-
-4. What is a big newsletter actually for?
-
-A writer of standalone sci-fi thrillers asked yesterday why the subscriber number is treated as the goal. They already run a reader magnet and understand the mechanism; what they cannot see is the sense in paying for promos, swaps and ads to add thousands of people who signed up for a free book rather than for the writing. It is the right question at the right level of detail, and the answers separate people who have measured their list from people who have merely grown one.
-
-🔗 https://old.reddit.com/r/selfpublish/comments/1vzu0bj/whats_the_point_of_growing_your_newsletter/
-
-💬 What proportion of your list has ever bought anything — and do you know, or are you guessing?
+💬 Have your page reads ever stopped dead rather than tapering — and did you ever find out why?
 
 
-5. Reedsy will format your book for nothing
+3. A ghostwriting contract that arrived worse than the pitch
 
-A short, useful post this morning from someone who formatted their first print book in Word and does not want anyone else to go through it: Reedsy's free formatting tool will produce print and EPUB files in minutes, with three fonts to choose from and no fee. Their caveat is the good part — do not write the book in it. Draft where you know your files are safe, then bring the finished manuscript over to be formatted.
+A writer posted this morning about a deal they were genuinely excited about: $5,000 up front, 33% of any advances and royalties actually paid, 10% of film rights, for a 70,000 to 90,000 word manuscript, with clients who are known in their field and have connections. Then the contract arrived and they are angry, and honest enough to ask whether they are overreacting. Context they give: one self-published book, around 7,000 copies sold, and they turned down a $50,000 three-book offer to keep that series intact. A useful thread on the distance between terms discussed and terms drafted.
 
-🔗 https://old.reddit.com/r/selfpublish/comments/1w0er79/for_those_new_to_this_reedsy_will_fromat_your/
+🔗 https://old.reddit.com/r/PubTips/comments/1w18wk1/discussion_normal_ghost_contract_or_slap_to_the/
 
-💬 What did you format your first book in, and what would you tell someone starting this week?
-
-
-6. Has anyone actually published under Creative Commons?
-
-An author asked yesterday for real experiences of self-publishing under a Creative Commons licence, up to and including CC0, which places the work in the public domain. It is a genuinely open question rather than a rhetorical one, and the answers matter beyond the people who will do it: knowing what you are giving up under each licence is worth understanding even if you never use one.
-
-🔗 https://old.reddit.com/r/selfpublish/comments/1w059yt/experiences_using_creative_commons_licenses_while/
-
-💬 Would you ever release a book, or part of one, under an open licence — and what would you want in return?
+💬 Has a contract ever come back materially worse than the conversation that preceded it — and did you walk?
 
 
-7. Character arc, or character development — the same thing?
+4. Do you need an LCCN to get into libraries?
 
-A writer noticed yesterday that they had been using the two terms interchangeably, and then found a counter-example at book club: a character who barely changes across a novel while the reader's understanding of her changes completely. That is an emotional arc without development, and it made them ask whether the craft vocabulary is actually distinguishing two different things. A good thread for anyone who has been told their protagonist "doesn't grow".
+An author asked yesterday whether a Library of Congress Control Number is actually required for public libraries, or whether IngramSpark or Draft2Digital distribution does the job. It is a good question because the answer decides whether you spend time on a Library of Congress application before publication — and the timing matters, since some routes are closed to you once the book is out.
 
-🔗 https://old.reddit.com/r/writing/comments/1vzunce/character_arc_or_character_development_is_there_a/
+🔗 https://old.reddit.com/r/selfpublish/comments/1w0ousn/are_lccns_required_to_get_your_book_into_libraries/
 
-💬 Have you written a character who stays the same while the reader changes their mind about them — and did it work?
+💬 Have you got a self-published title into libraries — through a distributor, an LCCN, or by asking librarians directly?
 
 
-8. 🎬 250 episodes in, and the advice is not about writing
+5. Does the day of the week matter for a release?
 
-A screenwriter posted notes yesterday from a conversation with Jeff Biederman, a TV writer and showrunner with more than 250 episodes across CTV, CBC, Disney and Netflix. The line they lead with is the one worth sitting with: the art is the given, and learning the business is how you stay working. Ideas, taste and ability are table stakes — the career is communication in the room, understanding production budgets, managing executives and staying organised. Uncomfortable, and it applies well outside television.
+Asked this morning: traditional publishers lean on Tuesdays, but does that carry over to self-publishing, and is there any advantage in the days either side? A small question that gets decided by default far too often — and one where the honest answer may be that it matters much less for us than the shape of the launch around it.
 
-🔗 https://old.reddit.com/r/Screenwriting/comments/1w09f4m/notes_from_a_250episode_tv_writer_showrunner_on/
+🔗 https://old.reddit.com/r/selfpublish/comments/1w1797h/does_it_matter_which_weekday_is_your_release_date/
 
-💬 How much of your writing time now goes on the business of it — and did you expect that split when you started?
+💬 What day do you release on, and did you ever test it against another?
+
+
+6. The Self Publishing Show on the Meta ads panic
+
+Episode 462 went up yesterday under the title "The Meta Ads Panic!". Meta has been changing how its advertising works this summer — moving from advertisers choosing an audience to the system modelling one — and author campaigns have been unusually turbulent through it. Pointer only: the title, channel and publication were verified this morning against YouTube's own records, but the episode was not listened to, so nothing here summarises what is said in it.
+
+🔗 https://www.youtube.com/watch?v=TEPz8RkClVI
+
+💬 Have your Meta ads behaved differently these last few weeks — and have you changed anything, or held?
+
+
+7. ALLi's social media guide for indie authors
+
+Also yesterday, the Alliance of Independent Authors published "The Ultimate Guide to Social Media for Indie Authors 2026". Pointer only, on the same terms as item 6 — verified as published yesterday by that channel, not watched. Flagged because social media strategy is the question that comes up in this room more than any other, and a current guide from ALLi is at least a starting position to argue with.
+
+🔗 https://www.youtube.com/watch?v=QRJ2BIbSqG4
+
+💬 Which single platform actually sells your books — and which one do you keep doing out of habit?
+
+
+8. 🎬 Emerging writers who are expected to already have credits
+
+An Australian screenwriter posted yesterday about the shape of opportunities at home: competitions and schemes narrowly aimed, and the ones open to emerging writers frequently asking for industry credits the applicant does not have by definition. Their question is the fair one — if you are genuinely looking for scripts from emerging writers, why not open it and judge the work. The complaint is Australian and the pattern is not.
+
+🔗 https://old.reddit.com/r/Screenwriting/comments/1w12r0w/is_it_just_me_or_is_it_getting_harder_for_the/
+
+💬 Have you been shut out of an "emerging writer" opportunity for lacking credits — and did you find a way in anyway?
 
 
 —
 Scout notes: eight items, from yesterday and this morning, all verified this run.
 
-🤖 AI lane: two items today, both in the tools-and-acceptance strand. Nothing new surfaced on the legal or policy side inside the window.
+🤖 AI lane: quiet today. Both required query shapes were run — tool-named (Sudowrite, NovelCrafter, ProWritingAid, Atticus, Vellum for 28 and 29 August) and news-shaped (Amazon KDP AI detection and disclosure policy for this week). Everything returned was either an undated compliance guide or already carried here. Note that item 2 sits near this beat and is deliberately not written as an AI story: no cause is established in that thread, and guessing at one would be inventing news.
 
-YouTube lane: the RSS feeds refused for the second day running — all six channels, four attempts each — so the lane ran on the channel-page route. Worth recording plainly, because it caught something: the channel page and YouTube's own records gave DIFFERENT titles for item 2. The page had "Amazon Is Scanning Books & Flagging Humans"; YouTube's record says "Amazon's AI Problems Are Getting Messy". The second is the current one — the phrase from the page appears nowhere in YouTube's own data, and the newer title held across three separate checks — so the publisher retitled the episode after posting and the channel page is serving a stale copy. The current title is what runs above.
+YouTube lane: the RSS feeds refused for a third straight day — all six channels, four attempts each — so the lane ran on the channel-page route, and both video items had their titles confirmed against YouTube's own records before being carried. Two genuinely new videos, both featured. Also worth recording: yesterday's edition flagged that a Dale Roberts episode had been retitled after posting while the channel page served the old title. The page has now caught up and matches. That is the retitle confirmed rather than assumed.
 
-Australian lane and the wider trade press were read and produced nothing inside the gate that changes anything for an indie author. All four community lanes read normally. Items 1 and 3 to 8 are summarised from the posts themselves; the figures in item 3 are the author's own, as posted.
+Australian lane: read in full and produced nothing indie-relevant in the book trade, but the screen lane found an Australian item on its own — item 8. r/Screenwriting needed a retry; the other three community lanes read normally. Items 1 to 5 and 8 are summarised from the posts themselves.
 
 —
 Curated daily for this community. Spotted something worth sharing?
