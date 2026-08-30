@@ -1,85 +1,85 @@
-📚 Daily Writer's Scout — Saturday, 29 August 2026
+📚 Daily Writer's Scout — Sunday, 30 August 2026
 
-1. A hardcover blocked by a Catalog Integrity Notice that fits none of its own criteria
+1. An account terminated two days before launch, over how refunds were processed
 
-An author publishing their third novel — EPUB through Draft2Digital, hardcover through IngramSpark — posted yesterday that the hardcover will not go to global distribution. The button fails and returns a Catalog Integrity Notice, and they have gone through all nine listed criteria and none applies: their own work, no AI in text or cover, separate ISBNs for each edition, unique title and author, sensible price, nothing objectionable, copyright page complete. This is their second hardcover through the same route. Worth reading before you rely on a distribution date.
+An author posted yesterday with a book going live on KDP in about two days. They had been selling pre-sale copies direct: the first hundred arrived at their house with a fifth too damaged to send, so they took a refund from Amazon and shipped subsequent orders straight from Amazon instead. After roughly two hundred orders, an email said the account was being terminated for suspicious activity. KDP told them there was nothing wrong with sending author copies that way, but that processing returns through Amazon rather than KDP may have been the trigger. They have appealed. Read it before your next launch, because the mechanism here is ordinary behaviour that looked wrong from the outside.
 
-🔗 https://old.reddit.com/r/selfpublish/comments/1w105mr/ingramspark_catalog_integrity_notice_problem/
+🔗 https://old.reddit.com/r/selfpublish/comments/1w1qjus/amazon_account_got_nuked_any_advice/
 
-💬 Have you hit an automated compliance block you could not map to any stated rule — and what actually got it lifted?
-
-
-2. Page reads that went 457, then 1, then 10, then nothing
-
-A different kind of drop from the one we carried on Tuesday, and worth separating: this is not a slow decline in an established catalogue but a brand-new book going to zero in three days. Published on 3 August, averaging around 350 KENP page reads a day, worst day 92 — then four days ago 457, three days ago 1, two days ago 10, yesterday 0. The book is 450 pages. They are wondering whether contacting KDP is worth it. No cause is established in the thread, and none should be assumed.
-
-🔗 https://old.reddit.com/r/selfpublish/comments/1w0lkrn/kenp_pages_fell_off_a_cliff/
-
-💬 Have your page reads ever stopped dead rather than tapering — and did you ever find out why?
+💬 Have you ever had an account action you had to reverse-engineer from a vague email — and what actually got through to a human?
 
 
-3. A ghostwriting contract that arrived worse than the pitch
+2. "After six months I had sold eighty copies. Sixty were to people I already knew."
 
-A writer posted this morning about a deal they were genuinely excited about: $5,000 up front, 33% of any advances and royalties actually paid, 10% of film rights, for a 70,000 to 90,000 word manuscript, with clients who are known in their field and have connections. Then the contract arrived and they are angry, and honest enough to ask whether they are overreacting. Context they give: one self-published book, around 7,000 copies sold, and they turned down a $50,000 three-book offer to keep that series intact. A useful thread on the distance between terms discussed and terms drafted.
+The most honest thing posted in this space all week, from an author who has published on both sides. Their description of self-publishing is not that it is bad but that it is lonely: no editor with twenty years in your genre telling you the book actually starts in chapter three, no cover designer, no marketing system, six hundred dollars a month evaporating into ads, and friends who mean well and do not leave reviews. They are equally hard on the other door — years of querying, then editors saying no. Nobody is being sold anything here, which is why it is worth reading.
 
-🔗 https://old.reddit.com/r/PubTips/comments/1w18wk1/discussion_normal_ghost_contract_or_slap_to_the/
+🔗 https://old.reddit.com/r/selfpublish/comments/1w206s6/after_six_months_i_had_sold_eighty_copies_sixty/
 
-💬 Has a contract ever come back materially worse than the conversation that preceded it — and did you walk?
-
-
-4. Do you need an LCCN to get into libraries?
-
-An author asked yesterday whether a Library of Congress Control Number is actually required for public libraries, or whether IngramSpark or Draft2Digital distribution does the job. It is a good question because the answer decides whether you spend time on a Library of Congress application before publication — and the timing matters, since some routes are closed to you once the book is out.
-
-🔗 https://old.reddit.com/r/selfpublish/comments/1w0ousn/are_lccns_required_to_get_your_book_into_libraries/
-
-💬 Have you got a self-published title into libraries — through a distributor, an LCCN, or by asking librarians directly?
+💬 Of your first hundred sales, roughly how many went to people who already knew you — and when did that change?
 
 
-5. Does the day of the week matter for a release?
+3. Two books in, and a plain list of what did and didn't work
 
-Asked this morning: traditional publishers lean on Tuesdays, but does that carry over to self-publishing, and is there any advantage in the days either side? A small question that gets decided by default far too often — and one where the honest answer may be that it matters much less for us than the shape of the launch around it.
+A science-fiction author posted their marketing retrospective yesterday, and the value is in how unglamorous it is. Facebook ads: nothing, money wasted. Amazon ads: worked, when tuned properly. BookBub ads: nothing significant. Social media: 3,500-plus followers on Facebook, occasional non-aggressive mentions, plus Reddit where allowed — and not one sale traceable to either. Their headline lesson is the one most of us learn late: finishing the book feels like a finish line and is actually the start of a different race.
 
-🔗 https://old.reddit.com/r/selfpublish/comments/1w1797h/does_it_matter_which_weekday_is_your_release_date/
+🔗 https://old.reddit.com/r/selfpublish/comments/1w1v823/what_actually_worked_and_mostly_didnt_after/
 
-💬 What day do you release on, and did you ever test it against another?
-
-
-6. The Self Publishing Show on the Meta ads panic
-
-Episode 462 went up yesterday under the title "The Meta Ads Panic!". Meta has been changing how its advertising works this summer — moving from advertisers choosing an audience to the system modelling one — and author campaigns have been unusually turbulent through it. Pointer only: the title, channel and publication were verified this morning against YouTube's own records, but the episode was not listened to, so nothing here summarises what is said in it.
-
-🔗 https://www.youtube.com/watch?v=TEPz8RkClVI
-
-💬 Have your Meta ads behaved differently these last few weeks — and have you changed anything, or held?
+💬 Which channel has actually earned its money for you — and which one are you still paying for out of hope?
 
 
-7. ALLi's social media guide for indie authors
+4. Sold out at a first signing, down to the damaged display copy
 
-Also yesterday, the Alliance of Independent Authors published "The Ultimate Guide to Social Media for Indie Authors 2026". Pointer only, on the same terms as item 6 — verified as published yesterday by that channel, not watched. Flagged because social media strategy is the question that comes up in this room more than any other, and a current guide from ALLi is at least a starting position to argue with.
+The counterweight, posted this morning by a self-published horror writer at their first bookshop signing: every copy sold, including the damaged one meant for display, eight more people downloaded the books after the stock ran out, and a free short story put up for the weekend has been downloaded 135 times with reviews already appearing. Their actual question is practical and rather good — what table swag do you use? They had lollipops matched to the cover colours and free bookmarks; the author on the next shift handed out coffee pods with his name on them.
 
-🔗 https://www.youtube.com/watch?v=QRJ2BIbSqG4
+🔗 https://old.reddit.com/r/selfpublish/comments/1w27fyc/i_had_my_first_bookstore_signing_today/
 
-💬 Which single platform actually sells your books — and which one do you keep doing out of habit?
+💬 What have you put on a signing table that actually started a conversation with a stranger?
 
 
-8. 🎬 Emerging writers who are expected to already have credits
+5. Seventy queries, and a clear-eyed account of not getting an agent
 
-An Australian screenwriter posted yesterday about the shape of opportunities at home: competitions and schemes narrowly aimed, and the ones open to emerging writers frequently asking for industry credits the applicant does not have by definition. Their question is the fair one — if you are genuinely looking for scripts from emerging writers, why not open it and judge the work. The complaint is Australian and the pattern is not.
+A writer posted their full querying numbers yesterday: 70 queries sent, 41 form rejections, 2 personalised, 27 never answered. Their own diagnosis is that they rushed the query letter and burned their strongest, best-fit agents in the first batch before they had shaped it properly. They wrote it because the "I didn't get one" posts helped them more than the success stories did while the rejections were stacking up. That is a generous reason to publish your own numbers.
 
-🔗 https://old.reddit.com/r/Screenwriting/comments/1w12r0w/is_it_just_me_or_is_it_getting_harder_for_the/
+🔗 https://old.reddit.com/r/PubTips/comments/1w1upp7/discussion_i_didnt_get_an_agent/
 
-💬 Have you been shut out of an "emerging writer" opportunity for lacking credits — and did you find a way in anyway?
+💬 If you have queried, what would you do differently in the first batch — and did you hold your best-fit agents back?
+
+
+6. Julie, Sharon, Nigel, Barry — do dated names put readers off?
+
+A UK writer asked yesterday about names that have simply fallen out of fashion, as distinct from period names or the old ones that have cycled back round. Their book is set in an unstated alt-1980s, so period-accurate names are part of the atmosphere, but they remember reviewers criticising a 1990s-set novel for giving a child an older name. It is a small question that opens a real one: how much of your texture do you sand off to avoid a review you can imagine?
+
+🔗 https://old.reddit.com/r/writing/comments/1w1s99n/character_names_that_are_now_unfashionable_does/
+
+💬 Have you ever changed a name, a place or a detail purely to head off a criticism you were imagining?
+
+
+7. Writing, and the career you actually have
+
+A writer with degrees in biological engineering and reproductive endocrinology, training as an EMT and studying for medical exams, asked yesterday whether publishing a novel could interfere with the medical career they are building — theirs being a book with content a future employer might raise an eyebrow at. It is a question a lot of people in this room have quietly, and the thread turns into a useful survey of what everyone actually does for a living.
+
+🔗 https://old.reddit.com/r/writing/comments/1w1ptdz/writing_and_your_real_career/
+
+💬 What do you do for work, and does anyone there know what you write?
+
+
+8. 🎬 What actually counts as a draft?
+
+Asked this morning, and worth stealing for prose: if you read your first draft, fix the typos, tidy the formatting and improve some lines, is that a second draft — or does a new draft mean the plot changed? The screen trade has an unusually concrete answer because production colour-codes them, and the question underneath applies to any writer who has ever claimed a number: what has to change before it is a different version of the book?
+
+🔗 https://old.reddit.com/r/Screenwriting/comments/1w24f6t/what_do_you_consider_a_draft/
+
+💬 What counts as a new draft for you — a pass, a restructure, or something else entirely?
 
 
 —
 Scout notes: eight items, from yesterday and this morning, all verified this run.
 
-🤖 AI lane: quiet today. Both required query shapes were run — tool-named (Sudowrite, NovelCrafter, ProWritingAid, Atticus, Vellum for 28 and 29 August) and news-shaped (Amazon KDP AI detection and disclosure policy for this week). Everything returned was either an undated compliance guide or already carried here. Note that item 2 sits near this beat and is deliberately not written as an AI story: no cause is established in that thread, and guessing at one would be inventing news.
+🤖 AI lane: quiet today. Both required query shapes were run — tool-named (Sudowrite, NovelCrafter, ProWritingAid, Atticus, Vellum, Scrivener for 29 and 30 August) and news-shaped (indie author AI policy and disclosure for this weekend). The strongest candidate returned was an Indie Author Magazine piece on booksellers tackling AI spam, which is dated 3 July and therefore out. Nothing else was inside the window that has not already run here.
 
-YouTube lane: the RSS feeds refused for a third straight day — all six channels, four attempts each — so the lane ran on the channel-page route, and both video items had their titles confirmed against YouTube's own records before being carried. Two genuinely new videos, both featured. Also worth recording: yesterday's edition flagged that a Dale Roberts episode had been retitled after posting while the channel page served the old title. The page has now caught up and matches. That is the retitle confirmed rather than assumed.
+YouTube lane: nothing fresh today. The RSS feeds are BACK after three days of refusing — all six curated channels answered on the first attempt, so the lane ran on real publication dates rather than the fallback's relative ones. Every video inside the seven-day window had already been featured here this week.
 
-Australian lane: read in full and produced nothing indie-relevant in the book trade, but the screen lane found an Australian item on its own — item 8. r/Screenwriting needed a retry; the other three community lanes read normally. Items 1 to 5 and 8 are summarised from the posts themselves.
+Australian lane and the wider trade press were read and produced nothing inside the gate that changes anything for an indie author. All four community lanes read normally. Every item above is summarised from the post itself, and the figures in items 2, 3 and 5 are the authors' own, as posted.
 
 —
 Curated daily for this community. Spotted something worth sharing?
