@@ -1,76 +1,78 @@
-📚 Daily Writer's Scout — Monday, 31 August 2026
+📚 Daily Writer's Scout — Tuesday, 01 September 2026
 
-1. A scam email using a real HarperCollins editor's name
+1. 🤖 An author is filming herself writing, in case she gets accused
 
-An author shared a good one yesterday, because it is a cut above the usual "collaborate with us for a nominal fee" spam. It arrived through their website contact form, was well written, and used the correct name, address and details of an actual editor working at HarperCollins, asking them to get in touch to discuss her interest. The tell was one line: the reply address was that editor's name plus HarperCollins, at gmail dot com. Their own defence is worth borrowing — they discounted it from the preview line, because they are not under the illusion that a publisher is hunting for them.
+Posted this morning: an author who heard about the Daggermouth AI accusations partway through her first draft now records herself every time she works on the book. Hours of footage, jokes and complaints included — her plan is to put it on YouTube so that if an accusation ever comes she can point at it and say "happy sleuthing." Her practical snag is almost funnier than the plan: her full name shows every time File Explorer is open, so anonymising it all would take forever. The background, for anyone who missed it: academics ran more than 14,000 Kindle ebooks through the detector Pangram and Daggermouth came back flagged at around 60% AI; H.M. Wolfe denies it flatly, Simon & Schuster says the book cleared its normal editorial process, and The Atlantic separately found the same tool flagging a New York Times Modern Love column above 60%. The tools are not reliable enough to convict anyone, and that is exactly why writers are starting to keep receipts.
 
-🔗 https://old.reddit.com/r/selfpublish/comments/1w2odjk/new_scam_attempt/
+🔗 https://old.reddit.com/r/selfpublish/comments/1w3xps8/recording_myself_writing_to_fight_ai_accusations/
 
-💬 What is your own first check on an unexpected approach — the domain, the wording, or simply that it arrived at all?
-
-
-2. 563 impressions, none of them viewable
-
-An author five days into an Amazon ad campaign posted yesterday with a number they cannot interpret: 563 impressions, and a dash under "viewable impressions", which they read as zero. They bid generously and added a 40% boost for top placement. If your ad is being served but never actually appearing on a screen, every downstream figure you are optimising against is describing something that did not happen — which makes this a more useful thread than the click-through complaints.
-
-🔗 https://old.reddit.com/r/selfpublish/comments/1w2npl5/amazon_ad_impressions_0_for_563/
-
-💬 Do you check viewable impressions separately from impressions — and has the gap ever explained a campaign for you?
+💬 Do you keep anything that would prove a manuscript is yours — drafts, version history, notes — and had you thought of it as evidence before now?
 
 
-3. Working out a wholesale price when the printer takes a cut too
+2. 🤖 "EM DASH DRAMA!"
 
-An author supplying a few bookshops asked this morning how to calculate the wholesale price to quote them. They have their IngramSpark discount set at 55%, and they know Ingram also takes a share, so they are asking whether 55% off retail is actually the right number. It is not a glamorous question and it is exactly the sort that quietly costs money on every copy for years.
+Also this morning, and the same anxiety in miniature: an author is seriously considering going through her book and replacing every em dash with an ellipsis, because the em dash has become folk-shorthand for AI writing. Her words: "I really do NOT want AI allegations on me." It is worth sitting with what that means — a piece of ordinary English punctuation, used by writers for centuries, being edited out of a book by a human author to avoid being mistaken for a machine.
 
-🔗 https://old.reddit.com/r/selfpublish/comments/1w30cgs/how_to_calculate_wholesale_price_when_ingram_cuts/
+🔗 https://old.reddit.com/r/selfpublish/comments/1w405nu/em_dash_drama/
 
-💬 When you supply a shop directly, what do you quote — and did you work out your true per-copy margin before or after the first order?
-
-
-4. An author went back and took the sex scenes out of her own books
-
-A reader-writer asked this morning what people make of Elizabeth Wheatley removing the explicit content from her published novels, and they are honest that they feel two ways about it: uneasy about going back and changing finished stories, and clear that they are hers to change. It is a genuinely open question about what you owe a reader who already bought the earlier version, and it touches every author who has ever wanted to revise a backlist.
-
-🔗 https://old.reddit.com/r/writing/comments/1w31cir/opinion_on_elizabeth_wheatley_removing_the_smut/
-
-💬 Would you rewrite a published book to match who you are now — and would you tell readers you had?
+💬 Have you changed anything in your actual prose — punctuation, a habit, a favourite word — to avoid looking AI-written?
 
 
-5. "I don't want my book to be forgotten"
+3. What are the signs of a bad editor?
 
-An epic fantasy author whose book came out just over a year ago posted yesterday that the trickle of a few sales a month has stopped dead — no sales, no reads, no new reviews. They are writing the sequel, have tried ads on most platforms without success, and are having an audiobook produced in hope. Their question is the one nobody covers: how do you market a book that is no longer the new thing? Most advice assumes a launch.
+A writer asked yesterday how you tell an unprofessional editor from a good one, with a specific test in mind: if your editor is not finding the issues your beta readers found, is that a red flag? It is a genuinely useful question because most of us hire an editor exactly once before we know what good looks like, and the money is gone either way.
 
-🔗 https://old.reddit.com/r/selfpublish/comments/1w2hm0r/i_dont_want_my_book_to_be_forgotten/
+🔗 https://old.reddit.com/r/writing/comments/1w3t6s5/signs_of_a_bad_editor/
 
-💬 What has actually revived an older title for you — a sequel, a price promotion, an audiobook, or something else entirely?
-
-
-6. The art of the last line
-
-A writer pointed out this morning that we talk endlessly about opening lines and almost never about closing ones, and asked for favourites. Theirs is from Maus: "I'm tired from talking, Richieu, and it's enough stories for now." A thread that will be worth reading purely for the examples, and a good prompt to go and look at your own final sentence with fresh eyes.
-
-🔗 https://old.reddit.com/r/writing/comments/1w2y0u5/best_closing_line_in_a_book/
-
-💬 What is the best closing line you have read — and do you know yet what yours is?
+💬 What told you your editor was worth the money — or wasn't — and how quickly did you know?
 
 
-7. 🎬 The stories an editor has already seen a thousand times
+4. A bad review for a mistake you have already fixed
 
-A screenwriter flagged Strange Horizons' published list of story premises they receive far too often — a science fiction magazine's submissions list, but the shapes are universal. Checked this morning and live: the creative person who cannot create, the writer with writer's block, the artist whose brilliance the critics fail to grasp, the person who says "I want to be at point B" and then walks to point B. Read it as a diagnostic rather than a set of bans, because a premise on that list is not forbidden — it just has to do more work than you thought.
+An author posted this morning about a Goodreads review criticising a time-continuity slip — a journey that takes a few hours out and under an hour back. They have corrected the file. The review stays. Their worry is that it will put readers off, and the awkward truth is that reviews attach to the book rather than to the edition, so a fixed error can go on being reported for years.
 
-🔗 https://strangehorizons.com/submit/fiction-submission-guidelines/stories-weve-seen-too-often/
+🔗 https://old.reddit.com/r/selfpublish/comments/1w40soy/bad_review_for_continuity_issue_that_i_fixed/
 
-💬 Is one of your ideas on that list — and what would have to be true about the execution to earn it anyway?
+💬 Have you updated a published file after a review pointed at something real — and did you say anywhere that you had?
+
+
+5. Trying to publish in English from Iran
+
+A writer asked yesterday whether there is any route to publishing an English ebook from Iran, since KDP is closed to them, and their book is dark romance so publishing it in Persian is not an option either. It is a reminder that the platform access most of this room takes as background is a geography question for a lot of writers, and that "just put it on Amazon" is advice with a border around it.
+
+🔗 https://old.reddit.com/r/selfpublish/comments/1w3oge8/does_anyone_know_a_way_to_self_publish_an_english/
+
+💬 Do you know of distributors that work for authors in countries KDP does not serve — and have you seen one work in practice?
+
+
+6. Coming back to a shelved book and disliking it
+
+A writer who shelved their novel for months has come back and found they still love the world and the characters and cannot stand the pacing — breakneck, no breathing room, plot that does not land. They do not want to rewrite it right now, and they are asking whether to leave it longer or go and find readers with more experience. The interesting part is that this is a diagnosis, not despair: they know exactly what is wrong.
+
+🔗 https://old.reddit.com/r/writing/comments/1w3gqtq/after_months_of_shelving_my_book_i_hate_my_book/
+
+💬 When you came back to something after months away, was the distance useful — and did you rewrite, or move on?
+
+
+7. 🎬 Austin notices are going out early
+
+A screenwriter reported yesterday that Austin Film Festival results are arriving ahead of the calendar — they have an email placing an original comedy pilot as a Second Rounder, sent before September even started. Posted as a heads-up rather than a boast, which is the useful spirit: if you entered, watch your inbox and your spam folder now rather than at the end of the month.
+
+🔗 https://old.reddit.com/r/Screenwriting/comments/1w3opha/austin_notices_are_going_out_already/
+
+💬 Have contest results ever landed in your spam — and do you enter anything with a deadline coming up?
 
 
 —
-Scout notes: seven items rather than eight, from yesterday and this morning, all verified this run. Nothing was padded in to reach a round number; one further candidate, a question about speech-to-text software, was a single line with nothing to summarise and was left out.
+Scout notes: seven items, from yesterday and this morning, all verified this run.
 
-🤖 AI lane: quiet today. Both required query shapes were run — tool-named (Sudowrite, NovelCrafter, ProWritingAid, Atticus, Vellum, Scrivener for 30 and 31 August) and news-shaped (retailer AI policy and court rulings for this week). Everything returned was either an undated compliance guide or already carried here. The news-shaped search also surfaced several strong-sounding claims about AI companies and government contracts that carried no verifiable date or primary source this run, so they are not repeated here even as rumour.
+🤖 AI lane: two items and today's lead, both from the acceptance side rather than the tools side — what the detection climate is doing to how writers actually work. The Daggermouth background in item 1 was corroborated across several outlets this morning; it is context for a dated community post, not presented as this week's news, and the detector's own unreliability is stated alongside the accusation because both are established.
 
-YouTube lane: nothing fresh today. The RSS feeds answered for a second day, so the lane ran on real publication dates. The only new video inside the window was a planning-course enrolment video, which is promotion rather than news, so nothing is carried.
+YouTube lane: nothing fresh today. The RSS feeds refused across all six channels, four attempts each, so the lane ran on the channel-page route and nothing inside the seven-day window was new.
 
-Australian lane and the wider trade press were read and produced nothing inside the gate that changes anything for an indie author. All four community lanes read normally. Every item is summarised from the post itself, and item 7's list was opened and read this morning rather than described from the thread.
+A route note, because it affected the whole run: the community lanes were unreachable at first — every feed on the host our spec names returned empty, and a direct fetch came back 403. The proxy and the news sites were fine, so this was the source refusing us rather than a network fault. The lanes were recovered through the site's main host instead, and post text through each thread's own feed. One thread, on participial phrasing, could not be read either way and was left out rather than summarised from its title.
+
+Australian lane and the wider trade press were read and produced nothing inside the gate that changes anything for an indie author.
 
 —
 Curated daily for this community. Spotted something worth sharing?
