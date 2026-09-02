@@ -1,76 +1,85 @@
-📚 Daily Writer's Scout — Tuesday, 01 September 2026
+📚 Daily Writer's Scout — Wednesday, 02 September 2026
 
-1. 🤖 An author is filming herself writing, in case she gets accused
+1. 🤖 "Readers seem more hesitant to take a chance on independent authors"
 
-Posted this morning: an author who heard about the Daggermouth AI accusations partway through her first draft now records herself every time she works on the book. Hours of footage, jokes and complaints included — her plan is to put it on YouTube so that if an accusation ever comes she can point at it and say "happy sleuthing." Her practical snag is almost funnier than the plan: her full name shows every time File Explorer is open, so anonymising it all would take forever. The background, for anyone who missed it: academics ran more than 14,000 Kindle ebooks through the detector Pangram and Daggermouth came back flagged at around 60% AI; H.M. Wolfe denies it flatly, Simon & Schuster says the book cleared its normal editorial process, and The Atlantic separately found the same tool flagging a New York Times Modern Love column above 60%. The tools are not reliable enough to convict anyone, and that is exactly why writers are starting to keep receipts.
+An author who published their third book yesterday noticed something absent when they published their first two, five years ago: readers are warier now. Their reading is that the flood of AI-generated books — text and covers alike — has cost indie publishing the benefit of the doubt, so a genuine independent author has to work harder for that first chance from a stranger. They end by asking whether it is just them, which is the right way to ask. If they are right, the cost of the AI-slop wave is not landing on the people producing it.
 
-🔗 https://old.reddit.com/r/selfpublish/comments/1w3xps8/recording_myself_writing_to_fight_ai_accusations/
+🔗 https://old.reddit.com/r/selfpublish/comments/1w4lrjb/indie_authors_and_their_struggle_to_stand_out/
 
-💬 Do you keep anything that would prove a manuscript is yours — drafts, version history, notes — and had you thought of it as evidence before now?
-
-
-2. 🤖 "EM DASH DRAMA!"
-
-Also this morning, and the same anxiety in miniature: an author is seriously considering going through her book and replacing every em dash with an ellipsis, because the em dash has become folk-shorthand for AI writing. Her words: "I really do NOT want AI allegations on me." It is worth sitting with what that means — a piece of ordinary English punctuation, used by writers for centuries, being edited out of a book by a human author to avoid being mistaken for a machine.
-
-🔗 https://old.reddit.com/r/selfpublish/comments/1w405nu/em_dash_drama/
-
-💬 Have you changed anything in your actual prose — punctuation, a habit, a favourite word — to avoid looking AI-written?
+💬 Has your own buying changed — are you more cautious now about an unknown indie author than you were two years ago?
 
 
-3. What are the signs of a bad editor?
+2. Six hours from publication to the first scam email
 
-A writer asked yesterday how you tell an unprofessional editor from a good one, with a specific test in mind: if your editor is not finding the issues your beta readers found, is that a red flag? It is a genuinely useful question because most of us hire an editor exactly once before we know what good looks like, and the money is gone either way.
+An author posted yesterday that within hours of going live they had their first approach flogging promotion services. What makes it worth reading is the mechanics: their email is published nowhere, so whoever sent it found their website, ran their book through an AI to produce a long complimentary summary, and used that as the opener. They are not upset, they are grateful — they say the scam stories shared in that room are exactly why they recognised it. Warned is armed.
 
-🔗 https://old.reddit.com/r/writing/comments/1w3t6s5/signs_of_a_bad_editor/
+🔗 https://old.reddit.com/r/selfpublish/comments/1w4fgzb/less_than_6_hours_before_getting_my_first_scam/
 
-💬 What told you your editor was worth the money — or wasn't — and how quickly did you know?
-
-
-4. A bad review for a mistake you have already fixed
-
-An author posted this morning about a Goodreads review criticising a time-continuity slip — a journey that takes a few hours out and under an hour back. They have corrected the file. The review stays. Their worry is that it will put readers off, and the awkward truth is that reviews attach to the book rather than to the edition, so a fixed error can go on being reported for years.
-
-🔗 https://old.reddit.com/r/selfpublish/comments/1w40soy/bad_review_for_continuity_issue_that_i_fixed/
-
-💬 Have you updated a published file after a review pointed at something real — and did you say anywhere that you had?
+💬 How quickly did your first pitch arrive after publishing — and what gave it away?
 
 
-5. Trying to publish in English from Iran
+3. Ninety-nine cents a day, and two ARC sign-ups a day
 
-A writer asked yesterday whether there is any route to publishing an English ebook from Iran, since KDP is closed to them, and their book is dark romance so publishing it in Persian is not an option either. It is a reminder that the platform access most of this room takes as background is a geography question for a lot of writers, and that "just put it on Amazon" is advice with a border around it.
+An author building an ARC list for a book launching at the end of the year posted their actual test yesterday: an Instagram ad showing the cover and the tropes with a call for ARC readers, pointing at a sign-up form, running at 99 cents a day for five days. It is averaging around two sign-ups a day, and they are rolling it out country by country across English-speaking markets deliberately, to compare reach and conversion. Small money, real method.
 
-🔗 https://old.reddit.com/r/selfpublish/comments/1w3oge8/does_anyone_know_a_way_to_self_publish_an_english/
+🔗 https://old.reddit.com/r/selfpublish/comments/1w4dksg/growing_my_arc_list_with_paidads_on_instagram_one/
 
-💬 Do you know of distributors that work for authors in countries KDP does not serve — and have you seen one work in practice?
-
-
-6. Coming back to a shelved book and disliking it
-
-A writer who shelved their novel for months has come back and found they still love the world and the characters and cannot stand the pacing — breakneck, no breathing room, plot that does not land. They do not want to rewrite it right now, and they are asking whether to leave it longer or go and find readers with more experience. The interesting part is that this is a diagnosis, not despair: they know exactly what is wrong.
-
-🔗 https://old.reddit.com/r/writing/comments/1w3gqtq/after_months_of_shelving_my_book_i_hate_my_book/
-
-💬 When you came back to something after months away, was the distance useful — and did you rewrite, or move on?
+💬 What does a signed-up ARC reader cost you — and what proportion of them actually review?
 
 
-7. 🎬 Austin notices are going out early
+4. Can you swear in your book description?
 
-A screenwriter reported yesterday that Austin Film Festival results are arriving ahead of the calendar — they have an email placing an original comedy pilot as a Second Rounder, sent before September even started. Posted as a heads-up rather than a boast, which is the useful spirit: if you entered, watch your inbox and your spam folder now rather than at the end of the month.
+An author with a zombie horror-comedy is close to publishing and wants a tagline ending "they were fucking wrong". They are asking, this morning, whether KDP will take exception to profanity in a description — or on a cover — and admit they are probably being paranoid but do not want to risk the account. Given the week this room has had on account terminations, "probably paranoid" is doing a lot of work.
 
-🔗 https://old.reddit.com/r/Screenwriting/comments/1w3opha/austin_notices_are_going_out_already/
+🔗 https://old.reddit.com/r/selfpublish/comments/1w4xseg/will_the_kdp_overlords_smite_me_for_profanity/
 
-💬 Have contest results ever landed in your spam — and do you enter anything with a deadline coming up?
+💬 Have you ever softened a title, blurb or cover for a retailer rather than for a reader?
+
+
+5. Going wide with an audiobook when you have no ebook
+
+A specific and genuinely useful tangle from this morning: a professionally recorded audiobook with a niche audience, a paperback already on Amazon and IngramSpark, no ebook and no plan for one — which locks the author out of publishing direct through ACX. They want wide distribution with nothing exclusive, and are asking whether they can go direct to Google Play, Spotify and Kobo and then use an aggregator for the rest, and whether two aggregators can run at once.
+
+🔗 https://old.reddit.com/r/selfpublish/comments/1w4w5as/audiobook_distribution/
+
+💬 If you have gone wide with audio, which route did you use — and would you do it the same way again?
+
+
+6. Has anyone got a talent visa as a self-published author?
+
+Asked yesterday, and rarely asked anywhere: has anyone applied for a talent or exceptional-ability visa on the strength of being a self-publisher, and if so, what did the country actually weigh — earnings, or the writing itself? A narrow question with a wide implication, because it asks what official recognition a self-published career carries when someone outside publishing has to assess it.
+
+🔗 https://old.reddit.com/r/selfpublish/comments/1w46sch/has_anyone_requested_a_talent_visa_to_any_country/
+
+💬 Has your writing career ever had to be proved to an institution — a bank, a landlord, an immigration officer — and did they accept it?
+
+
+7. Kindlepreneur returns, on Select versus wide
+
+Dave Chesson's channel has published for the first time in months: "KDP Select vs. Going Wide: Which Is Right for Your Book? (Watch Before You Enroll)", posted overnight. Select versus wide is the decision that quietly sets your next ninety days, and Kindlepreneur usually brings numbers to it. Pointer only — the title, channel and publication were verified this morning against YouTube's own records, but the video was not watched.
+
+🔗 https://www.youtube.com/watch?v=C-GviVoDGok
+
+💬 Are you in Select or wide right now — and when did you last actually re-examine that choice rather than renew it?
+
+
+8. 🎬 How much of the season do you plan before the pilot is done?
+
+A screenwriter building a body of work asked yesterday how much of the series others map out while writing the pilot — their aim being three to five genuinely solid pilots before submitting anywhere, and their reasoning that it is better to be ready for success than nihilistic about the odds. The question travels: how much of book two do you need to know before book one is finished?
+
+🔗 https://old.reddit.com/r/Screenwriting/comments/1w4pn51/for_those_who_write_pilots_how_much_of_your/
+
+💬 How far ahead do you plan a series — a full arc, a rough shape, or the next book only?
 
 
 —
-Scout notes: seven items, from yesterday and this morning, all verified this run.
+Scout notes: eight items, from yesterday and this morning, all verified this run.
 
-🤖 AI lane: two items and today's lead, both from the acceptance side rather than the tools side — what the detection climate is doing to how writers actually work. The Daggermouth background in item 1 was corroborated across several outlets this morning; it is context for a dated community post, not presented as this week's news, and the detector's own unreliability is stated alongside the accusation because both are established.
+🤖 AI lane: today's lead, from the acceptance side — the argument that the AI-book flood has cost honest indie authors reader trust they used to have. A separate news-shaped sweep for dated AI policy or detection developments returned nothing inside the seven-day window that has not already run here.
 
-YouTube lane: nothing fresh today. The RSS feeds refused across all six channels, four attempts each, so the lane ran on the channel-page route and nothing inside the seven-day window was new.
+YouTube lane: five of the six curated feeds refused this morning, so those channels were read through the channel-page route. Item 7 is the result, and it is worth recording that the two sources disagreed on its title: the channel page said "KDP Select or Wide? The Pros, Cons, and Data-Backed Way to Decide", YouTube's own record says "KDP Select vs. Going Wide: Which Is Right for Your Book? (Watch Before You Enroll)". The second is the current one — neither of its distinctive phrases appears anywhere in the channel page — so the video was retitled after posting and the page is serving a stale copy. The current title is what runs above. This is the second time in six days that check has caught a live discrepancy.
 
-A route note, because it affected the whole run: the community lanes were unreachable at first — every feed on the host our spec names returned empty, and a direct fetch came back 403. The proxy and the news sites were fine, so this was the source refusing us rather than a network fault. The lanes were recovered through the site's main host instead, and post text through each thread's own feed. One thread, on participial phrasing, could not be read either way and was left out rather than summarised from its title.
+Community lanes: the host our spec names is still refusing us, a second day running, so the lanes ran through the site's main host and post text through each thread's own feed. r/PubTips returned nothing on either route. Three otherwise-promising threads could not be read by any route this run and were left out rather than written up from their titles.
 
 Australian lane and the wider trade press were read and produced nothing inside the gate that changes anything for an indie author.
 
