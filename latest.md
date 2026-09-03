@@ -1,85 +1,85 @@
-📚 Daily Writer's Scout — Wednesday, 02 September 2026
+📚 Daily Writer's Scout — Thursday, 03 September 2026
 
-1. 🤖 "Readers seem more hesitant to take a chance on independent authors"
+1. "Does Amazon punish you for getting reviews below 5 stars?"
 
-An author who published their third book yesterday noticed something absent when they published their first two, five years ago: readers are warier now. Their reading is that the flood of AI-generated books — text and covers alike — has cost indie publishing the benefit of the doubt, so a genuine independent author has to work harder for that first chance from a stranger. They end by asking whether it is just them, which is the right way to ask. If they are right, the cost of the AI-slop wave is not landing on the people producing it.
+An ARC reader who reviews widely to support indie authors asked yesterday whether something they had read is true — that Amazon will not let you advertise a book rated 3, and hides it from recommendations and search the further it falls below 5. They are worried that their honest 4-star reviews are damaging the books they meant to help. Worth flagging carefully: we went looking this morning and could NOT find that rule anywhere in Amazon's published advertising eligibility requirements, which name account standing and availability rather than star ratings. That is not proof it does not happen — nobody outside Amazon can see the ranking machinery — but it does mean the specific claim circulating here is not something Amazon has published, and a reader has already started second-guessing honest reviews because of it.
 
-🔗 https://old.reddit.com/r/selfpublish/comments/1w4lrjb/indie_authors_and_their_struggle_to_stand_out/
+🔗 https://old.reddit.com/r/selfpublish/comments/1w5b255/does_amazon_punish_you_for_getting_reviews_below/
 
-💬 Has your own buying changed — are you more cautious now about an unknown indie author than you were two years ago?
-
-
-2. Six hours from publication to the first scam email
-
-An author posted yesterday that within hours of going live they had their first approach flogging promotion services. What makes it worth reading is the mechanics: their email is published nowhere, so whoever sent it found their website, ran their book through an AI to produce a long complimentary summary, and used that as the opener. They are not upset, they are grateful — they say the scam stories shared in that room are exactly why they recognised it. Warned is armed.
-
-🔗 https://old.reddit.com/r/selfpublish/comments/1w4fgzb/less_than_6_hours_before_getting_my_first_scam/
-
-💬 How quickly did your first pitch arrive after publishing — and what gave it away?
+💬 Would you rather have an honest 4-star review or no review at all — and has a 3 or 4 ever visibly hurt a book of yours?
 
 
-3. Ninety-nine cents a day, and two ARC sign-ups a day
+2. Self-publishing because regular work is not possible
 
-An author building an ARC list for a book launching at the end of the year posted their actual test yesterday: an Instagram ad showing the cover and the tropes with a call for ARC readers, pointing at a sign-up form, running at 99 cents a day for five days. It is averaging around two sign-ups a day, and they are rolling it out country by country across English-speaking markets deliberately, to compare reach and conversion. Small money, real method.
+An author asked yesterday whether others came to self-publishing because a chronic illness made steady employment unworkable. Theirs is picture books, something they have always wanted to make, and they are asking plainly how it is going for people in the same position. Not a craft question or a marketing one — a working-conditions question, and one this trade very rarely puts in writing.
 
-🔗 https://old.reddit.com/r/selfpublish/comments/1w4dksg/growing_my_arc_list_with_paidads_on_instagram_one/
+🔗 https://old.reddit.com/r/selfpublish/comments/1w5o0tg/chronic_illness_and_self_publishing/
 
-💬 What does a signed-up ARC reader cost you — and what proportion of them actually review?
-
-
-4. Can you swear in your book description?
-
-An author with a zombie horror-comedy is close to publishing and wants a tagline ending "they were fucking wrong". They are asking, this morning, whether KDP will take exception to profanity in a description — or on a cover — and admit they are probably being paranoid but do not want to risk the account. Given the week this room has had on account terminations, "probably paranoid" is doing a lot of work.
-
-🔗 https://old.reddit.com/r/selfpublish/comments/1w4xseg/will_the_kdp_overlords_smite_me_for_profanity/
-
-💬 Have you ever softened a title, blurb or cover for a retailer rather than for a reader?
+💬 If you write around a condition, a carer role, or unpredictable energy, what have you changed about HOW you work rather than what you write?
 
 
-5. Going wide with an audiobook when you have no ebook
+3. What does line editing actually cost?
 
-A specific and genuinely useful tangle from this morning: a professionally recorded audiobook with a niche audience, a paperback already on Amazon and IngramSpark, no ebook and no plan for one — which locks the author out of publishing direct through ACX. They want wide distribution with nothing exclusive, and are asking whether they can go direct to Google Play, Spotify and Kobo and then use an aggregator for the rest, and whether two aggregators can run at once.
+Asked yesterday, and usefully specific: low, medium and high estimates for line editing a 100,000-word LitRPG novel, plus where to hire and what to look for. The specificity is what makes it answerable — genre, length and budget band, rather than "how much is an editor". Pair it with Tuesday's thread on the signs of a bad one and you have most of what a first-timer needs before spending anything.
 
-🔗 https://old.reddit.com/r/selfpublish/comments/1w4w5as/audiobook_distribution/
+🔗 https://old.reddit.com/r/selfpublish/comments/1w555h1/how_much_does_line_editing_cost_on_average/
 
-💬 If you have gone wide with audio, which route did you use — and would you do it the same way again?
-
-
-6. Has anyone got a talent visa as a self-published author?
-
-Asked yesterday, and rarely asked anywhere: has anyone applied for a talent or exceptional-ability visa on the strength of being a self-publisher, and if so, what did the country actually weigh — earnings, or the writing itself? A narrow question with a wide implication, because it asks what official recognition a self-published career carries when someone outside publishing has to assess it.
-
-🔗 https://old.reddit.com/r/selfpublish/comments/1w46sch/has_anyone_requested_a_talent_visa_to_any_country/
-
-💬 Has your writing career ever had to be proved to an institution — a bank, a landlord, an immigration officer — and did they accept it?
+💬 What did you pay per thousand words for a line edit, and would you pay it again?
 
 
-7. Kindlepreneur returns, on Select versus wide
+4. How do you know a platform's sales figures are real?
 
-Dave Chesson's channel has published for the first time in months: "KDP Select vs. Going Wide: Which Is Right for Your Book? (Watch Before You Enroll)", posted overnight. Select versus wide is the decision that quietly sets your next ninety days, and Kindlepreneur usually brings numbers to it. Pointer only — the title, channel and publication were verified this morning against YouTube's own records, but the video was not watched.
+A writer considering Payhip for direct ebook sales asked yesterday how anyone can be sure the analytics are honest — that every purchase is actually reported back rather than quietly kept. They apologise for sounding sceptical. They should not: it is the right question about any dashboard you cannot audit, and the practical answers (payment processor records on your own side, reconciling against your bank rather than the seller's panel) are worth knowing before you pick a store.
 
-🔗 https://www.youtube.com/watch?v=C-GviVoDGok
+🔗 https://old.reddit.com/r/selfpublish/comments/1w5cosw/how_do_you_know_if_the_analytics_are_real/
 
-💬 Are you in Select or wide right now — and when did you last actually re-examine that choice rather than renew it?
+💬 Do you reconcile a platform's reported sales against your own payment records — and have the two ever disagreed?
 
 
-8. 🎬 How much of the season do you plan before the pilot is done?
+5. Two old Amazon accounts, and a cold sweat before publishing
 
-A screenwriter building a body of work asked yesterday how much of the series others map out while writing the pilot — their aim being three to five genuinely solid pilots before submitting anywhere, and their reasoning that it is better to be ready for success than nihilistic about the odds. The question travels: how much of book two do you need to know before book one is finished?
+An author editing a novel for KDP realised, in their words, in a cold sweat a few nights ago that they have two Amazon accounts — one made in high school with an old address and bank details, one from college that is current. Both personal, neither created to game anything. They are asking what to do before publishing, because the warnings about multiple accounts are everywhere. Given the fortnight this room has had on terminations, sorting it out first rather than finding out afterwards looks like the right instinct.
 
-🔗 https://old.reddit.com/r/Screenwriting/comments/1w4pn51/for_those_who_write_pilots_how_much_of_your/
+🔗 https://old.reddit.com/r/selfpublish/comments/1w52jg4/question_about_multiple_amazon_accounts/
 
-💬 How far ahead do you plan a series — a full arc, a rough shape, or the next book only?
+💬 Did you check your account history before you published — and would you know today if you had a duplicate?
+
+
+6. When the prose is technically fine and still feels wrong
+
+A writer described something most of us recognise and few of us can name: reading a passage, knowing something is missing, and finding on inspection that everything is present — description, dialogue, interiority, action, exposition — with sentence structure, vocabulary and rhythm all apparently sound. And it still feels off. They are asking what the missing component actually is. A genuinely good craft thread, because the honest answer is contested.
+
+🔗 https://old.reddit.com/r/writing/comments/1w5bnhq/when_you_read_someones_writing_and_the_prose/
+
+💬 When you can feel that something is wrong but not name it, what do you do — cut, rewrite from memory, or leave it and come back?
+
+
+7. Redesigning an author business for the market that actually exists
+
+The Creative Penn published a new episode yesterday: "How To Redesign Your Author Business For The Environment That Actually Exists, With Tracy Cooper-Posey". The title alone is the useful provocation — most author business advice describes a market from a few years ago. Pointer only: the title, channel and publication were verified this morning against YouTube's own records, and the episode was not listened to.
+
+🔗 https://www.youtube.com/watch?v=PzQCZNxBKZI
+
+💬 What part of your author business is built for conditions that have already changed?
+
+
+8. 🎬 A producer found the script on the Black List. Now what?
+
+Nine months into screenwriting, an author has had a producer find their horror feature on the Black List and ask for a meeting next week. They have checked the webcam and tidied the background, and are asking, sensibly, whether they should prepare or bring anything. The question travels straight across to authors: when someone with money finally wants to talk about your book, what should already be written down?
+
+🔗 https://old.reddit.com/r/Screenwriting/comments/1w56g6q/meeting_with_a_producer_do_i_need_to_prep/
+
+💬 If a publisher or producer asked to talk tomorrow, what would you want ready — and do you have it?
 
 
 —
 Scout notes: eight items, from yesterday and this morning, all verified this run.
 
-🤖 AI lane: today's lead, from the acceptance side — the argument that the AI-book flood has cost honest indie authors reader trust they used to have. A separate news-shaped sweep for dated AI policy or detection developments returned nothing inside the seven-day window that has not already run here.
+🤖 AI lane: quiet today. Both required query shapes were run — tool-named (Sudowrite, NovelCrafter, ProWritingAid, Atticus, Vellum, Scrivener for September) and news-shaped (author AI detection and retailer policy for 2 and 3 September). Nothing dated inside the seven-day window: the strongest results were an Elsevier screening rollout from March, two trad cancellations from earlier in the year, and academic-publishing disclosure guides. All out of gate.
 
-YouTube lane: five of the six curated feeds refused this morning, so those channels were read through the channel-page route. Item 7 is the result, and it is worth recording that the two sources disagreed on its title: the channel page said "KDP Select or Wide? The Pros, Cons, and Data-Backed Way to Decide", YouTube's own record says "KDP Select vs. Going Wide: Which Is Right for Your Book? (Watch Before You Enroll)". The second is the current one — neither of its distinctive phrases appears anywhere in the channel page — so the video was retitled after posting and the page is serving a stale copy. The current title is what runs above. This is the second time in six days that check has caught a live discrepancy.
+YouTube lane: all six RSS feeds refused this morning, so the lane ran on the channel-page route with the title of item 7 confirmed against YouTube's own record before carrying. Also worth recording: yesterday's edition noted that a Kindlepreneur video's page title and YouTube's record disagreed. The page has now caught up and matches — the third time that lag has been observed and resolved the same way.
 
-Community lanes: the host our spec names is still refusing us, a second day running, so the lanes ran through the site's main host and post text through each thread's own feed. r/PubTips returned nothing on either route. Three otherwise-promising threads could not be read by any route this run and were left out rather than written up from their titles.
+Community lanes: the host our spec names refused us for a third day, so all four lanes ran through the site's main host, and every post above was read through its own thread feed rather than summarised from a title. Nothing was dropped for unreadability today.
 
 Australian lane and the wider trade press were read and produced nothing inside the gate that changes anything for an indie author.
 
