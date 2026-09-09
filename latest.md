@@ -1,87 +1,97 @@
-📚 Daily Writer's Scout — Tuesday, 08 September 2026
+📚 Daily Writer's Scout — Wednesday, 09 September 2026
 
-1. A ten-month warning about a publishing service, and how the author checked it
+1. 🤖 OpenAI's GPT-6 Astra is out, and it is already inside Sudowrite
 
-An author posted yesterday about roughly ten months as a paying customer of a company called Prime Book Publisher, and what they did after the project went wrong: they took it to the Alliance of Independent Authors, who told them in writing that the operation was already known to them and named several other trading names associated with it. Stated carefully, because it matters: that alias list is the author's account of what ALLi told them, and we could not independently confirm it from ALLi's public pages this morning. The transferable lesson does not depend on the names though — if a service goes wrong, ALLi will tell you what they already know about it, and asking costs nothing.
+OpenAI launched GPT-6 Astra on 3 September, calling it their most capable model yet, and Sudowrite added it to Write, Draft and Plugins on 5 September. Sudowrite's own release note tells authors what to expect in plain terms: stronger continuity across chapters and tighter adherence to a Story Bible, with prose quality still an open question they are asking users to judge. Sudowrite also added Claude Fable 5.1 on 2 September, flagging fewer false refusals on dark or heated story content.
 
-🔗 https://old.reddit.com/r/selfpublish/comments/1wa258r/i_wish_someone_had_warned_mebn_publishers_amazon/
+🔗 https://releasebot.io/updates/sudowrite
 
-💬 Before you pay a publishing service, do you check it anywhere — and would you know where to ask?
-
-
-2. "People selling shovels to dig for almost nonexistent gold"
-
-Asked yesterday what advice they would give a beginner, one author gave the least commercial answer in the thread. Be cautious: the self-publishing world is full of people selling tools for a gold rush that mostly is not there. Their own practice follows from it — in their country editing is absurdly expensive and, on their tracking, almost never earns itself back, so they buy copyediting only, at a good price. You do not have to agree with the conclusion to find the reasoning useful, because it is built on what they measured rather than on what they hoped.
-
-🔗 https://old.reddit.com/r/selfpublish/comments/1wa75ks/what_advice_would_you_personally_give_someone/
-
-💬 What is the one thing you paid for that did earn its money back — and the one that didn't?
+💬 If you use an AI tool in any part of your process, does swapping the underlying model actually change your output — or does your own prompting matter more than which engine is behind it?
 
 
-3. A release date set four months out, and the regret that followed
+2. A Goodreads scam is targeting authors — and Bonnier has bought Nextory
 
-An author releasing their second book next Friday posted yesterday that they think their pre-release promo period was too long. The book has been worked on for over a decade, was in releasable shape back in May, and they chose September to land it about six weeks before Halloween. Now they are looking at the stretch between "ready" and "out" and wondering what it cost them in momentum. Useful for anyone about to pick a date for seasonal reasons.
+ALLi's news summary of 8 September flags a fresh grift: emails promising to place your book high in Goodreads Listopia lists for a fee. It surfaced when a nonfiction author received a pitch addressed to a long-dead historical figure, which is the tell — but the scheme itself is real and aimed squarely at authors who want visibility. The same summary reports that Sweden's Bonnier, which owns BookBeat, has completed its acquisition of audiobook platform Nextory, sharpening the fight with Storytel across the Nordics; indies wanting Nextory reach still go through a distributor rather than direct.
 
-🔗 https://old.reddit.com/r/selfpublish/comments/1w9wviv/i_think_my_prerelease_promo_period_was_too_long/
+🔗 https://selfpublishingadvice.org/bonnier-buys-nextory/
 
-💬 How long is your gap between finishing and publishing — and has a long run-up ever helped you?
-
-
-4. Getting a book back after the publisher let it die
-
-A practical rights question from yesterday. Their book has been on Amazon since 2022 under a pseudonym with a known publisher, and it died. They want to add about fifteen pages to a 600-page text and republish it themselves under their real name, changing nothing else. The mechanics are answerable, but the thread is worth reading for what has to be true first — rights actually reverted, in writing — before any of the rest matters.
-
-🔗 https://old.reddit.com/r/selfpublish/comments/1w9qxyt/how_to_self_republish_an_existing_book_already/
-
-💬 Have you got rights back on a book — and how long did it take from asking to holding them?
+💬 What is the most convincing scam pitch that has landed in your author inbox — and what gave it away?
 
 
-5. How often should a novel come out?
+3. 🤖 "People keep asking if my novel is AI" — an author accused over Grammarly
 
-An author who self-published historical fiction in April is halfway through the second book, aiming to finish the draft by Christmas, and asks a question that gets shouted down more often than answered: is a well-written novel every 12 to 15 months good practice? Sales on the first were low; they intend to build rather than chase. The honest answer depends on genre and on what you can sustain, which is exactly why the room's range of replies is the useful part.
+A self-published author posted on 8 September that readers repeatedly ask whether their novel is AI-written. Someone ran the book's text and blurb through an AI detector, got a "human/AI mixed" reading, and is now arguing that using Grammarly for corrections disqualifies the author from calling the work their own. The author is caught between staying silent and looking like an admission, or engaging with people who treat any tool as disqualifying.
 
-🔗 https://old.reddit.com/r/selfpublish/comments/1wa4vm7/self_published_my_historical_fiction_in_april_how/
+🔗 https://www.reddit.com/r/selfpublish/comments/1wav2xi/ai_accusation_on_my_novel/
 
-💬 What is your actual pace between books, and did trying to go faster ever cost you more than it earned?
-
-
-6. Being choosier about ARC readers the second time
-
-An author preparing the ARC round for book two of a trilogy shared a figure worth having: on their debut they accepted essentially everyone who applied, and got close to a 50% review-to-download rate. They want to be more selective now, and are asking whether it is unreasonable to ask applicants to link their review of book one. It is a good question about the line between screening and gatekeeping.
-
-🔗 https://old.reddit.com/r/selfpublish/comments/1waaooq/arc_apps_for_sequels/
-
-💬 What is your review-to-download rate on ARCs — and do you screen applicants at all?
+💬 Where do you draw your own line between a writing tool and a writing substitute — and would you say so publicly on your book page?
 
 
-7. 🎬 Is a genuinely great script bound to be found?
+4. An agent offered representation without reading the book
 
-A screenwriter put the old argument up yesterday: if a nobody with no connections writes a phenomenal script, makes a decent effort to get it in front of people, and never stops — does it get discovered? They are aware it may be a well-worn question. It is worth reading anyway, because the answers people give reveal what they actually believe about how their industry works, and the same question sits under every author's decision about how long to keep querying.
+A r/PubTips post from today describes an unusual route: the author self-published four months ago, the launch was covered by two industry publications including a case study, and an agent approached them off the back of it. The offer was warm and unpressured, with a career vision beyond the one book. The detail that gave the author pause: asked whether he had read the novel, the agent said he did not need to — the premise, the sales numbers and the reviews spoke for themselves.
 
-🔗 https://old.reddit.com/r/Screenwriting/comments/1w9yneb/do_you_believe_that_if_a_script_is_truly_great_it/
+🔗 https://www.reddit.com/r/PubTips/comments/1wb5usu/pubq_i_received_an_offer_of_representation_today/
 
-💬 Do you believe good work finds its way — and has your answer changed since you started?
+💬 Would an agent offering on your numbers rather than your pages be a red flag to you, or just a different kind of business decision?
 
 
-8. Cutting detail you can defend
+5. Page reads are climbing, royalties are not
 
-A screenwriter posted yesterday about the hardest kind of cut. The advice is to use as few words as possible; their problem is that the details are load-bearing to them. The grip on the guitar matters because the guitar stands for a life she cannot get a grip on; the sidewalk needs to sound soft because a falter should read as ordinary when depression is doing the steering. Every writer who has been told to trim has had this argument with themselves. The thread is about how to tell a defensible detail from a beloved one.
+An author posted on 8 September with a problem worth sitting with: paid social campaigns and promo videos are visibly working — downloads and Kindle Unlimited page reads are both up sharply — but the income has not followed. The questions being put to the room are the right ones: judge campaigns by page reads, by royalties, or by series read-through? Is KU exposure that eventually pays, or a ceiling? And would going wide have earned more?
 
-🔗 https://old.reddit.com/r/Screenwriting/comments/1w9ua32/im_struggling_with_how_much_detail_i_have_to_cut/
+🔗 https://www.reddit.com/r/selfpublish/comments/1wapcuz/is_kindle_unlimited_helping_my_booksor_am_i/
 
-💬 What detail have you fought to keep — and were you right?
+💬 Which single number do you actually steer your advertising by — and how long did it take you to trust it?
+
+
+6. This week's UK roundup: what BookFunnel can and cannot do inside KDP Select
+
+Author Help UK's weekly news, published Monday 7 September, gathers seven author-facing pieces. The most practically useful is a clear explainer of what is and is not allowed when using BookFunnel alongside Amazon's KDP Select exclusivity — a rule people break by accident. It also carries the Authors Guild survey finding that many publishers are not registering copyright as their contracts require, plus pieces on turning free content into a mailing list and getting more downloads on a free ebook run.
+
+🔗 https://authorhelp.uk/weekly-news-7th-september-2026/
+
+💬 If you are in KDP Select, how are you handling reader magnets and ARCs without tripping the exclusivity rules?
+
+
+7. Australian market data: children's, YA and educational keep pulling the market up
+
+Books+Publishing published its Australian market report this morning, 9 September. Children's, YA and educational titles grew 7.4 per cent by value across 2025 and another 9.6 per cent in the first quarter of 2026 — the fastest-moving part of the market. Adult fiction rose 4.9 per cent to 431 million dollars, while trade nonfiction slipped slightly. The report also notes publishers and the Australian Society of Authors welcoming the Prime Minister's stated position that no company should use Australian books or art to train AI without the creator's control.
+
+🔗 https://www.booksandpublishing.com.au/articles/2026/09/09/339931/australian-market-report-childrens-ya-and-educational-continue-to-drive-growth-industry-welcomes-government-ai-stance/
+
+💬 Has category demand ever pulled you toward writing something you had not planned to write — and did it work out?
+
+
+8. Do writers owe finished series to their readers?
+
+The old GRRM argument flared up again on r/writing on 8 September, and this round is sharper than usual. One side: novels are acts of creation, made at the author's will, and nothing is owed. The other: promising deadlines and missing them for years, while readers fund your living, is a professional failure rather than an artistic one. It is a question every serial author eventually meets, usually with far fewer readers watching.
+
+🔗 https://www.reddit.com/r/writing/comments/1waibb2/do_writers_owe_novels_to_their_readers_unfinished/
+
+💬 If you write in series, what have you promised your readers about the ending — and would you say it out loud today?
+
+
+9. 🎬 The one thing that finally made it click
+
+A r/Screenwriting thread from 7 September asks working writers a precise question: which single part of the craft, once cracked, got you read, repped and sold? Concept, tension, character, conflict, emotion on the page — the answers separate writers who were nearly there from writers who were rebuilding from the ground up. Useful reading whichever form you write in.
+
+🔗 https://www.reddit.com/r/Screenwriting/comments/1w9h390/what_were_the_parts_of_screenwriting_that_once/
+
+💬 What was the last craft penny that dropped for you, and what were you getting wrong before it did?
+
+
+10. Planning the last quarter of the year
+
+Sarra Cannon posted her September planning video on 8 September, walking through her month's focus, monthly and weekly plans, and setting up for the Rough Draft Challenge and Preptober. If your writing year has drifted, September is the honest moment to look at what is left of it.
+
+🔗 https://www.youtube.com/watch?v=gwP5SB7flv4
+
+💬 What is the one book-shaped thing you still intend to finish before the year ends?
 
 
 —
-Scout notes: eight items, all from yesterday and this morning, all verified this run.
-
-🤖 AI lane: quiet today. No dated development inside the window on either strand; the settlement thread that led Sunday and Monday has not moved since.
-
-YouTube lane: nothing fresh worth carrying. Four of the six RSS feeds refused; the two that answered offered only short motivational clips, which is not a reason to fill a slot.
-
-Community lanes: a much better morning, and worth saying why. The post text this digest quotes came from the LISTING feeds themselves, not from separate per-thread fetches — every entry carries the author's own words, and this morning 51 of 52 entries did. Yesterday's thin edition was caused by fetching something we already had. r/writing still returned nothing on either host, so nothing here comes from that lane.
-
-UK, Australian and wider trade sources were read in full and carried nothing new inside the window.
+Scout notes: yesterday's edition ran, so nothing is being carried over. YouTube lane — five of six channel feeds refused this run after four attempts each; Heart Breathings' feed answered, and the channel-page fallback on the other five returned nothing newer than videos already featured. AI lane — both query shapes were run; today's tools item came from reading Sudowrite's release notes directly rather than from search, and GPT-6 Astra's release was confirmed against news coverage. Reddit — r/Screenwriting returned a rate-limit response on the first pass and answered on retry. ALLi's news listing page again served only its index, so the dated summaries were read from ALLi's own feed.
 
 —
 Curated daily for this community. Spotted something worth sharing?
