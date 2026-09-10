@@ -1,97 +1,97 @@
-📚 Daily Writer's Scout — Wednesday, 09 September 2026
+📚 Daily Writer's Scout — Thursday, 10 September 2026
 
-1. 🤖 OpenAI's GPT-6 Astra is out, and it is already inside Sudowrite
+1. KDP has quietly doubled your pre-order runway
 
-OpenAI launched GPT-6 Astra on 3 September, calling it their most capable model yet, and Sudowrite added it to Write, Draft and Plugins on 5 September. Sudowrite's own release note tells authors what to expect in plain terms: stronger continuity across chapters and tighter adherence to a Story Bible, with prose quality still an open question they are asking users to judge. Sudowrite also added Claude Fable 5.1 on 2 September, flagging fewer false refusals on dark or heated story content.
+Amazon's own KDP help page now states that a Kindle ebook pre-order created on or after 2 September can carry a release date up to 18 months ahead — up from 12. Pre-orders created before that date keep the old one-year limit, and the postponement allowance also changed for new pre-orders. It is still ebooks only; there is no true pre-order for print. For anyone planning a series, that is a genuinely longer runway for building a pre-order list before you have a finished manuscript.
 
-🔗 https://releasebot.io/updates/sudowrite
+🔗 https://kdp.amazon.com/en_US/help/topic/G201499380
 
-💬 If you use an AI tool in any part of your process, does swapping the underlying model actually change your output — or does your own prompting matter more than which engine is behind it?
-
-
-2. A Goodreads scam is targeting authors — and Bonnier has bought Nextory
-
-ALLi's news summary of 8 September flags a fresh grift: emails promising to place your book high in Goodreads Listopia lists for a fee. It surfaced when a nonfiction author received a pitch addressed to a long-dead historical figure, which is the tell — but the scheme itself is real and aimed squarely at authors who want visibility. The same summary reports that Sweden's Bonnier, which owns BookBeat, has completed its acquisition of audiobook platform Nextory, sharpening the fight with Storytel across the Nordics; indies wanting Nextory reach still go through a distributor rather than direct.
-
-🔗 https://selfpublishingadvice.org/bonnier-buys-nextory/
-
-💬 What is the most convincing scam pitch that has landed in your author inbox — and what gave it away?
+💬 Do you open pre-orders early to gather momentum, or hold off until the book is finished so you never risk a postponement?
 
 
-3. 🤖 "People keep asking if my novel is AI" — an author accused over Grammarly
+2. 🤖 Google Play Books now lets readers interrogate the book itself
 
-A self-published author posted on 8 September that readers repeatedly ask whether their novel is AI-written. Someone ran the book's text and blurb through an AI detector, got a "human/AI mixed" reading, and is now arguing that using Grammarly for corrections disqualifies the author from calling the work their own. The author is caught between staying silent and looking like an admission, or engaging with people who treat any tool as disqualifying.
+ALLi reported on 3 September that Google Play Books has launched "Expert Intelligence", which lets a reader ask questions about an ebook they have bought. It is AI, but narrow: it draws only on the purchased title rather than a general model, and Google has been working with authors to add extra notes — closer to a director's commentary than a chatbot. It is limited to traditionally published nonfiction for now, and Google says consent from authors and publishers was secured first, which is why the Authors Guild has responded warmly rather than furiously.
 
-🔗 https://www.reddit.com/r/selfpublish/comments/1wav2xi/ai_accusation_on_my_novel/
+🔗 https://selfpublishingadvice.org/google-play-books-launches-expert-intelligence/
 
-💬 Where do you draw your own line between a writing tool and a writing substitute — and would you say so publicly on your book page?
-
-
-4. An agent offered representation without reading the book
-
-A r/PubTips post from today describes an unusual route: the author self-published four months ago, the launch was covered by two industry publications including a case study, and an agent approached them off the back of it. The offer was warm and unpressured, with a career vision beyond the one book. The detail that gave the author pause: asked whether he had read the novel, the agent said he did not need to — the premise, the sales numbers and the reviews spoke for themselves.
-
-🔗 https://www.reddit.com/r/PubTips/comments/1wb5usu/pubq_i_received_an_offer_of_representation_today/
-
-💬 Would an agent offering on your numbers rather than your pages be a red flag to you, or just a different kind of business decision?
+💬 If a retailer offered this on your book with your consent and your own added notes, would you say yes — and what would you want to add?
 
 
-5. Page reads are climbing, royalties are not
+3. A new study says library e-lending dents sales. Read who paid for it.
 
-An author posted on 8 September with a problem worth sitting with: paid social campaigns and promo videos are visibly working — downloads and Kindle Unlimited page reads are both up sharply — but the income has not followed. The questions being put to the room are the right ones: judge campaigns by page reads, by royalties, or by series read-through? Is KU exposure that eventually pays, or a ceiling? And would going wide have earned more?
+The Authors Guild and the Association of American Publishers have published research claiming a substitution effect: consumer print sales fall by roughly 0.85 to 1 per cent for every percentage-point rise in the ebook share of public library collections, with adult fiction at the top of that range. ALLi carried it on 5 September along with the caution that matters — their editor's advice is to weigh the funding source alongside the conclusion. The indie angle is real: unlike a traditionally published author, you personally choose whether to distribute through OverDrive and at what price.
 
-🔗 https://www.reddit.com/r/selfpublish/comments/1wapcuz/is_kindle_unlimited_helping_my_booksor_am_i/
+🔗 https://selfpublishingadvice.org/library-e-book-lending-hurts-book-sales/
 
-💬 Which single number do you actually steer your advertising by — and how long did it take you to trust it?
-
-
-6. This week's UK roundup: what BookFunnel can and cannot do inside KDP Select
-
-Author Help UK's weekly news, published Monday 7 September, gathers seven author-facing pieces. The most practically useful is a clear explainer of what is and is not allowed when using BookFunnel alongside Amazon's KDP Select exclusivity — a rule people break by accident. It also carries the Authors Guild survey finding that many publishers are not registering copyright as their contracts require, plus pieces on turning free content into a mailing list and getting more downloads on a free ebook run.
-
-🔗 https://authorhelp.uk/weekly-news-7th-september-2026/
-
-💬 If you are in KDP Select, how are you handling reader magnets and ARCs without tripping the exclusivity rules?
+💬 Are your books in libraries — and do you see library lending as lost sales or as discovery you could not buy?
 
 
-7. Australian market data: children's, YA and educational keep pulling the market up
+4. 🤖 Joanna Penn on what machines cannot replace
 
-Books+Publishing published its Australian market report this morning, 9 September. Children's, YA and educational titles grew 7.4 per cent by value across 2025 and another 9.6 per cent in the first quarter of 2026 — the fastest-moving part of the market. Adult fiction rose 4.9 per cent to 431 million dollars, while trade nonfiction slipped slightly. The report also notes publishers and the Australian Society of Authors welcoming the Prime Minister's stated position that no company should use Australian books or art to train AI without the creator's control.
+The Creative Penn published an interview yesterday, 9 September, titled "What Machines Can't Replace: Why AI Makes Us More Human", with Anna McPhee. Flagging it as a pointer only — YouTube's feeds were unreachable this morning, so this comes from the channel page and we have not watched it. Penn has been one of the steadier voices on this beat for years, on both sides of the argument.
 
-🔗 https://www.booksandpublishing.com.au/articles/2026/09/09/339931/australian-market-report-childrens-ya-and-educational-continue-to-drive-growth-industry-welcomes-government-ai-stance/
+🔗 https://www.youtube.com/watch?v=XGAq5Lz-GuI
 
-💬 Has category demand ever pulled you toward writing something you had not planned to write — and did it work out?
-
-
-8. Do writers owe finished series to their readers?
-
-The old GRRM argument flared up again on r/writing on 8 September, and this round is sharper than usual. One side: novels are acts of creation, made at the author's will, and nothing is owed. The other: promising deadlines and missing them for years, while readers fund your living, is a professional failure rather than an artistic one. It is a question every serial author eventually meets, usually with far fewer readers watching.
-
-🔗 https://www.reddit.com/r/writing/comments/1waibb2/do_writers_owe_novels_to_their_readers_unfinished/
-
-💬 If you write in series, what have you promised your readers about the ending — and would you say it out loud today?
+💬 What is the part of your writing you would not hand over to a machine even if it did it competently?
 
 
-9. 🎬 The one thing that finally made it click
+5. Register your author domain before you tell anyone you exist
 
-A r/Screenwriting thread from 7 September asks working writers a precise question: which single part of the craft, once cracked, got you read, repped and sold? Concept, tension, character, conflict, emotion on the page — the answers separate writers who were nearly there from writers who were rebuilding from the ground up. Useful reading whichever form you write in.
+A software engineer posted a sharp practical tip on 9 September: register the domain for your author name or pen name before you go public anywhere — before the website, before submission trackers, before the announcement. Bots watch for new author names and register the matching domain to sell it back at a premium, and some registrars will grab a name you merely searched for. The recommendation in the thread is a registrar that sells domains at cost and does not register on search.
 
-🔗 https://www.reddit.com/r/Screenwriting/comments/1w9h390/what_were_the_parts_of_screenwriting_that_once/
+🔗 https://www.reddit.com/r/selfpublish/comments/1wbezh8/tip_register_the_website_domain_before_going/
 
-💬 What was the last craft penny that dropped for you, and what were you getting wrong before it did?
+💬 Did you get your author-name domain, or was it gone by the time you looked?
 
 
-10. Planning the last quarter of the year
+6. "Have I been scammed?" — the slow fade, in real time
 
-Sarra Cannon posted her September planning video on 8 September, walking through her month's focus, monthly and weekly plans, and setting up for the Rough Draft Challenge and Preptober. If your writing year has drifted, September is the honest moment to look at what is left of it.
+An author posted this morning describing a cover commission that started well and then stopped: six hundred dollars agreed, paid in instalments as work progressed, drafts delivered, a favourite chosen — and then three or four weeks of nothing but family emergencies and promises. Four hundred dollars in. Whether this one ends in a cover or not, the shape is worth recognising: staged payments protected them from losing the full amount, and the silence started after the money had.
 
-🔗 https://www.youtube.com/watch?v=gwP5SB7flv4
+🔗 https://www.reddit.com/r/selfpublish/comments/1wc4y1i/have_i_been_scammed/
 
-💬 What is the one book-shaped thing you still intend to finish before the year ends?
+💬 What is in your contract with a freelancer — milestones, deadlines, kill fee — and what did you learn to add the hard way?
+
+
+7. Book awards for a debut: read the eligibility rules twice
+
+ALLi published a guide on 5 September for first-time authors thinking about awards. The useful part is the warning: "debut", "first book", "first novel" and "emerging author" are not interchangeable, and programmes define them differently — some mean your first book ever, others only your first in that genre. It also makes the point most debut authors miss: your first book is eligible for ordinary genre, format, regional and subject categories too, not just the debut ones. A win early gives you a marketing angle no later book can qualify for.
+
+🔗 https://selfpublishingadvice.org/first-time-author/
+
+💬 Have you entered your book for an award — and did it actually move any copies?
+
+
+8. How a bookstore preorder campaign really works, and where indies hit the wall
+
+A guest piece on Jane Friedman's site, published 8 September, sets out the mechanics: approach stores three to six months before release, lead with your publisher, arrange a signing the week before launch for local shops, and post flat swag to distant ones so nothing adds to shipping. It is honest about the catch — bookstores field constant requests to stock self-published books, and many either decline or want a commission arrangement. Worth reading precisely because it names the obstacle rather than pretending it is not there.
+
+🔗 https://janefriedman.com/how-to-partner-with-a-bookstore-for-a-preorder-campaign/
+
+💬 Has an independent bookshop ever said yes to you — and what did you offer them that made it worth their while?
+
+
+9. What does a short story actually need?
+
+A neat question landed on r/writing on 9 September: novels are said to need stakes, an arc and turns, but does a short story need all three — and where do novelettes and novellas sit? It is the kind of thread that gets useful fast, because short fiction is where most writers first learn what a story can survive without.
+
+🔗 https://www.reddit.com/r/writing/comments/1wbkije/what_does_a_good_short_story_need/
+
+💬 What is the one thing a short story cannot do without, in your experience?
+
+
+10. 🎬 Loud voice or clean page?
+
+A screenwriter asked on 9 September which serves a script better: a distinctive voice on the page that marks you out, or ruthless economy that makes the read effortless. They already expect the answer to be "both", and want to know how that is actually done. Novelists face the identical trade-off in a query letter and an opening chapter.
+
+🔗 https://www.reddit.com/r/Screenwriting/comments/1wb7p3r/is_it_better_to_have_a_strong_voice_or_have_a/
+
+💬 Where does your own style earn its keep, and where have you learned to get out of the reader's way?
 
 
 —
-Scout notes: yesterday's edition ran, so nothing is being carried over. YouTube lane — five of six channel feeds refused this run after four attempts each; Heart Breathings' feed answered, and the channel-page fallback on the other five returned nothing newer than videos already featured. AI lane — both query shapes were run; today's tools item came from reading Sudowrite's release notes directly rather than from search, and GPT-6 Astra's release was confirmed against news coverage. Reddit — r/Screenwriting returned a rate-limit response on the first pass and answered on retry. ALLi's news listing page again served only its index, so the dated summaries were read from ALLi's own feed.
+Scout notes: yesterday's edition ran, so nothing is being carried over. YouTube lane — every one of the six channel feeds refused this morning after four attempts each, so the whole lane ran on the channel-page fallback; both video titles were confirmed against YouTube's own oEmbed data, which caught a retitle on the KDP news video, and video items stay title-and-date pointers because descriptions are not available on that route. AI lane — both query shapes were run, and today's items came from reading ALLi's feed and the channel pages directly. The KDP pre-order change was confirmed on Amazon's own help page, not from the video. Reddit — r/writing returned rate-limit responses twice before answering. Two strong stories were held back by the ledger as already covered within 45 days.
 
 —
 Curated daily for this community. Spotted something worth sharing?
