@@ -1,97 +1,88 @@
-📚 Daily Writer's Scout — Friday, 11 September 2026
+📚 Daily Writer's Scout — Saturday, 12 September 2026
 
-1. 🤖 61 per cent of writers now use AI. The other 39 per cent have not moved an inch.
+1. 🤖 Jane Friedman: most of what writers fear about AI is not what is actually happening
 
-The second annual AI and the Writing Profession survey, run by Gotham Ghostwriters with Bernoff.com and reported by ALLi on 10 September, puts hard numbers on something the room already feels. Among writers who use AI, 92 per cent say it has made them more productive and 59 per cent say it has improved the quality of their work. Among writers who do not use it, just 3 per cent see it as a positive force for the profession. That is not a spectrum, it is two rooms — and the report names the gap as an attitudinal divide rather than a skills one.
+Published yesterday, 11 September, and it lands squarely against the survey we carried on Friday. Friedman takes three widespread fears and argues each is bigger than the evidence. That a publishing professional will secretly run your work through AI — mostly unavoidable, rarely malicious. That you will be falsely accused by a detector — she says detection works reasonably well on a full manuscript, and the panic outruns the documented harm. That using Grammarly will disqualify you — she draws the line at generating, not tidying. She also names the fear she thinks IS justified: service providers quietly using AI without the expertise to check the output, and handing you worse work for the same money.
 
-🔗 https://selfpublishingadvice.org/ai-survey-reveals-deep-divide-among-writers/
+🔗 https://janefriedman.com/writers-ai-fears-often-run-ahead-of-the-facts/
 
-💬 Which room are you in — and has anything in the last year moved you even slightly toward the other one?
-
-
-2. 🤖 The US government has told a court that training AI on your book is fair use
-
-The Department of Justice filed a statement of interest on 1 September in the consolidated copyright case against OpenAI and Microsoft, where The New York Times is a plaintiff. The twenty-page filing argues that training a large language model on copyrighted text is "extraordinarily transformative" because the copies teach statistical relationships rather than reproduce the work, and warns that restricting it would harm competitiveness and national security. A statement of interest is not binding and the government is not a party — but this is the first time it has formally taken a side in the wave of author and publisher lawsuits.
-
-🔗 https://thelegalwire.ai/u-s-doj-backs-fair-use-arguments-for-ai-training-in-the-new-york-times-copyright-case/
-
-💬 Does a government filing like this change what you would sign, or what you would put in a rights clause, the next time you license your work?
+💬 Which of your own worries about AI have you actually tested against evidence — and did the evidence agree with you?
 
 
-3. Scammers are impersonating Author Help on Facebook Messenger
+2. ALLi on traditional publishing versus indie
 
-Author Help published a warning on 10 September: fake accounts using their stolen website graphics, contacting authors through Facebook Messenger, offering a free book spotlight and then following up with paid "services" — one quoted five hundred dollars for a marketing funnel. One account used the name "Robin Phillips (Book Feature Hub)". Their test is simple and worth borrowing for any approach you get: ask for a company email address. Every genuine Author Help address ends in authorhelp.uk; the scammer produced a Gmail address instead.
+The Alliance of Independent Authors posted "Traditional Publishing vs. Indie: What Every Author Needs to Know" yesterday, 11 September. Pointer only — YouTube's feeds refused us for the third morning running, so this comes from the channel page and we have not watched it; the title is confirmed against YouTube's own records. Worth a look given the week's Simon Stream conversation and how many indies are weighing a hybrid route right now.
 
-🔗 https://authorhelp.uk/scammers-impersonating-author-help/
+🔗 https://www.youtube.com/watch?v=DIusnTBOk9o
 
-💬 What is your own first check when a stranger offers to promote your book — and has anyone ever failed it in an obvious way?
-
-
-4. KDP rejected a cover eleven times over a rule that is not in the specs
-
-An author wrote up a genuinely useful ordeal on 10 September. Their paperback cover has text wrapping from the back, across the spine, onto the front — a deliberate joke that splits across panels, designed professionally, with every letter inside the safe zones and the previewer passing it each time. Eleven rejections later, after pushing support for a specific answer, they got one: whole words cannot cross between panels, full stop, wherever the letters sit. They could not find that rule in the published specs, and say it still is not there.
-
-🔗 https://www.reddit.com/r/selfpublish/comments/1wcj9nk/kdp_rejected_my_cover_11_times_over_a_rule_that/
-
-💬 What is the undocumented platform rule you only learned by breaking it?
+💬 If a publisher offered for a book you had already self-published, what would the deal have to contain before you said yes?
 
 
-5. A boxed set you cannot actually sell
+3. What does it actually cost to publish, if you spend nothing you do not have to?
 
-A second hard-won warning from the same day. An author had a deluxe boxed set printed with Bookvault — foiling, endpapers, edge art, no minimum run — on the strength of the sales channels advertised across the site. The catch discovered afterwards: bespoke editions cannot be distributed to Amazon because of turnaround times, and boxed sets have no sales channel at all except your own website through Bookvault's API plug-in. That makes an e-commerce subscription, typically around four hundred dollars a year, the price of selling them at all — and they cannot be stocked for an in-store signing.
+A practical thread from 11 September. The author has the obvious pieces — KDP for ebook and print, IngramSpark for wider print, Reedsy Studio or Kindle Create for formatting, Canva for promo graphics — and is asking what is missing, with audiobook creation and marketing named as the gaps. They are explicit that editors and designers should still be paid; this is about the machinery around them.
 
-🔗 https://www.reddit.com/r/selfpublish/comments/1wcnp3o/cannot_sell_bookvaultcreated_bespoke_boxed_sets/
+🔗 https://www.reddit.com/r/selfpublish/comments/1wdfnvi/best_tools_to_selfpublish_as_close_to_free_as/
 
-💬 Before you commit to a special edition, how do you check the sales channel actually exists — and has a printer's marketing ever run ahead of what it can do?
-
-
-6. Twenty years of indie publishing, from someone who did it twice
-
-An author who published an indie novel in 2005 and another in 2025 set out five things that changed between them on 10 September. Amazon's free discovery — the "readers who bought X also bought Y" coupling, Listmania lists — has been replaced by pay-to-play and an algorithm that rewards traffic you bring in yourself. The old stigma has gone, but so has the old respect: with the market flooded, saying you are an author now invites the suspicion that you did not write it. And the personal website that used to sell books has been replaced by social platforms that eat far more time than they return.
-
-🔗 https://www.reddit.com/r/selfpublish/comments/1wcvbm8/indie_publishing_then_and_now/
-
-💬 What worked for you five years ago that has stopped working — and what replaced it, if anything?
+💬 What is the one tool in your publishing kit you would not give up, and what did it replace?
 
 
-7. The idiot's guide to a good-enough cover
+4. "It's like shouting into the void"
 
-Also on 10 September, an author with a half-finished graphic design education wrote up practical advice for anyone making their own cover. The headline points: Canva is a tool and AI is not, but source your own images rather than trusting Canva's stock rights; set a colour scheme and one readable font early and write down the hex codes, because you will need them again for book two. It is aimed squarely at the author whose budget went to the editor, which is most first-timers.
+An honest post from 11 September, and a familiar one. An urban fantasy novel launched this month after an aggressive pre-launch campaign; people like the posts and say they will read it; sales and reviews have not followed. The author is asking whether they made a mistake or simply had unrealistic expectations, and says the money spent on marketing is the part that hurts. Anyone past their first launch has something useful to say here.
 
-🔗 https://www.reddit.com/r/selfpublish/comments/1wcm26n/the_idiots_guide_to_making_a_goodenough_cover/
+🔗 https://www.reddit.com/r/selfpublish/comments/1wdmu0k/i_feel_like_my_book_is_going_nowhere/
 
-💬 Did you make your first cover yourself — and would you do it again now you know what you know?
-
-
-8. "It reads like a screenplay." Compliment or diagnosis?
-
-A writer posted on 10 September that a film major read their first chapter and said it read like a screenplay, adding that the scenes were easy to visualise. The tone sounded like praise, but they are not sure it was. It is a better question than it looks: what actually makes prose easy to see, and at what point does visual clarity start doing the work that interiority should be doing?
-
-🔗 https://www.reddit.com/r/writing/comments/1wcyc2c/a_film_major_read_the_first_chapter_of_my_story/
-
-💬 When someone praises your writing in a way you are not sure about, do you dig into what they meant — or take the win and move on?
+💬 What did your first month of sales actually look like — and what would you tell someone standing where this author is standing?
 
 
-9. The Self Publishing Show on romance tropes
+5. Signed with a dream agent, and showed all the workings
 
-Mark Dawson and James Blatch posted episode 464, "Romance Tropes That Work For Everyone", overnight — the channel page's relative timestamp puts it on 10 September. Pointer only: YouTube's feeds refused us for the second morning running, so this comes from the channel page and we have not watched it. The title was confirmed against YouTube's own data.
+A useful one from 11 September, because it is specific rather than triumphant. A middle-grade contemporary rom-com, from a writer with self-published picture books behind them, who wrote the query FIRST — in May 2025, before the book existed — to test the premise for plot holes and intrigue on the theory that if the query did not work the book would not either. Three public query revisions across eight months, a critique group, and two paid critiques later, it ended in multiple offers. The full query and the timeline are in the post.
 
-🔗 https://www.youtube.com/watch?v=8K7GRzz3evc
+🔗 https://www.reddit.com/r/PubTips/comments/1wdsyrc/discussion_signed_with_dream_agent_after_multiple/
 
-💬 Which romance trope do you reach for even when you are not writing romance — and why does it work?
+💬 Have you ever written the pitch before the book to test whether the idea holds — and would you try it on your current project?
 
 
-10. 🎬 "Is this exclusive to your client?"
+6. How many words is a good day?
 
-A screenwriter emailed an actor's manager on 10 September about attaching her to a lead role, made clear it was an attachment contingent on financing rather than a formal offer, and got back a single question: is this exclusive to their client? They stopped and asked the room what that question actually means before replying, which is the right instinct. Any writer who has been asked something in a negotiation they did not fully understand will recognise the moment.
+Asked this morning, 12 September, and it is the question underneath most writers' guilt. The poster counts 500 words as productive, has occasional 5,000-word sessions, and also weeks where nothing gets written at all. The real question they are asking is whether to track by word count or by feel.
 
-🔗 https://www.reddit.com/r/Screenwriting/comments/1wcnkrx/talent_attachment/
+🔗 https://www.reddit.com/r/writing/comments/1we13w7/novelists_how_many_words_per_day_do_you_consider/
 
-💬 When has slowing down to ask what a term meant saved you — or when did not asking cost you?
+💬 What is your honest daily average — not your best day, your average — and does knowing it help or hurt?
+
+
+7. Build characters from their faults, not their strengths
+
+A generous craft post from 11 September. The method: never start with what a character is good at. Start with the flaws, what they find difficult, and the conflicts those will create with everyone around them. Then ask what effect each flaw has on the other characters, and whether this person would mend the damage, smooth it over, or ignore it until it detonated. Dynamics first, competence later.
+
+🔗 https://www.reddit.com/r/writing/comments/1wdjome/having_trouble_developing_your_characters/
+
+💬 Which of your characters' flaws is actually driving your plot — and did you plan it that way or discover it?
+
+
+8. 🎬 Teasing and revealing: how thrillers hold information back
+
+A screenwriter working on a horror-thriller asked on 11 September how to make a revelation both surprising and satisfying — the hard combination, since surprise alone is a cheat and satisfaction alone is predictable. They are also asking for scripts and films that taught people the genre. Novelists have exactly the same problem and rarely a room to ask it in.
+
+🔗 https://www.reddit.com/r/Screenwriting/comments/1wd49u6/tips_for_writing_thrillers_and_how_information/
+
+💬 What is the best-handled reveal you have ever read — and what made it land rather than merely shock?
+
+
+9. You cannot do it all
+
+Sarra Cannon posted "Why You Can't Do It All (And What to Do Instead)" overnight; the channel page's relative timestamp puts it on 11 September. Pointer only, from the channel page, title confirmed against YouTube's own records. A sensible companion to item 4 for anyone whose launch plan has quietly become a second job.
+
+🔗 https://www.youtube.com/watch?v=V67nzUBJYlA
+
+💬 What did you stop doing this year that you do not miss?
 
 
 —
-Scout notes: yesterday's edition ran, so nothing is being carried over. YouTube lane — all six channel feeds refused again after four attempts each, a second consecutive dark morning, so the lane ran on the channel-page fallback and the one new title was confirmed against YouTube's own oEmbed data; video items stay title-and-date pointers on that route. AI lane — both query shapes were run and the vendors' release pages were read; the two items today came from ALLi's feed and from a legal-trade report, and the DOJ filing date was checked against news coverage. Reddit — r/Screenwriting returned a rate-limit response before answering. Kindlepreneur's feed now returns a permanent gone status and will need a new route. One story was dropped because the detail sat behind a paywall, and the Anthropic settlement commentary was held as already covered this week.
+Scout notes: yesterday's edition ran, so nothing is being carried over. Nine items rather than ten, and worth saying why: Saturday's news cycle produced exactly one story that cleared the gate, so this edition leans on the community lanes and the video lane rather than padding the news out. YouTube lane — all six feeds refused for the third morning running; the channel-page fallback carried it and both new titles were confirmed against YouTube's own records. AI lane — both query shapes were run and the vendors' release pages read directly; Sudowrite's newest release note is still the one from 5 September we already carried, so the tools strand is genuinely quiet rather than unswept. ALLi's own feed was read (the listing page route was retired yesterday); its only new item repeats the library e-lending study we ran on Thursday, so the ledger held it. Reddit — two lanes returned rate-limit responses before answering.
 
 —
 Curated daily for this community. Spotted something worth sharing?
