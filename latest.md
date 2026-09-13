@@ -1,88 +1,88 @@
-📚 Daily Writer's Scout — Saturday, 12 September 2026
+📚 Daily Writer's Scout — Sunday, 13 September 2026
 
-1. 🤖 Jane Friedman: most of what writers fear about AI is not what is actually happening
+1. A publishing services company has folded, and around 100 authors are picking up the pieces
 
-Published yesterday, 11 September, and it lands squarely against the survey we carried on Friday. Friedman takes three widespread fears and argues each is bigger than the evidence. That a publishing professional will secretly run your work through AI — mostly unavoidable, rarely malicious. That you will be falsely accused by a detector — she says detection works reasonably well on a full manuscript, and the panic outruns the documented harm. That using Grammarly will disqualify you — she draws the line at generating, not tidying. She also names the fear she thinks IS justified: service providers quietly using AI without the expertise to check the output, and handing you worse work for the same money.
+ALLi reported yesterday, 12 September, that the Self-Publishing Partnership has ceased operating, leaving roughly 100 authors and 164 books stranded. The company's attempt to strike itself off at Companies House was suspended on 22 August after freelancers raised unpaid invoices. Authors are out of pocket on royalties and have print stock stuck in the distribution chain; Softwood Books has taken on many of the titles and is working with Gardners to keep them available. ALLi's diagnosis is the part worth keeping: this is what a single point of failure looks like when one intermediary holds your distribution, your files and your money at once.
 
-🔗 https://janefriedman.com/writers-ai-fears-often-run-ahead-of-the-facts/
+🔗 https://selfpublishingadvice.org/self-publishing-partnership-collapse-2/
 
-💬 Which of your own worries about AI have you actually tested against evidence — and did the evidence agree with you?
-
-
-2. ALLi on traditional publishing versus indie
-
-The Alliance of Independent Authors posted "Traditional Publishing vs. Indie: What Every Author Needs to Know" yesterday, 11 September. Pointer only — YouTube's feeds refused us for the third morning running, so this comes from the channel page and we have not watched it; the title is confirmed against YouTube's own records. Worth a look given the week's Simon Stream conversation and how many indies are weighing a hybrid route right now.
-
-🔗 https://www.youtube.com/watch?v=DIusnTBOk9o
-
-💬 If a publisher offered for a book you had already self-published, what would the deal have to contain before you said yes?
+💬 If the company handling your distribution shut its doors tomorrow, what would you lose — and how long would it take you to be selling again?
 
 
-3. What does it actually cost to publish, if you spend nothing you do not have to?
+2. Two months, 550 readers, six dollars
 
-A practical thread from 11 September. The author has the obvious pieces — KDP for ebook and print, IngramSpark for wider print, Reedsy Studio or Kindle Create for formatting, Canva for promo graphics — and is asking what is missing, with audiobook creation and marketing named as the gaps. They are explicit that editors and designers should still be paid; this is about the machinery around them.
+An author posted the whole ledger yesterday, 12 September, and it is the most useful thing in today's digest. Royalties A$1,922.99. Ad spend A$1,916.35. Net position: plus A$6.64. That is 257 orders and 150,124 KENP pages, about 550 readers, at a profit of one Australian cent each. Seventy-seven ratings, 4.6 average. Paperback was 30 of the 257 sales and cost more in proofs than it returned. All ads on Facebook; the money spent testing Canada and Australia bought almost nothing. And as they say themselves, that is before software, hosting and the rest.
 
-🔗 https://www.reddit.com/r/selfpublish/comments/1wdfnvi/best_tools_to_selfpublish_as_close_to_free_as/
+🔗 https://www.reddit.com/r/selfpublish/comments/1weaiun/after_two_months_im_6_aud_in_profit/
 
-💬 What is the one tool in your publishing kit you would not give up, and what did it replace?
-
-
-4. "It's like shouting into the void"
-
-An honest post from 11 September, and a familiar one. An urban fantasy novel launched this month after an aggressive pre-launch campaign; people like the posts and say they will read it; sales and reviews have not followed. The author is asking whether they made a mistake or simply had unrealistic expectations, and says the money spent on marketing is the part that hurts. Anyone past their first launch has something useful to say here.
-
-🔗 https://www.reddit.com/r/selfpublish/comments/1wdmu0k/i_feel_like_my_book_is_going_nowhere/
-
-💬 What did your first month of sales actually look like — and what would you tell someone standing where this author is standing?
+💬 Have you ever added up your real net position on a launch — and did the number change what you did next?
 
 
-5. Signed with a dream agent, and showed all the workings
+3. A one-star review from someone who never opened the book
 
-A useful one from 11 September, because it is specific rather than triumphant. A middle-grade contemporary rom-com, from a writer with self-published picture books behind them, who wrote the query FIRST — in May 2025, before the book existed — to test the premise for plot holes and intrigue on the theory that if the query did not work the book would not either. Three public query revisions across eight months, a critique group, and two paid critiques later, it ended in multiple offers. The full query and the timeline are in the post.
+A careful post from 12 September. A non-fiction title with no promo downloads, no free days, no ARCs out, and every copy accounted for — then a one-star review from an unknown account with nothing in it suggesting the book was read. KDP support gave the standard answer: the Community team only removes reviews that breach guidelines, use the Report link, and they will not tell you the outcome. The author is asking the questions everyone in this position asks: does reporting ever work, is there an escalation route, and does one bad early review on an otherwise empty page do lasting damage.
 
-🔗 https://www.reddit.com/r/PubTips/comments/1wdsyrc/discussion_signed_with_dream_agent_after_multiple/
+🔗 https://www.reddit.com/r/selfpublish/comments/1ween94/how_do_you_handle_a_review_from_someone_who/
 
-💬 Have you ever written the pitch before the book to test whether the idea holds — and would you try it on your current project?
-
-
-6. How many words is a good day?
-
-Asked this morning, 12 September, and it is the question underneath most writers' guilt. The poster counts 500 words as productive, has occasional 5,000-word sessions, and also weeks where nothing gets written at all. The real question they are asking is whether to track by word count or by feel.
-
-🔗 https://www.reddit.com/r/writing/comments/1we13w7/novelists_how_many_words_per_day_do_you_consider/
-
-💬 What is your honest daily average — not your best day, your average — and does knowing it help or hurt?
+💬 Have you ever had a review removed — and what, if anything, actually made the difference?
 
 
-7. Build characters from their faults, not their strengths
+4. "How do you avoid bad actors stealing your work?"
 
-A generous craft post from 11 September. The method: never start with what a character is good at. Start with the flaws, what they find difficult, and the conflicts those will create with everyone around them. Then ask what effect each flaw has on the other characters, and whether this person would mend the damage, smooth it over, or ignore it until it detonated. Dynamics first, competence later.
+A short question posted this morning, 13 September, prompted by something the author read about books being lifted and resold on Amazon under different titles. Worth saying plainly: the claim in the post is the author repeating something they read, not a figure this digest has verified, and the thread is a question rather than a report. But the underlying worry is real and recurring, and the practical answers — what you can register, what you can monitor, what you can actually get taken down — are worth having in one place.
 
-🔗 https://www.reddit.com/r/writing/comments/1wdjome/having_trouble_developing_your_characters/
+🔗 https://www.reddit.com/r/selfpublish/comments/1wet15x/how_do_you_avoid_bad_actors_stealing_your_work/
 
-💬 Which of your characters' flaws is actually driving your plot — and did you plan it that way or discover it?
-
-
-8. 🎬 Teasing and revealing: how thrillers hold information back
-
-A screenwriter working on a horror-thriller asked on 11 September how to make a revelation both surprising and satisfying — the hard combination, since surprise alone is a cheat and satisfaction alone is predictable. They are also asking for scripts and films that taught people the genre. Novelists have exactly the same problem and rarely a room to ask it in.
-
-🔗 https://www.reddit.com/r/Screenwriting/comments/1wd49u6/tips_for_writing_thrillers_and_how_information/
-
-💬 What is the best-handled reveal you have ever read — and what made it land rather than merely shock?
+💬 What is your first move if you find your own book on sale under someone else's name?
 
 
-9. You cannot do it all
+5. Coming out of exclusivity in October
 
-Sarra Cannon posted "Why You Can't Do It All (And What to Do Instead)" overnight; the channel page's relative timestamp puts it on 11 September. Pointer only, from the channel page, title confirmed against YouTube's own records. A sensible companion to item 4 for anyone whose launch plan has quietly become a second job.
+An author who has been Audible and KDP only since launching in April is planning to go wide next month, and asked on 11 September what to line up in the meantime. Two specific motives, both common: they want better print quality and more format options than Amazon gives them, and they want the book findable in more than one place. A good thread to watch if October is your month too.
 
-🔗 https://www.youtube.com/watch?v=V67nzUBJYlA
+🔗 https://www.reddit.com/r/selfpublish/comments/1wd2p4m/life_after_kdp_help/
 
-💬 What did you stop doing this year that you do not miss?
+💬 What do you wish you had set up BEFORE the day your exclusivity ended?
+
+
+6. The author who does not want to be on social media
+
+Posted 12 September by a writer a week into submission, in dark fantasy romance — a corner of the market that lives on BookTok — who does not want to promote on social media at all and says the thought fills them with dread. They have a call with their agent about it next week and wanted to hear from authors on both sides first. The replies matter as much for indies as for anyone on submission, because the pressure is identical and the escape routes are the same.
+
+🔗 https://www.reddit.com/r/PubTips/comments/1wearte/discussion_traditionally_published_authors_do_you/
+
+💬 If you sell books without social media, what is actually doing the work instead?
+
+
+7. Craft books for literary fiction
+
+A specific ask from 12 September, and a good one because most craft advice is built around plot. This writer works in short stories, on relationships and ordinary situations, existential unease and interior turmoil rather than external action, and wants books written for that. The genre-specific version of a question usually answered generically.
+
+🔗 https://www.reddit.com/r/writing/comments/1we95st/craft_books_for_writing_literary_fiction/
+
+💬 Which craft book actually changed how you write, rather than just how you talk about writing?
+
+
+8. Writing for children and teenagers: what really changes?
+
+Asked on 12 September — length, vocabulary, themes, the age of the protagonist, and whether the publishing route differs. Timely, given the Australian market figures we carried on Wednesday showing children's, YA and educational titles growing faster than anything else on that market.
+
+🔗 https://www.reddit.com/r/writing/comments/1wefua7/for_those_who_have_experience_writing/
+
+💬 If you write for younger readers, what did you have to unlearn from writing for adults?
+
+
+9. 🎬 The same script, 8 out of 10 and 3 out of 10
+
+A screenwriter sent a feature script — a year's work — to competitions that return coverage, and posted both reports on 12 September. The first reader loved the premise and the script and scored it 8 out of 10 with light notes. The second gave it 3 out of 10, with dialogue at 2 and characters at 3, liking only the premise at 6. Both readers were paid to be right. It is the cleanest illustration you will see of why a single piece of feedback, good or bad, is not a verdict.
+
+🔗 https://www.reddit.com/r/Screenwriting/comments/1weg7pd/good_reminder_of_the_wide_variety_of_tastes_in/
+
+💬 What is the most contradictory pair of notes you have ever been given on the same piece of work?
 
 
 —
-Scout notes: yesterday's edition ran, so nothing is being carried over. Nine items rather than ten, and worth saying why: Saturday's news cycle produced exactly one story that cleared the gate, so this edition leans on the community lanes and the video lane rather than padding the news out. YouTube lane — all six feeds refused for the third morning running; the channel-page fallback carried it and both new titles were confirmed against YouTube's own records. AI lane — both query shapes were run and the vendors' release pages read directly; Sudowrite's newest release note is still the one from 5 September we already carried, so the tools strand is genuinely quiet rather than unswept. ALLi's own feed was read (the listing page route was retired yesterday); its only new item repeats the library e-lending study we ran on Thursday, so the ledger held it. Reddit — two lanes returned rate-limit responses before answering.
+Scout notes: yesterday's edition ran, so nothing is being carried over. Nine items: Sunday's news cycle produced one story that cleared the gate, so the edition leans on the community lanes rather than padding. 🤖 AI lane: quiet today — both query shapes were run, and the vendors' own changelogs were read directly rather than through an aggregator; Sudowrite's newest real entry is still GPT-6 Astra on 5 September, already carried. Worth noting that both its changelog pages carry recent-looking dates that are page furniture rather than releases, and neither was mistaken for news. YouTube lane: nothing fresh today — all six feeds refused for the fourth morning running, and the channel-page fallback showed nothing newer than the two videos we ran yesterday. ALLi's feed carried one other item, a podcast repeating Thursday's library e-lending study, which the ledger held.
 
 —
 Curated daily for this community. Spotted something worth sharing?
