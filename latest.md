@@ -1,88 +1,88 @@
-📚 Daily Writer's Scout — Sunday, 13 September 2026
+📚 Daily Writer's Scout — Monday, 14 September 2026
 
-1. A publishing services company has folded, and around 100 authors are picking up the pieces
+1. 🤖 The Authors Guild is asking a judge to rule that OpenAI's training was not fair use
 
-ALLi reported yesterday, 12 September, that the Self-Publishing Partnership has ceased operating, leaving roughly 100 authors and 164 books stranded. The company's attempt to strike itself off at Companies House was suspended on 22 August after freelancers raised unpaid invoices. Authors are out of pocket on royalties and have print stock stuck in the distribution chain; Softwood Books has taken on many of the titles and is working with Gardners to keep them available. ALLi's diagnosis is the part worth keeping: this is what a single point of failure looks like when one intermediary holds your distribution, your files and your money at once.
+Publishers Weekly reported on 9 September that the Authors Guild and its co-plaintiffs have filed for summary judgment against OpenAI and Microsoft, and that all parties have now done so. The motion asks Judge Sidney Stein, in the Southern District of New York, to find that the copying was nontransformative and outside fair use — a finding of liability, not damages, and without a full trial. It opens by arguing that OpenAI "built the foundations of its business on mass piracy", pointing at book content taken from the pirate library LibGen. The filing is heavily redacted, including the number of books involved. The dates to hold on to: opposition briefs are due in early October, replies in early November. The case began as a class action in September 2023 and is now part of the consolidated OpenAI copyright litigation.
 
-🔗 https://selfpublishingadvice.org/self-publishing-partnership-collapse-2/
+🔗 https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101196-authors-guild-co-plaintiffs-seek-summary-judgment-in-openai-case.html
 
-💬 If the company handling your distribution shut its doors tomorrow, what would you lose — and how long would it take you to be selling again?
-
-
-2. Two months, 550 readers, six dollars
-
-An author posted the whole ledger yesterday, 12 September, and it is the most useful thing in today's digest. Royalties A$1,922.99. Ad spend A$1,916.35. Net position: plus A$6.64. That is 257 orders and 150,124 KENP pages, about 550 readers, at a profit of one Australian cent each. Seventy-seven ratings, 4.6 average. Paperback was 30 of the 257 sales and cost more in proofs than it returned. All ads on Facebook; the money spent testing Canada and Australia bought almost nothing. And as they say themselves, that is before software, hosting and the rest.
-
-🔗 https://www.reddit.com/r/selfpublish/comments/1weaiun/after_two_months_im_6_aud_in_profit/
-
-💬 Have you ever added up your real net position on a launch — and did the number change what you did next?
+💬 If the court rules that training on books was not fair use, what would you actually want to happen next — licensing, payment, deletion, or something else?
 
 
-3. A one-star review from someone who never opened the book
+2. "IngramSpark is a waste of time unless you have real money" — one author's blunt post-mortem
 
-A careful post from 12 September. A non-fiction title with no promo downloads, no free days, no ARCs out, and every copy accounted for — then a one-star review from an unknown account with nothing in it suggesting the book was read. KDP support gave the standard answer: the Community team only removes reviews that breach guidelines, use the Report link, and they will not tell you the outcome. The author is asking the questions everyone in this position asks: does reporting ever work, is there an escalation route, and does one bad early review on an otherwise empty page do lasting damage.
+Posted this morning, 14 September, by an author at the end of their first run. Their advice: lean heavily on Amazon until you have some popularity, because Amazon gives you options and support, and — in their experience — IngramSpark's support does not. They say the ISBNs cost real money and returned nothing, and they accuse Ingram of riding on the Amazon listing they had worked to build. Flagging it as strongly held opinion rather than established fact: plenty of authors go wide through Ingram successfully, and this digest has carried threads from some of them. It is worth reading precisely because the room will argue with it.
 
-🔗 https://www.reddit.com/r/selfpublish/comments/1ween94/how_do_you_handle_a_review_from_someone_who/
+🔗 https://www.reddit.com/r/selfpublish/comments/1wfthvd/publishing_and_actually_selling_a_meaningful/
 
-💬 Have you ever had a review removed — and what, if anything, actually made the difference?
-
-
-4. "How do you avoid bad actors stealing your work?"
-
-A short question posted this morning, 13 September, prompted by something the author read about books being lifted and resold on Amazon under different titles. Worth saying plainly: the claim in the post is the author repeating something they read, not a figure this digest has verified, and the thread is a question rather than a report. But the underlying worry is real and recurring, and the practical answers — what you can register, what you can monitor, what you can actually get taken down — are worth having in one place.
-
-🔗 https://www.reddit.com/r/selfpublish/comments/1wet15x/how_do_you_avoid_bad_actors_stealing_your_work/
-
-💬 What is your first move if you find your own book on sale under someone else's name?
+💬 Has IngramSpark earned its keep for you — and what would you tell an author deciding whether to bother?
 
 
-5. Coming out of exclusivity in October
+3. Your book needs a pitch even if nobody is going to reject it
 
-An author who has been Audible and KDP only since launching in April is planning to go wide next month, and asked on 11 September what to line up in the meantime. Two specific motives, both common: they want better print quality and more format options than Amazon gives them, and they want the book findable in more than one place. A good thread to watch if October is your month too.
+ALLi published an interview on 13 September with Sheila Averbuch — journalist turned children's author, author of a guide to pitching, and the UK's first SCBWI pitching champion. Her argument is that the pitch is not a hurdle imposed by agents but the thing that connects a book to a reader, so it matters just as much if you are publishing yourself. Around 250 words, answering one question: what is this book about. And it is not only agents who need it — podcasters, festival programmers and independent bookshops all do. She is firmly against generating one with AI, and blunt about why: it has, in her words, the smell of AI about it even when you cannot say quite where.
 
-🔗 https://www.reddit.com/r/selfpublish/comments/1wd2p4m/life_after_kdp_help/
+🔗 https://selfpublishingadvice.org/podcast-inspirational-indie-author-interview-sheila-m-averbuch/
 
-💬 What do you wish you had set up BEFORE the day your exclusivity ended?
-
-
-6. The author who does not want to be on social media
-
-Posted 12 September by a writer a week into submission, in dark fantasy romance — a corner of the market that lives on BookTok — who does not want to promote on social media at all and says the thought fills them with dread. They have a call with their agent about it next week and wanted to hear from authors on both sides first. The replies matter as much for indies as for anyone on submission, because the pressure is identical and the escape routes are the same.
-
-🔗 https://www.reddit.com/r/PubTips/comments/1wearte/discussion_traditionally_published_authors_do_you/
-
-💬 If you sell books without social media, what is actually doing the work instead?
+💬 Can you say what your current book is about in under 250 words — and when did you last actually try?
 
 
-7. Craft books for literary fiction
+4. Six weeks from launch, and going back to review everyone else's books
 
-A specific ask from 12 September, and a good one because most craft advice is built around plot. This writer works in short stories, on relationships and ordinary situations, existential unease and interior turmoil rather than external action, and wants books written for that. The genre-specific version of a question usually answered generically.
+A small post from 13 September with a good idea in it. An author six weeks out from publishing their first book, about to set up the preorder, has gone back through everything they have read and started leaving proper reviews — naming the key phrases and tropes rather than saying "loved it" — now that they understand how much work sits behind each of those books and how easily it all stalls if the algorithm does not pick the book up.
 
-🔗 https://www.reddit.com/r/writing/comments/1we95st/craft_books_for_writing_literary_fiction/
+🔗 https://www.reddit.com/r/selfpublish/comments/1wfefjn/reviewing_other_self_published_books_you_read/
 
-💬 Which craft book actually changed how you write, rather than just how you talk about writing?
-
-
-8. Writing for children and teenagers: what really changes?
-
-Asked on 12 September — length, vocabulary, themes, the age of the protagonist, and whether the publishing route differs. Timely, given the Australian market figures we carried on Wednesday showing children's, YA and educational titles growing faster than anything else on that market.
-
-🔗 https://www.reddit.com/r/writing/comments/1wefua7/for_those_who_have_experience_writing/
-
-💬 If you write for younger readers, what did you have to unlearn from writing for adults?
+💬 When did you last review an indie book properly — and what would you want someone to say in a review of yours?
 
 
-9. 🎬 The same script, 8 out of 10 and 3 out of 10
+5. The manuscript you abandoned ten years ago
 
-A screenwriter sent a feature script — a year's work — to competitions that return coverage, and posted both reports on 12 September. The first reader loved the premise and the script and scored it 8 out of 10 with light notes. The second gave it 3 out of 10, with dialogue at 2 and characters at 3, liking only the premise at 6. Both readers were paid to be right. It is the cleanest illustration you will see of why a single piece of feedback, good or bad, is not a verdict.
+From 12 September, and worth a Monday. An author finished a book a decade ago, walked away from it for personal and professional reasons, and recently reread it looking for inspiration in old work. They found something worth saving — and, more usefully, remembered why the idea had gripped them in the first place. They are clear it needs heavy editing. The question they are asking is whether anyone else has come back to something after years and fallen for it again.
 
-🔗 https://www.reddit.com/r/Screenwriting/comments/1weg7pd/good_reminder_of_the_wide_variety_of_tastes_in/
+🔗 https://www.reddit.com/r/selfpublish/comments/1wehwqh/has_this_ever_happened_to_someone_else/
 
-💬 What is the most contradictory pair of notes you have ever been given on the same piece of work?
+💬 What is in your own drawer that you have not looked at in years — and would you dare open it?
+
+
+6. Is a paid mentoring programme worth it?
+
+A specific and expensive decision, posted 13 September: Curtis Brown Creative's twelve-month one-to-one mentorship or Jericho Writers' eight-month programme. The author has poems and short stories in small literary journals, no formal course behind them, and is writing their first novel in a language that is not their first. The pull is the one-to-one feedback and the full manuscript report at the end. Anyone who has done either will have a useful answer.
+
+🔗 https://www.reddit.com/r/PubTips/comments/1wezfi6/pubq_is_oneonone_mentoring_programme_worth_it/
+
+💬 What is the best money you have ever spent on your own writing — and the worst?
+
+
+7. Are dystopia and apocalypse dead genres?
+
+Asked on 13 September by a writer sitting on several ideas and unable to choose: a present-day collapse story unfolding over its first months, and a darker near-future dystopia, plus fantasy and historical ideas behind them. They know the advice is not to chase trends, and are asking anyway — which is the honest version of the question most writers are actually holding.
+
+🔗 https://www.reddit.com/r/writing/comments/1wfblic/are_dystopian_and_apocalypse_considered_dead/
+
+💬 Have you ever picked your next book by what the market wanted rather than what you wanted — and how did it go?
+
+
+8. Can anyone actually name a book ruined by head-hopping?
+
+A sharp challenge from 13 September. Everyone is taught that head-hopping is a beginner's error, so the poster asked for real examples of published work made confusing or annoying by it — and offered their own counter-example, Frank Herbert, who does it constantly through Dune and is not remotely hard to follow. The interesting question underneath: is the rule a rule, or a warning about execution?
+
+🔗 https://www.reddit.com/r/writing/comments/1wfl5e3/examples_of_bad_headhopping/
+
+💬 Which "rule" of writing have you broken deliberately, and what made you confident you could?
+
+
+9. 🎬 David Lynch wrote the scene headings first
+
+A writer posted this morning, 14 September, after finding a clip of David Lynch answering how he wrote a script: he wrote the heading of the scene, then the next heading, then the next. They want to know whether that was really the whole method and how anyone makes it work. Novelists will recognise it immediately — it is a chapter list by another name, and the thread is a decent argument about whether structure comes before or out of the writing.
+
+🔗 https://www.reddit.com/r/Screenwriting/comments/1wfrdfx/david_lynchs_writing_method/
+
+💬 Do you write your headings, chapters or beats first — or do you find out what they were afterwards?
 
 
 —
-Scout notes: yesterday's edition ran, so nothing is being carried over. Nine items: Sunday's news cycle produced one story that cleared the gate, so the edition leans on the community lanes rather than padding. 🤖 AI lane: quiet today — both query shapes were run, and the vendors' own changelogs were read directly rather than through an aggregator; Sudowrite's newest real entry is still GPT-6 Astra on 5 September, already carried. Worth noting that both its changelog pages carry recent-looking dates that are page furniture rather than releases, and neither was mistaken for news. YouTube lane: nothing fresh today — all six feeds refused for the fourth morning running, and the channel-page fallback showed nothing newer than the two videos we ran yesterday. ALLi's feed carried one other item, a podcast repeating Thursday's library e-lending study, which the ledger held.
+Scout notes: yesterday's edition ran, so nothing is being carried over. Nine items on a Monday, which is usually the thinnest day of the week because the 05:00 build runs before Monday's news exists. Item 1's detail comes from Publishers Weekly's own report, read this run; the Australian trade press carried the same story this morning but its article sits behind a subscriber wall, so only the publicly readable summary was used and the link goes to the source that can be read. One number circulating in search summaries — a count of titles in the motion — is redacted in the filing itself, so it is not stated here. YouTube lane: nothing fresh today — all six feeds refused for the fifth morning running, and the channel-page fallback showed nothing newer than Saturday's two videos. Author Help UK's Monday roundup had not appeared at the time of this sweep. Reddit — r/PubTips returned two rate-limit responses before answering.
 
 —
 Curated daily for this community. Spotted something worth sharing?
