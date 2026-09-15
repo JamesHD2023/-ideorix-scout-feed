@@ -1,88 +1,97 @@
-📚 Daily Writer's Scout — Monday, 14 September 2026
+📚 Daily Writer's Scout — Tuesday, 15 September 2026
 
-1. 🤖 The Authors Guild is asking a judge to rule that OpenAI's training was not fair use
+1. 🤖 "It's a cheat code": the British Fantasy Society draws its line
 
-Publishers Weekly reported on 9 September that the Authors Guild and its co-plaintiffs have filed for summary judgment against OpenAI and Microsoft, and that all parties have now done so. The motion asks Judge Sidney Stein, in the Southern District of New York, to find that the copying was nontransformative and outside fair use — a finding of liability, not damages, and without a full trial. It opens by arguing that OpenAI "built the foundations of its business on mass piracy", pointing at book content taken from the pirate library LibGen. The filing is heavily redacted, including the number of books involved. The dates to hold on to: opposition briefs are due in early October, replies in early November. The case began as a class action in September 2023 and is now part of the consolidated OpenAI copyright litigation.
+The BFS published a clarification of its position on 8 September, and it is about as unambiguous as these statements get. They do not support generative AI and will not knowingly accept art or writing made with it — not in competitions, not in publications, not on the website. It does not stop at submissions: AI-generated material is not allowed in their member spaces, including the Facebook group and Discord, and they will not repost it on social media. Breaches get a warning first, then removal, and potentially membership revoked. They do draw one distinction, between generative AI and agentic tools that manage a calendar. Chair Shona Kinsella's framing is the line the title takes: AI is a cheat, and it does you a disservice because it makes you look unprofessional.
 
-🔗 https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101196-authors-guild-co-plaintiffs-seek-summary-judgment-in-openai-case.html
+🔗 https://britishfantasysociety.org/its-a-cheat-code-clarifying-the-bfs-stance-on-generative-ai/
 
-💬 If the court rules that training on books was not fair use, what would you actually want to happen next — licensing, payment, deletion, or something else?
-
-
-2. "IngramSpark is a waste of time unless you have real money" — one author's blunt post-mortem
-
-Posted this morning, 14 September, by an author at the end of their first run. Their advice: lean heavily on Amazon until you have some popularity, because Amazon gives you options and support, and — in their experience — IngramSpark's support does not. They say the ISBNs cost real money and returned nothing, and they accuse Ingram of riding on the Amazon listing they had worked to build. Flagging it as strongly held opinion rather than established fact: plenty of authors go wide through Ingram successfully, and this digest has carried threads from some of them. It is worth reading precisely because the room will argue with it.
-
-🔗 https://www.reddit.com/r/selfpublish/comments/1wfthvd/publishing_and_actually_selling_a_meaningful/
-
-💬 Has IngramSpark earned its keep for you — and what would you tell an author deciding whether to bother?
+💬 If an organisation you belong to adopted this policy word for word tomorrow, would anything about how you work have to change?
 
 
-3. Your book needs a pitch even if nobody is going to reject it
+2. SelfPubCon26 is open, free, and a month away
 
-ALLi published an interview on 13 September with Sheila Averbuch — journalist turned children's author, author of a guide to pitching, and the UK's first SCBWI pitching champion. Her argument is that the pitch is not a hurdle imposed by agents but the thing that connects a book to a reader, so it matters just as much if you are publishing yourself. Around 250 words, answering one question: what is this book about. And it is not only agents who need it — podcasters, festival programmers and independent bookshops all do. She is firmly against generating one with AI, and blunt about why: it has, in her words, the smell of AI about it even when you cannot say quite where.
+ALLi announced on 14 September that registration has opened for SelfPubCon26, running 17–18 October. It is free, aimed at independent and aspiring independent authors over 18, and every registrant gets a copy of Orna Ross's Creative Self-Publishing. Registrations before 11.59pm UK time on 18 October go into a prize draw — publishing, editing, design, marketing and education prizes, with a Kobo Clara Colour eReader at the top — and there is no separate entry form to fill in.
 
-🔗 https://selfpublishingadvice.org/podcast-inspirational-indie-author-interview-sheila-m-averbuch/
+🔗 https://selfpublishingadvice.org/selfpubcon26-registration-is-open-with-big-prizes-up-for-grabs/
 
-💬 Can you say what your current book is about in under 250 words — and when did you last actually try?
-
-
-4. Six weeks from launch, and going back to review everyone else's books
-
-A small post from 13 September with a good idea in it. An author six weeks out from publishing their first book, about to set up the preorder, has gone back through everything they have read and started leaving proper reviews — naming the key phrases and tropes rather than saying "loved it" — now that they understand how much work sits behind each of those books and how easily it all stalls if the algorithm does not pick the book up.
-
-🔗 https://www.reddit.com/r/selfpublish/comments/1wfefjn/reviewing_other_self_published_books_you_read/
-
-💬 When did you last review an indie book properly — and what would you want someone to say in a review of yours?
+💬 Which session would you actually want on the programme — what is the question a conference has never answered for you?
 
 
-5. The manuscript you abandoned ten years ago
+3. "Beginners spending five to fifteen thousand a month on ads. I cannot compete."
 
-From 12 September, and worth a Monday. An author finished a book a decade ago, walked away from it for personal and professional reasons, and recently reread it looking for inspiration in old work. They found something worth saving — and, more usefully, remembered why the idea had gripped them in the first place. They are clear it needs heavy editing. The question they are asking is whether anyone else has come back to something after years and fallen for it again.
+Posted on 14 September by an author who had just found out what some newer writers are spending on advertising, and wanted to know what everyone else's real number is — plus what the successful ones spent before anyone knew their name. Read it next to Sunday's post from the author who published his whole two-month ledger: A$1,923 in royalties against A$1,916 in ads, for a net profit of six dollars and change. Both threads are asking the same question from opposite ends.
 
-🔗 https://www.reddit.com/r/selfpublish/comments/1wehwqh/has_this_ever_happened_to_someone_else/
+🔗 https://www.reddit.com/r/selfpublish/comments/1wgcl72/what_in_the_hillbilly_how_much_money_are_you/
 
-💬 What is in your own drawer that you have not looked at in years — and would you dare open it?
-
-
-6. Is a paid mentoring programme worth it?
-
-A specific and expensive decision, posted 13 September: Curtis Brown Creative's twelve-month one-to-one mentorship or Jericho Writers' eight-month programme. The author has poems and short stories in small literary journals, no formal course behind them, and is writing their first novel in a language that is not their first. The pull is the one-to-one feedback and the full manuscript report at the end. Anyone who has done either will have a useful answer.
-
-🔗 https://www.reddit.com/r/PubTips/comments/1wezfi6/pubq_is_oneonone_mentoring_programme_worth_it/
-
-💬 What is the best money you have ever spent on your own writing — and the worst?
+💬 What is your actual monthly ad spend — and what is the most you have ever spent in a month that you now regret?
 
 
-7. Are dystopia and apocalypse dead genres?
+4. Where do serialised stories live now that Wattpad has changed?
 
-Asked on 13 September by a writer sitting on several ideas and unable to choose: a present-day collapse story unfolding over its first months, and a darker near-future dystopia, plus fantasy and historical ideas behind them. They know the advice is not to chase trends, and are asking anyway — which is the honest version of the question most writers are actually holding.
+A good practical question from 13 September. A former heavy Wattpad user wants somewhere to publish original fiction in episodes — short installments people return to as they are posted, not a novel dressed up as one. They are not chasing money and are happy for it to be free; they just want readers and a platform that has not buried the reading experience under advertising. The replies are effectively a current map of the serial fiction landscape.
 
-🔗 https://www.reddit.com/r/writing/comments/1wfblic/are_dystopian_and_apocalypse_considered_dead/
+🔗 https://www.reddit.com/r/selfpublish/comments/1wflpz7/what_is_the_new_wattpad_for_original_stories/
 
-💬 Have you ever picked your next book by what the market wanted rather than what you wanted — and how did it go?
-
-
-8. Can anyone actually name a book ruined by head-hopping?
-
-A sharp challenge from 13 September. Everyone is taught that head-hopping is a beginner's error, so the poster asked for real examples of published work made confusing or annoying by it — and offered their own counter-example, Frank Herbert, who does it constantly through Dune and is not remotely hard to follow. The interesting question underneath: is the rule a rule, or a warning about execution?
-
-🔗 https://www.reddit.com/r/writing/comments/1wfl5e3/examples_of_bad_headhopping/
-
-💬 Which "rule" of writing have you broken deliberately, and what made you confident you could?
+💬 Have you serialised anything — and did the readers you gained there ever follow you to a finished book?
 
 
-9. 🎬 David Lynch wrote the scene headings first
+5. Telling your editor you have signed with someone bigger
 
-A writer posted this morning, 14 September, after finding a clip of David Lynch answering how he wrote a script: he wrote the heading of the scene, then the next heading, then the next. They want to know whether that was really the whole method and how anyone makes it work. Novelists will recognise it immediately — it is a chapter list by another name, and the thread is a decent argument about whether structure comes before or out of the writing.
+A hard professional situation, posted 14 September. An author with a multi-book deal at a respected independent press — books that sold well and won awards — got a Big Five deal for their next book through their agent. They told their current editor first, by phone, as a courtesy. The editor shouted, said some things that cannot be unsaid, and told them not to make contact again. There is still a book from the old contract coming out next year. The author is honest that the relationship had drifted into friendship and away from professional footing, which is part of how it got here.
 
-🔗 https://www.reddit.com/r/Screenwriting/comments/1wfrdfx/david_lynchs_writing_method/
+🔗 https://www.reddit.com/r/PubTips/comments/1wfxbl4/pubq_conflict_with_indie_press_editor_because_i/
 
-💬 Do you write your headings, chapters or beats first — or do you find out what they were afterwards?
+💬 Where do you keep the line between friendly and professional with the people who publish you — and has it ever slipped?
+
+
+6. Penguin Random House UK launches a "new adult" imprint
+
+Books+Publishing reported on 15 September, citing The Bookseller, that Penguin Random House UK has launched Dusk — a new adult crossover imprint built around romance, fantasy and crossover fiction, aimed at readers moving between YA, new adult and adult, with romance at its centre. It launches in the northern autumn. Worth noticing even if you will never submit to them: a Big Five house formally naming and resourcing a category is a signal about where the readers are, and romantasy indies have been serving that reader for years already.
+
+🔗 https://www.booksandpublishing.com.au/articles/2026/09/15/340481/prh-uk-to-launch-new-adult-crossover-imprint/
+
+💬 Do you find "new adult" a useful shelf for your own work, or a label that confuses more readers than it finds?
+
+
+7. What makes an unreliable narrator work?
+
+Asked on 14 September, and asked well: the poster wants tips with examples, and has explicitly set out to make the thread a resource worth coming back to. It is one of the hardest things to do deliberately, because the reader has to be misled and fairly treated at the same time.
+
+🔗 https://www.reddit.com/r/writing/comments/1wg8ir6/what_are_the_hallmarks_of_a_good_unreliable/
+
+💬 Which unreliable narrator fooled you completely — and what was the clue you missed on the first read?
+
+
+8. The taste gap, described from the inside
+
+A beginner posted on 14 September about writing a superhero story that is fun, entertaining and light — and then judging it as bad because it is not Breaking Bad. They know they are comparing their first drafts to the best work they have ever consumed, and they cannot stop. It is the most common thing that stops new writers finishing, and it is worth the room's best answers.
+
+🔗 https://www.reddit.com/r/writing/comments/1wfv1cm/how_can_beginners_get_over_taste_gap/
+
+💬 How did you make peace with the gap between what you can see and what you can currently do?
+
+
+9. The same penny dropped in two different rooms on the same day
+
+On 14 September a novelist posted that they had broken weeks of block by typing rubbish into a phone during a dull meeting — 400 words of fragments that turned out, on rereading, to have structure in them. The same day a screenwriter posted that after nine years of hearing "just write" they had finally understood it: outlining and note-taking had become a way of avoiding the page, and the script is not where you record decisions already made, it is where the decisions get made. Two rooms, two forms, one idea.
+
+🔗 https://www.reddit.com/r/writing/comments/1wg0xax/seems_like_just_write_is_true_after_all/
+
+💬 Is your planning genuinely planning — or is some of it avoidance wearing a productive hat?
+
+
+10. 🎬 Four years, one script, one placement
+
+Posted this morning, 15 September. A script begun in an undergraduate elective in August 2022, carried into a graduate workshop, then revised for two years. Submitted in January, to fewer competitions than they wanted because they are a broke graduate student. Rejections all summer. Then, having half forgotten three pending submissions, an email: top 25 per cent of a category with nearly 13,000 entries, and an invitation attached.
+
+🔗 https://www.reddit.com/r/Screenwriting/comments/1wgnvcp/first_competition_placement/
+
+💬 What is the longest you have kept working on one piece — and what made you keep going past the point where it stopped being fun?
 
 
 —
-Scout notes: yesterday's edition ran, so nothing is being carried over. Nine items on a Monday, which is usually the thinnest day of the week because the 05:00 build runs before Monday's news exists. Item 1's detail comes from Publishers Weekly's own report, read this run; the Australian trade press carried the same story this morning but its article sits behind a subscriber wall, so only the publicly readable summary was used and the link goes to the source that can be read. One number circulating in search summaries — a count of titles in the motion — is redacted in the filing itself, so it is not stated here. YouTube lane: nothing fresh today — all six feeds refused for the fifth morning running, and the channel-page fallback showed nothing newer than Saturday's two videos. Author Help UK's Monday roundup had not appeared at the time of this sweep. Reddit — r/PubTips returned two rate-limit responses before answering.
+Scout notes: yesterday's edition ran, so nothing is being carried over. YouTube lane: nothing fresh today — all six feeds refused for the sixth morning running. AI lane — both query shapes were run and the vendors' own changelogs were read; Sudowrite's newest entry is still 5 September, so the tools strand stays quiet and today's AI item comes from the acceptance side. Author Help UK's Monday roundup did appear this time, and its one genuinely new item is the British Fantasy Society statement, which runs above from the Society's own page rather than second-hand. Item 6's article sits behind a subscriber wall; only the publicly readable summary was used, and the reporting is The Bookseller's, relayed by Books+Publishing. Reddit — r/writing and r/Screenwriting both rate-limited us out on the first pass and answered later in the run.
 
 —
 Curated daily for this community. Spotted something worth sharing?
