@@ -1,97 +1,97 @@
-📚 Daily Writer's Scout — Thursday, 17 September 2026
+📚 Daily Writer's Scout — Friday, 18 September 2026
 
-1. The August KENP rate is out, and it is still climbing
+1. FutureBook is joining the London Book Fair, and there is now a portal for reverted rights
 
-Posted on 16 September by an author who watches the 15th of the month the way other people watch payday: All Star bonuses land, and the Kindle Unlimited page rate is announced. They report August at 0.004895 per page and read it as a sign the KU ecosystem is healthy. Carrying it with the attribution attached — that figure is one author's report, and it could not be corroborated against an independent tracker in this morning's sweep, so check your own dashboard before you build a plan on it.
+ALLi's summary of 17 September carries two things worth knowing. The FutureBook Conference, running since 2010 on publishing innovation, merges with the London Book Fair in 2027 — both at ExCeL London, FutureBook on 15 March and the Fair on 16–18 March, with AI panels on the programme. And an update to a story we ran a fortnight ago: with Anthropic settlement payments expected to start in November, publishers are reportedly claiming 50 to 100 per cent of rights that have already reverted to authors, and 100 per cent of in-print works where their share should be half. The new, actionable part is that the Authors Guild has set up a portal to help authors whose rights have reverted claim the whole of what is theirs.
 
-🔗 https://www.reddit.com/r/selfpublish/comments/1wi3y5j/new_kenp_rate/
+🔗 https://selfpublishingadvice.org/publishers-dispute-anthropic-payouts/
 
-💬 Do you track the monthly page rate — and has a change in it ever actually changed what you did?
-
-
-2. A million views on X, and almost no paid sales
-
-Also 16 September, and it belongs right next to item 1. An author reports 10,000-plus views on a promotional post and over a million on X ads, with barely any paid ebook sales to show for it — and puts forward the obvious suspicion: that the readers arriving are Kindle Unlimited subscribers choosing "read for free", so the traffic converts into page reads rather than purchases. If the page rate is up and paid sales are flat, those two threads are describing the same machine from opposite sides.
-
-🔗 https://www.reddit.com/r/selfpublish/comments/1whvjpz/is_anyone_else_seeing_huge_traffic_but_almost_no/
-
-💬 When you advertise, are you actually buying sales, page reads, or just views — and do you know which?
+💬 Do you know, off the top of your head, which of your titles have reverted rights — and where the paperwork proving it is?
 
 
-3. Seven days inside BookSirens, written down properly
+2. 🤖 Find your voice before AI flattens it
 
-The most useful field report of the week, posted 16 September. A debut cozy fantasy romance under a brand-new pen name: accepted within hours, live the same day. Day one brought two reviewers and a 20 per cent click-through. Days two to four, the click-through held but nobody new signed up — so they changed the categories, rewrote the blurb and redid the tagline, and reviewer numbers jumped straight to ten. The reviews that followed were instructive rather than flattering: five stars from readers who clearly wanted a cosy fantasy romance, and unhappy ones from readers who wanted higher stakes, or had not expected a clean book. Each time, they adjusted the blurb to say more plainly what the book actually is.
+A guest piece by writing coach Lisa Cooper Ellison on Jane Friedman's site, published 17 September, and the most useful craft argument of the week. Her claim is that the old risk was sounding like your literary heroes; the new one is sounding like nobody, because the tools smooth everything towards a common register. Her answer is to find the voice first, with four concrete exercises: write with abandon and do not edit; rewrite a scene deliberately channelling a hero, then strip out everything that is theirs and see what is left; build a personal vocabulary list of the words your worldview reaches for; and work through what she calls a four-step process of training the ear, unpacking what you do, naming what is yours, and pushing one edge further. The line that lands: only you know how your circumstances felt.
 
-🔗 https://www.reddit.com/r/selfpublish/comments/1whxscn/results_from_trying_booksirens_for_the_first_time/
+🔗 https://janefriedman.com/find-your-memoir-voice-before-ai-flattens-it/
 
-💬 Has a bad review ever told you something true about your blurb rather than your book?
-
-
-4. 🤖 Using AI as an editing coach rather than a writer
-
-Josh Bernoff's newsletter of 16 September sets out a specific method: keep the writing, hand over the checking. Ask the model to cut 25 per cent and explain every deletion; to draft titles and opening lines; to find passive constructions, jargon and weasel words and propose active replacements; to suggest where structure could be surfaced as subheads; and to point at places that would benefit from something personal. His practical warning is worth repeating: both Claude and ChatGPT have privacy settings that stop your text being used for training, and you should find yours. The same issue carries a less comfortable story — that a good deal of what looks like organic BookTok enthusiasm is paid, engineered campaigns.
-
-🔗 https://bernoff.com/blog/ai-as-writing-coach-booktok-deception-state-of-publishing-webinar-newsletter-16-september-2026
-
-💬 Where is your own line — would you let a machine cut a quarter of your words if it had to justify every cut?
+💬 What are three words or turns of phrase that are unmistakably yours — and could you spot them in a paragraph someone else wrote?
 
 
-5. Three years with an agent, no deal. Is that normal?
+3. Does BookBub still work?
 
-A careful, non-dramatic question posted 16 September. The agent was open about being new when they signed, has placed a couple of deals, believes in the work, and sends monthly updates. Manuscript one went on submission in spring 2024 — pitched by the author as one genre, sent out by the agent as another — and has collected passes with warm feedback. Manuscript two has been out four months. The author works in tech, knows nothing about publishing norms, and wants to know whether this is ordinary or a signal.
+The Self Publishing Show posted episode 465, "Does BookBub Still Work?", this morning — the channel page's relative timestamp puts it on 18 September. Pointer only, from the channel page, with the title confirmed against YouTube's own records; the feeds were unreachable again. A well-timed question given this week's threads about a million ad views converting into almost no paid sales.
 
-🔗 https://www.reddit.com/r/PubTips/comments/1whv1t9/pubq_how_do_i_know_if_my_agent_isgood/
+🔗 https://www.youtube.com/watch?v=6IYApt8I17I
 
-💬 What does a good agent relationship actually look like month to month — and what would make you start asking questions?
-
-
-6. Paying for an edit before your own agent reads it
-
-Posted 16 September, and it is a real dilemma rather than a rhetorical one. The book that won this author their agent had been through a paid developmental edit — expensive, and by their account the single best thing they did. Two manuscripts since, without that edit, were turned down by the agent: one confusing, one too generic for a market wanting crossovers. Now there is a new book the agent is excited about, and the author cannot afford another edit — but cannot afford another rejection either, because replacing a book costs a year.
-
-🔗 https://www.reddit.com/r/PubTips/comments/1whxmn8/pubq_does_anyone_pay_for_a_development_edit/
-
-💬 Have you paid for a developmental edit — and could you tell afterwards exactly what the money bought?
+💬 When did you last run a BookBub deal, and did the numbers justify it?
 
 
-7. Should you read for pleasure while drafting?
+4. A 300-page production warning worth reading before you start
 
-A good argument started on 16 September, prompted by videos from writers who refuse to read anything while writing, on the grounds that it protects their voice. The counter-case is that voice is built from reading, not insulated from it. Either way it is a habit most people have adopted by accident rather than decision.
+Posted 16 September by someone who moved a 300-page book — pictures, footnotes, tables, columns — from Google Docs into LibreOffice Writer to get a true 6x9 page with hyphenation and print control. The words arrived; the layout did not. One change on one page moved a cover, broke the table of contents and shifted pictures elsewhere in the book. Select All, Clear Direct Formatting, Page Style and picture wrap all act on the whole document rather than the bit you are looking at; headings often fail to register so the automatic contents never builds; full-bleed images shrink to two-thirds of the page. Their own advice: finish the writing in Docs, and do not migrate until the words are done.
 
-🔗 https://www.reddit.com/r/writing/comments/1whze3q/is_reading_for_leisure_while_writing_your_own/
+🔗 https://www.reddit.com/r/selfpublish/comments/1whi2j7/warning_do_not_import_a_long_google_docs_book/
 
-💬 Do you read while drafting — and has another writer's voice ever genuinely leaked into yours?
-
-
-8. Stephen King's "can you?" — does it work in practice?
-
-Asked this morning, 17 September, by someone halfway through Misery and more gripped by its descriptions of the act of writing than by the prose. The "can you?" idea — the question the writer asks of a story to see whether it holds — is the bit they want to test against other people's experience rather than admire from a distance.
-
-🔗 https://www.reddit.com/r/writing/comments/1wih0pq/reading_stephen_kings_miseryhas_this_helped/
-
-💬 Which novel taught you most about writing without being a book about writing?
+💬 What is your layout chain from finished draft to print file — and where does it break?
 
 
-9. 🎬 "Three features in three years, and the scores keep dropping"
+5. Four passes, three formats, and a harsh friend
 
-Posted 16 September, with the numbers laid out plainly: 2024, eights on the Black List and semifinalist at Austin. 2025, sevens and second round. 2026, sixes and no placement at all. The writer knows it is unwise to measure yourself this way and does not know what else to measure with. It is a sharper version of a question a lot of people are carrying quietly, and it is worth reading whether or not you write scripts.
+A self-editing routine laid out in full on 17 September, from someone on their fourth book. A friend with the background and the willingness to be blunt reads for plot and character; everything else is theirs. They read it on screen, listen to it read aloud, put it away, and repeat at least three times. Word checks grammar, ProWritingAid's reports get gone through properly, and they order proof copies — usually two — because paper reads differently. The new addition this week: sending the EPUB to a Kindle, purely to make their brain see the book as something unfamiliar again.
 
-🔗 https://www.reddit.com/r/Screenwriting/comments/1wiaytb/what_if_im_getting_worse/
+🔗 https://www.reddit.com/r/selfpublish/comments/1wj4q5t/another_way_to_selfedit/
 
-💬 How do you tell the difference between getting worse and getting more ambitious?
+💬 What is the trick that makes your own book look unfamiliar enough to edit properly?
 
 
-10. Joanna Penn on teaching yourself anything
+6. The first three-star review, months before publication
 
-The Creative Penn posted "Reclaiming Your Mind: How To Teach Yourself Anything" with J. Daniel Sawyer — the channel page's relative timestamp puts it on 16 September. Pointer only, from the channel page, with the title confirmed against YouTube's own records; the feeds were unreachable again this morning.
+A debut author posted on 17 September that ARCs are out, one of the first reviews came back at three stars, and it flattened them in a way they had not expected. They want to know whether people read their reviews at all, and whether early lower ratings mean anything. Anyone who has been through a launch has a useful answer, and it pairs with yesterday's BookSirens log, where the unhappy reviews were the ones that showed the blurb was promising the wrong book.
 
-🔗 https://www.youtube.com/watch?v=FPXZf3LF9eM
+🔗 https://www.reddit.com/r/PubTips/comments/1wiwwn6/discussion_do_you_read_reviews/
 
-💬 What is the last skill you taught yourself from scratch for your writing, and how did you go about it?
+💬 Do you read your reviews — and what rule, if any, do you follow about when?
+
+
+7. "Not sure how to sell this in the current market"
+
+From 17 September, and it is the rejection line that tells you least and hurts most. An author querying a genre-bender keeps getting it, along with "not a good fit for my list", and is asking others who wrote something that would not sit in a box what happened next: an agent who wanted it anyway, or self-publishing. A live question this week, with a Big Five house just launching an imprint aimed squarely at readers who cross between categories.
+
+🔗 https://www.reddit.com/r/PubTips/comments/1wikt2c/discussion_genrebender_novels/
+
+💬 Has a book of yours ever fallen between shelves — and did you solve it by changing the book or by changing who you pitched it to?
+
+
+8. Your narrator is lying to someone. Now what?
+
+A genuinely hard craft problem, posted 17 September with the actual draft dialogue attached. The point-of-view character has rigged an evaluation so his girlfriend would not get the assignment, and now he is consoling her about losing it. The writer has tried the obvious routes — a thought tag, a guilty gesture, a "hoping she believed him" — and rejected them all, because this character lies without tells and is not afraid of being caught. How do you let the reader hold the truth without the narrator confessing it?
+
+🔗 https://www.reddit.com/r/writing/comments/1wiupsb/pov_character_lies_how_to_weave_in_the_truth/
+
+💬 How do you show a reader what a viewpoint character will not admit — without stepping outside their head?
+
+
+9. How do you tell people you write, when you cannot tell them what?
+
+Asked on 17 September by a full-time author whose active pen name is an erotica one they do not want attached to their real life — and who does not want to lie about it either, partly because the lie makes real-world writing groups awkward. It is a practical question about wording, and it touches the same ground as this week's thread on which name goes on the ISBN.
+
+🔗 https://www.reddit.com/r/writing/comments/1wihs2i/anon_authors_how_do_you_tell_people_youre_a/
+
+💬 If you write under another name, what do you actually say when someone asks what you do?
+
+
+10. 🎬 Building characters before the first page
+
+A screenwriter posted on 17 September that they have been giving plot all the attention and finding characters in the writing — and they suspect the characters are underfed as a result. They want a method for building them before drafting starts. The same tension runs through novel-writing, and the answers tend to split cleanly between people who need to know and people who need to find out.
+
+🔗 https://www.reddit.com/r/Screenwriting/comments/1wj2h2x/any_tips_for_developing_characters_before_a_first/
+
+💬 Do you know your characters before you draft, or does the draft introduce you — and has that ever cost you a rewrite?
 
 
 —
-Scout notes: yesterday's edition ran, so nothing is being carried over. Item 1 carries a number this run could NOT independently corroborate, and says so on its face rather than quietly. One AI story was dropped entirely: Jane Friedman's piece on AI agents published 16 September sits behind a paid-subscriber wall, and a headline is not enough to write from. YouTube lane — all six feeds refused again; the channel-page fallback found one new video, title confirmed against YouTube's own records, and it runs as a strict title-and-date pointer. AI lane — both query shapes were run and the vendors' own changelogs read; Sudowrite's newest entry is still 5 September, so today's AI item comes from a newsletter rather than the tools strand. Reddit — every lane rate-limited us at least once this morning, and r/selfpublish needed a second pass several minutes later.
+Scout notes: yesterday's edition ran, so nothing is being carried over. YouTube lane — all six feeds refused for the eighth morning running; the channel-page fallback found two new videos, both titles confirmed against YouTube's own records, and one of them was held by the ledger because it covers Wednesday's Spotify story. AI lane — both query shapes were run and the vendors' own changelogs read; Sudowrite's newest entry is still 5 September, so today's AI item is a craft piece rather than a tools release. Item 1's Anthropic paragraph is an update to a story we ran on 6 September, carried only because the Authors Guild portal is new and actionable. Reddit — every lane rate-limited us this morning; r/selfpublish, r/PubTips and r/Screenwriting each needed several passes spread across the run.
 
 —
 Curated daily for this community. Spotted something worth sharing?
