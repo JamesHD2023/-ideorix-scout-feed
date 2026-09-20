@@ -1,97 +1,61 @@
-📚 Daily Writer's Scout — Saturday, 19 September 2026
+📚 Daily Writer's Scout — Sunday, 20 September 2026
 
-1. A publishing scam finally gets a judgment
+1. Substack is courting book authors, and putting money behind it
 
-Victoria Strauss at Writer Beware laid out the whole case on 18 September, and it is worth reading in full. Wiley Book Writers presented itself as a self-publishing service and traded on a false association with the real John Wiley & Sons. Raymond Love, a Canadian author, lost around fifty thousand dollars to it across a chain of steps: a $3,200 "premium publication package", then $25,500 in bogus distribution agreements, then fake copyright registration, fake book-fair showcases, invented insurance and printing costs attached to a HarperCollins deal that did not exist. He sued in Illinois in April 2025 under racketeering and fraud law. Two judgments followed — a $75,000 settlement in February that went unpaid, and a $190,025 default judgment in August against defendants who never turned up. Collecting any of it remains another matter, but the shell companies and aliases are now on the record.
+ALLi reported on 19 September that Substack is deliberately moving closer to the publishing industry and pitching itself at fiction and nonfiction authors alike — as somewhere to reach readers directly, serialise a book, earn from subscriptions, and be found by agents. The concrete piece is a new advertising revenue share: writers with 100 or more paying subscribers can now earn from advertising on the platform. Their Head of International, Farrah Storr, frames it as a real need for somewhere offering writers additional creative and financial routes. A November event will put literary agents in a room with writers who have built audiences there. The report draws on The Bookseller's coverage of Substack's industry outreach.
 
-🔗 https://writerbeware.blog/2026/09/18/love-v-wiley-book-writers-a-publishing-scam-gets-a-rare-comeuppance/
+🔗 https://selfpublishingadvice.org/substack-strengthens-ties-with-publishing-industry/
 
-💬 What was the step in a pitch like that where you would have stopped — and would you have stopped at the first payment or the third?
-
-
-2. The biggest scams targeting indie authors
-
-ALLi posted a video on the same subject yesterday, 18 September, titled "The Biggest Scams Targeting Indie Authors". Pointer only — the feeds were unreachable again, so this comes from the channel page and the title is confirmed against YouTube's own records. Between this and item 1, today is an unusually good day to go and look properly at whatever is sitting unanswered in your author inbox.
-
-🔗 https://www.youtube.com/watch?v=9Ph4jwX13kE
-
-💬 What is the most convincing approach you have had that turned out to be nothing — and what was the tell?
+💬 Would you build a paid newsletter alongside your books — or does that feel like a second full-time job you did not sign up for?
 
 
-3. Non-US authors claiming from the Anthropic settlement need a W-8-BEN
+2. "An act of defiance against the chaos and entropy of the universe"
 
-Author Help UK published the practical version on 18 September. If you are outside the US and claiming, the settlement administrator wants a W-8-BEN rather than a US tax number, and leaving the tax fields blank is what will hold your payment up. Their walk-through: download the form from the IRS site, use month-day-year dates, UK residents put their Unique Taxpayer Reference in box 6a, and in Part II name your country of residence and the treaty article to claim the zero withholding rate on book income. It has to be printed, signed by hand, scanned and uploaded. Their instructions, not ours — and worth running past your own accountant before you sign anything.
+Josh Bernoff wrote a short piece on 17 September about what every writer has in common regardless of genre or route to market: the blank page, the self-doubt, the dissatisfaction with your own work, the awkwardness with editors and publishers, the frustration with the industry, and now the anxiety about AI. It offers no method and does not pretend to. It is a Sunday read about why people keep doing this when the arithmetic rarely justifies it.
 
-🔗 https://authorhelp.uk/anthropic-copyright-settlement-tax-information-for-non-us-citizens/
+🔗 https://bernoff.com/blog/what-all-writers-face
 
-💬 Have you filed a claim yet — and did the paperwork stop you the first time you looked at it?
-
-
-4. Making money from a book with a small audience
-
-Josh Bernoff published a piece on 18 September on the economics of a niche book — the case where the readership is small, known and reachable, and the usual advice about volume does not apply. Useful to anyone whose book has a specific professional or interest audience rather than a genre one.
-
-🔗 https://bernoff.com/blog/how-to-make-money-from-a-niche-book
-
-💬 If your book has a narrow audience, what has actually reached them — and what did you waste money on before you found it?
+💬 Which of those six is the one that actually stops you — and has that changed over the years?
 
 
-5. Annie Dillard has died
+3. An agent signed me, then recommended an editor I have to pay for
 
-She died on Tuesday 15 September at her home in South Wellfleet, Massachusetts, aged 81, her literary agent Rob McQuilkin confirmed, with the news reported the following day. She won the Pulitzer for Pilgrim at Tinker Creek at 28 — the youngest woman to have taken the prize. For writers, though, the book that matters most is The Writing Life, which r/writing was passing round yesterday, and which has probably been pressed into more hands than any other short book about doing this.
+Posted 19 September by a self-published author whose two KDP novels have just attracted a literary agent. Neither book has been professionally edited, so the agent's first move was to send them to an editor — one she recommended — before anything goes out. The author agrees the editing is needed. What they are uneasy about is paying for it themselves, and they are asking whether that is normal. It is exactly the right question to ask out loud before any money moves, and the answers will be worth more than the excitement.
 
-🔗 https://www.npr.org/2026/09/16/1138680574/annie-dillard-dead
+🔗 https://www.reddit.com/r/selfpublish/comments/1wkk5ly/signed_literary_agent/
 
-💬 Which book about writing have you given away most often — and did it help the person you gave it to?
-
-
-6. One month of Amazon Ads, with every number
-
-Posted 18 September, and the transparency is the point. Two campaigns run from 19 August to 18 September, one for the ebook and one for an ACX-exclusive audiobook. Audiobook: 15,637 impressions, six clicks, no sales, $4.38 spent. Ebook: 1,962 impressions, two clicks, one sale, $0.31 spent. Impressions were zero for ten days, crawled for eight more, then spiked past four thousand on day 21 and have declined since. The single sale landed on day 22 and took nine days to appear on the dashboard. At $9.99 with a $6.65 royalty against $4.69 total spend, they are — just — ahead.
-
-🔗 https://www.reddit.com/r/selfpublish/comments/1wk5pb9/1_month_of_amazon_ads/
-
-💬 What is the longest gap you have seen between a sale happening and it showing up in your ad reporting?
+💬 Where is the line between an agent making a sensible referral and an agent sending you to someone they benefit from?
 
 
-7. Facebook or Amazon, right now?
+4. "I feel like I've stumbled into an alternate universe with this newsletter stuff"
 
-Asked on 18 September by someone caught between two pieces of received wisdom: that Amazon ads have become hard to make profitable so you should go to Facebook, and that Facebook has stripped out so much targeting that you lose money there instead. A fair question, and the answers will date quickly, which is exactly why asking this month rather than reading last year's post matters.
+A genuinely useful bit of scepticism from 19 September. A new self-publisher keeps being told the mailing list is how books actually sell — and cannot square it with their own behaviour as a reader: one author list ever signed up to, opened perhaps twice, and no desire to receive more email from anyone. They are loyal enough to buy whole backlists when they find a writer they like. They just do not want the emails. Worth answering honestly rather than reflexively.
 
-🔗 https://www.reddit.com/r/selfpublish/comments/1wk3p8u/for_those_doing_ads_are_fb_or_amz_working_better/
+🔗 https://www.reddit.com/r/selfpublish/comments/1wkwnsk/personally_shocked_that_newsletters_are_such_a/
 
-💬 Where is your advertising money going this quarter, and what changed your mind last time?
-
-
-8. Six weeks locked out of IngramSpark, with a publication date coming
-
-From 17 September. An account created two months ago, then a verification notice promising contact within five working days. A support ticket went unanswered for three weeks; ID was supplied immediately when finally asked for; then silence again through three or four more emails. A second ticket, two more weeks, a different agent who could see the first ticket but had no information and could give no timeline. The book is due out on 1 October. This is the third IngramSpark complaint the digest has carried this month, and the first where the author is up against a date.
-
-🔗 https://www.reddit.com/r/selfpublish/comments/1wj719a/how_is_ingramspark_this_bad/
-
-💬 Do you have a fallback if a distributor locks you out a fortnight before launch — and what would it actually cost you to switch?
+💬 Does your mailing list actually sell books — and do you know the number, or is it an article of faith?
 
 
-9. Where exactly do you fall off?
+5. A hundred copies, a launch next weekend, and a fifth of them damaged
 
-A good question from 18 September. Not "do you get blocked" but where: the poster's observation is that every project has a specific point at which finishing becomes the hardest thing, and that people then keep grinding at it out of sunk cost while making no progress. They want to know where other writers' stalls happen. The answers tend to cluster, which is the useful part.
+From 19 September, and the timing is the sting. An author in Europe ordered 100 copies through Amazon for a launch the following weekend and to sell from their own site. At least 20 per cent have a rough-cut edge on the cover. Two of the four boxes arrived broken, so the books inside are dinged and stained. They are still counting how many are usable and hoping it covers the launch. Their question to the room: is this typical, does the print location matter — they chose Germany over Italy, Spain or France — and what else is there.
 
-🔗 https://www.reddit.com/r/writing/comments/1wjitfr/at_what_point_do_you_fall_off_and_why/
+🔗 https://www.reddit.com/r/selfpublish/comments/1wkkmi0/amazon_kdp_poor_quality_printing_and_books/
 
-💬 Where in a book do you reliably stall — and have you ever changed your process to route around it?
+💬 Where do you get your event stock printed, and how far ahead do you order so a bad batch cannot sink a launch?
 
 
-10. 🎬 "Must have previously worked at CAA or WME"
+6. 🎬 "Where did my agent go?"
 
-A screenwriter posted an UpWork advert on 18 September, seemingly placed by another writer, seeking to hire a talent agent. The requirements include prior CAA or WME employment, a verifiable roster of A-list clients, current openness to new talent, and willingness to personally advocate and make introductions. It reads as naivety rather than malice — but it sits neatly beside today's first two items, because the gap between how representation actually works and how a hopeful writer imagines it works is precisely the gap every publishing scam is built in.
+Posted this morning, 20 September. A screenwriter repped by an agent at WPA has heard nothing from her all year — calls, texts, silence. Checking IMDb Pro, they found she is no longer at the agency, and writers have been removed from the agency's own website dropdown. Nobody told them anything. They do not know whether they are still represented, or who to contact to find out. A sobering companion to item 3: representation is a relationship, and relationships can quietly stop existing.
 
-🔗 https://www.reddit.com/r/Screenwriting/comments/1wjqq6z/this_is_not_how_you_find_an_agent/
+🔗 https://www.reddit.com/r/Screenwriting/comments/1wl3jzw/where_tf_did_my_agent_go/
 
-💬 What did you believe about how agents work before you knew better — and who put you right?
+💬 What does your agreement actually say happens if your agent leaves — and have you ever read that clause?
 
 
 —
-Scout notes: yesterday's edition ran, so nothing is being carried over. Source split: five items from news, trade press and the video lane, five from the community lanes — an even edition. YouTube lane — all six feeds refused for the ninth morning running; the channel-page fallback found one new video, title confirmed against YouTube's own records, and it runs as a strict title-and-date pointer. AI lane: quiet today — both query shapes were run and the vendors' own changelogs were read directly; Sudowrite's newest entry is still 5 September. Item 5's death was verified against national news coverage rather than carried from the community thread that flagged it. Item 3 relays another site's tax instructions and says so; it is not advice from us.
+Scout notes: yesterday's edition ran, so nothing is being carried over. Six items rather than nine or ten, and the reason is worth stating. Source split: two from news, four from the community lanes. The news lanes were swept hard before that call — ALLi, Author Help UK, Writer Beware, Jane Friedman, Bernoff, the Australian feed, David Gaughran, Kindlepreneur and The Bookseller's news listing read directly, plus the vendors' own changelogs. Two strong Bookseller stories were found and REFUSED on date: an Independent Publishers Guild conference report on AI, and a warning to indie authors about intermediary services creating a single point of failure. Both are genuinely good and both are outside the seven-day window, so neither runs. Publishers Weekly's AI feature was refused for the same reason. That is the gate working rather than a thin sweep, and the honest answer to a quiet Sunday is a shorter edition, not a padded one. 🤖 AI lane: quiet today — both query shapes were run and Sudowrite's newest release note is still 5 September. YouTube lane: nothing fresh today — five of six feeds refused and the channel-page fallback showed nothing newer than the two videos already carried. Community lanes — r/writing and r/PubTips both rate-limited us out entirely this morning across seven attempts between them, so nothing here comes from either.
 
 —
 Curated daily for this community. Spotted something worth sharing?
