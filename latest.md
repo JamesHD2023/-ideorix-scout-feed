@@ -1,70 +1,70 @@
-📚 Daily Writer's Scout — Monday, 21 September 2026
+📚 Daily Writer's Scout — Tuesday, 22 September 2026
 
-1. 🤖 Australia is considering letting AI train on your work unless you opt out
+1. 🤖 Ten painful truths about an AI-assisted manuscript
 
-The Australian government has put proposals to rights-holder groups that would make the inclusion of Australian creative work in AI training opt-out by default — reported from leaked documents, and explained on 16 September by Dilan Thampapillai of the University of Wollongong, who sets out why it does not sit with Australia's Copyright Act. The Act gives the owner the right to control use; an opt-out system reverses that, making you act to keep what you already have. His sharpest point is practical: once work is inside a trained model it cannot be unlearned, so you would usually find out after it was too late to matter. Books+Publishing reported on 20 and 21 September that the Australian Publishers Association and the Australian Society of Authors have both objected, the APA calling the proposals difficult to reconcile with the government's stated support for copyright, and the ASA refusing to accept a shift of the policing burden onto creators. Industry Minister Tim Ayres denies protections would be reduced.
+Josh Bernoff published this on 21 September and it is the most concrete list on the subject we have seen. Among them: detection tools can identify AI-written sections from word patterns; AI-generated text is not eligible for copyright under US Copyright Office rulings, which is why publishers ask; the prose reads smoothly and repetitively and bores readers; editors charge a premium for it, in his estimate around 50 per cent, because fixing it is closer to ghostwriting than to editing; it sounds like the model rather than like you; it fabricates sources and misattributes quotes; and it praises your work rather than criticising it unless you push hard. His conclusion is an economic one — the time saved comes back as editorial cost, with the copyright question still open at the end.
 
-🔗 https://theconversation.com/an-opt-out-system-for-ai-companies-to-access-creative-works-doesnt-gel-with-australias-copyright-laws-heres-why-292130
+🔗 https://bernoff.com/blog/10-painful-truths-about-your-ai-assisted-book-manuscript
 
-💬 If an opt-out register existed tomorrow, would you register every title you own — and do you actually know where they all are?
-
-
-2. 🎬 The Paramount–Warner Bros fight comes to a head
-
-Worth the screen slot this week even if you never write a script, because it is a story about who gets to commission anything. Paramount Skydance's roughly $110 billion acquisition of Warner Bros. Discovery is being sued by a twelve-state coalition led by California's Attorney General Rob Bonta, on the argument it would hand Paramount unlawful power over theatrical film and basic cable. CNN reported on 20 September that settlement talks are advanced but splitting the coalition, with New York's Letitia James holding out for worker protections. Paramount's chief executive David Ellison has threatened to start moving the studio to Texas, Tennessee or Georgia, with a $7 million-a-day fee to Warner shareholders starting to accrue from 1 October. A union-led coalition ran protests outside the two attorneys general's offices at the weekend.
-
-🔗 https://www.cnn.com/2026/09/20/media/paramount-wbd-settlement-california-connecticut-bonta
-
-💬 Fewer, larger buyers — does that change anything about what you would write next, or is that too far upstream to plan around?
+💬 Which of those ten would actually change how you work — and which do you think will be untrue in a year?
 
 
-3. Are Kirkus reviews worth the money?
+2. 🤖 Sudowrite has quietly moved Rewrite off Claude
 
-Michael La Ronn and Sacha Black took the question seriously on ALLi's podcast on 20 September and came down mostly against. You pay, and you do not know what you will get — a poor review from a prestigious name is worse than no review at all. Their alternative uses for the same money: a better cover, targeted advertising, a small print run for outreach, or help with the community work you are not getting to. Black's own books reached bookshops on reader reviews and sales figures rather than a paid trade review. Their carve-out: it may make sense if your genre expects it, you are confident of the verdict, and the fundamentals are already paid for.
+Posted to Sudowrite's own changelog in the early hours of this morning, 22 September. Chat is now roughly twice as fast after an infrastructure move, and they report a 30 per cent reduction in error rates — dropped context, misplaced edits, giving up mid-task. The more interesting line is that Rewrite, which had been running on Anthropic's Claude Sonnet, now runs on their own in-house model, and they say authors are 20 per cent more likely to keep the result. Printing from the editor works again too. Worth noting where this came from: the vendor's own changelog, not any aggregator — the usual third-party tracker still shows nothing newer than 5 September.
 
-🔗 https://selfpublishingadvice.org/podcast-are-kirkus-reviews-worth-the-money/
+🔗 https://feedback.sudowrite.com/changelog
 
-💬 What is the most you have paid for a single piece of marketing — and could you tell afterwards whether it worked?
-
-
-4. Sanderson's publishing advice, and the path it does not describe
-
-A thoughtful critique posted on 20 September by someone who went through Brandon Sanderson's whole 2025 BYU lecture series. Their view: the craft holds up, the business section does not. It describes exactly one route — query a US agent, expect around 10 per cent on a traditional deal, treat it as a multi-year process — which was true when he broke in and is still fine if that is your plan, but is close to useless for an indie career and assumes a US system that does not map onto other countries' markets or contract norms. They offer Andy Weir as the counter-case: The Martian was a free blog with a few thousand engineer and scientist readers helping with the science, then a 99-cent ebook that sold 31,000 copies, and the book deal came after the audience, not before it.
-
-🔗 https://www.reddit.com/r/selfpublish/comments/1wljdj1/for_indie_authors_sandersons_lessons_on/
-
-💬 Whose publishing advice did you follow that turned out to describe a road you were not on?
+💬 If a tool swaps the model underneath a feature you rely on, would you want to be told — and would you go back and re-check work it produced before the change?
 
 
-5. "This seller has a limit of three per customer"
+3. This week's UK roundup: work-for-hire versus a standard book contract
 
-A small mystery from 20 September with real money in it. An author found Amazon capping purchases of their own book at three copies per customer — a limit they had not set anywhere they know of, discovered because a reader wanted four. Nothing in their searching explained it. If you sell direct at events or take bulk orders, this is worth knowing exists before it happens the week you need it not to.
+Author Help UK's weekly news, published 21 September, gathers seven pieces. The one worth opening first is SFWA's explainer on the difference between a work-for-hire agreement and a standard fiction book contract — the distinction that decides whether you still own what you wrote. Also in there: Elizabeth Spann Craig on not trying to be present on every platform, a piece on the legal tangle of adapting Creative Commons material for film, Indie Author Magazine on building a story bible, and an Ars Technica report in which an AI executive describes web scraping for training as potentially the largest theft of labour in human history.
 
-🔗 https://www.reddit.com/r/selfpublish/comments/1wlq6au/amazon_is_limiting_the_maximum_copies_you_can_buy/
+🔗 https://authorhelp.uk/weekly-news-21st-september-2026/
 
-💬 Have you ever hit a platform limit nobody told you about — and did you ever find out why it was there?
-
-
-6. Six illustrators, two quotes above ten thousand dollars
-
-Posted 20 September by an author who wants human-made cover art, is willing to pay properly for it, and approached six illustrators — four through Reedsy, the rest directly. Two Reedsy quotes came back above $10,000, one at $15,000, for a single cover. Two of the three approached directly never replied at all. The author is clear they support other independent creatives and are not asking anyone to work cheap; they are describing a gap between what professional illustration costs and what a self-funded writer can pay, and the frustration of being ghosted rather than turned down. Both halves are worth the room's experience — including from anyone who illustrates.
-
-🔗 https://www.reddit.com/r/selfpublish/comments/1wl46pw/what_is_going_on_with_some_of_the_prices_and/
-
-💬 What did your last cover cost, what did you get for it, and how did you find the person who made it?
+💬 Have you ever been offered a work-for-hire deal — and did you spot what you were giving up before you signed?
 
 
-7. "Marketing is making me hate this"
+4. 🎬 A screenplay submission service, five hundred submissions, one reply
 
-An honest post from 20 September. One book out, a lot of money already spent on it, and the exhaustion of posting on social media while watching other people go viral and land agents and audio deals. They took a break from the platforms a few weeks ago and have no desire to go back. Their husband says keep publishing and it will turn. They do not know. They still love the writing — it is everything around it that has worn through.
+Posted 21 September, and it is a useful piece of arithmetic dressed as a complaint. A Network ISA subscriber noticed every one of their submissions flip status overnight at the weekend — dozens jumping to "In Consideration" or "Not Selected" at once, then partly reverting. That prompted the honest tally: years of a monthly subscription, nearly 500 submissions to listed gigs, one reply — and that one from someone who extracted hours of free rewrites on his own script. They also note the success board has not been updated in months. Treat it as one subscriber's account rather than a finding, but the arithmetic is the part to remember before paying for access to opportunities.
 
-🔗 https://www.reddit.com/r/selfpublish/comments/1wlfk3q/burn_out/
+🔗 https://www.reddit.com/r/Screenwriting/comments/1wmhjz6/so_how_much_of_network_isa_is_a_scam/
 
-💬 If you stepped back from marketing entirely for three months, what would actually happen to your books — and have you ever tested that?
+💬 What have you paid for access to industry opportunities — and what did it actually return?
+
+
+5. "Did you self-publish it?"
+
+Asked on 22 September, and every indie author has heard it. The poster wants a reply for the version of the question that is really asking whether it is a "real" book — something that shows pride in the work and the effort behind it without sounding defensive, because defensive concedes the premise. It is a small social problem with a surprisingly large effect on how people talk about their own books.
+
+🔗 https://www.reddit.com/r/selfpublish/comments/1wmv6vg/best_response_to_did_you_selfpublish_it_if_that/
+
+💬 What is your answer — the one that has actually worked in a real conversation?
+
+
+6. Ten years on, a former agent's reader is marking his own homework
+
+Brian, who interned for a literary agent reading queries and manuscripts, wrote 187 writing guides on r/writing a decade ago and founded r/PubTips off the back of them. On 21 September he started going back through them to ask which still hold up, beginning with character arcs. He is candid about the intervening years: four novels written, two trunked unqueried, one queried to a decent number of full requests and no agent, a fifth nearly done. Advice revisited by the person who gave it, with a decade of their own results attached, is rarer than it should be.
+
+🔗 https://www.reddit.com/r/writing/comments/1wmcime/10_years_ago_i_posted_187_writing_guides_on/
+
+💬 What writing advice did you believe ten years ago that you have since quietly stopped following?
+
+
+7. One rejection, the whole agency
+
+A querying detail worth knowing, raised on 21 September. An agency with several agents open to this author's genre states on its submissions page that if one of its agents declines a manuscript, the agency took it as not a fit for any of them — though an author who feels strongly may approach a second agent provided they disclose the earlier submission. The question to the room: does a note like that make you spend your one shot more carefully, or put you off the agency entirely?
+
+🔗 https://www.reddit.com/r/PubTips/comments/1wmh2p6/pubq_if_agent_a_isnt_interested_then_you_probably/
+
+💬 How do you decide which agent at a multi-agent agency to query first — and have you ever got that wrong?
 
 
 —
-Scout notes: yesterday's edition ran, so nothing is being carried over. Source split: three items from news and trade press, four from the community lanes. Item 1 links the explainer that can be read rather than the trade reports behind a subscriber wall, and both dates are stated. Item 2 was flagged by a community thread and then verified against national news coverage before it ran — the thread alone would not have been enough. YouTube lane: nothing fresh today — all six feeds refused for the eleventh morning running and the channel-page fallback showed nothing newer than Friday's video. 🤖 AI lane covered by item 1; the tools strand stays quiet, with Sudowrite's newest release note still 5 September. Reddit — three of four lanes rate-limited us on the first pass and answered on a later one. The two strong Bookseller stories noted as out-of-date yesterday are now twelve days old and still out.
+Scout notes: yesterday's edition ran, so nothing is being carried over. Source split: three items from news and trade press, four from the community lanes. The AI lane produced both strands today for the first time since 5 September — the acceptance side from a newsletter and the tools side from a vendor changelog read directly, which is the route the spec added on 4 September precisely because aggregators lag; the aggregator still had not seen this morning's Sudowrite entry. YouTube lane: nothing fresh today — all six feeds refused for the twelfth morning running and the channel-page fallback showed nothing new. Reddit — two of four lanes rate-limited us on the first pass and answered on a later one.
 
 —
 Curated daily for this community. Spotted something worth sharing?
