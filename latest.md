@@ -1,79 +1,79 @@
-📚 Daily Writer's Scout — Wednesday, 23 September 2026
+📚 Daily Writer's Scout — Thursday, 24 September 2026
 
-1. 🤖 "I feel catfished": a beta reader who fed the book to ChatGPT
+1. Five KDP file rules that get uploads rejected
 
-Posted 22 September by a first-time author who sent their manuscript to a beta reader found online and got back a feedback document that reads unmistakably like a model wrote it — and, worse, looks as though the manuscript itself was pasted into an AI and the output forwarded. Their objection is the obvious one: the entire point of a beta reader is a human response. They have copied a chunk of the feedback into the post, and it is the familiar shape — fluent, structured, complimentary, and about nothing a reader would actually have felt. Two questions worth the room's answers: what do you do now, and how do you screen for it next time.
+The most immediately useful thing today, posted 23 September by someone who has been working through KDP's print specifications. With bleed, your pages must be 0.125 inches wider and 0.25 inches taller than the trim size — a 6x9 book with bleed needs 6.125x9.25 pages, and exactly 6x9 gets rejected. The inside gutter margin grows with page count: 0.375 inches up to 150 pages, 0.5 up to 300, 0.625 up to 500, so margins that worked on a 100-page book swallow text into the spine at 400. Spine width depends on paper stock — white is 0.002252 inches per page, cream 0.0025 — so the same page count gives a different spine and changing your page count means rebuilding the cover. No spine text under 79 pages, because thin spines shift during binding. And 300 DPI is measured at printed size, not in the file: a 1000-pixel image is fine at three inches wide and blurry at six.
 
-🔗 https://www.reddit.com/r/selfpublish/comments/1wmz8fx/writers_i_sent_my_manuscript_to_a_beta_reader_for/
+🔗 https://www.reddit.com/r/selfpublish/comments/1wo9mea/five_file_rules_that_catch_people_out_on_kdp/
 
-💬 How would you word the ask to a new beta reader so that "please, human only" is clear without being insulting?
-
-
-2. Spotify's partner programme reaches 35 more markets, and an indie makes the audiobook shortlist
-
-ALLi reported on 22 September that Spotify is expanding its Partner Program into 35 additional markets this autumn. Worth being precise: that programme is for podcasters, not audiobooks — eligibility is 1,000 audience members and 2,000 hours consumed over thirty days across at least three episodes, in exchange for a share of premium subscription revenue or better ad rates. The audiobook angle in the same summary is the more directly encouraging one: indie author Sasha Cottman is shortlisted in the Romance category of the Speakies, the British Audio Awards, for A Wild English Rose, published through Spotify Audiobooks. The awards take independent titles, and Spotify is sponsoring a category Audible is not.
-
-🔗 https://selfpublishingadvice.org/speakies-shortlist-features-indie-author/
-
-💬 If you have an audiobook, have you ever entered it for anything — and if not, what has stopped you?
+💬 Which of those five have you been caught by — and what is the rejection that cost you the most time?
 
 
-3. Form, voice, outcome: a working structure for essays
+2. 🤖 Teach thinking, not sentences — and a survey that needs writers in it
 
-Amy Bernstein, writing on Jane Friedman's site on 22 September, sets out three components. Form is the bucket — opinion, memoir, entertainment, reportage — and choosing it settles your headline, opening line, thesis and anecdotes. Voice has to match the bucket you chose. Outcome is the part most drafts skip: the essay has to answer "so what?", with observations that accumulate towards something rather than sitting side by side. Useful well beyond essays, because the third component is what most abandoned chapters are missing too.
+Josh Bernoff's newsletter of 23 September makes an argument about writing instruction that applies just as well to your own practice: since any AI tool can produce flawless sentences, the thing worth teaching and learning is the thinking — studying writers who do it well and reverse-engineering how, arguing about whether an idea is any good and properly supported, and critiquing for effect rather than for error. He also reports a corporate case worth knowing: a chief executive's blanket AI mandate producing what staff internally call "slop grenades", low-quality output lobbed between colleagues. And a live ask: the AI and the Writing Profession survey — the one whose last edition gave us the 61 per cent figure a fortnight ago — is running again and currently has around 800 responses, with editors outnumbering writers. If you want next year's number to describe people like you, that is a few minutes well spent.
 
-🔗 https://janefriedman.com/3-structural-components-of-essay-form-voice-and-outcomes/
+🔗 https://bernoff.com/blog/teaching-thinking-author-platform-building-fifth-third-park-newsletter-23-september-2026
 
-💬 Take something you have written recently — can you say in one sentence what it was FOR?
-
-
-4. Is it bad form to negotiate with an agent?
-
-A good problem, posted 22 September. First run of queries, immediate interest, and an offer from the agency they most wanted — big, respected, entirely above board. They have compared the contract to their national writers' body's standard terms. It takes 20 per cent on overseas sales and 20 per cent on film and TV adaptation; they would prefer 15 on adaptation, which also sits inside the normal range. The question is not whether they can ask but whether asking makes them look difficult when they are unpublished and the agency is enormous.
-
-🔗 https://www.reddit.com/r/PubTips/comments/1wn8p60/pubq_is_it_bad_form_to_attempt_to_negotiate_with/
-
-💬 Have you ever negotiated a clause in a publishing or agency contract — what did you ask for, and what happened?
+💬 If a machine can already write a clean sentence, what is the part of your writing that is actually yours?
 
 
-5. "Is anyone leaving IngramSpark?"
+3. One book, three lives
 
-Posted this morning, 23 September, and it is the fourth account of the same problem this digest has carried in three weeks. Months trying to get an author account set up, nobody reachable, and bookshops actively asking for the book while it cannot be listed. Their verdict, from three decades across several industries: the worst company they have dealt with relative to its market dominance. Whatever the cause, four independent reports in three weeks is a pattern rather than bad luck, and worth factoring in if Ingram is your route to bookshops.
+ALLi's podcast of 23 September, with Anna Featherstone and glass artist Mark Eliott, is a good worked example of not stopping at publication. His novel came out in 2023 as a paperback from an offset print run, sold mostly through his own studio classes and personal network. In 2026 it became a special-edition ebook through Draft2Digital — full-colour photographs of the artwork, accessibility descriptions, added nonfiction on glassblowing history and technique, and bonus material about the exhibition. QR codes at exhibitions now point visitors at it. A locally distributed object turned into something globally available, without a publisher.
 
-🔗 https://www.reddit.com/r/selfpublish/comments/1wnt3kq/is_anyone_leaving_ingramspark/
+🔗 https://selfpublishingadvice.org/podcast-your-book-could-have-multiple-lives/
 
-💬 If Ingram is in your distribution plan, what is your plan B — and how long would switching actually take?
-
-
-6. A colleague reviewed your book and said so in the review
-
-A small, sharp one from 22 September. An author's coworker bought the book, read it, and left an Amazon review that mentions being a colleague. The author's worry is that Amazon treats reviews from personal connections as manipulation and may act on it. They asked the room whether to request removal or leave it alone and not draw attention. The update at the end is the useful bit: they asked the colleague to edit out the one sentence, and she did it without fuss.
-
-🔗 https://www.reddit.com/r/selfpublish/comments/1wnbtwy/coworker_left_an_amazon_review_saying_theyre_my/
-
-💬 Have you ever had a review pulled — and do you tell friends and family what they can and cannot say in one?
+💬 What could your finished book become that it is not already — and what is stopping you?
 
 
-7. Printing the manuscript, and suddenly seeing it
+4. When do you stop spending?
 
-From 22 September, and it pairs with last Friday's multi-format self-editing routine. An author finished their second draft, printed the whole thing, and read it start to finish before touching the third. Their report: it feels like a real book, and that alone made the cadence audible and the flaws visible — this chapter drags, this relationship is not believable, this event needs more room. Some fixes were written straight onto the page by hand, others became margin notes or post-its. Grueling, they say, and eye-opening.
+Posted 23 September, and it is the question underneath half this week's threads. An author has been in the red for a while: Amazon ads tried, Meta ads running through an agency, TikTok attempted and not their strength. They have a full-time job funding the advertising, which is the only reason it has gone on this long. They want a rule of thumb for when enough is enough — and there is not really one, which is why other people's actual numbers are worth more here than encouragement.
 
-🔗 https://www.reddit.com/r/writing/comments/1wn9ces/printing_my_manuscript_has_been_a_game_changer/
+🔗 https://www.reddit.com/r/selfpublish/comments/1wo8n0l/when_to_pull_the_plug/
 
-💬 Have you read your own book on paper — and what did it show you that the screen had been hiding?
+💬 What is your own stop-loss — a figure, a timeframe, or a feeling — and have you ever actually honoured it?
 
 
-8. Lead with service, not with services
+5. The option on book one expired. Can you query book two?
 
-Josh Bernoff on 22 September, writing for freelancers but useful from both sides of the transaction. His argument is that giving real advice away first — genuine help, honest referrals — builds the trust that paid work comes out of, while leading with a price list does not. The practical half is the boundary: be specific about what is free and what is not, one discovery call rather than a manuscript read, and negotiate on scope rather than on rate. If you hire editors, designers or publicists, it also describes what a good approach from one of them looks like.
+A properly useful rights question from 23 September. An author published in November 2024 without an agent, under a contract giving the publisher first refusal on the next book. They submitted book two and heard nothing. The option period expired. They emailed the editor asking for confirmation that the publisher was passing — and are now trying to work out where that leaves them. Anyone with an option clause in a contract should read this before it becomes their situation.
 
-🔗 https://bernoff.com/blog/a-freelancers-attitude-lead-with-service-not-with-services
+🔗 https://www.reddit.com/r/PubTips/comments/1wogy8w/pubq_querying_book_2_after_option_on_book_1/
 
-💬 What was the best approach you ever had from a freelancer — and what made you say yes?
+💬 Do you have an option clause in a contract — and do you know exactly when it expires and what triggers the clock?
+
+
+6. How do authors afford eleven years between books?
+
+Asked on 23 September, using Scott Hawkins as the example — a first novel in 2015 and a second arriving eleven years later. The poster's real question is economic rather than creative: how do writers with two or three books out and long gaps between them keep going. The answers usually come down to day jobs, partners, and the gap between what a book earns and what a life costs, which is a more honest picture of the career than most.
+
+🔗 https://www.reddit.com/r/PubTips/comments/1wnwb91/discussion_how_are_less_established_authors_able/
+
+💬 What actually funds your writing — and would you tell a new writer the truth about that?
+
+
+7. The draft is done, the cover has arrived, and the interest has gone
+
+From 23 September. A children's short story collection — fifteen stories of about a thousand words each, set in a fictional teddy bear mining town, built up over a decade and finally written down. The author loves the stories and the characters, and has completely lost the will to edit them. The cover came back from the illustrator yesterday and did not rekindle anything. A specific and very common failure point: the work is finished and the finishing is not.
+
+🔗 https://www.reddit.com/r/selfpublish/comments/1wod3pr/finish_my_draft_got_my_cover_designedand_now_i/
+
+💬 What got you through the last ten per cent of a project you had stopped caring about?
+
+
+8. 🎬 Aaron Sorkin does not use an outline
+
+Scriptnotes published its Sorkin episode on 22 September, and the craft in it travels well beyond screenwriting. He does not outline: he works with index cards on a corkboard, and describes the process as walking through the woods at night with a flashlight. He has to know the first scene almost completely before he starts — to the point where writing it is an afterthought. And the engine underneath everything is intention and obstacle: somebody wants something, something is in the way. The episode also breaks down two scenes for how the conflict is choreographed, and discusses his next film, The Social Reckoning, about the Facebook files whistleblower.
+
+🔗 https://johnaugust.com/2026/the-one-with-aaron-sorkin
+
+💬 Do you need to know your opening before you can start — or do you find it by writing past it?
 
 
 —
-Scout notes: yesterday's edition ran, so nothing is being carried over. Source split: three items from news and trade press, five from the community lanes. Item 2 corrects a detail the headline could mislead on — the expanding Spotify programme is for podcasters, not audiobooks. YouTube lane: nothing fresh today — all six feeds refused for the thirteenth morning running and the channel-page fallback showed nothing new. 🎬 Screen lane: no item today. r/Screenwriting returned rate-limit responses on every attempt this morning and never answered, so there was nothing to read rather than nothing worth carrying. AI lane covered by item 1; Sudowrite's changelog has nothing newer than yesterday's entry.
+Scout notes: yesterday's edition ran, so nothing is being carried over. Source split: three items from news, trade press and the screen lane, five from the community lanes. Two stories were dropped outright for sitting behind a paid-subscriber wall, both from Jane Friedman on 23 September — one gathering readers' accounts of Amazon KDP account terminations, which is squarely on a beat this digest has followed for a month, and one on reaching loyal readers away from the big platforms. A headline is not something to write from, so neither runs. YouTube lane: nothing fresh today — all six feeds refused for the fourteenth morning running. Reddit — all four lanes returned rate-limit responses on the first pass this morning, the first time that has happened, and each needed at least one further attempt spread across the run.
 
 —
 Curated daily for this community. Spotted something worth sharing?
