@@ -1,79 +1,108 @@
-📚 Daily Writer's Scout — Thursday, 24 September 2026
+📚 Daily Writer's Scout — Friday, 25 September 2026
 
-1. Five KDP file rules that get uploads rejected
+1. Amazon has cut the KDP upload limit to two titles per format per week
 
-The most immediately useful thing today, posted 23 September by someone who has been working through KDP's print specifications. With bleed, your pages must be 0.125 inches wider and 0.25 inches taller than the trim size — a 6x9 book with bleed needs 6.125x9.25 pages, and exactly 6x9 gets rejected. The inside gutter margin grows with page count: 0.375 inches up to 150 pages, 0.5 up to 300, 0.625 up to 500, so margins that worked on a 100-page book swallow text into the spine at 400. Spine width depends on paper stock — white is 0.002252 inches per page, cream 0.0025 — so the same page count gives a different spine and changing your page count means rebuilding the cover. No spine text under 79 pages, because thin spines shift during binding. And 300 DPI is measured at printed size, not in the file: a 1000-pixel image is fine at three inches wide and blurry at six.
+The big one, and it took effect on Monday 21 September. ALLi's Dan Holloway reported it on 24 September: KDP now allows two NEW titles per format per week, with the limit resetting every Sunday at 12:00 AM UTC. Per format means e-book, paperback and hardback are counted separately — so two books can go out in all three formats in a week, but a third book cannot go out at all. It applies to new titles only and does nothing to anything you have already published. The previous limit, ten titles a week, came in only last year; the first limiting move was back in 2023. Amazon's entire stated reason is "to help maintain a positive publishing experience for all authors", which says nothing, but the context is not mysterious — and it lines up with Rakuten Kobo's Michael Tamblyn saying his company now turns down 45 per cent of attempted uploads, explicitly choosing a "writer first" over a "reader first" approach to AI. If you have a backlist waiting to go up, or you publish in runs, your release calendar just changed.
 
-🔗 https://www.reddit.com/r/selfpublish/comments/1wo9mea/five_file_rules_that_catch_people_out_on_kdp/
+🔗 https://selfpublishingadvice.org/amazon-cuts-kdp-weekly-upload-limit/
 
-💬 Which of those five have you been caught by — and what is the rejection that cost you the most time?
+🎥 Dale L. Roberts covered the same story in his 24 September news round-up, currently titled "Amazon KDP Cuts Weekly Publishing Limits by 80% | Self-Publishing News (Sept. 24, 2026)": https://www.youtube.com/watch?v=UMB6Wpf7h2E
 
-
-2. 🤖 Teach thinking, not sentences — and a survey that needs writers in it
-
-Josh Bernoff's newsletter of 23 September makes an argument about writing instruction that applies just as well to your own practice: since any AI tool can produce flawless sentences, the thing worth teaching and learning is the thinking — studying writers who do it well and reverse-engineering how, arguing about whether an idea is any good and properly supported, and critiquing for effect rather than for error. He also reports a corporate case worth knowing: a chief executive's blanket AI mandate producing what staff internally call "slop grenades", low-quality output lobbed between colleagues. And a live ask: the AI and the Writing Profession survey — the one whose last edition gave us the 61 per cent figure a fortnight ago — is running again and currently has around 800 responses, with editors outnumbering writers. If you want next year's number to describe people like you, that is a few minutes well spent.
-
-🔗 https://bernoff.com/blog/teaching-thinking-author-platform-building-fifth-third-park-newsletter-23-september-2026
-
-💬 If a machine can already write a clean sentence, what is the part of your writing that is actually yours?
+💬 How many titles do you put up in a normal week — and does a cap of two per format actually bite for you?
 
 
-3. One book, three lives
+2. 🤖 Sudowrite has put character portraits in the Story Bible
 
-ALLi's podcast of 23 September, with Anna Featherstone and glass artist Mark Eliott, is a good worked example of not stopping at publication. His novel came out in 2023 as a paperback from an offset print run, sold mostly through his own studio classes and personal network. In 2026 it became a special-edition ebook through Draft2Digital — full-colour photographs of the artwork, accessibility descriptions, added nonfiction on glassblowing history and technique, and bonus material about the exhibition. QR codes at exhibitions now point visitors at it. A locally distributed object turned into something globally available, without a publisher.
+Shipped this morning, 25 September. Open a character card, click the empty Portraits box, pick a style and generate — it builds the image from the Physical Description you have already written, so there is no separate image prompt to craft. Four preset styles ship with it: Painterly, Cinematic Realism, Bright Editorial and Storybook, and you can generate all four at once to compare. An Appearance details field takes art direction (an outfit, an expression, a setting), you can upload a reference image and say what to take from it, and if you deselect the presets you can describe your own style instead. Portraits save to the character card as a persistent visual reference. Worth knowing whichever tool you write in: a portrait generated from the description is a check on the description — if the face that comes back is not the character, the writing is not doing the work yet.
 
-🔗 https://selfpublishingadvice.org/podcast-your-book-could-have-multiple-lives/
+🔗 https://feedback.sudowrite.com/changelog
 
-💬 What could your finished book become that it is not already — and what is stopping you?
-
-
-4. When do you stop spending?
-
-Posted 23 September, and it is the question underneath half this week's threads. An author has been in the red for a while: Amazon ads tried, Meta ads running through an agency, TikTok attempted and not their strength. They have a full-time job funding the advertising, which is the only reason it has gone on this long. They want a rule of thumb for when enough is enough — and there is not really one, which is why other people's actual numbers are worth more here than encouragement.
-
-🔗 https://www.reddit.com/r/selfpublish/comments/1wo8n0l/when_to_pull_the_plug/
-
-💬 What is your own stop-loss — a figure, a timeframe, or a feeling — and have you ever actually honoured it?
+💬 Do character portraits help you hold a cast in your head, or do they lock in a face you would rather keep loose?
 
 
-5. The option on book one expired. Can you query book two?
+3. 🤖 And the model shelf moved again three days earlier
 
-A properly useful rights question from 23 September. An author published in November 2024 without an agent, under a contract giving the publisher first refusal on the next book. They submitted book two and heard nothing. The option period expired. They emailed the editor asking for confirmation that the publisher was passing — and are now trying to work out where that leaves them. Anyone with an option clause in a contract should read this before it becomes their situation.
+From the same changelog, dated 22 September: Sudowrite added Anthropic's Claude Opus 5.5 and OpenAI's GPT-6 Sol and GPT-6 Luna. The part that matters to your wallet is the credit cost. Sudowrite reports GPT-6 Sol at roughly 40 per cent cheaper than GPT-5.6 Sol, GPT-6 Luna about 10 per cent cheaper than GPT-5.6 Luna, and Opus 5.5 marginally cheaper than Opus 5 — but the gap between the three is the real number: Sol sits at about a third of Opus 5.5's credit cost and Luna at about a seventh. Sudowrite suggests Sol for Story Bible adherence and plugin work and Luna for high-volume brainstorming where you generate a lot and sort it out afterwards. If you are paying per credit, the model you reach for by habit may now be the expensive way to do a cheap job.
 
-🔗 https://www.reddit.com/r/PubTips/comments/1wogy8w/pubq_querying_book_2_after_option_on_book_1/
+🔗 https://feedback.sudowrite.com/changelog
 
-💬 Do you have an option clause in a contract — and do you know exactly when it expires and what triggers the clock?
-
-
-6. How do authors afford eleven years between books?
-
-Asked on 23 September, using Scott Hawkins as the example — a first novel in 2015 and a second arriving eleven years later. The poster's real question is economic rather than creative: how do writers with two or three books out and long gaps between them keep going. The answers usually come down to day jobs, partners, and the gap between what a book earns and what a life costs, which is a more honest picture of the career than most.
-
-🔗 https://www.reddit.com/r/PubTips/comments/1wnwb91/discussion_how_are_less_established_authors_able/
-
-💬 What actually funds your writing — and would you tell a new writer the truth about that?
+💬 Do you match the model to the task, or pick the strongest one available and pay for it?
 
 
-7. The draft is done, the cover has arrived, and the interest has gone
+4. 🤖 The nonfiction truths nobody tells you until you are in it
 
-From 23 September. A children's short story collection — fifteen stories of about a thousand words each, set in a fictional teddy bear mining town, built up over a decade and finally written down. The author loves the stories and the characters, and has completely lost the will to edit them. The cover came back from the illustrator yesterday and did not rekindle anything. A specific and very common failure point: the work is finished and the finishing is not.
+Josh Bernoff, 24 September, drawing on 80 nonfiction book projects. The figures are the point. Traditional publishing takes 18 months to two years from deal to print. Publishers expect the author to sell 10,000 copies through their own efforts. Hybrid publishing costs at least $25,000. A ghostwriter costs at least $50,000, and a good one at least twice that. Royalties arrive three to five months after the end of a six-month sales period, so money for a sale made in January can land the following autumn. You get about 15 author copies unless your contract says otherwise. Conference speaking slots are applied for nine months to a year ahead. A publicist costs thousands a month and you need them for at least six. None of this is an argument against writing the book — it is an argument for knowing the shape of the year after you finish it.
 
-🔗 https://www.reddit.com/r/selfpublish/comments/1wod3pr/finish_my_draft_got_my_cover_designedand_now_i/
+🔗 https://bernoff.com/blog/a-slew-of-sobering-truths-that-always-surprise-nonfiction-authors
 
-💬 What got you through the last ten per cent of a project you had stopped caring about?
+💬 Which of those numbers is furthest from what you assumed when you started?
 
 
-8. 🎬 Aaron Sorkin does not use an outline
+5. Put everything in the book
 
-Scriptnotes published its Sorkin episode on 22 September, and the craft in it travels well beyond screenwriting. He does not outline: he works with index cards on a corkboard, and describes the process as walking through the woods at night with a flashlight. He has to know the first scene almost completely before he starts — to the point where writing it is an afterthought. And the engine underneath everything is intention and obstacle: somebody wants something, something is in the way. The episode also breaks down two scenes for how the conflict is choreographed, and discusses his next film, The Social Reckoning, about the Facebook files whistleblower.
+Joanna Penn's Creative Penn episode of 23 September, with financial advisor Brian Herriot. Two things travel. First, his distinction between time freedom and the two things it gets confused with: not work-life balance, which steals hours back daily, and not financial freedom, which asks you to wait until retirement — but designing work in seasons of work and rest, with flexibility built in. He sorts people into three money personalities: the Minimiser who avoids thinking about money and needs less of it, the Manager who saves and compounds, and the Maker who creates income entrepreneurially. Second, and squarely for nonfiction authors: he argues for holding nothing back in a business book. Put all of it in, establish the authority, and let the tiered offerings — a free quiz, group coaching, one-to-one work — emerge from a book that already gave everything away.
 
-🔗 https://johnaugust.com/2026/the-one-with-aaron-sorkin
+🔗 https://www.thecreativepenn.com/2026/09/23/time-freedom-rethink-your-work-and-money-with-brian-herriot/
 
-💬 Do you need to know your opening before you can start — or do you find it by writing past it?
+💬 Are you holding your best material back for the paid thing — and is that actually working?
+
+
+6. 🎥 Has digital narration come of age?
+
+The Self Publishing Show published episode 466 under that title six hours ago, on 25 September. Flagging it as a pointer only — it went up too recently for show notes to exist and I have not listened to it, so I am not going to tell you what is in it. But the question is the live one in audio right now, with Spotify's free AI narration route opening to US indie authors this month, and it is worth an hour of your commute.
+
+🔗 https://www.youtube.com/watch?v=meWm5uH-Z7Q
+
+💬 Would you put a digitally narrated edition of your own book out today — or is the voice still the reason you have not?
+
+
+7. From pantser to Save the Cat, and hating every minute of it
+
+Posted 24 September by a romance author who does not plot, has never needed to, and is 75 per cent through Save the Cat! Writes a Novel with every hair standing on end. The honest diagnosis underneath the complaint is a good one: their instinctive plots produce nice people making good choices to whom good things happen, which is pleasant and dull, and they went to the book specifically for help injecting conflict. It is doing exactly that and they resent it for trying to turn them into a plotter along the way. A very recognisable fight, and the thread is the useful part — what else to read, and whether the discomfort passes.
+
+🔗 https://www.reddit.com/r/selfpublish/comments/1wp0v3o/has_anyone_successfully_gone_from_a_pantser_to_a/
+
+💬 Has a craft book ever helped you by annoying you — and which one?
+
+
+8. When does a stack of books become a publishing house?
+
+From 22 September. Three books out on a broadly similar topic, a few more coming, a publisher name already picked — and a growing sense that there should be an overarching theme, or a logo, or something. The question asked is the interesting one: at what point did you start thinking of yourself as a small publishing house rather than a person with a collection of books, and what actually changed when you did? Anyone with three or more titles in one lane should be asking it.
+
+🔗 https://www.reddit.com/r/selfpublish/comments/1wn2ytv/has_anyone_here_deliberately_built_a_brand_around/
+
+💬 Are your books a catalogue or a list — and does your reader know the difference?
+
+
+9. Can a scene stand up without the story behind it?
+
+A real craft question from 24 September. Prompted by a chapter in a long-running series that wrecked a lot of readers, the poster asks how much of a scene's emotional force comes from the writing itself and how much from the hundreds of pages of investment before it. Not "could you rewrite it as a standalone" — that is easy — but: strip away the accumulated attachment, hand the thing as-is to someone who knows none of these people, and does the prose, structure, pacing and reveal still land? It is the question behind every prologue, every sample chapter and every first ten pages an agent reads.
+
+🔗 https://www.reddit.com/r/writing/comments/1wp7vql/can_a_powerful_scene_stand_on_its_own_without_the/
+
+💬 What is the most recent scene that hit you hard in a book you had only just started?
+
+
+10. Twelve queries, five form rejections, and no idea whether that is bad
+
+Posted 24 September, and it is the anxiety nobody publishes stats about. This author workshopped a query here in early August, applied the feedback, sent a revised package to twelve strong fits, and has five form rejections back — from, they note, precisely the agents who answer quickly. They had the query critiqued a second time, applied an agent's advice, built a new package, and are now trying to work out whether a cold first batch means the book, the query or nothing at all. The answers to this are worth more than the encouragement.
+
+🔗 https://www.reddit.com/r/PubTips/comments/1worosn/pubq_when_to_start_worrying_about_lack_of_requests/
+
+💬 What was your request rate on your first batch — and what did you change before the second?
+
+
+11. 🎬 Why is "reads like a novel" an insult?
+
+A newcomer's question from 22 September that is more useful than it looks, and it cuts both ways for anyone who writes prose and script. The poster assumed it was a compliment. In screenwriting it is not: it usually means interiority that a camera cannot see, description doing work the actor should do, and a page that reads well but does not shoot. Worth reading if you novelise, adapt, or have ever been told your prose is "cinematic".
+
+🔗 https://www.reddit.com/r/Screenwriting/comments/1wmvkpj/reads_like_a_novel_why_is_this_a_bad_thing/
+
+💬 Have you ever been given a compliment about your writing that turned out to be a complaint?
 
 
 —
-Scout notes: yesterday's edition ran, so nothing is being carried over. Source split: three items from news, trade press and the screen lane, five from the community lanes. Two stories were dropped outright for sitting behind a paid-subscriber wall, both from Jane Friedman on 23 September — one gathering readers' accounts of Amazon KDP account terminations, which is squarely on a beat this digest has followed for a month, and one on reaching loyal readers away from the big platforms. A headline is not something to write from, so neither runs. YouTube lane: nothing fresh today — all six feeds refused for the fourteenth morning running. Reddit — all four lanes returned rate-limit responses on the first pass this morning, the first time that has happened, and each needed at least one further attempt spread across the run.
+Scout notes: yesterday's edition ran, so nothing is carried over. Source split: six items from news, trade press, the tools lane and video, five from the community lanes. YouTube: all six RSS feeds returned 404 for the sixteenth consecutive morning, so the video items came from the channel pages instead and both titles were confirmed live against YouTube's own oEmbed endpoint — note that Dale Roberts' video has been retitled since it went up, which is routine and not an error. Reddit rate-limiting again: three of the four lanes refused on the first pass and r/Screenwriting took three attempts spread across the run. Australia's feed carried only awards and trade-deal items today and Europe produced nothing again — the European lane has now been empty for five weeks, which is a gap in this digest rather than an absence of news.
 
 —
 Curated daily for this community. Spotted something worth sharing?
