@@ -49,7 +49,7 @@ Joanna Penn's Creative Penn episode of 23 September, with financial advisor Bria
 
 6. 🎥 Has digital narration come of age?
 
-The Self Publishing Show published episode 466 under that title six hours ago, on 25 September. Flagging it as a pointer only — it went up too recently for show notes to exist and I have not listened to it, so I am not going to tell you what is in it. But the question is the live one in audio right now, with Spotify's free AI narration route opening to US indie authors this month, and it is worth an hour of your commute.
+The Self Publishing Show published episode 466 under that title at 23:00 UTC last night, 24 September â about six hours before this edition went out. Flagging it as a pointer only — it went up too recently for show notes to exist and I have not listened to it, so I am not going to tell you what is in it. But the question is the live one in audio right now, with Spotify's free AI narration route opening to US indie authors this month, and it is worth an hour of your commute.
 
 🔗 https://www.youtube.com/watch?v=meWm5uH-Z7Q
 
