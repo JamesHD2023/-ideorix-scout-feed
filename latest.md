@@ -1,98 +1,79 @@
-📚 Daily Writer's Scout — Saturday, 26 September 2026
+📚 Daily Writer's Scout — Sunday, 27 September 2026
 
-1. 🤖 How the AI scam emails in your inbox are actually built
+1. 🤖 Europe's writers say AI companies are buying old books, scanning them and shredding the paper
 
-Victoria Strauss at Writer Beware, 25 September, and this is the most useful thing you will read this week. The flattering approach from an "editor" or a "book club" that seems to know your book is a template with holes in it, filled from data scraped off your own website, your Amazon and Goodreads listings, your reviews and your bio. The tells she names are specific: "I recently had the opportunity", "I was particularly impressed by", "What stood out most was", and "Warm regards" turning up across emails from supposedly unrelated senders. One claiming to be HarperCollins used the British spelling "programme". Some arrive with the brackets still in them — "[BOOK GENRE]", "[editor]" — because nobody filled the variables. Best of all, one email accidentally carried the AI's own working notes, including a reader classification ("Warm / Cooperatively Engaged") and remarks on when to raise the subject of money. That is the structure: two phases of flattery with no mention of fees, then the ask. Check the sending address and the domain character by character, and remember that real publishers and agents do not cold-approach unknown authors with compliments.
+The European Writers' Council published a statement on 25 September that is worth reading in full, and it is the sharpest thing on the AI-and-books beat this week. Their charge is that non-European tech companies have been buying up rare and out-of-commerce European books through secondhand and antiquarian dealers — the EWC puts the figure at at least two million books — then cutting the spines off, running the pages through high-speed scanners, and shredding and recycling the physical copies. The digitised files go into training large language models. They name Anthropic's book-acquisition programme, which they say spent tens of millions of dollars across 2024 and 2025, and they set it against Google's library scanning of the 2000s. Their vice president Maïa Bensimon says rare books are being destroyed to become "solely the digital property of an AI tech company"; their president Sebastià Portell calls it plundering Europe's trove of knowledge and literature. They are asking the European Commission, the Parliament and individual member states to take a formal position against the practice. These are the EWC's claims and figures, reported as theirs — but the ask is concrete and the Frankfurt Book Fair is a fortnight away, which is when European rights politics gets decided in rooms.
 
-🔗 https://writerbeware.blog/2026/09/25/how-those-personalized-generative-ai-scam-emails-are-built/
+🔗 https://europeanwriterscouncil.eu/ewc-denounces-destructively-book-scans-by-ai_tech/
 
-💬 What is the most convincing approach you have had — and what was the detail that gave it away?
-
-
-2. Different accounts, identical review, different star ratings
-
-Posted 25 September, and it belongs directly under the item above. An author about a month from release is running an ARC campaign through BookSirens with some BookSprout, and the genuine reviews have been coming in — varied, eloquent, three to five stars, all trackable through the platform. Then in the past couple of days several reviews arrived from different accounts carrying the exact same text with different ratings, from people never recruited to the campaign. Nobody in the thread has a confirmed explanation yet, which is precisely why it is worth watching: if your ARC reviews start rhyming with each other, that is a pattern to catch before it lands on your product page.
-
-🔗 https://www.reddit.com/r/selfpublish/comments/1wpswzz/arc_reviewers_all_writing_same_review/
-
-💬 Have you ever spotted a review on your own book that was not written by a reader?
+💬 Does it change anything for you that your out-of-print backlist might be worth more to a model than to a reader?
 
 
-3. 🤖 Readers have started writing their own fiction — by the hundred thousand
+2. There is a 7,000-title indie bookstore and it costs nothing to be in it
 
-ALLi's news podcast of 25 September surfaced a study that deserves more attention than it has had. "AI Fiction in the Wild", by Neel Gupta, Maria Antoniak and Melanie Walsh, went up as a preprint in June and looks at over 500,000 anonymised English-language ChatGPT conversations. More than a third of them involve generating fiction — original stories, roleplay, fanfiction, erotica. About half the fiction prompts are fanfiction and over a quarter are sexually explicit. The activity is dominated by power users, including a type the authors name "infinite story demanders", who ask for the same narrative again and again with variations, for months. Their argument is the part that should interest anyone who sells books: readers may be turning into what they call the "solipsistic reader-writer", generating and consuming inside a closed loop with a machine rather than reading another person. The demand they are serving is for generic forms, repetition, immediacy and very specific combinations of story elements. Read it as market intelligence, not as a threat — that is a description of an appetite, and some of it is an appetite no human author was ever going to satisfy.
+Reported by Indie Author Magazine on 25 September, and a surprising number of indies do not know it exists. ALLi launched an Indie Author Bookstore in spring 2026: a searchable database of independently published books, now holding roughly 7,000 titles across fiction, nonfiction and poetry — romance, crime, historical, fantasy, memoir, biography, travel, cookery, children's and poetry. Readers can search by author, title and genre and filter by age group and award winners, and it runs curated features like books of the day, new releases and seasonal picks. The terms are the part to note: no listing fee, no commission on sales, open to non-members as well as members, and you keep control of where the buy button points — Amazon, another retailer, or direct from your own site. ALLi's role is purely to connect. If you are wide, or selling direct, that is a free shop window.
 
-🔗 https://selfpublishingadvice.org/podcast-spotify-expands-its-partner-program/
-🔗 The study itself: https://arxiv.org/abs/2606.22748
+🔗 https://indieauthormagazine.com/alli-exclusive-allis-indie-author-bookstore-serves-more-than-just-indies/
 
-💬 If readers can generate exactly the story they want on demand, what is it they still come to you for?
-
-
-4. Almost everyone here started in fanfiction
-
-And posted 25 September, from the other end of the same telescope. A writer describes working exclusively in fanfiction, building alternate universes that were really original work wearing familiar faces, with a built-in audience attached. One story ran away from them far enough that the characters had become theirs, so they filed off the serial numbers and moved the whole thing into a world of their own. They credit nearly all their growth as a writer to it, and are now thinking of going back to fanfiction on the side to get the spark going again. Worth reading next to item 3 — the study finds half of AI fiction prompts are fanfiction, and here is what the human version of that appetite did for one writer's craft.
-
-🔗 https://www.reddit.com/r/writing/comments/1wps85a/do_youdid_you_used_to_write_fanfiction/
-
-💬 Where did you actually learn to write — and would you admit it on a dust jacket?
+💬 Where does your buy button point — and have you ever counted what direct sales are actually worth to you?
 
 
-5. 🎥 Indie publishing trends for 2027
+3. 🎬 The writer who took his copyright back, and what it cost him
 
-ALLi posted this yesterday, 25 September, at about 13:00 UTC. Pointer only — I have not watched it, and I am not going to tell you what is in it. But it is the Alliance of Independent Authors doing its forward look at a moment when the platform rules have moved twice in a month, so if you plan your year in Q4, this is the hour to give it.
+Victor Miller, who wrote the original "Friday the 13th", died and the New York Times ran his obituary on 25 September. The rights history in it, quoted at length in a screenwriting thread yesterday, is an education. As the sequels kept coming he had no share of the profits; in 1989 the Writers Guild helped him recover nearly $28,000 from the producer's company, and he later received about $220,000 in residuals and sequel payments. Then in 2016 he served termination notices under the Copyright Act to reclaim control of his screenplay, arguing he had written it as an independent contractor rather than for hire. He was challenged on precisely that point — work made for hire is exempt from the termination provisions — and he won in the district court in 2018, with the Second Circuit affirming in 2021. His lawyer says the reclaimed copyright covers every character in the original screenplay across film, television and ancillary rights, and it cleared the way for the prequel series now arriving on Peacock. Note the arithmetic: he filed in 2016 and it was settled in 2021. Reversion rights are real and they are slow. The obituary itself is behind a wall I could not open this morning, so those figures are as quoted in the thread.
 
-🔗 https://www.youtube.com/watch?v=ud-0m2CNJnU
+🔗 https://www.reddit.com/r/Screenwriting/comments/1wqm7hv/friday_the_13th_writer_who_reclaimed_his_copyright/
 
-💬 What is the one thing you are planning to do differently in 2027?
-
-
-6. 🤖 Who is serving whom
-
-Josh Bernoff, 25 September, building an argument out of Spock's line that computers make excellent servants but he has no wish to serve under them. His examples are ordinary and damning: shop staff whose job is now unjamming the self-checkout, phone systems you navigate in order to reach a person, feeds where an algorithm decides what you see, coders who debug generated code instead of writing solutions, editors untangling prose a language model produced. His conclusion is a business prediction rather than a lament — organisations that automate to cut cost while degrading the experience will lose to the ones that put human judgment and human connection at the centre. For anyone writing nonfiction about work right now, it is a clean thesis and a useful frame.
-
-🔗 https://bernoff.com/blog/serving-the-machines
-
-💬 Where in your own writing process have you ended up serving the machine rather than the other way round?
+💬 Do you know whether anything you have signed could be reverted — and when the window opens?
 
 
-7. 🎥 Preptober has started
+4. Five years, five thousand dollars, and still nobody has read it cold
 
-Heart Breathings put up "The Secret to Finding Your Perfect Book Idea" yesterday evening, 25 September, opening her Preptober run. Pointer only again. Flagging it because the timing matters more than the content: if you intend to draft in November, this is the fortnight in which the planning either happens or does not.
+Posted 26 September, and it is the most useful problem in today's edition. An author four books into a planned adult fantasy series has spent about five years on it, two of those on book one alone. They have paid several professional editors: individual passes on a 90,000-word manuscript running $1,500 to $2,200, developmental editing and manuscript assessments on top, about $5,000 into book one in total. Some of that was worth every penny while they were still learning. But the assessments told them what was wrong without showing them where, and after this many reads they are completely blind to their own book — they know every character, every twist, every thing each scene is meant to do. What they actually need is one person meeting the story for the first time, and they cannot find a route to that which does not cost thousands or end in an abandoned read. If you have ever wondered what the real bottleneck in indie publishing is, it is not writing and it is not money. It is a fresh pair of eyes.
 
-🔗 https://www.youtube.com/watch?v=C7dOCCAQ3ds
+🔗 https://www.reddit.com/r/selfpublish/comments/1wr4hhw/exhausted_author_looking_for_advice/
 
-💬 Are you prepping something for November — and is it a new idea or one you have been circling for years?
-
-
-8. The award came, the readers did not
-
-From 25 September, and it is a useful corrective to a whole category of hope. An author won the Indie Ink Awards for mental health representation, posted about it, got a small bump of social media traction, and then nothing — no further interest, no visibility. They are asking the honest question: is that normal, did anyone ever convert an award into readers, or is this simply a private satisfaction to keep. Anyone weighing up entry fees for award season should read the replies before they pay one.
-
-🔗 https://www.reddit.com/r/selfpublish/comments/1wpyp73/my_book_won_an_award_and_so_far_its_crickets/
-
-💬 Has an award, a review or a badge ever actually sold books for you?
+💬 Who was the last person to read your work cold — and how did you find them?
 
 
-9. Your agent has a Frankfurt list and you are not on it
+5. Fake accounts, old Instagram posts, and a handle that wants to help your career
 
-A sharp rights question from 25 September. An author three months out on submission with a debut, few responses either way, has noticed their book is not on the agency's hot list for the Frankfurt Book Fair — and wants to know whether that means it will not be discussed or promoted at all, and how much the list actually matters. The fair runs in October, so this is live. Useful for anyone with an agent, and instructive for anyone self-publishing who has wondered how foreign rights actually get sold.
+From 26 September, and the third strand of a scam beat this digest has been on all week. An author who is not active on social media, and whose book is not even currently available, is getting daily comments on old Instagram posts from fake accounts, all pointing them at the same promotional handle. That is the shape worth recognising: the approach does not require you to have a launch, an audience or anything to sell. It only requires you to have once posted publicly that you wrote a book. Read it next to Friday's Writer Beware piece on how these approaches get assembled.
 
-🔗 https://www.reddit.com/r/PubTips/comments/1wprwn5/pubq_not_on_agencys_hot_list_for_frankfurt/
+🔗 https://www.reddit.com/r/selfpublish/comments/1wqhrde/thewritersday/
 
-💬 Do you know who is responsible for selling your translation rights — and when you last heard from them?
+💬 What is the most persistent unsolicited "help" you have had about your book, and did you ever find out who was behind it?
 
 
-10. 🎬 Good writing can apparently only get you so far
+6. The one-star review has landed
 
-Posted this morning, 26 September, and it is the most honest thing in today's edition. A screenwriter who won competitions as a teenager, was told repeatedly that the writing was good but the story was not sellable, quit in frustration and spent a decade building a career in an industry-adjacent role with a strong network. Two years ago they wrote something purely to find out whether they still could, discovered they did, and now have three character-driven pieces out with people. The post is about the gap between being good and being bought, and about what a network is and is not worth. It reads across to novelists almost without translation.
+Posted in the small hours of this morning, 27 September, and it is here because everyone needs this thread eventually. A reviewer from a NetGalley listing six months old did not get the premise, tried, lost interest, did not finish, and left a single star. Previous reviews were four and five. The author is choosing to wear it as a badge of honour for now and cry about it later, and is asking other people for the short version of their own lowest star — not quotes, just the gist. It is a Sunday, the second novel is in progress, and this is what morale maintenance actually looks like in this job.
 
-🔗 https://www.reddit.com/r/Screenwriting/comments/1wqc4sv/good_writing_can_apparently_only_get_you_so_far/
+🔗 https://www.reddit.com/r/selfpublish/comments/1wr9of9/the_glorious_i_dont_get_it_review_has_arrived/
 
-💬 Have you ever been told your work was good but not saleable — and what did you do with that?
+💬 What is your lowest-star review, in one line — and did it teach you anything or nothing at all?
+
+
+7. How finished should a second draft be?
+
+Posted 25 September by someone who, after twenty years of writing and four years on this book, finished a first draft for the first time. They took a month off, came back, and the second draft is going well enough that they are aiming to finish it this year. Their question is a good practical one: how polished should draft two be? Their own answer is about 75 per cent — reading well, no major inconsistencies, story complete, all beats in place, but not yet fussing at the line level. They are also weighing querying before self-publishing, wondering when to bring in beta readers, and thinking about paying for a developmental edit either way. Worth reading alongside item 4.
+
+🔗 https://www.reddit.com/r/writing/comments/1wpy573/how_polished_should_your_second_draft_be/
+
+💬 How many drafts do you actually do, and what is each one for?
+
+
+8. Blurb hell, with a deadline
+
+From 25 September, and included because the deadline is the realistic part. A first-time blurb writer for a fantasy romance has three drafts down — one with too much going on, one so pared back it went generic — and a hard date of 1 November to get printed copies to ARC readers before a 30 December release. They have posted the current version for feedback. Nobody warns you that the back cover is harder than the book, and the thread is a decent live workshop on why.
+
+🔗 https://www.reddit.com/r/selfpublish/comments/1wq1pk2/in_blurb_writing_hell/
+
+💬 What is the one line of your own blurb you would defend, and the one you know is not working?
 
 
 —
-Scout notes: yesterday's edition ran, so nothing is carried over. Source split: five items from news, trade press and video, five from the community lanes. The video lane ran on yesterday's new spec, which puts the channel pages first — both videos were found in a single pass, both titles confirmed against YouTube's own oEmbed endpoint, and both dates derived by subtracting the age shown from this run's clock. The RSS liveness probe still answered 404 on three attempts, so the feeds remain dark. Worth a footnote: Dale Roberts' video on the KDP upload cap has now carried three different titles in three days, which is publishers doing what publishers do, not a mistake anywhere. Reddit behaved today — all four lanes answered, only r/Screenwriting needing a second attempt. Quiet lanes: nothing new from the UK, Australian or European sources since Thursday, and no new AI-tool releases to report — the AI beat today is all acceptance rather than tools.
+Scout notes: yesterday's edition ran, so nothing is carried over. Source split: three items from news, trade press and the screen lane, five from the community lanes. It is a small Sunday edition on purpose — every news feed answered and was read, and almost none of them had moved since Friday, so this is the news being thin rather than the sweep being short. One story was held back deliberately: ALLi ran a second piece on reader-generated AI fiction yesterday, covering a WIRED investigation, but that is the beat this digest led on twenty-four hours ago and running it again would be repetition, not news. YouTube lane: nothing fresh today — every curated channel's newest video is one this digest has already carried, and the RSS liveness probe answered 404 three times, so the feeds are still dark. Reddit was badly rate-limited this morning: r/writing took five attempts across two passes and r/PubTips four, though all four lanes did answer in the end. And a first: the European lane produced an item. Publishing Perspectives, the source named in this digest's own spec, turns out to sit behind a bot-challenge gate and cannot be read from here at all — which is why Europe has been blank for six weeks. The European Writers' Council feed works, and today it led the edition.
 
 —
 Curated daily for this community. Spotted something worth sharing?
