@@ -1,79 +1,79 @@
-📚 Daily Writer's Scout — Sunday, 27 September 2026
+📚 Daily Writer's Scout — Monday, 28 September 2026
 
-1. 🤖 Europe's writers say AI companies are buying old books, scanning them and shredding the paper
+1. Books are now turning up in trainers, and the literacy numbers behind it matter
 
-The European Writers' Council published a statement on 25 September that is worth reading in full, and it is the sharpest thing on the AI-and-books beat this week. Their charge is that non-European tech companies have been buying up rare and out-of-commerce European books through secondhand and antiquarian dealers — the EWC puts the figure at at least two million books — then cutting the spines off, running the pages through high-speed scanners, and shredding and recycling the physical copies. The digitised files go into training large language models. They name Anthropic's book-acquisition programme, which they say spent tens of millions of dollars across 2024 and 2025, and they set it against Google's library scanning of the 2000s. Their vice president Maïa Bensimon says rare books are being destroyed to become "solely the digital property of an AI tech company"; their president Sebastià Portell calls it plundering Europe's trove of knowledge and literature. They are asking the European Commission, the Parliament and individual member states to take a formal position against the practice. These are the EWC's claims and figures, reported as theirs — but the ask is concrete and the Frankfurt Book Fair is a fortnight away, which is when European rights politics gets decided in rooms.
+Pan Macmillan announced this on 24 September, with Books+Publishing picking it up in Australia this morning. Together with Spotify and the footwear brand HYPHNT they have put an NFC chip in a £79 junior trainer: tap a phone against the shoe and Spotify opens on a featured audiobook. It launches with John Patrick Green's InvestiGators series, more Pan Macmillan titles follow over time, and it is tied to the National Year of Reading. Treat the gimmick as the wrapper and read the figures inside it, because they are the reason this exists — 47 per cent of children listen to audiobooks or podcasts, 56 per cent of young listeners weekly, 50 per cent say listening "feels like reading", 37 per cent say audiobooks got them reading more widely, and 68 per cent of parents use audiobooks to keep a reading culture at home. Jodie Williams at Pan Macmillan puts it as reading belonging anywhere. The transferable point for an indie is not the shoe. It is that discovery is moving off the retailer's search box and into whatever object a reader already has in their hand.
 
-🔗 https://europeanwriterscouncil.eu/ewc-denounces-destructively-book-scans-by-ai_tech/
+🔗 https://www.panmacmillan.com/news/hyphnt-footwear-pan-macmillan-and-spotify-unveil-world-s-first-audiobook-trainers
 
-💬 Does it change anything for you that your out-of-print backlist might be worth more to a model than to a reader?
-
-
-2. There is a 7,000-title indie bookstore and it costs nothing to be in it
-
-Reported by Indie Author Magazine on 25 September, and a surprising number of indies do not know it exists. ALLi launched an Indie Author Bookstore in spring 2026: a searchable database of independently published books, now holding roughly 7,000 titles across fiction, nonfiction and poetry — romance, crime, historical, fantasy, memoir, biography, travel, cookery, children's and poetry. Readers can search by author, title and genre and filter by age group and award winners, and it runs curated features like books of the day, new releases and seasonal picks. The terms are the part to note: no listing fee, no commission on sales, open to non-members as well as members, and you keep control of where the buy button points — Amazon, another retailer, or direct from your own site. ALLi's role is purely to connect. If you are wide, or selling direct, that is a free shop window.
-
-🔗 https://indieauthormagazine.com/alli-exclusive-allis-indie-author-bookstore-serves-more-than-just-indies/
-
-💬 Where does your buy button point — and have you ever counted what direct sales are actually worth to you?
+💬 Where does someone who has never heard of you actually stumble across your book — and when did you last try somewhere new?
 
 
-3. 🎬 The writer who took his copyright back, and what it cost him
+2. The series that did not sell, and the one that did
 
-Victor Miller, who wrote the original "Friday the 13th", died and the New York Times ran his obituary on 25 September. The rights history in it, quoted at length in a screenwriting thread yesterday, is an education. As the sequels kept coming he had no share of the profits; in 1989 the Writers Guild helped him recover nearly $28,000 from the producer's company, and he later received about $220,000 in residuals and sequel payments. Then in 2016 he served termination notices under the Copyright Act to reclaim control of his screenplay, arguing he had written it as an independent contractor rather than for hire. He was challenged on precisely that point — work made for hire is exempt from the termination provisions — and he won in the district court in 2018, with the Second Circuit affirming in 2021. His lawyer says the reclaimed copyright covers every character in the original screenplay across film, television and ancillary rights, and it cleared the way for the prequel series now arriving on Peacock. Note the arithmetic: he filed in 2016 and it was settled in 2021. Reversion rights are real and they are slow. The obituary itself is behind a wall I could not open this morning, so those figures are as quoted in the thread.
+ALLi's indie author interview of 27 September, with Luke Richardson, and the useful part is the pivot. He wrote an international detective series that, in his words, did not really find its market. He moved to archaeological thrillers — the Eden Black books, built on an ancient civilisation and a lost relic that will change the world — and the clearer positioning worked. Eight books in that series now, roughly one a year, plus about half of a co-written series, so two books a year in total. The business underneath it is a mailing list he calls the Adventure Society, which he describes as the backbone of the whole thing: one or two emails a week of travel writing and historical oddities rather than sales pitches. He works at the laptop something like eight hours a day and travels about half the year, running research trips and writing retreats. His line is "how you spend your days is how you spend your life", and the hard version of it is that the pivot only paid because he could name the market he was pivoting into.
 
-🔗 https://www.reddit.com/r/Screenwriting/comments/1wqm7hv/friday_the_13th_writer_who_reclaimed_his_copyright/
+🔗 https://selfpublishingadvice.org/podcast-inspirational-indie-author-interview-luke-richardson/
 
-💬 Do you know whether anything you have signed could be reverted — and when the window opens?
-
-
-4. Five years, five thousand dollars, and still nobody has read it cold
-
-Posted 26 September, and it is the most useful problem in today's edition. An author four books into a planned adult fantasy series has spent about five years on it, two of those on book one alone. They have paid several professional editors: individual passes on a 90,000-word manuscript running $1,500 to $2,200, developmental editing and manuscript assessments on top, about $5,000 into book one in total. Some of that was worth every penny while they were still learning. But the assessments told them what was wrong without showing them where, and after this many reads they are completely blind to their own book — they know every character, every twist, every thing each scene is meant to do. What they actually need is one person meeting the story for the first time, and they cannot find a route to that which does not cost thousands or end in an abandoned read. If you have ever wondered what the real bottleneck in indie publishing is, it is not writing and it is not money. It is a fresh pair of eyes.
-
-🔗 https://www.reddit.com/r/selfpublish/comments/1wr4hhw/exhausted_author_looking_for_advice/
-
-💬 Who was the last person to read your work cold — and how did you find them?
+💬 If your current series is not finding its market, do you know whether the problem is the book or the positioning?
 
 
-5. Fake accounts, old Instagram posts, and a handle that wants to help your career
+3. Three authors, three day jobs, three different answers
 
-From 26 September, and the third strand of a scam beat this digest has been on all week. An author who is not active on social media, and whose book is not even currently available, is getting daily comments on old Instagram posts from fake accounts, all pointing them at the same promotional handle. That is the shape worth recognising: the approach does not require you to have a launch, an audience or anything to sell. It only requires you to have once posted publicly that you wrote a book. Read it next to Friday's Writer Beware piece on how these approaches get assembled.
+Indie Author Magazine, 21 September, and it is the honest counterweight to the interview above. Joyce Reynolds-Ward wrote for an hour at half past four in the morning before teaching, then edited at lunch and in the evenings. Mille Abecassis is in the office Tuesday to Thursday and writes at home on Mondays and Fridays, plus one weekend day, working around mid-week commuting fatigue. Paige L. Christie, who runs a nonprofit food assistance programme, used to write from nine at night until midnight and now writes opportunistically — a park, a coffee shop, whatever the day off allows — with the rule that writing comes before the other jobs on the list. No word-count targets and no income figures, which is itself the point. Abecassis's advice is the one to keep: it is not a race, and you are not behind.
 
-🔗 https://www.reddit.com/r/selfpublish/comments/1wqhrde/thewritersday/
+🔗 https://indieauthormagazine.com/q-a-three-authors-explore-how-they-build-their-writing-careers-alongside-other-professions/
 
-💬 What is the most persistent unsolicited "help" you have had about your book, and did you ever find out who was behind it?
-
-
-6. The one-star review has landed
-
-Posted in the small hours of this morning, 27 September, and it is here because everyone needs this thread eventually. A reviewer from a NetGalley listing six months old did not get the premise, tried, lost interest, did not finish, and left a single star. Previous reviews were four and five. The author is choosing to wear it as a badge of honour for now and cry about it later, and is asking other people for the short version of their own lowest star — not quotes, just the gist. It is a Sunday, the second novel is in progress, and this is what morale maintenance actually looks like in this job.
-
-🔗 https://www.reddit.com/r/selfpublish/comments/1wr9of9/the_glorious_i_dont_get_it_review_has_arrived/
-
-💬 What is your lowest-star review, in one line — and did it teach you anything or nothing at all?
+💬 When in the day does your writing actually happen — and what did you have to give up to protect it?
 
 
-7. How finished should a second draft be?
+4. A viral hook formula, with the numbers attached
 
-Posted 25 September by someone who, after twenty years of writing and four years on this book, finished a first draft for the first time. They took a month off, came back, and the second draft is going well enough that they are aiming to finish it this year. Their question is a good practical one: how polished should draft two be? Their own answer is about 75 per cent — reading well, no major inconsistencies, story complete, all beats in place, but not yet fussing at the line level. They are also weighing querying before self-publishing, wondering when to bring in beta readers, and thinking about paying for a developmental edit either way. Worth reading alongside item 4.
+Posted 27 September, and it is the most immediately usable thing in today's edition. An indie MC romance author went viral organically for the first time — no paid advertising — with a Facebook reel that hit 39,000 views, then did it twice more over three weeks. Sales and page reads went up, and the page went from 12 followers to 191 and climbing. They had been posting slideshows and Kindle screenshots since August with nothing like this result, so they are clear about what changed: the hook. Instead of a generic mid-sentence tease, they used a formula — character archetype plus conflict — laid over a Kindle screenshot of a short passage cut off on a cliffhanger, with a plain "read it on Amazon today" caption and genre hashtags. Their read on why it worked is worth as much as the formula: it names the genre, the protagonist and the tension at a glance, and the screenshot holds the viewer past three seconds, which is what the algorithm rewards. They thought the reel was boring when they made it.
 
-🔗 https://www.reddit.com/r/writing/comments/1wpy573/how_polished_should_your_second_draft_be/
+🔗 https://www.reddit.com/r/selfpublish/comments/1wrelgz/social_media_marketing_that_helped_me_sell_on_fb/
 
-💬 How many drafts do you actually do, and what is each one for?
+💬 Can you write your own book as archetype plus conflict in one line — and does it make you want to read it?
 
 
-8. Blurb hell, with a deadline
+5. A real book club and a fake one, in the same week
 
-From 25 September, and included because the deadline is the realistic part. A first-time blurb writer for a fantasy romance has three drafts down — one with too much going on, one so pared back it went generic — and a hard date of 1 November to get printed copies to ARC readers before a 30 December release. They have posted the current version for feedback. Nobody warns you that the back cover is harder than the book, and the thread is a decent live workshop on why.
+From 27 September, and the fifth strand of a scam beat that has run every day since Friday. A first-time author, two years of work, book just live on Amazon, got an email from someone running a book group asking them to come and speak. Being careful, they checked the person's name, the email address and the group — and it all held up: a real Meetup, meeting regularly, organiser named. Then a second email arrived from a different "book group", generic, no organiser name, no traceable group, phrasing that echoed the first. They now feel foolish for having believed the first one, which is the cruellest part of the pattern, because the first one looks genuine. Worth reading with Friday's Writer Beware piece, which named book clubs as one of the standard disguises. The check the poster did is the right check. The lesson is that passing it once does not tell you anything about the next email.
 
-🔗 https://www.reddit.com/r/selfpublish/comments/1wq1pk2/in_blurb_writing_hell/
+🔗 https://www.reddit.com/r/selfpublish/comments/1wr7rz6/book_clubs_reaching_out_a_scam/
 
-💬 What is the one line of your own blurb you would defend, and the one you know is not working?
+💬 What do you actually verify before you reply to an approach — and has it ever caught one?
+
+
+6. Is two months too early to start an ARC campaign?
+
+Posted 27 September by someone doing this properly and worrying they are doing it too well. Their debut adult dystopian novel publishes on 26 January 2027; they have spent a month building the website, the newsletter, the social accounts and the promotional material, and people are already asking to join the ARC list. Their plan is two weeks of promotion from the week of 16 November, then send the copies the week of 30 November, after Thanksgiving. They have read enough threads here to know that rushed ARC campaigns with one or two weeks' reading time do not work, and are now worried about erring the other way. A genuinely good planning question, and the thread is where the answers about lead times live.
+
+🔗 https://www.reddit.com/r/selfpublish/comments/1wriwck/is_2_months_before_publication_too_early_for_an/
+
+💬 How long do you give ARC readers — and what proportion of them actually deliver a review?
+
+
+7. Preptober question: what actually works in November?
+
+Posted 27 September, and the timing is exact. Someone who keeps meaning to do NaNoWriMo and keeps losing momentum before the end of the month is asking the people who finished what made the difference: how they built a routine, whether they planned heavily beforehand or dived in, and whether it left them any better as a writer afterwards. They have deliberately put "succeeded" in quotation marks and invited people who were writing a different form or chasing a different target, which makes it a much more useful thread than the usual word-count triumphalism.
+
+🔗 https://www.reddit.com/r/writing/comments/1wrhugf/people_who_succeeded_at_nanowrimo_what_are_your/
+
+💬 What is your November target — and is it a word count, a finished thing, or a habit?
+
+
+8. 🎬 An NDA before you have even read the script
+
+From 27 September. An experienced writer and actor has been approached by a producer to story-edit a script. Both the producer and the writer are first-timers; our poster is not. They want to read the script before agreeing to anything, and the producer wants an NDA signed first. Their instinct is that this is amateurish — in a long career they have signed very few NDAs, and almost all of them were on major franchise work. The question underneath is one every writer meets eventually in some form: what is a reasonable thing to be asked to sign before you have seen what you are being asked to work on.
+
+🔗 https://www.reddit.com/r/Screenwriting/comments/1wrluts/thoughts_on_nda/
+
+💬 What is the last thing you signed in publishing without reading it properly — and did it matter?
 
 
 —
-Scout notes: yesterday's edition ran, so nothing is carried over. Source split: three items from news, trade press and the screen lane, five from the community lanes. It is a small Sunday edition on purpose — every news feed answered and was read, and almost none of them had moved since Friday, so this is the news being thin rather than the sweep being short. One story was held back deliberately: ALLi ran a second piece on reader-generated AI fiction yesterday, covering a WIRED investigation, but that is the beat this digest led on twenty-four hours ago and running it again would be repetition, not news. YouTube lane: nothing fresh today — every curated channel's newest video is one this digest has already carried, and the RSS liveness probe answered 404 three times, so the feeds are still dark. Reddit was badly rate-limited this morning: r/writing took five attempts across two passes and r/PubTips four, though all four lanes did answer in the end. And a first: the European lane produced an item. Publishing Perspectives, the source named in this digest's own spec, turns out to sit behind a bot-challenge gate and cannot be read from here at all — which is why Europe has been blank for six weeks. The European Writers' Council feed works, and today it led the edition.
+Scout notes: yesterday's edition ran, so nothing is carried over. Source split: three items from news and trade press, five from the community lanes. Reddit behaved for the first time in a week — all four lanes answered on the first attempt. YouTube lane: nothing fresh today for the second day running; every curated channel's newest video is one this digest has already carried, and the RSS liveness probe answered 404 twice and 500 once, so the feeds are still dark. The European Writers' Council feed, added yesterday, worked again and carried one item this week beyond the one already run. One story was read and dropped: Books+Publishing's own version of the trainers story sits behind a subscriber wall, so today's item is built from Pan Macmillan's own announcement instead, which is public and carries the figures. AI lane: quiet today — nothing new from the tool changelogs, and no fresh acceptance story that has not already run here this week.
 
 —
 Curated daily for this community. Spotted something worth sharing?
