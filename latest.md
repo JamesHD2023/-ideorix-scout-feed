@@ -1,98 +1,107 @@
-📚 Daily Writer's Scout — Tuesday, 29 September 2026
+📚 Daily Writer's Scout — Wednesday, 30 September 2026
 
-1. Literary agents can now charge you for editing and keep the money
+1. The Anthropic settlement's new 60-day window is not what it sounds like
 
-The biggest story in trad publishing this week, and it matters to indies too because the same people sell the same services. The Association of American Literary Agents revised its Canon of Ethics with effect from 1 September, and Jane Friedman laid out what changed on 28 September. Agents may now take disclosed referral fees from third parties including affiliate arrangements; act as publishers of their own clients' work with signed consent; offer paid services to clients so long as representation is not conditional on buying them; sell any paid service to non-clients with written disclosure; and — the contentious one — keep editorial fees paid by a non-client rather than refunding them if that writer later becomes a client. It is now a matter of "mutual agreement" in an upfront written contract. One long-standing agency, Dystel, Goderich & Bourret, has resigned its AALA membership over it, saying they took objections to the Ethics Committee, met the full committee, and were declined. Friedman's fears are concrete: agents steering clients toward services that pay commission, editing charged to people the agent already intends to sign, submission made contingent on buying platform-building help, and credentials acquired mainly to sell services. Her context explains the pressure — AALA membership is up nearly 70 per cent since 2023, and in its own 2026 survey 39 per cent of members report agenting income under $50,000 a year and 21 per cent under $25,000. Her two questions to ask any agent: how many books have you sold to traditional publishers in the last two years with no financial stake beyond commission, and can you name the publishers.
+Read this one carefully, because it is about money and it is easy to get wrong. ALLi's news summary of 29 September reports that the Anthropic settlement deadline has gone from 30 days to 60. What that extension actually covers, per the Authors Guild's own claim-notice guidance — posted 4 September and updated on the 14th and again on the 17th, when the change was made — is the window in which CO-CLAIMANTS can settle a disagreement about how one work's money is split. It is not a reopened claim window. The deadline to file a claim was 30 March 2026 and it has passed. The people this helps are those who opened their claim portal notice and found a conflicting allocation on a title — the classic case being an author claiming 100 per cent of a work while their publisher has claimed 50. The clock starts when you get your claim summary notice, you now have 60 days rather than 30 to sort it out directly with the other claimant, and the Guild's advice is to contact them promptly rather than waiting. If it is still unresolved at the end, the settlement administrator attempts mediation, and beyond that it can go to a court-appointed Special Master. If you filed a claim, the action item today is to open the portal and check whether anyone else has claimed a share of your book.
 
-🔗 https://janefriedman.com/agent-business-models-may-be-shifting-what-i-fear-will-happen/
-🔗 The agency that walked: https://www.dystel.com/aala-statement
+🔗 https://authorsguild.org/news/important-information-regarding-anthropic-copyright-settlement-claim-notices/
+🔗 ALLi's round-up: https://selfpublishingadvice.org/openai-memos-reveal-awareness-of-piracy/
 
-💬 Would you pay an agent for an edit if you knew they might then offer to represent you — and does that change how you read their website?
-
-
-2. What a clean paid editorial engagement actually looks like
-
-Josh Bernoff published this on 28 September, and by accident of timing it is the perfect companion to the story above. His objection to open-ended writing coaching is blunt: he wants to help authors finish books, not bill them for counselling every week. So he proposes one project in three stages. First, a ninety-minute session to pin down the audience and the problem the book solves, producing a book description and a chapter-by-chapter contents table in a spreadsheet. Second, chapter-by-chapter drafting, with each chapter's outline reviewed before it is written and editorial feedback plus targeted instruction after — case studies, frameworks, cutting passive voice — where the early chapters take two or three revisions and later ones get faster as the author actually learns. Third, a full developmental edit of the complete manuscript with an edit memo. He charges separately for each stage, which is the structural point: the payments line up with deliverables, and you can see whether you are making progress. Read it as a template for judging any editorial offer, including the ones agents are now allowed to make.
-
-🔗 https://bernoff.com/blog/considering-writing-coaching-or-developmental-editing-why-not-do-both-at-once
-
-💬 When you last paid for editorial help, what exactly were you promised — and did you get it?
+💬 If you filed a claim, has your allocation come back matching what you expected?
 
 
-3. Fifty SOPs, three-week binges, and nobody caring as much as you do
+2. 🤖 "We trained GPT-3 on pirated stuff! No sharing that!"
 
-Indie Author Magazine, 28 September, Audrey Hughey talking to three full-time authors. Dakota Krout of Mountaindale Press trains before five in the morning, spends the morning with family, writes until three, then does admin — and says nobody cares about your business as much as you do. Sacha Black does not write daily at all: she binge-writes a whole book in three weeks, three books a year, using twenty-five-minute Pomodoro sprints with five-minute breaks, and her framing is that operating at that level requires knowing yourself rather than copying someone else's routine. David Viergutz puts health and family first, business second, creative third, and spends an hour a day on research. The third key is the one most indies skip: systems. Black keeps fifty to sixty written standard operating procedures in Monday.com so the business runs while she is deep in a draft; Viergutz says nothing in his company moves without being on paper first; Krout runs hundreds of SOPs and a chain of command specifically so he is not the bottleneck.
+From the same ALLi summary of 29 September, reporting Publishers Weekly: unsealed documents in the Microsoft and OpenAI litigation include internal memos indicating the company knew it had trained on pirated works, with that line among them. It surfaced in the Authors Guild's class action against OpenAI. The important caveat, which ALLi makes and which is worth repeating rather than glossing: no court has yet ruled on the merits of the case. What unsealed discovery does is change the negotiating weather, which is why it matters even before a judgment — the Anthropic settlement above is what that weather eventually produces.
 
-🔗 https://indieauthormagazine.com/three-keys-to-running-a-successful-writing-business/
+🔗 https://selfpublishingadvice.org/openai-memos-reveal-awareness-of-piracy/
 
-💬 What is the one thing in your author business that only works because you personally remember to do it?
-
-
-4. Should you write outside your genre?
-
-Elizabeth Spann Craig, 28 September, and it follows neatly from yesterday's item on the author who repositioned a whole series. Her case for it: you pick up tools that transfer — a romance writer attempting a thriller learns to tighten pacing and brings that back — and you spread your risk across more than one market. Her case against: your instincts misfire, because the extended interiority that works in YA kills the momentum a mystery needs, and your existing readers can feel abandoned by a hard swerve. Her practical line on pen names is the useful bit — a big jump like horror to YA warrants a separate identity, an adjacent move like horror to thriller does not, and she points at Nora Roberts writing as J. D. Robb as the model.
-
-🔗 https://elizabethspanncraig.com/writing-tips-2/writing-outside-your-usual-genre-pros-cons-to-consider-2/
-
-💬 Have you ever written outside your lane — and did your readers follow you?
+💬 Does a document like that change anything about how you think about your own backlist, or is it too far upstream to act on?
 
 
-5. 🤖 Six more models on the Sudowrite shelf
+3. 🤖 Six new AI rules from SCBWI, and a detector that came back clean
 
-From the changelog, 28 September, and the second model-shelf move in a week. Claude Sonnet 5.5 went in on launch day, described by Sudowrite as carrying over the creative-writing gains of Opus 5.5 while testing about 30 per cent faster and 30 per cent cheaper. Alongside it: Gemini 3.7 and 3.8 Flash, which take a lot of text at once and are aimed at Draft and at plugins that work across a whole manuscript; GLM 5.3 from Z.ai, which they say scores near the top on creative-writing benchmarks and is among the least repetitive in testing, plus a lighter GLM 5.3 Flash; Qwen 3.8 Max, offered specifically for a different-sounding voice; and Grok 4.7 for work that goes hard on spice or violence. Their own framing is different pens for different pages. The practical read for anyone paying per credit is that "which model" is now a per-task decision, not a settings choice you make once.
+Two more items from the same summary, both practical. First: the Society of Children's Book Writers and Illustrators has added six rules requiring members not to use AI in creative work and to declare that they have not, with award entrants expected to keep records evidencing the human creative process. If you write for children and belong to a professional body, the declaration is becoming standard and the record-keeping is the part people forget. Second, and more surprising: a Bloomberg piece by Vauhini Vara examined the detection tool Pangram, and on a test set of 50 self-published works published before ChatGPT existed it produced no false positives. That is a narrow test and worth treating as such, but the working assumption in writer communities has been that AI detectors are useless in both directions, and this is evidence against the strong form of that.
 
-🔗 https://feedback.sudowrite.com/changelog
+🔗 https://selfpublishingadvice.org/openai-memos-reveal-awareness-of-piracy/
 
-💬 Have you ever noticed a model's voice bleeding into your own — and did you catch it in the edit?
-
-
-6. Twenty-five years of illustrating, three things authors get wrong
-
-Posted 28 September by a working editorial and children's book illustrator, and it is a rare thing: a supplier explaining the brief they wish they got. One, file formats matter more than authors think — if you are printing through KDP or IngramSpark your illustrator needs to understand bleed, margins and resolution, and vector art scales across hardcover, paperback and ebook without the reformatting nightmare. Two, pacing comes before drawing: a good illustration adds a layer rather than restating the text, so let the artist into the storyboard. Three, get a character sheet — angles, expressions, poses — before any full-page work begins, because young readers bond with a character and that character has to look like themselves on page 32 as well as page 1.
-
-🔗 https://www.reddit.com/r/selfpublish/comments/1wsuo69/conseils_from_a_professional_illustrator_3_things/
-
-💬 If you have commissioned art, what do you know now that you wish you had known in the first email?
+💬 If your publisher or a contest asked you to evidence your own creative process, could you?
 
 
-7. Everything done, nobody looking
+4. Libraries can pay you, in 33 countries, and America is not one of them
 
-From 28 September, and it is the most common shape of despair in this subreddit. A debut novelist has a website, a mailing list, a free reader magnet, a Goodreads presence, and accounts on Instagram, Facebook and TikTok. A few reviews are coming in. The social reach is close to nothing. They have no existing audience, they are not expecting overnight sales, and their own diagnosis is the right one: they are doing a bit of everything and not enough of any one thing. The question they put to the room is the good one — for someone starting from zero, what actually moved the needle: reviewers, Amazon ads, the mailing list, book communities, or just more time on social.
+The European Writers' Council reported on 29 September on the PLR International Conference it co-hosted in Paris on 23 and 24 September — 75-plus delegates from 23 countries, a day and a half on Public Lending Right, which is simply the right of an author to be paid when a library lends their work. The number worth carrying away: only 33 countries operate a PLR system at all, and the United States, Latin America and Africa have none. The UK, much of Europe and Australia do. Sessions went at the definitions that decide who gets paid — what legally counts as a library, who counts as "public", which institutions are exempt — plus transparency and the economics underneath. Their slogan is "no use without payment". If you are published in a PLR country and have never registered, that is money sitting on a table.
 
-🔗 https://www.reddit.com/r/selfpublish/comments/1wsg89u/published_my_first_book_but_hardly_anyone_is/
+🔗 https://europeanwriterscouncil.eu/ewc_plri_conference/
 
-💬 Starting from no audience at all, what was the first thing that actually worked for you?
-
-
-8. How flawed is too flawed?
-
-Posted 28 September by a novelist who likes protagonists who make bad calls, say the wrong thing, hurt people and cause their own problems, on the grounds that this is what humans are like — and who keeps running into the wall where "complicated" turns into "I no longer want to follow this person". The question they put is sharper than the usual likeability debate: do readers need to like a character, or is understanding why they do what they do enough to keep a reader turning pages? Good thread for anyone writing a difficult lead.
-
-🔗 https://www.reddit.com/r/writing/comments/1wsu8ub/when_does_a_flawed_main_character_become_too_hard/
-
-💬 Which unlikeable protagonist did you follow all the way to the end, and what held you?
+💬 Are you registered for PLR anywhere — and if not, is it because you decided against it or because nobody told you?
 
 
-9. "This is just that other book with different names"
+5. Three clauses to ask for before you sign a work-for-hire deal
 
-From 28 September, and a worry worth taking seriously even though the legal answer is easy. A writer's setting, premise and roughly the inciting incident closely resemble a very famous story, while everything that happens afterwards — the villain, the motives, the reasons — is nothing like it. They know similarity of premise is not a legal problem, and they cite Eragon and Star Wars as a case where nobody minded. Their actual fear is the first impression: a reader deciding in two paragraphs that they have read this before, and never shaking it. That is a positioning and opening-pages problem rather than a rights problem, which makes it solvable.
+SFWA published this on 29 September, by Josh Heath, and although it is framed around game writing the clauses travel to any work-for-hire arrangement — ghostwriting, licensed fiction, corporate books. His starting point is that many writers sign these without understanding that they have given up the intellectual property entirely. The three modifications he says to negotiate for: a residual royalty on derivative media, so that if toys, a film, a series or a game come out of your work you get a stated percentage; the right to create your own derivative work inside the world you built, with the publisher keeping first refusal; and a right of return if the work is never published, so an abandoned project comes back to you after a set period. He also says to insist on credit even under work-for-hire. His honest caveat is that most projects never generate derivative media, so a plain work-for-hire deal is often a reasonable career move — the point is to know what you are trading.
 
-🔗 https://www.reddit.com/r/writing/comments/1ws4awr/my_work_is_very_close_to_something_else_on_the/
+🔗 https://sfwa.org/2026/09/29/who-owns-the-rights-to-the-work/
 
-💬 How do you signal early that your book is not the book it superficially resembles?
+💬 Have you ever signed away rights you later wished you had kept — and would you recognise the clause now?
 
 
-10. 🎬 An AMA from someone adapting Stephen King
+6. The more specific the character, the more universal they get
 
-Posted 28 September. David Cornue, a WGA writer, is adapting King's Insomnia for television with Rideback — the company behind IT — and created and wrote TRIAGE for ABC with Jon M. Chu directing. He also sold a crime procedural pitch to NBC and made an independent pilot that premiered at SXSW. The reason to read it rather than skim it is what he says his attention actually goes on: the work before the script, figuring out whether a story holds up at all before committing months to pages. He is also covering pitching, notes, and getting a project into development, and says he will keep answering over the coming days.
+Tiffany Yates Martin, writing for Jane Friedman on 29 September, on the paradox in the title: vague characterisation creates distance, and granular detail is what makes a stranger feel like someone the reader knows. Her worked example is a character who "loves dogs", which tells you nothing — whereas one who breeds pointers for tracking competitions, one who takes in injured strays, and one who retrains problem animals are three completely different people. The technique is to interrogate your own generalisations: instead of "a bad relationship", find the particular unhappy exchange that stands for the whole dynamic, and keep asking what the hardest part of it is. Then build outward from the specifics into how the character behaves everywhere else.
 
-🔗 https://www.reddit.com/r/Screenwriting/comments/1wss2yr/im_david_cornue_im_adapting_stephen_kings/
+🔗 https://janefriedman.com/the-more-specific-your-characters-the-more-universal-they-become/
 
-💬 How do you decide a story is worth months of your life before you have written it?
+💬 Take one adjective you have used about your protagonist and replace it with a specific thing they do. What changed?
+
+
+7. Iconic character introductions, and why they work
+
+Posted 29 September and the perfect thread to read straight after the item above. It opens with Anton Chigurh's introduction in No Country for Old Men — the escape from police custody, vivid and yet almost brisk, McCarthy's short sentences making a murder read like a routine day at work — and asks for others, with bonus points for the obscure. A genuinely useful reading list for anyone about to write a first appearance, which is the highest-leverage paragraph most characters ever get.
+
+🔗 https://www.reddit.com/r/writing/comments/1wt5s2e/what_are_some_great_examples_of_character/
+
+💬 Whose entrance in a book do you still remember — and what did it tell you in how few words?
+
+
+8. The mailing list that cost them sales
+
+From 29 September, and it is the most quietly heretical thing in today's edition. An author did what everybody advises: built a series website with descriptions and Amazon links, added a signup form offering a bonus chapter, and pointed their Facebook ad at it. Result: two subscribers out of roughly 500 visitors, and not a single sale while the ad ran. They switched the ad link to the Amazon page and sales and Kindle Unlimited reads resumed immediately. Their books are demonstrably working — good reviews on Amazon and Goodreads, followers on their Amazon author page, people recommending them in the ad comments — so this is not a quality problem. It is a friction problem: a reader who has already decided wants the buy button, not a website to search. Read it next to Monday's item where an author called his list the backbone of his whole business. Both are true, and the thread is about how you get from one to the other.
+
+🔗 https://www.reddit.com/r/selfpublish/comments/1wtft70/how_do_you_promote_your_email_list/
+
+💬 Where do your ads point — and have you ever actually tested the list page against the storefront?
+
+
+9. "First three chapters, or up to 5,000 words" — which wins?
+
+A precise, useful query question from 29 September. An agent's guidelines say the first three chapters "or up to 5,000 words or so". This author's first three chapters run to about 8,000 words with a lot of world-building; their first two come in just over 5,000 and happen to end on a better cliffhanger. So which instruction is the real one — the chapter count or the word count? The underlying craft point is the more interesting half: the submission that ends where a reader wants more is doing a different job than the one that is technically compliant.
+
+🔗 https://www.reddit.com/r/PubTips/comments/1wt7yn5/pubq_querying_with_first_3_chapters_or_up_to_5000/
+
+💬 When you last submitted, did you follow the letter of the guidelines or the spirit — and did it work?
+
+
+10. Can you query the same agent twice?
+
+Posted this morning, 30 September. A writer stepped away from a project to deal with life, came back and made substantial changes, and now wants to know whether re-querying an agent who has already seen it is acceptable — and if so, whether to spell out what changed, and whether to reintroduce themselves. They already have a few full and partial requests on the revised version, which suggests the rewrite did real work. A common situation with a genuinely unclear etiquette, and the answers are worth having before you need them.
+
+🔗 https://www.reddit.com/r/writing/comments/1wts98l/requerying_an_agent_how_do_i_approach_this/
+
+💬 Have you re-queried an agent after a rewrite — and did you say so in the letter?
+
+
+11. 🎬 "Screenwriting: it's not worth it"
+
+Posted this morning, 30 September. A thread pointing at a video essay by Nathan Graham Davis about the difficulty of screenwriting as a full-time job. The poster's own framing is the reason to bother: the argument is considerably more nuanced than the title, and its value is in dismantling illusions people hold about the working reality. I have not watched it, so that is the poster's read rather than mine. It belongs here because the economics it describes — irregular income, long unpaid development, the gap between recognition and money — are the same economics indie novelists are negotiating, in a different currency.
+
+🔗 https://www.reddit.com/r/Screenwriting/comments/1wtr9ys/screenwriting_its_not_worth_it_thoughtful_yt_post/
+
+💬 What would have to be true for writing to be worth it for you — and is it a number or something else?
 
 
 —
-Scout notes: yesterday's edition ran, so nothing is carried over. Source split: five items from news, trade press and the tools lane, five from the community lanes. Reddit was severely rate-limited for most of this run — the first lane took eight attempts across two passes and returned nothing until late, and the lanes only opened up at the end, so today's community items were gathered in a scramble rather than a sweep. YouTube lane: nothing fresh today for the third day running; every curated channel's newest video has already been carried here, and the RSS liveness probe answered 404 three times. Two items were read and dropped: Books+Publishing's report on the Emerging Writers' Festival attendance sits behind a subscriber wall, and Publishers Weekly's Frankfurt preview is eleven days old and outside the freshness window. Australia and Europe produced nothing new that could be read in full today.
+Scout notes: yesterday's edition ran, so nothing is carried over. Source split: six items from news, trade press and the rights lane, five from the community lanes. Reddit answered all four lanes on the first attempt, a clean run after Tuesday's rate-limiting. YouTube lane: nothing fresh today for the fourth day running — and this is now the channels rather than the plumbing, because the channel pages loaded fine and simply have nothing newer than videos this digest has already carried; the RSS liveness probe also answered 404 again. One item was read and dropped: Publishers Lunch's report on the agency that resigned from the AALA sits behind a subscriber wall, and the AALA story itself led yesterday. Europe produced an item for the second day running from the European Writers' Council feed, which continues to be the working route.
 
 —
 Curated daily for this community. Spotted something worth sharing?
