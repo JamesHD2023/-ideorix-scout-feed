@@ -1,107 +1,80 @@
-📚 Daily Writer's Scout — Wednesday, 30 September 2026
+📚 Daily Writer's Scout — Thursday, 01 October 2026
 
-1. The Anthropic settlement's new 60-day window is not what it sounds like
+1. Four numbers that describe where indie publishing is actually going
 
-Read this one carefully, because it is about money and it is easy to get wrong. ALLi's news summary of 29 September reports that the Anthropic settlement deadline has gone from 30 days to 60. What that extension actually covers, per the Authors Guild's own claim-notice guidance — posted 4 September and updated on the 14th and again on the 17th, when the change was made — is the window in which CO-CLAIMANTS can settle a disagreement about how one work's money is split. It is not a reopened claim window. The deadline to file a claim was 30 March 2026 and it has passed. The people this helps are those who opened their claim portal notice and found a conflicting allocation on a title — the classic case being an author claiming 100 per cent of a work while their publisher has claimed 50. The clock starts when you get your claim summary notice, you now have 60 days rather than 30 to sort it out directly with the other claimant, and the Guild's advice is to contact them promptly rather than waiting. If it is still unresolved at the end, the settlement administrator attempts mediation, and beyond that it can go to a court-appointed Special Master. If you filed a claim, the action item today is to open the portal and check whether anyone else has claimed a share of your book.
+ALLi published its read on 2026 and what it implies for 2027 on 29 September, and it is the most figure-dense thing to come past this desk in weeks. Direct sales: roughly 30 per cent of authors with a website sold books directly in 2025, up from 27 per cent in 2023, and publishing projects raised over $45 million on Kickstarter in 2025 — the platform's second-best publishing year. Audio: audiobook sales up 9 per cent in the US and 10 per cent in the UK across 2025, with Spotify reporting a 60 per cent jump in audiobook listening hours and half of its audiobook listeners having arrived during that year, which is the context for ElevenLabs narration landing inside Spotify for Authors. They note the honest caveat — titles are growing faster than revenue. BookTok: more than 50 million books sold on its recommendations across major European markets in 2025, worth around €800 million, from a hashtag carrying over 75 million posts, with TikTok's own bestseller lists spreading from Germany into the UK, Italy and Spain. And special editions — foiling, sprayed edges, ribbons, custom endpapers — are now available in short runs through services like BookVault, with crowdfunding used to prove demand before you commit. Their one-line through-line is that readers are reaching for a direct relationship with the author, and all four trends are versions of that.
 
-🔗 https://authorsguild.org/news/important-information-regarding-anthropic-copyright-settlement-claim-notices/
-🔗 ALLi's round-up: https://selfpublishingadvice.org/openai-memos-reveal-awareness-of-piracy/
+🔗 https://selfpublishingadvice.org/what-2026-might-tell-us-about-indie-publishing-in-2027/
 
-💬 If you filed a claim, has your allocation come back matching what you expected?
-
-
-2. 🤖 "We trained GPT-3 on pirated stuff! No sharing that!"
-
-From the same ALLi summary of 29 September, reporting Publishers Weekly: unsealed documents in the Microsoft and OpenAI litigation include internal memos indicating the company knew it had trained on pirated works, with that line among them. It surfaced in the Authors Guild's class action against OpenAI. The important caveat, which ALLi makes and which is worth repeating rather than glossing: no court has yet ruled on the merits of the case. What unsealed discovery does is change the negotiating weather, which is why it matters even before a judgment — the Anthropic settlement above is what that weather eventually produces.
-
-🔗 https://selfpublishingadvice.org/openai-memos-reveal-awareness-of-piracy/
-
-💬 Does a document like that change anything about how you think about your own backlist, or is it too far upstream to act on?
+💬 Of those four — direct sales, audio, BookTok, special editions — which one are you actually going to try before the year ends?
 
 
-3. 🤖 Six new AI rules from SCBWI, and a detector that came back clean
+2. The agency contract clauses to read twice
 
-Two more items from the same summary, both practical. First: the Society of Children's Book Writers and Illustrators has added six rules requiring members not to use AI in creative work and to declare that they have not, with award entrants expected to keep records evidencing the human creative process. If you write for children and belong to a professional body, the declaration is becoming standard and the record-keeping is the part people forget. Second, and more surprising: a Bloomberg piece by Vauhini Vara examined the detection tool Pangram, and on a test set of 50 self-published works published before ChatGPT existed it produced no false positives. That is a narrow test and worth treating as such, but the working assumption in writer communities has been that AI detectors are useless in both directions, and this is evidence against the strong form of that.
+Posted 30 September by someone who has been around publishing for over a decade and has lately been reading agency contracts with alarm. The list is specific and worth keeping. Which projects does the agency represent — they have seen one claiming all work past, present and future. What happens to unsold rights when you leave: does the agency still take commission on something you or a later agent sells? Self-publishing: do they require you to ask permission, claim a share of the revenue, or bill you for editing after the fact? And the exit clause — are you locked in unless you cancel inside a window, say 30 days before renewal? Their own principle is the clean one: an agent should earn commission on the contracts they negotiate, and nothing else. They note these terms are turning up in contracts from established agencies, not just new ones. Read it alongside Tuesday's item on the AALA ethics change, because the two together are the same story from both ends.
 
-🔗 https://selfpublishingadvice.org/openai-memos-reveal-awareness-of-piracy/
+🔗 https://www.reddit.com/r/PubTips/comments/1wu3wvz/discussion_agency_contracts/
 
-💬 If your publisher or a contest asked you to evidence your own creative process, could you?
-
-
-4. Libraries can pay you, in 33 countries, and America is not one of them
-
-The European Writers' Council reported on 29 September on the PLR International Conference it co-hosted in Paris on 23 and 24 September — 75-plus delegates from 23 countries, a day and a half on Public Lending Right, which is simply the right of an author to be paid when a library lends their work. The number worth carrying away: only 33 countries operate a PLR system at all, and the United States, Latin America and Africa have none. The UK, much of Europe and Australia do. Sessions went at the definitions that decide who gets paid — what legally counts as a library, who counts as "public", which institutions are exempt — plus transparency and the economics underneath. Their slogan is "no use without payment". If you are published in a PLR country and have never registered, that is money sitting on a table.
-
-🔗 https://europeanwriterscouncil.eu/ewc_plri_conference/
-
-💬 Are you registered for PLR anywhere — and if not, is it because you decided against it or because nobody told you?
+💬 Do you know what your own agency agreement says about rights that never sold?
 
 
-5. Three clauses to ask for before you sign a work-for-hire deal
+3. Half a cent a page
 
-SFWA published this on 29 September, by Josh Heath, and although it is framed around game writing the clauses travel to any work-for-hire arrangement — ghostwriting, licensed fiction, corporate books. His starting point is that many writers sign these without understanding that they have given up the intellectual property entirely. The three modifications he says to negotiate for: a residual royalty on derivative media, so that if toys, a film, a series or a game come out of your work you get a stated percentage; the right to create your own derivative work inside the world you built, with the publisher keeping first refusal; and a right of return if the work is never published, so an abandoned project comes back to you after a set period. He also says to insist on credit even under work-for-hire. His honest caveat is that most projects never generate derivative media, so a plain work-for-hire deal is often a reasonable career move — the point is to know what you are trading.
+In his newsletter of 30 September, Josh Bernoff picks up an analysis by Rachel Arterberry putting Kindle Unlimited's payout at roughly half a cent per page read, and calls the model nauseating, comparing it unfavourably with how Spotify pays musicians. Whatever you think of the verdict, the number is the useful part, because it is the figure you need to do your own arithmetic on exclusivity: half a cent a page across a 350-page novel is somewhere near $1.75 for a complete read-through, which you can set against what a sale earns you and what going wide would cost you in reach. The same newsletter carries Jon Steinback arguing that AI writing will permanently underperform for lack of taste rather than lack of capability, and a scrap with Professor Joe Cruz over whether debate could replace mandatory college writing — Bernoff's answer being that making students write, and critiquing what they produce, is still one of the best ways to sharpen thinking.
 
-🔗 https://sfwa.org/2026/09/29/who-owns-the-rights-to-the-work/
+🔗 https://bernoff.com/blog/the-politics-of-america-gov-pennies-from-kindle-does-writing-thinking-newsletter-30-september-2026
 
-💬 Have you ever signed away rights you later wished you had kept — and would you recognise the clause now?
-
-
-6. The more specific the character, the more universal they get
-
-Tiffany Yates Martin, writing for Jane Friedman on 29 September, on the paradox in the title: vague characterisation creates distance, and granular detail is what makes a stranger feel like someone the reader knows. Her worked example is a character who "loves dogs", which tells you nothing — whereas one who breeds pointers for tracking competitions, one who takes in injured strays, and one who retrains problem animals are three completely different people. The technique is to interrogate your own generalisations: instead of "a bad relationship", find the particular unhappy exchange that stands for the whole dynamic, and keep asking what the hardest part of it is. Then build outward from the specifics into how the character behaves everywhere else.
-
-🔗 https://janefriedman.com/the-more-specific-your-characters-the-more-universal-they-become/
-
-💬 Take one adjective you have used about your protagonist and replace it with a specific thing they do. What changed?
+💬 Have you ever worked out what a full read-through in KU actually pays you — and does it change the exclusivity decision?
 
 
-7. Iconic character introductions, and why they work
+4. $2,000 in the first year, and exactly what produced it
 
-Posted 29 September and the perfect thread to read straight after the item above. It opens with Anton Chigurh's introduction in No Country for Old Men — the escape from police custody, vivid and yet almost brisk, McCarthy's short sentences making a murder read like a routine day at work — and asks for others, with bonus points for the obscure. A genuinely useful reading list for anyone about to write a first appearance, which is the highest-leverage paragraph most characters ever get.
+Posted 30 September, and it is the companion piece to item 3 and to Tuesday's viral-hook thread, from a different author entirely. They published a novella last November expecting nothing, a first paranormal romance novel in March and an unrelated second in July, and have now passed $2,000 in KDP royalties. What worked, in their own accounting: Facebook reels, by a wide margin. Progress was slow — a couple of readers a day despite posting to TikTok and Instagram with a decent following on both — until a few reels went semi-viral and page reads went from a couple of hundred a day to over 10,000 at peak. They are clear-eyed about the cost: it is a grind, because the success decays unless you keep producing, and the algorithm is capricious enough that identical content has got them 100 views and 100,000. They post multiple trial reels a day on Instagram knowing most will do about 200 views, on the grounds that they are free. And the discipline worth stealing: they post about their own books once or twice a week at most, filling the rest with ordinary reader content, because nobody follows an account that only advertises. On KU they say the per-page rate is small but the deal is still worth it — which is precisely the calculation item 3 gives you the number for.
 
-🔗 https://www.reddit.com/r/writing/comments/1wt5s2e/what_are_some_great_examples_of_character/
+🔗 https://www.reddit.com/r/selfpublish/comments/1wtzlmm/how_i_made_over_2000_in_my_first_year_of/
 
-💬 Whose entrance in a book do you still remember — and what did it tell you in how few words?
-
-
-8. The mailing list that cost them sales
-
-From 29 September, and it is the most quietly heretical thing in today's edition. An author did what everybody advises: built a series website with descriptions and Amazon links, added a signup form offering a bonus chapter, and pointed their Facebook ad at it. Result: two subscribers out of roughly 500 visitors, and not a single sale while the ad ran. They switched the ad link to the Amazon page and sales and Kindle Unlimited reads resumed immediately. Their books are demonstrably working — good reviews on Amazon and Goodreads, followers on their Amazon author page, people recommending them in the ad comments — so this is not a quality problem. It is a friction problem: a reader who has already decided wants the buy button, not a website to search. Read it next to Monday's item where an author called his list the backbone of his whole business. Both are true, and the thread is about how you get from one to the other.
-
-🔗 https://www.reddit.com/r/selfpublish/comments/1wtft70/how_do_you_promote_your_email_list/
-
-💬 Where do your ads point — and have you ever actually tested the list page against the storefront?
+💬 What is your ratio of book posts to everything else — and did you choose it or just drift into it?
 
 
-9. "First three chapters, or up to 5,000 words" — which wins?
+5. 🎥 Fallow periods are not dead periods
 
-A precise, useful query question from 29 September. An agent's guidelines say the first three chapters "or up to 5,000 words or so". This author's first three chapters run to about 8,000 words with a lot of world-building; their first two come in just over 5,000 and happen to end on a better cliffhanger. So which instruction is the real one — the chapter count or the word count? The underlying craft point is the more interesting half: the submission that ends where a reader wants more is doing a different job than the one that is technically compliant.
+The Creative Penn published this on 30 September: Joanna Penn talking to Jordan Rosenfeld, a psychological suspense novelist, craft author, editor and coach, about her new book on writing in midlife. I read the show notes rather than listening, so this is the page's account and not mine. Her definition of midlife is a mental state rather than an age bracket — her interviewees ran from 37 to 81 — marked by the sense that more time lies behind than ahead, usually arriving alongside several things at once: perimenopause, an empty nest, ageing parents, your own health. Three ideas travel well beyond the demographic. A fallow period is a germinating period, not a dead one: the creativity is there and the access is blocked. Curation over exposure — write authentically without making yourself a target, and consider turning the personal material into fiction instead. And adapt rather than force: accept reduced output, lean on external scaffolding like reminders and notes, and meet yourself where you are. She also makes the case for not isolating, for trying an unrelated creative form, and for treating anger as information rather than something to suppress. Her smallest and best example: she moved her podcast from Monday to Wednesday instead of cancelling it.
 
-🔗 https://www.reddit.com/r/PubTips/comments/1wt7yn5/pubq_querying_with_first_3_chapters_or_up_to_5000/
+🔗 https://www.thecreativepenn.com/2026/09/30/writing-and-creativity-in-midlife-with-jordan-rosenfeld/
+🔗 The episode: https://www.youtube.com/watch?v=RUgU46sMfMI
 
-💬 When you last submitted, did you follow the letter of the guidelines or the spirit — and did it work?
-
-
-10. Can you query the same agent twice?
-
-Posted this morning, 30 September. A writer stepped away from a project to deal with life, came back and made substantial changes, and now wants to know whether re-querying an agent who has already seen it is acceptable — and if so, whether to spell out what changed, and whether to reintroduce themselves. They already have a few full and partial requests on the revised version, which suggests the rewrite did real work. A common situation with a genuinely unclear etiquette, and the answers are worth having before you need them.
-
-🔗 https://www.reddit.com/r/writing/comments/1wts98l/requerying_an_agent_how_do_i_approach_this/
-
-💬 Have you re-queried an agent after a rewrite — and did you say so in the letter?
+💬 Are you in a fallow period right now — and are you treating it as a pause or as the end?
 
 
-11. 🎬 "Screenwriting: it's not worth it"
+6. Can film rights sell before the book does?
 
-Posted this morning, 30 September. A thread pointing at a video essay by Nathan Graham Davis about the difficulty of screenwriting as a full-time job. The poster's own framing is the reason to bother: the argument is considerably more nuanced than the title, and its value is in dismantling illusions people hold about the working reality. I have not watched it, so that is the poster's read rather than mine. It belongs here because the economics it describes — irregular income, long unpaid development, the gap between recognition and money — are the same economics indie novelists are negotiating, in a different currency.
+A short question from 30 September with a genuinely interesting answer space: has anyone's agent sold the film or TV rights to a book before selling the publishing rights? It happens, and the circumstances in which it happens tell you a lot about how a property gets valued — a concept with obvious screen legs can move faster through that market than through acquisitions. Worth reading for anyone who has ever wondered what "rights" actually means in the plural.
 
-🔗 https://www.reddit.com/r/Screenwriting/comments/1wtr9ys/screenwriting_its_not_worth_it_thoughtful_yt_post/
+🔗 https://www.reddit.com/r/PubTips/comments/1wu6xny/pubq_has_anyones_agent_sold_the_film_rights/
 
-💬 What would have to be true for writing to be worth it for you — and is it a number or something else?
+💬 If someone offered for your screen rights tomorrow, would you know what you were being asked to sell?
+
+
+7. What if the essay were a video?
+
+Posted 30 September by an essayist who noticed that the YouTuber they were watching was reading a script, and that YouTube's algorithm is dramatically better at putting new work in front of strangers than any writing platform they have tried. They find the idea of being on camera a nightmare, and point out that some of the best-known channels in the form — they name Every Frame a Painting and Nerdwriter — never show a face. A real question about distribution rather than a craft question, and the honest version of it is that the essay market on the page is small and the essay market in video is not.
+
+🔗 https://www.reddit.com/r/writing/comments/1wu1gij/has_anyone_tried_writing_for_youtube/
+
+💬 Is there a form your writing would reach more people in — and is the only thing stopping you discomfort?
+
+
+8. 🎬 "Pass, but send it back when you have revised it"
+
+Posted 30 September, and a good outcome disguised as a rejection. A screenwriter about a month into querying, 100-plus managers approached, four or five read requests, got an email saying the concept was strong and commercial, the hook easily understood, the property had franchise legs, the lead's voice distinct and fun, some arcs working, the kills memorable — and then passed, with detailed actionable notes and an invitation to resubmit after the revision. They have accepted, and are asking the room what happened next for anyone who has been here. Worth reading whichever side of the fiction/script line you work on, because the invited resubmit exists in querying too and most writers do not recognise it when it arrives.
+
+🔗 https://www.reddit.com/r/Screenwriting/comments/1wu7xme/question_manager_passed_but_gave_notes_and/
+
+💬 Have you ever been passed on with notes and an open door — and did you walk back through it?
 
 
 —
-Scout notes: yesterday's edition ran, so nothing is carried over. Source split: six items from news, trade press and the rights lane, five from the community lanes. Reddit answered all four lanes on the first attempt, a clean run after Tuesday's rate-limiting. YouTube lane: nothing fresh today for the fourth day running — and this is now the channels rather than the plumbing, because the channel pages loaded fine and simply have nothing newer than videos this digest has already carried; the RSS liveness probe also answered 404 again. One item was read and dropped: Publishers Lunch's report on the agency that resigned from the AALA sits behind a subscriber wall, and the AALA story itself led yesterday. Europe produced an item for the second day running from the European Writers' Council feed, which continues to be the working route.
+Scout notes: yesterday's edition ran, so nothing is carried over. Source split: three items from news, trade press and video, five from the community lanes. The video lane produced something for the first time in five days — one fresh episode, title confirmed against YouTube's own oEmbed endpoint and dated by subtracting its age from this run's clock; the RSS liveness probe answered 404 again, so that route stays dark and the channel pages remain the working one. Reddit needed three attempts on the first lane and one retry on the screen lane. Four items were read and dropped. Three were Jane Friedman pieces from 30 September, all behind the paid-subscriber wall — on the Authors Guild asking publishers to give up certain Anthropic claims, on serial platforms closing, and on a new industry report on AI use inside publishing — and the first of those is a story this digest would have led on, so it is named here rather than quietly skipped. The fourth was Books+Publishing on the Global 50 revenue ranking, also subscriber-only. AI tools lane: deliberately quiet today. Sudowrite added another model yesterday, its third addition in six days, and running each one would be a changelog rather than news.
 
 —
 Curated daily for this community. Spotted something worth sharing?
