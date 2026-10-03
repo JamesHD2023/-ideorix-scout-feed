@@ -1,107 +1,98 @@
-📚 Daily Writer's Scout — Friday, 02 October 2026
+📚 Daily Writer's Scout — Saturday, 03 October 2026
 
-1. Your sales have dropped. Go and look at your own buy box.
+1. A tax auditor who is also an author tells you what gets you flagged
 
-Posted 1 October, and it is the most immediately useful thing to appear in this digest all week — go and check your listings when you have finished reading. An author noticed sales falling away over a couple of months and got an email saying their Amazon ads for the paperback had stopped running. When they looked properly, a third-party seller had taken the buy box on their paperback listing — undercutting their own $15 price at $11, with free delivery, on a book published only through KDP with no expanded distribution. Their own question is the one nobody can answer for them: where is that seller getting the book, when it has never been priced below about $14? The visible damage is that the title no longer turns up in Prime searches, so its discoverability has collapsed. And the method they share is the part to steal: they had been checking the US marketplace from the UK, where everything looked completely normal, and only saw the problem once they set a US ZIP code so the page rendered as a real American buyer sees it. Check each marketplace you sell in, with that marketplace's location set.
+Posted 2 October by a former IRS auditor, now a state auditor, who writes books as well — and it is the most valuable thing this digest has carried in weeks. They are explicit that it is not official tax advice, and their beat is compliance rather than deductions, which is exactly why it is useful: this is the view from the other side of the desk. US-specific, and the headline fact is that having a Schedule C makes you considerably more likely to be audited at all. What follows from that: you owe self-employment tax even with no employer ID, because you can be a sole proprietor and a Schedule C makes you liable, and it is a large sum people do not plan for. If you will owe $1,000 or more and are not offsetting it through extra withholding on a day job's paychecks, you must file quarterly estimated taxes — due on the 15th of April, June, September and January — and they say this is the one that sneaks up on people. Amazon, IngramSpark and the rest are required to report every 1099-MISC they issue, so if a form says $2,000 in royalties and your return says something else, the mismatch is flagged automatically and a notice of proposed adjustment arrives with penalties and interest attached. Buy something out of state for the business with no sales tax charged and you are expected to accrue and remit use tax, or it counts as a deficiency if your state ever audits you. And the one that cuts the other way: books bought for resale can be tax-exempt, provided you actually resell them, keep the evidence, and meet your state's rules.
 
-🔗 https://www.reddit.com/r/selfpublish/comments/1wv7i7g/lower_than_usual_kdp_sales_perhaps_a_third_party/
+🔗 https://www.reddit.com/r/selfpublish/comments/1wvxdtr/a_few_things_to_note_from_your_local_tax_auditor/
 
-💬 When did you last look at your own product page the way a buyer in your biggest market sees it?
-
-
-2. Your agency fired your agent. Who owns you now?
-
-Jane Friedman published a guest piece by K. T. Carlisle on 1 October, and it is free to read, which matters because it is the human case behind this week's agency-contract thread. Her agency sacked her agent without warning — she found out from an agency email, before the agent herself knew — leaving a manuscript on submission and a pending audiobook deal in limbo. Then she read her own contract. The termination clause kept commissions and rights with the agency regardless of whether the agent still worked there, and her attorneys called the agreement the most one-sided they had seen: 15 per cent of future royalties "whether procured by Agency, Client, or a third party". Her three pieces of advice are concrete. Get your agency contract reviewed before you sign, by a lawyer — the Authors Guild offers members affordable contract review. If there has been an ethical breach, file a grievance with the AALA or the Guild; the AALA's code bars conduct that abuses, discriminates against, harasses or misleads clients, and citing it strengthens your position. And negotiate your exit rather than accepting predatory language out of fear of losing representation. She did eventually follow her agent to a reputable new agency — but only with attorneys she paid for herself.
-
-🔗 https://janefriedman.com/what-should-authors-do-when-their-literary-agent-is-terminated-from-their-agency/
-
-💬 Could you say, right now, what your agency agreement does with rights that never sold?
+💬 Which of those did you already know — and which one just moved something onto your to-do list?
 
 
-3. 🎥 Two news round-ups on the same morning, both about KDP
+2. Facebook is limiting link posts, and the picture is not settled
 
-Dale L. Roberts posted "Amazon Terminated Her KDP Account. Now What? | Self-Publishing News (Oct. 1, 2026)" yesterday afternoon, 1 October. The Self Publishing Show put up episode 467, "Amazon KDP Is Changing - Are You Ready?", late the same evening. Both are pointers — I have not watched or listened to either, so I am not going to tell you what is in them. They are here because two separate outlets led on KDP on the same day, a week after the upload cap came in, and because account termination is a beat this digest has now followed for over a month without the picture getting any clearer.
+Indie Author Magazine's round-up of 2 October reports that Meta's new subscription tiers restrict Facebook Pages without a Meta One subscription to links in two organic posts or comments a month, rolling out from 15 September, with higher tiers getting more and Reels, Groups and Messenger unaffected. I went to the trade source behind it: Social Media Today reported the expansion on 17 September, and its account is narrower — it calls this an expanded TEST on some Pages rather than a general rollout, says publisher Pages are exempt from it, does not confirm whether a link in the first comment counts, and notes that Facebook link posts are not currently listed as a Meta One benefit although they are expected to be. The two accounts disagree about how settled this is, so I am not going to tell you which applies to your author page. What is not in dispute is the number Meta itself gave for why it feels able to do this: link posts make up 1.3 per cent of content people actually view. That is the real lesson for anyone whose plan is to post a link and hope. The two authors in this digest's last week who moved real numbers on Facebook were both doing it with reels, which this does not touch.
 
-🔗 https://www.youtube.com/watch?v=vEe2oKXCFuA
-🔗 https://www.youtube.com/watch?v=04kAmWZkBTE
+🔗 https://indieauthormagazine.com/storytelleros-updates-social-sales-studios-publishing-news-this-week/
+🔗 The trade report: https://www.socialmediatoday.com/news/facebook-pages-get-charged-for-link-posts/830743/
 
-💬 Do you have a copy of everything you would need if your KDP account vanished tomorrow?
-
-
-4. Libraries want indie books, and metadata is the turnstile
-
-From ALLi's news summary of 1 October, reporting Guy Gonzalez: libraries, locked in long-running fights with publishers over what ebook licences cost them, are looking at indie titles as an alternative supply. The obstacle is not snobbery, it is data. Librarians select from metadata, and indie metadata is frequently poor — the summary points at the "friction tax" idea from this year's Library Insights Summit. Which makes this an opportunity with a very specific entry requirement: the authors who get seen are the ones whose categories, descriptions, keywords, series fields and identifiers are clean and complete. The same round-up marks Wattpad's twentieth birthday at 145 million monthly users, with a piece in The Walrus on its journey from enthusiasts' community to, in its words, a commercialised IP conveyor belt.
-
-🔗 https://selfpublishingadvice.org/wattpad-turns-20-with-145-million-users/
-
-💬 When did you last read your own book's metadata as though you were deciding whether to stock it?
+💬 If links from your Page stopped working tomorrow, how would a reader get from Facebook to your book?
 
 
-5. Do not ask your developmental editor to go easy
+3. Twelve months of preorder, through Smashwords
 
-Josh Bernoff, 1 October, and it is the third piece this week from him on paid editorial work — which together make an unusually complete picture. His argument is that an editor cannot selectively soften, because the problems present themselves at every level at once; he likens real editing to deep-tissue work rather than a surface rub. He then lists what he will not agree to overlook: a quick skim; your belief that the length is fine, because redundancy comes out and the book gets leaner; a muddled chapter order, which makes you sound like a muddled thinker; factual errors, since the first duty of a nonfiction author is to tell the truth; inconsistent terminology and formatting; broken grammar; unattributed sources, which make you a pariah; bad formatting, which complicates production; and AI-generated text, which he says he runs detection on and flags. What you can legitimately ask for instead is more focus on a specific worry, and you can write "stet" against anything you disagree with, because it stays your book. His closing line is the honest one: ignore a legitimate note and some part of you will know.
+From the same round-up, and this one is clean and actionable. Draft2Digital now lets authors set up preorders through the Smashwords Store up to twelve months ahead of publication, and every preorder accumulated across that window counts toward launch-day sales — which is the part that matters, because launch-day volume is what moves algorithmic visibility. If you are wide, that is a long runway you did not have. It also pairs with the KDP cap from last week: the same round-up notes that the two-titles-per-format limit bites at SETUP rather than at release, and that simultaneous translations count separately across marketplaces, so staggered setup or preorder scheduling is how you work round it.
 
-🔗 https://bernoff.com/blog/dont-ask-your-developmental-editor-to-go-easy
+🔗 https://indieauthormagazine.com/storytelleros-updates-social-sales-studios-publishing-news-this-week/
 
-💬 What was the editorial note you fought hardest against — and were you right?
-
-
-6. 🎥 A craft book on short stories, free, as an audiobook
-
-Joanna Penn put her full audiobook of "How to Write, Publish, and Market Short Stories" on YouTube on 1 October, narrated by her. Pointer only — I have not listened — but a complete craft book read by its author at no cost is worth knowing about, and short fiction is a sensible place to be experimenting right now given how much of this week's reader-behaviour evidence points at appetite for shorter, faster, more specific work.
-
-🔗 https://www.youtube.com/watch?v=AzmqPABOdsw
-
-💬 Have you ever written short fiction deliberately, rather than because a novel refused to grow?
+💬 Have you ever run a long preorder — and did the accumulated sales actually show up on launch day?
 
 
-7. Quoting a real person in a story you made up
+4. 🤖 An all-in-one author platform wires in ChatGPT, and lets you turn it off
 
-A properly careful rights question from 1 October. A writer has a short story loosely inspired by a suicide note left by a man in the 1970s, quoted at the time in a now-defunct local newspaper's report of his death. He was not famous. They want to use a passage from the note as an epigraph, and are asking the right questions: does up to five sentences count as substantial, and would the attribution go to the man or to the newspaper? This is exactly the shape of question that is cheap to answer before publication and expensive afterwards — and note that permission, attribution and fair use are three separate questions with three separate answers, which is why the thread is worth reading rather than guessing.
+Also from 2 October: StorytellerOS has added a Sales Studio that pulls sales dashboards from across platforms into one place, and a Social Studio that batch-creates and schedules social posts through ChatGPT, plus ChatGPT Ads through its ads module. Pricing is the figure to note — $149 a month in beta, going to $249 at release. Two things worth flagging rather than endorsing: the AI features can be disabled entirely in settings, which is a design choice more tools should copy and worth knowing if you want the dashboards without the generation; and at those prices this is a business expense that needs to pay for itself, which is a calculation only your own numbers can make.
 
-🔗 https://www.reddit.com/r/writing/comments/1wuo6kz/attribution_of_a_real_persons_quote_in_a_fiction/
+🔗 https://indieauthormagazine.com/storytelleros-updates-social-sales-studios-publishing-news-this-week/
 
-💬 Is there anything quoted in your manuscript whose permission status you have never actually checked?
-
-
-8. Paid humans for every part of it, accused of AI within hours
-
-From 1 October, and it is becoming one of the defining frustrations of the year. An author finally spent money advertising two books on Instagram. Within a few hours the first comment called them two books that are AI. Their covers were made by real people, paid for; so was the advertising photograph. Instagram's own system also flagged that the post might contain AI, and they cannot find a way to contest it. Their rant is short and the sting in it is specific: they are broke, they chose to pay artists anyway because they think it matters, and the accusation arrived regardless.
-
-🔗 https://www.reddit.com/r/selfpublish/comments/1wvakti/finally_did_instagram_advertisement_and_it/
-
-💬 Have you been accused of using AI when you had not — and did you find any way to answer it?
+💬 What do you currently pay per month for author tools — and could you say what each one earns you?
 
 
-9. Three books in, regretting 6x9
+5. One sale, and the ad report that explained everything
 
-Posted 1 October. An author with three paperbacks, all at 6 by 9 inches, has put them on a shelf next to traditionally published books and does not like what they see — the size reads, in their words, as the beginner indie format, which they say was fair enough at the time. They did not notice with one book; the duology made it obvious. The question is whether it is worth unpublishing and republishing in a different trim, given all three have ten or more reviews, and whether keeping the ebooks live protects anything. A genuinely useful thread on a decision most people make once, early, without knowing it is permanent-ish.
+Posted 2 October, and it is the most instructive failure write-up of the week. An author whose novel was serialised on Royal Road seven years ago — Top 25 Best Rated, about 200 readers who genuinely liked it — came back, put the finished book on Amazon, and started serialising again to draw attention, assuming the old audience would convert. Then they spent: $150 on Royal Road ads, which over a month produced 38 new followers and roughly 3,000 extra views at click-through rates around 0.40 per cent, good ratings from the people who did arrive, and not one sale. Royal Road's ads also deliver very slowly — theirs is still only about 20 per cent delivered. On Amazon they let automatic targeting do the work, on the reasonable assumption that Amazon knows who reads what. Impressions were thin, then clicks arrived and the budget drained: twenty-three clicks, no sales. Only then did they open the reports and find who Amazon had been showing a dark fantasy to. Romance readers. The whole lesson is in the gap between spending and reading the report.
 
-🔗 https://www.reddit.com/r/selfpublish/comments/1wux659/i_kinda_regret_the_size_of_my_paperbacks/
+🔗 https://www.reddit.com/r/selfpublish/comments/1wvu7bz/my_first_sale_after_a_month_of_trying_everything/
 
-💬 What format decision would you make differently if you were starting again?
-
-
-10. Can you ask your agent for a blurb from their other clients?
-
-From 1 October, and a small question with a useful answer. A nonfiction author with a book out next year is working with their editor on blurb approaches, has a couple of decent names, and has noticed that some much bigger ones are represented by the same agency. Can they ask the agent to make the introduction? The etiquette of using your agency as a network rather than just a sales channel is rarely spelled out anywhere, which is why it is worth watching this one answered.
-
-🔗 https://www.reddit.com/r/PubTips/comments/1wv1igf/pubq_can_i_ask_my_agent_if_other_clients_of_the/
-
-💬 What have you never asked your agent or publisher for simply because you did not know you could?
+💬 When did you last read the search-term report on your own ads rather than just the spend?
 
 
-11. 🎬 Do you write with the budget in mind?
+6. 🎥 The right way to use beta readers
 
-Posted 1 October, and the crossover is sharper than it looks. Screenwriters are asking each other whether they write with production cost and feasibility in view — the hundred extras, the night shoot at sea, the creature that has to be built. Novelists have no budget, which is precisely why the question is worth borrowing: the constraint the screenwriter is forced to respect is the one that produces invention rather than spectacle. Read it as an exercise, not a rule.
+ALLi published this yesterday afternoon, 2 October. Pointer only — I have not watched it — but it is here because of the thread this digest carried a week ago: an author five years and about $5,000 into a series who still could not get one person to read the book cold, and who had learned that paid manuscript assessments told them what was wrong without showing them where. Beta readers are the cheap half of that problem and most people run them badly. Worth the time if you are between drafts.
 
-🔗 https://www.reddit.com/r/Screenwriting/comments/1wv310z/do_you_write_with_budget_constraints_and/
+🔗 https://www.youtube.com/watch?v=NKA7h7mCsV8
 
-💬 What would your book look like if you had to make it for a tenth of the imagination budget?
+💬 How do you brief a beta reader — and do you ask them questions or just hand over the file?
+
+
+7. Six steps back into a manuscript you abandoned
+
+Becca Puglisi at Writers Helping Writers, 1 October, and it is a real method rather than encouragement. One, go back to your original notes and find the thing that made you want to write it — the character, the dynamic, the premise, the world. Two, write a story snapshot: the protagonist's goal, the turning points you have already passed, where the arc stands. She is explicit that it need not be rigorous or even complete; it is there to remind you. Three, reread as a reader and do not edit, which is the hard one. Four, before writing anything new, recall exactly where your protagonist stood emotionally when you stopped — what they were worried about, what they wanted next. Five, start with a scene you are actually excited about, then set a modest target: two hours a day, or a thousand words a week. Six, leave breadcrumbs — end each session with a note on what comes next, or stop mid-scene, so tomorrow has less friction.
+
+🔗 https://writershelpingwriters.net/2026/10/return-to-a-manuscript-after-taking-a-break/
+
+💬 What is the oldest unfinished manuscript on your drive — and what would step one look like for it?
+
+
+8. An editor left the door open. Is a revise-and-resubmit worth it?
+
+Posted 2 October, and it follows directly from yesterday's screenwriting item about a pass with notes and an invitation to resubmit. This author has been on submission many months with close calls and no deal. One editor has offered a revise-and-resubmit if the book does not sell, and they are weighing asking for an exclusive R&R. The revisions would be extensive; they believe they would genuinely improve the book; and there is no guarantee of anything at the end of it. They are also writing with a new baby and far less time than when they went on submission, and are honest about the imposter syndrome of returning to a manuscript they had mentally shelved. The question they put to the room — has anyone's editor R&R ever come to something, good or bad — is one of the few in publishing where other people's actual outcomes are the only useful data.
+
+🔗 https://www.reddit.com/r/PubTips/comments/1wvidsb/pubq_any_editor_rr_success_stories/
+
+💬 Have you ever done a big revision on a maybe — and would you do it again?
+
+
+9. A craft book recommendation worth acting on
+
+From 2 October, short and warm: a reader has just finished George Saunders' A Swim in a Pond in the Rain and says it blew their mind, reminding them of the best class they took at university — close reading. They had never read Dostoevsky and say Saunders made him speak to them. The reason to pass it on rather than scroll past: a book that teaches you to read closely is doing something different from a book that teaches you to write, and the first is rarer and harder to find.
+
+🔗 https://www.reddit.com/r/writing/comments/1ww2jct/best_writing_book_ive_read/
+
+💬 Which craft book actually changed how you work, rather than just how you think?
+
+
+10. 🎬 The same names keep winning the grants for new names
+
+Posted 2 October, and the frustration is specific enough to be useful. A screenwriter has spent five years watching who actually receives grants and competition places marketed at emerging artists, and reports it is repeatedly the same people. Their proposal is blunt: if a scheme exists to find new talent, winning one grant should make you ineligible for another. They describe grant office hours where staff say yes, you can apply without experience — and then say it looks great when a project is vouched for by others, which is the opposite answer. They cite a piece arguing most Sundance recipients are Ivy League graduates, and they are explicitly open to being argued with. Read it before your next entry fee, whichever form you write in.
+
+🔗 https://www.reddit.com/r/Screenwriting/comments/1ww05lq/i_hate_the_trend_of_some_artists_or_projects/
+
+💬 What is the most you have paid to enter something — and did you ever find out how it was judged?
 
 
 —
-Scout notes: yesterday's edition ran, so nothing is carried over. Source split: five items from news, trade press and video, six from the community lanes. The video lane produced three fresh items — the best day in two weeks — all found on the channel pages, all three titles confirmed against YouTube's own oEmbed endpoint, and all dated by subtracting the age shown from this run's clock. The RSS liveness probe answered 404 three times again, so the feeds stay dark and the channel-page route continues to be what works. Reddit needed three attempts on r/writing and a separate retry pass on the screen lane. AI lane: covered today from the acceptance side rather than the tools side, and nothing new from the tool changelogs since Wednesday. Europe and Australia produced nothing new that could be read in full.
+Scout notes: yesterday's edition ran, so nothing is carried over. Source split: five items from news, trade press and video, five from the community lanes. The video lane ran for the first time on yesterday's retuned spec, and the retune earned itself immediately: pulling every channel's feed with up to four attempts each, two of the six answered RSS — both giving exact machine-readable publication dates — and four fell back to their channel pages, where the one fresh video was found and its title confirmed against YouTube's own oEmbed endpoint. Under the old single-channel probe this morning would have been reported as either a working route or a dead one depending purely on which channel the probe happened to pick. One story was read and dropped: Josh Bernoff's 2 October piece is about a presidential order renaming AI rather than anything an author can use. The AI lane is otherwise thin today — one tools item, no new acceptance story that has not already run here this week. Reddit needed three attempts on the first lane and answered first time on the other three.
 
 —
 Curated daily for this community. Spotted something worth sharing?
