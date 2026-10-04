@@ -1,98 +1,60 @@
-📚 Daily Writer's Scout — Saturday, 03 October 2026
+📚 Daily Writer's Scout — Sunday, 04 October 2026
 
-1. A tax auditor who is also an author tells you what gets you flagged
+1. The survey that produces the only honest income figures in this business opened yesterday
 
-Posted 2 October by a former IRS auditor, now a state auditor, who writes books as well — and it is the most valuable thing this digest has carried in weeks. They are explicit that it is not official tax advice, and their beat is compliance rather than deductions, which is exactly why it is useful: this is the view from the other side of the desk. US-specific, and the headline fact is that having a Schedule C makes you considerably more likely to be audited at all. What follows from that: you owe self-employment tax even with no employer ID, because you can be a sole proprietor and a Schedule C makes you liable, and it is a large sum people do not plan for. If you will owe $1,000 or more and are not offsetting it through extra withholding on a day job's paychecks, you must file quarterly estimated taxes — due on the 15th of April, June, September and January — and they say this is the one that sneaks up on people. Amazon, IngramSpark and the rest are required to report every 1099-MISC they issue, so if a form says $2,000 in royalties and your return says something else, the mismatch is flagged automatically and a notice of proposed adjustment arrives with penalties and interest attached. Buy something out of state for the business with no sales tax charged and you are expected to accrue and remit use tax, or it counts as a deficiency if your state ever audits you. And the one that cuts the other way: books bought for resale can be tax-exempt, provided you actually resell them, keep the evidence, and meet your state's rules.
+ALLi's Dan Holloway reported on 3 October that Written Word Media has opened its 2026 indie author survey, and the reason to care is last year's results rather than this year's form. The 2025 data linked income to the size of a catalogue more starkly than most authors expect: writers with one to three books earned under $100 a month. Forty per cent of those with twenty-five or more titles earned over $5,000 a month. The people clearing $10,000 a month typically had more than sixty titles. Series amplified it further, and genre skewed it — romance and fantasy were overrepresented at the top, literary fiction at the bottom. Read that as arithmetic rather than discouragement: it is a description of how a backlist compounds, not a verdict on anyone's book. This year's survey asks about marketing techniques cross-analysed by genre, titles published, pricing, marketing spend and income, and for the first time it asks about AI, including whether authors expect to spend less on cover design and editing. If you want next year's number to describe writers like you, the survey is where that happens.
 
-🔗 https://www.reddit.com/r/selfpublish/comments/1wvxdtr/a_few_things_to_note_from_your_local_tax_auditor/
+🔗 https://selfpublishingadvice.org/written-word-media-opens-2026-indie-author-survey/
 
-💬 Which of those did you already know — and which one just moved something onto your to-do list?
-
-
-2. Facebook is limiting link posts, and the picture is not settled
-
-Indie Author Magazine's round-up of 2 October reports that Meta's new subscription tiers restrict Facebook Pages without a Meta One subscription to links in two organic posts or comments a month, rolling out from 15 September, with higher tiers getting more and Reels, Groups and Messenger unaffected. I went to the trade source behind it: Social Media Today reported the expansion on 17 September, and its account is narrower — it calls this an expanded TEST on some Pages rather than a general rollout, says publisher Pages are exempt from it, does not confirm whether a link in the first comment counts, and notes that Facebook link posts are not currently listed as a Meta One benefit although they are expected to be. The two accounts disagree about how settled this is, so I am not going to tell you which applies to your author page. What is not in dispute is the number Meta itself gave for why it feels able to do this: link posts make up 1.3 per cent of content people actually view. That is the real lesson for anyone whose plan is to post a link and hope. The two authors in this digest's last week who moved real numbers on Facebook were both doing it with reels, which this does not touch.
-
-🔗 https://indieauthormagazine.com/storytelleros-updates-social-sales-studios-publishing-news-this-week/
-🔗 The trade report: https://www.socialmediatoday.com/news/facebook-pages-get-charged-for-link-posts/830743/
-
-💬 If links from your Page stopped working tomorrow, how would a reader get from Facebook to your book?
+💬 How many titles do you have out — and does that chart change what you plan for the next two years?
 
 
-3. Twelve months of preorder, through Smashwords
+2. A $6.99 book showing at over $20 on Amazon
 
-From the same round-up, and this one is clean and actionable. Draft2Digital now lets authors set up preorders through the Smashwords Store up to twelve months ahead of publication, and every preorder accumulated across that window counts toward launch-day sales — which is the part that matters, because launch-day volume is what moves algorithmic visibility. If you are wide, that is a long runway you did not have. It also pairs with the KDP cap from last week: the same round-up notes that the two-titles-per-format limit bites at SETUP rather than at release, and that simultaneous translations count separately across marketplaces, so staggered setup or preorder scheduling is how you work round it.
+Posted 3 October, and it is the second Amazon listing anomaly in this digest in two days. An author distributing a small poetry collection through Draft2Digital has it priced at $6.99, and every other retailer shows $6.99. On Amazon it is over $20. There is only one listing, and clicking through all buying options shows nothing cheaper than twenty dollars and change. They are asking whether there is a fix or whether they simply drive traffic elsewhere. Read it next to yesterday's item, where a third-party seller had taken the buy box on a KDP-only paperback and undercut the author by four dollars: in both cases the price a reader sees is not the price the author set, and in both cases the author only found out by looking. The checking method from yesterday applies here too — view the listing with the right marketplace location set, not from wherever you happen to live.
 
-🔗 https://indieauthormagazine.com/storytelleros-updates-social-sales-studios-publishing-news-this-week/
+🔗 https://www.reddit.com/r/selfpublish/comments/1wwf7fw/amazon_has_doubled_the_price_of_my_book/
 
-💬 Have you ever run a long preorder — and did the accumulated sales actually show up on launch day?
-
-
-4. 🤖 An all-in-one author platform wires in ChatGPT, and lets you turn it off
-
-Also from 2 October: StorytellerOS has added a Sales Studio that pulls sales dashboards from across platforms into one place, and a Social Studio that batch-creates and schedules social posts through ChatGPT, plus ChatGPT Ads through its ads module. Pricing is the figure to note — $149 a month in beta, going to $249 at release. Two things worth flagging rather than endorsing: the AI features can be disabled entirely in settings, which is a design choice more tools should copy and worth knowing if you want the dashboards without the generation; and at those prices this is a business expense that needs to pay for itself, which is a calculation only your own numbers can make.
-
-🔗 https://indieauthormagazine.com/storytelleros-updates-social-sales-studios-publishing-news-this-week/
-
-💬 What do you currently pay per month for author tools — and could you say what each one earns you?
+💬 When did you last check what your book actually costs on every retailer you are on?
 
 
-5. One sale, and the ad report that explained everything
+3. Fourteen million copies, seven years, and the ebook rights kept
 
-Posted 2 October, and it is the most instructive failure write-up of the week. An author whose novel was serialised on Royal Road seven years ago — Top 25 Best Rated, about 200 readers who genuinely liked it — came back, put the finished book on Amazon, and started serialising again to draw attention, assuming the old audience would convert. Then they spent: $150 on Royal Road ads, which over a month produced 38 new followers and roughly 3,000 extra views at click-through rates around 0.40 per cent, good ratings from the people who did arrive, and not one sale. Royal Road's ads also deliver very slowly — theirs is still only about 20 per cent delivered. On Amazon they let automatic targeting do the work, on the reasonable assumption that Amazon knows who reads what. Impressions were thin, then clicks arrived and the budget drained: twenty-three clicks, no sales. Only then did they open the reports and find who Amazon had been showing a dark fantasy to. Romance readers. The whole lesson is in the gap between spending and reading the report.
+Written Word Media published a case study of Matt Dinniman and Dungeon Crawler Carl on 29 September, and the shape of it is worth more than the number. The number is fourteen million copies, bestseller lists with every release, and a television deal with Seth MacFarlane at Peacock. The shape: concept shelved in 2009 for being too close to Stephen King's Under the Dome, the litRPG subgenre rediscovered in 2015, writing resumed in December 2019, published on Amazon KDP in October 2020, word of mouth building through 2022 and 2023 — with the audiobook narrator Jeff Hays credited for much of it inside gaming communities — and a Random House deal in 2023 for PRINT rights only, with the author keeping the ebooks. Seven years from publication to phenomenon. The lessons the piece draws are unfashionable: saturate a small underserved community rather than chase a big one, treat Patreon and Kickstarter as co-creation rather than revenue, and show up in person, because in a market full of generated text a flesh-and-blood relationship is the thing that cannot be copied. It also makes the obvious point about the whole enterprise — no traditional publisher would have commissioned a litRPG about a talking cat before it existed.
 
-🔗 https://www.reddit.com/r/selfpublish/comments/1wvu7bz/my_first_sale_after_a_month_of_trying_everything/
+🔗 https://www.writtenwordmedia.com/what-dungeon-crawler-carls-success-teaches-every-indie-author/
 
-💬 When did you last read the search-term report on your own ads rather than just the spend?
-
-
-6. 🎥 The right way to use beta readers
-
-ALLi published this yesterday afternoon, 2 October. Pointer only — I have not watched it — but it is here because of the thread this digest carried a week ago: an author five years and about $5,000 into a series who still could not get one person to read the book cold, and who had learned that paid manuscript assessments told them what was wrong without showing them where. Beta readers are the cheap half of that problem and most people run them badly. Worth the time if you are between drafts.
-
-🔗 https://www.youtube.com/watch?v=NKA7h7mCsV8
-
-💬 How do you brief a beta reader — and do you ask them questions or just hand over the file?
+💬 Which small community could you actually saturate — and are you in it or just advertising at it?
 
 
-7. Six steps back into a manuscript you abandoned
+4. If your book blends genres, which award category do you enter?
 
-Becca Puglisi at Writers Helping Writers, 1 October, and it is a real method rather than encouragement. One, go back to your original notes and find the thing that made you want to write it — the character, the dynamic, the premise, the world. Two, write a story snapshot: the protagonist's goal, the turning points you have already passed, where the arc stands. She is explicit that it need not be rigorous or even complete; it is there to remind you. Three, reread as a reader and do not edit, which is the hard one. Four, before writing anything new, recall exactly where your protagonist stood emotionally when you stopped — what they were worried about, what they wanted next. Five, start with a scene you are actually excited about, then set a modest target: two hours a day, or a thousand words a week. Six, leave breadcrumbs — end each session with a note on what comes next, or stop mid-scene, so tomorrow has less friction.
+Hannah Jacobson, writing for ALLi on 3 October, on something that costs real entry fees to get wrong. Judges assess an entry inside the framework of the category it was entered in: a romantic fantasy in the fantasy category gets judged on world-building, pacing and the internal logic of the setting, while the same book in romance gets judged on the relationship, the emotional arc and whether the ending satisfies. A blended book can win in more than one category provided it genuinely meets each one's core expectations. Her practical point is the useful one: category names alone tell you almost nothing, identical names mean different things between programmes, and you have to read each one's definitions, eligibility and entry rules. Many programmes allow the same book in multiple categories with separate judging, though limits and fees vary. A climate-fiction novel might belong in both speculative fiction and an environmental-theme category.
 
-🔗 https://writershelpingwriters.net/2026/10/return-to-a-manuscript-after-taking-a-break/
+🔗 https://selfpublishingadvice.org/does-your-book-blend-genres/
 
-💬 What is the oldest unfinished manuscript on your drive — and what would step one look like for it?
-
-
-8. An editor left the door open. Is a revise-and-resubmit worth it?
-
-Posted 2 October, and it follows directly from yesterday's screenwriting item about a pass with notes and an invitation to resubmit. This author has been on submission many months with close calls and no deal. One editor has offered a revise-and-resubmit if the book does not sell, and they are weighing asking for an exclusive R&R. The revisions would be extensive; they believe they would genuinely improve the book; and there is no guarantee of anything at the end of it. They are also writing with a new baby and far less time than when they went on submission, and are honest about the imposter syndrome of returning to a manuscript they had mentally shelved. The question they put to the room — has anyone's editor R&R ever come to something, good or bad — is one of the few in publishing where other people's actual outcomes are the only useful data.
-
-🔗 https://www.reddit.com/r/PubTips/comments/1wvidsb/pubq_any_editor_rr_success_stories/
-
-💬 Have you ever done a big revision on a maybe — and would you do it again?
+💬 What would your book be judged on if the judge only knew the category you picked?
 
 
-9. A craft book recommendation worth acting on
+5. How do you make a reader cry?
 
-From 2 October, short and warm: a reader has just finished George Saunders' A Swim in a Pond in the Rain and says it blew their mind, reminding them of the best class they took at university — close reading. They had never read Dostoevsky and say Saunders made him speak to them. The reason to pass it on rather than scroll past: a book that teaches you to read closely is doing something different from a book that teaches you to write, and the first is rarer and harder to find.
+Posted 3 October, and a good craft question asked well. A novelist wants to know what actually produces tears — not sentiment on the page, but the thing that lands — and offers a sensible route in: if nobody can name the technique, name the novel that did it to you and work backwards. Reverse-engineering from the books that got you is a better method than most craft advice, because the evidence is your own and you cannot argue with it.
 
-🔗 https://www.reddit.com/r/writing/comments/1ww2jct/best_writing_book_ive_read/
+🔗 https://www.reddit.com/r/writing/comments/1wwlfzl/trying_to_make_the_reader_cry/
 
-💬 Which craft book actually changed how you work, rather than just how you think?
+💬 Which novel made you cry — and can you point at the paragraph where it started?
 
 
-10. 🎬 The same names keep winning the grants for new names
+6. 🎬 Nearly thirty, credits in hand, working retail
 
-Posted 2 October, and the frustration is specific enough to be useful. A screenwriter has spent five years watching who actually receives grants and competition places marketed at emerging artists, and reports it is repeatedly the same people. Their proposal is blunt: if a scheme exists to find new talent, winning one grant should make you ineligible for another. They describe grant office hours where staff say yes, you can apply without experience — and then say it looks great when a project is vouched for by others, which is the opposite answer. They cite a piece arguing most Sundance recipients are Ivy League graduates, and they are explicitly open to being argued with. Read it before your next entry fee, whichever form you write in.
+Posted 3 October, and it is the most sobering thing in today's edition. A writer and animator took a master's in screenwriting at 22, did a writing fellowship, sold a show. Then several years of freelancing, script coordinating and assistant work before landing a first staff writing job. Two years of that, and then the studio mergers arrived: their show was cancelled and they were one of six hundred people laid off. They are now almost thirty, writing personal projects and working retail. The part that makes it worth reading rather than wincing at: with real credits they have never managed to get an agent or a manager, most of their contacts, friends and collaborators have left the business entirely, and they no longer qualify for many of the fellowships. They are careful to say they are not complaining, and the question they ask is the honest one — what is a realistic move from here, and does anyone else feel this. It reads across to anyone writing in any form during a contraction.
 
-🔗 https://www.reddit.com/r/Screenwriting/comments/1ww05lq/i_hate_the_trend_of_some_artists_or_projects/
+🔗 https://www.reddit.com/r/Screenwriting/comments/1wwsziz/midcareer_writer_advice/
 
-💬 What is the most you have paid to enter something — and did you ever find out how it was judged?
-
+💬 What would you tell someone with the credits, the training and no way back in?
 
 —
-Scout notes: yesterday's edition ran, so nothing is carried over. Source split: five items from news, trade press and video, five from the community lanes. The video lane ran for the first time on yesterday's retuned spec, and the retune earned itself immediately: pulling every channel's feed with up to four attempts each, two of the six answered RSS — both giving exact machine-readable publication dates — and four fell back to their channel pages, where the one fresh video was found and its title confirmed against YouTube's own oEmbed endpoint. Under the old single-channel probe this morning would have been reported as either a working route or a dead one depending purely on which channel the probe happened to pick. One story was read and dropped: Josh Bernoff's 2 October piece is about a presidential order renaming AI rather than anything an author can use. The AI lane is otherwise thin today — one tools item, no new acceptance story that has not already run here this week. Reddit needed three attempts on the first lane and answered first time on the other three.
+Scout notes: a short edition on purpose. Yesterday's ran, so nothing is carried over, and every lane was swept — the news feeds simply had little new on a Sunday, so this is six items rather than a padded eleven. Source split: three items from news and trade press, three from the community lanes. One lane was genuinely unreachable: r/PubTips refused eight times across two passes, so there is no querying item today; the screen lane refused twice more before answering on a third attempt, which is why its item is here at all. YouTube: the RSS route was unavailable this run on the proper test — all six channels failed four attempts each — and all six channel pages loaded as the fallback and carried nothing newer than videos already run here, so the lane yielded nothing rather than failing. Note how different that reads from yesterday, when two of the six feeds answered: the route is intermittent per channel and per run, which is why the spec now requires all six to fail before the digest says so. AI lane: quiet today. Two stories were chased and dropped for lack of a dated primary source — a report of new Draft2Digital account fees, which does not appear anywhere on Draft2Digital's own blog, and a Findaway Voices terms-of-use row that turns out to be from February 2024. Neither was written from a search snippet.
 
 —
 Curated daily for this community. Spotted something worth sharing?
