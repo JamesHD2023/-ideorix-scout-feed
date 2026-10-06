@@ -1,79 +1,79 @@
-📚 Daily Writer's Scout — Monday, 05 October 2026
+📚 Daily Writer's Scout — Tuesday, 06 October 2026
 
-1. A federal appeals court says training an AI on someone else's work was not fair use — and then says what that does not mean
+1. 🤖 Libraries are running classes on how to turn AI off, and they are selling out
 
-The first US appeals ruling to reject a fair-use defence for AI training landed in late September, and Books+Publishing picked it up for the Australian trade this morning. The Third Circuit sided with Thomson Reuters, owner of Westlaw, against Ross Intelligence, a now-defunct startup that built a rival legal research tool using Westlaw's headnotes — the short editorial summaries of legal points. Judge Tamika Montgomery-Reeves held the headnotes original enough to be copyrighted, writing that they show "the requisite minimal creative spark". Fair use then failed on multiple factors: the use was "minimally transformative at best" even though it was training rather than republishing, it served the same commercial market, and it threatened Westlaw's own licensing. Read the caveat as carefully as the holding, because the court put it there itself: the ruling "does not create a broad rule for every AI training dispute". It applies narrowly to a direct competitor using copyrighted editorial material for substantially the same commercial purpose. That is still the first appellate crack in the fair-use defence, and the reason it matters to a novelist is leverage rather than law — every settlement in every case against every model company is negotiated against the odds of losing on this point.
+Reported on 30 September and picked up in the UK round-up yesterday, this is the clearest reader-sentiment signal of the year. The North Chatham Free Library in upstate New York — around 800 cardholders — put out a flyer for a "Bye Bye AI" session helping people disable AI features on their phones and computers, and it went viral. Shea Wert, its full-time librarian, says the programme came out of patrons repeatedly complaining about things that bothered them in tools they already used, naming Gmail's automatic replies and autocomplete specifically. Hundreds of librarians worldwide got in touch. The framing is the part worth sitting with, because it is not technophobia: the same two librarians also run "AI for Seniors" sessions introducing people to AI tools, and co-librarian Hannah Cyrus's position is that libraries should help with patrons' rejection of technology as much as with their adoption of it. If you write for a general readership, that is your audience telling you something about what it wants from a page.
 
-🔗 https://www.techspot.com/news/114058-court-ruled-training-ai-someone-else-editorial-work.html
+🔗 https://www.yahoo.com/news/us/articles/york-small-librarys-bye-bye-014100618.html
 
-💬 Does an appeals court saying "not fair use, but narrowly" change how you feel about the cases still running?
-
-
-2. Frankfurt opens on Tuesday, and three of the sessions are about machines reading and writing
-
-Publishing Perspectives published its programme picks for the 78th Frankfurter Buchmesse on 2 October; the fair runs 7 to 11 October, with trade programming from Tuesday. The sessions worth knowing exist, even if you are nowhere near Germany, because what gets decided in those rooms arrives in your terms of service eighteen months later. "AI Narration Beyond the Lab" is on where synthetic voices actually work, what listeners will accept, and what that does to business models — directly relevant after a fortnight in which Spotify opened free AI narration to US indies. "AI and Book Publishing: New Breakthroughs Challenge Cherished Truths" is billed as the bleeding-edge view. "AI in Culture: Truth or Fiction?" looks at what all this does to deep reading and to education. Alongside them the Frankfurt Rights Meeting marks its fortieth anniversary with people who have sold rights across four decades, there is a Book-to-Screen spotlight on European adaptation, and a session on standardising translation royalties. Independent publishers get less dedicated space than the themes deserve, which is itself worth noticing.
-
-🔗 https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-program-picks/
-
-💬 Which of those three AI questions will affect your own publishing first?
+💬 Do your readers want to know whether a machine touched your book — and have any of them asked?
 
 
-3. A cover got the book BLOCKED, not bounced — and there is nowhere to test one first
+2. Eight ways to sell more audiobooks, from a narrator
 
-Posted 4 October, and it is the week's cleanest example of platform opacity. An author had a novella published since 2019 with a generic Amazon-generated cover and no problems. They added a real cover yesterday and the book was not returned to draft but Blocked, with an email citing content guidelines. The cover was a butcher's chart applied to a human — loin, rump, ham — with no gore; they note they have been bounced to draft for a genuinely gory cover before and learned from it. They showed this one to ordinary people first and got thumbs up all round. Their question is the useful one and nobody has a good answer: is there anywhere to test a cover before uploading, given that being bounced to draft is an inconvenience and being Blocked is something else entirely. If your cover is doing anything at all witty, that asymmetry is worth knowing about before you find it out.
+Indie Author Magazine, 5 October, with Christa Lewis, and it is a clean checklist rather than a pep talk. Make the foundations professional: cover art, a short description, audio samples and working purchase links on your own site, all tested on a phone. Get early reviews using promotional codes and by approaching audiobook review services, book bloggers and listener communities, because that solves the social-proof problem and feeds the search algorithm. Plan two to four price promotions a year across your platforms. Cut audio clips of interesting moments and use them in newsletters and social posts, since a clip explains itself. Link your ebook and audiobook editions on Amazon so an ebook promotion pulls audio discovery with it. Treat ads as experiments — one platform, one audience, one message at a time. Make newsletter signup easy, including in the back matter and in the audiobook's own end credits. And submit for professional reviews and audiobook awards, which generates promotional material as well as visibility.
 
-🔗 https://www.reddit.com/r/selfpublish/comments/1wx9f5r/kdp_book_blocked_due_to_cover_somewhere_to_check/
+🔗 https://indieauthormagazine.com/narrator-shares-eight-tips-for-selling-more-audiobooks-without-stress/
 
-💬 Has a cover of yours ever been refused — and did you ever find out which guideline it broke?
-
-
-4. Do you actually need an LLC to self-publish?
-
-From 4 October, US-specific, and the reason it is here is the claim rather than the question. Someone read online that registering an LLC is NECESSARY in order to self-publish, and is sensibly trying to price it before they commit. It is not necessary — Saturday's item from a working tax auditor spelled out what actually applies to a US author with no company at all, which is a Schedule C and self-employment tax. Whether an LLC is WORTH it is a different question, with real answers about liability and none about permission. Worth reading because the thread is the place that distinction gets made, and because "you must do X before you can publish" is the opening line of a great many things authors should not buy.
-
-🔗 https://www.reddit.com/r/selfpublish/comments/1wx4o4t/do_i_need_to_create_an_llc_to_self_publish/
-
-💬 What did someone once tell you was compulsory that turned out to be optional?
+💬 Does your audiobook's end credits invite the listener anywhere — or does it just stop?
 
 
-5. Fifteen pages of editorial notes. What order do you work in?
+3. Writing a book in a month, week by week
 
-Posted 4 October, and it is the practical question nobody prepares you for. An author has fifteen pages of feedback from an editor covering the usual sweep — opening, plot, dialogue, characters and arcs, scenes, setting and description, pacing, closing — and wants a plan rather than a panic. Their three candidate strategies are all reasonable and incompatible: work chapter by chapter addressing every applicable note, or take one topic and sweep the whole manuscript before moving to the next, or do the easy ones first to build momentum (or the hard ones first to get them over with). They say plainly that they need a plan so they do not make it worse, which is the correct fear.
+ALLi published this with ProWritingAid on 5 October, and the timing is deliberate with November a few weeks out. Week one is for momentum: silence the editor, bank extra words while the energy is there, and work out when and where you actually write well. Week two is the slump, and their advice is the right kind of small — drop the standard, aim at finishing a sentence rather than hitting a number on the bad days, change where you sit, and put a reward at a milestone like ten thousand words. Week three is where the manuscript is big enough to tempt you into revising it, and they are blunt that editing here kills the draft; leave comments for later instead. Week four is the sprint, using the gaps — commutes, errands — to get the last of it down. They reference the 50,000-word November target without prescribing a daily count, which is probably wise.
 
-🔗 https://www.reddit.com/r/writing/comments/1wx3us7/best_order_in_approaching_revisions/
+🔗 https://selfpublishingadvice.org/how-to-write-a-book-in-one-month-a-week-by-week-plan/
 
-💬 What order do you revise in — and did you arrive at it deliberately or by accident?
-
-
-6. Why the murder victim should be awful
-
-Elizabeth Spann Craig, 5 October, on the unlikeable victim, and the craft is transferable well beyond cozy mystery. The structural case is obvious once said: a disagreeable victim generates suspects, which is the engine of the whole form. Her techniques for keeping the reader invested anyway are the useful part. Humanise through contradiction — the town bully who anonymously funded the animal shelter. Borrow emotional investment from other characters, so the reader cares through a beloved character's genuine grief rather than through sympathy for the deceased. Reveal progressively, using private journals or evidence of loneliness to reframe what the reader already thought. Shift the stake from the person to the principle, since even irritating people deserve justice. And make the unpleasantness causally part of the mystery rather than mere decoration.
-
-🔗 https://elizabethspanncraig.com/uncategorized/the-art-of-the-unlikeable-victim/
-
-💬 Have you ever made a character unpleasant and then had to earn the reader back?
+💬 Are you drafting in November — and is week two or week three the one that usually stops you?
 
 
-7. Memoir courses taught by people who have never written one
+4. "Goodreads Book Discovery Enthusiast" would like to confirm your email address
 
-Posted 4 October, and the poster has now watched the same sequence three times: someone wants to sell a writing course, discovers that a very large share of aspiring writers want to write memoir, and sells a memoir course despite never having written one and having no particular interest in the form. Their discomfort is honest and so is their counter-argument — maybe this is just professional writers finally getting paid, even if it is other writers paying. The line that will stay with you is about where the money comes from: people who simply want to tell their story, spilling retirements into memoirs. Their closing suggestion is only half a joke: if you have actually written one, there is apparently a market.
+Posted 5 October, and the author's instinct is exactly right. They received a short email asking whether this was the best address to reach them directly about their book, signed by someone describing themselves as a "Reader & Goodreads Book Discovery Enthusiast", from a Gmail address, with the sign-off rendered as an image rather than text. The author notes there is only one email address on their website, so the question answers itself. Their reasoning for not replying is the useful part, and it generalises: saying yes confirms the address is live and monitored, after which it gets passed around. They are going with block and delete. Add it to the pattern: the approach that asks nothing and risks nothing is the one establishing whether you are worth approaching properly.
 
-🔗 https://www.reddit.com/r/writing/comments/1wxfq34/memoir_classes_taught_by_nonmemoirists/
+🔗 https://www.reddit.com/r/selfpublish/comments/1wyflzb/i_shouldnt_respond_right/
 
-💬 What is the last writing course you paid for — and had the person teaching it done the thing?
+💬 What is the tell that makes you delete an email about your book without replying?
 
 
-8. 🎬 Sorkin's odd little edit: cut the last line
+5. Sixty-seven queries, no personalised rejections, one offer
 
-Posted this morning, 5 October. A short thread reporting that Aaron Sorkin has lately been removing the final line of a scene and finding the scenes stronger for it — and the poster tried it and says it genuinely worked. That is the whole item, and it is here because it costs nothing to test on your own pages this afternoon. The reason it tends to work is worth sitting with: the last line of a scene is usually where a writer explains what the scene just did.
+Posted 5 October, and it is the most useful agent story this digest has carried because nothing about it is glamorous. They started querying in March, sent in batches with no strategy beyond apparent fit — wishlist, client list, experience — and made themselves send two new queries for every rejection. A family bereavement stopped everything in June. They nudged in July to restart. Their stated goal from the beginning was to collect a hundred rejections before considering other routes. By the end: 67 queries out, many never answered at all, not one personalised rejection, no full-manuscript requests to speak of, and no competing offers. One agent they had nudged asked for the full. It became an offer. They took it, had a call that convinced them immediately, and say the first round of edits has already made the book better. Their own headline is the thing to keep — it really only takes one.
 
-🔗 https://www.reddit.com/r/Screenwriting/comments/1wxzia7/aaron_sorkin_strange_advice_cut_the_last_line/
+🔗 https://www.reddit.com/r/PubTips/comments/1wylkro/discussion_i_got_an_agent_a_story_to_tell_you_it/
 
-💬 Try it on your most recent scene. Did cutting the last line lose anything?
+💬 What is your own stopping rule for querying — and is it a number or a feeling?
+
+
+6. What are you actually supposed to learn from querying in batches?
+
+Also 5 October, and it is a properly sceptical question about advice everyone repeats. The standard line is to query a small group first and use the result to improve your letter. The poster points out the arithmetic: agents now rarely explain a rejection, request rates are low, and nobody should expect a full request in their first ten queries regardless. So ten form rejections or silences tell you — what? Not whether the problem is the letter rather than the pages, and certainly not which line to change. Their suspicion is that the advice is a holdover from when rejections came with reasons. Worth reading for the replies, because if batching still earns its place, this is where someone will say why.
+
+🔗 https://www.reddit.com/r/PubTips/comments/1wy4vw6/pubq_what_exactly_are_you_supposed_to_learn_from/
+
+💬 Did querying in batches ever actually teach you something you could act on?
+
+
+7. Giving up on querying and podcasting the novel instead
+
+From 5 October, and a genuinely different route. After what they call crashing into the wall of apathy, an author has stopped querying two novels they still believe in — beta readers enjoyed both, the prose is honestly described as average, the characters unusual and likeable, the dialogue engaging. Self-publishing was the first thought, but with a mortgage to pay they are wondering whether narrating the books themselves and releasing them as audio on YouTube and podcast platforms is the cheaper way in. They have six of about twelve episodes recorded and are candid about the difficulty: being, in their words, a terrible actor and a hyper-critical director at the same time. They name Mike Bennett's "Underwood & Finch" as the precedent they admire. A real question with real precedent, and the thread is where anyone who has done it will say what it cost.
+
+🔗 https://www.reddit.com/r/writing/comments/1wyge2i/podcasting_your_novel/
+
+💬 Would you narrate your own book — and is it the voice or the judgment that stops you?
+
+
+8. 🎬 "Your character is flat." "Your character's arc is unbelievable."
+
+Posted 5 October by a screenwriter two years in who keeps getting one of exactly two notes, and never the middle. They have built a character from scratch arc-first, retrofitted an arc into an existing script, and rewritten the same screenplay three times. They then post their actual framework for review — general description, want, need, trauma, the lie the character believes, the realisation — which is the generous part, because it makes the thread diagnosable rather than a vent. The question to the professionals is whether this is just trial and error over years or whether the approach itself is wrong. Novelists get the same two notes and rarely see anyone lay out their method this openly.
+
+🔗 https://www.reddit.com/r/Screenwriting/comments/1wy70v4/pro_writers_how_did_you_learn_character_arcs/
+
+💬 Can you state your protagonist's want, need and lie in one line each — and do they contradict each other properly?
 
 
 —
-Scout notes: yesterday's edition ran, so nothing is carried over. Source split: three items from news and trade press, five from the community lanes. YouTube lane: nothing fresh today, and the RSS route was unavailable on the full test for the second day running — all six channels failed four attempts each — while all six channel pages loaded as the fallback and carried nothing newer than videos already run here. Worth recording that Publishing Perspectives, the European source this digest reported a week ago as unreadable because it sits behind a bot challenge, turns out to be readable after all through a different fetch route than the one that was failing. That is an instrument finding rather than a news one, and it means the European lane has a second working source from today. Reddit needed a second attempt on two lanes. AI lane: covered today from the rights and the trade-programme angles; no new tool releases since Wednesday.
+Scout notes: yesterday's edition ran, so nothing is carried over. Source split: three items from news and trade press, five from the community lanes. YouTube lane: nothing fresh today, and the RSS route was unavailable on the full test for the third day running — all six channels failed four attempts each — while all six channel pages loaded as the fallback and carried nothing newer than videos already run here. Running count on that route this week: six of six feeds answered on 2 October, two of six on the 3rd, none since. Reddit needed a second attempt on one lane and answered first time on the other three. The UK round-up of 5 October was read in full and used as a pointer rather than an item — two of its seven links were stories this digest ran last week, which is a reasonable sign the primary lanes are not missing much. AI lane: covered today from the reader-acceptance side; no new tool releases since Wednesday.
 
 —
 Curated daily for this community. Spotted something worth sharing?
