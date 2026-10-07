@@ -1,79 +1,99 @@
-📚 Daily Writer's Scout — Tuesday, 06 October 2026
+📚 Daily Writer's Scout — Wednesday, 07 October 2026
 
-1. 🤖 Libraries are running classes on how to turn AI off, and they are selling out
+1. 🤖 "Swallowed whole by machines owned by corporations" — Frankfurt opens, and publishers sign an appeal
 
-Reported on 30 September and picked up in the UK round-up yesterday, this is the clearest reader-sentiment signal of the year. The North Chatham Free Library in upstate New York — around 800 cardholders — put out a flyer for a "Bye Bye AI" session helping people disable AI features on their phones and computers, and it went viral. Shea Wert, its full-time librarian, says the programme came out of patrons repeatedly complaining about things that bothered them in tools they already used, naming Gmail's automatic replies and autocomplete specifically. Hundreds of librarians worldwide got in touch. The framing is the part worth sitting with, because it is not technophobia: the same two librarians also run "AI for Seniors" sessions introducing people to AI tools, and co-librarian Hannah Cyrus's position is that libraries should help with patrons' rejection of technology as much as with their adoption of it. If you write for a general readership, that is your audience telling you something about what it wants from a page.
+Publishing Perspectives, 6 October, from the opening press conference of Frankfurter Buchmesse. The historian Jill Lepore gave the keynote and did not soften it: "The sum of human knowledge that is contained in the world's books has been swallowed whole by machines owned by corporations." She also said, of reading itself, "No democracy can thrive without a literate electorate. It is an inheritance as precious as it is precarious." Her Pulitzer-winning We the People came out last year; her latest, The Rise and Fall of the Artificial State, is about tech monopolies. Alongside the keynote, the Börsenverein — the German Publishers and Booksellers Association, chaired by Sebastian Guggolz — issued the "Frankfurt Appeal", an open letter to German and European legislators making three demands: transparency requirements forcing AI companies to disclose the specific training data they used at the level of the individual work, a licensing marketplace with equitable revenue models, and enforcement of the European copyright law that already exists. Publishing Perspectives says dozens of publishers had signed by Tuesday; Books and Publishing, covering it on 7 October, puts the figure at more than 120 publishers and booksellers. The work-level disclosure demand is the one to watch, because it is the only one of the three that would let an individual author find out whether their own book is in a particular training set.
 
-🔗 https://www.yahoo.com/news/us/articles/york-small-librarys-bye-bye-014100618.html
+🔗 https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-historian-jill-lepore-speaks-of-an-industry-and-a-world-on-the-knife-edge-of-history/
+🔗 https://www.booksandpublishing.com.au/articles/2026/10/07/342005/frankfurt-appeal-seeks-legislation-on-generative-ai/
 
-💬 Do your readers want to know whether a machine touched your book — and have any of them asked?
-
-
-2. Eight ways to sell more audiobooks, from a narrator
-
-Indie Author Magazine, 5 October, with Christa Lewis, and it is a clean checklist rather than a pep talk. Make the foundations professional: cover art, a short description, audio samples and working purchase links on your own site, all tested on a phone. Get early reviews using promotional codes and by approaching audiobook review services, book bloggers and listener communities, because that solves the social-proof problem and feeds the search algorithm. Plan two to four price promotions a year across your platforms. Cut audio clips of interesting moments and use them in newsletters and social posts, since a clip explains itself. Link your ebook and audiobook editions on Amazon so an ebook promotion pulls audio discovery with it. Treat ads as experiments — one platform, one audience, one message at a time. Make newsletter signup easy, including in the back matter and in the audiobook's own end credits. And submit for professional reviews and audiobook awards, which generates promotional material as well as visibility.
-
-🔗 https://indieauthormagazine.com/narrator-shares-eight-tips-for-selling-more-audiobooks-without-stress/
-
-💬 Does your audiobook's end credits invite the listener anywhere — or does it just stop?
+💬 If a register existed showing every book inside a model's training data, would you look yours up — and what would you do with the answer?
 
 
-3. Writing a book in a month, week by week
+2. 🤖 Anthropic tells an Australian inquiry that current copyright law makes AI training there "impossible"
 
-ALLi published this with ProWritingAid on 5 October, and the timing is deliberate with November a few weeks out. Week one is for momentum: silence the editor, bank extra words while the energy is there, and work out when and where you actually write well. Week two is the slump, and their advice is the right kind of small — drop the standard, aim at finishing a sentence rather than hitting a number on the bad days, change where you sit, and put a reward at a milestone like ten thousand words. Week three is where the manuscript is big enough to tempt you into revising it, and they are blunt that editing here kills the draft; leave comments for later instead. Week four is the sprint, using the gaps — commutes, errands — to get the last of it down. They reference the 50,000-word November target without prescribing a daily count, which is probably wise.
+Books and Publishing, 7 October. The free opening of their story says Anthropic has told the parliamentary inquiry into artificial intelligence that Australia's current copyright law makes it "impossible" to train AI in Australia. The rest is behind their paywall, so that sentence is all today's reporting this digest can stand behind. What fills it out is the submission itself, reported by Forbes Australia on 22 September — older than this digest's usual window, and flagged as such. In it Anthropic accepts that a broad text-and-data-mining exception "has been ruled out by the Government", and proposes instead a narrow form of conditional approval: the government would set conditions under which eligible AI developers could train on copyrighted material, publishers and creators would keep the option to opt out, and the company says it is open to the government requiring investment or other conditions in return. Read item 1 next to this one and you have the whole argument of the year in two stories — one side asking for transparency and a licensing market, the other asking for conditional permission with an opt-out.
 
-🔗 https://selfpublishingadvice.org/how-to-write-a-book-in-one-month-a-week-by-week-plan/
+🔗 https://www.booksandpublishing.com.au/articles/2026/10/07/342013/anthropic-uses-inquiry-to-claim-current-copyright-law-makes-ai-training-impossible/
 
-💬 Are you drafting in November — and is week two or week three the one that usually stops you?
-
-
-4. "Goodreads Book Discovery Enthusiast" would like to confirm your email address
-
-Posted 5 October, and the author's instinct is exactly right. They received a short email asking whether this was the best address to reach them directly about their book, signed by someone describing themselves as a "Reader & Goodreads Book Discovery Enthusiast", from a Gmail address, with the sign-off rendered as an image rather than text. The author notes there is only one email address on their website, so the question answers itself. Their reasoning for not replying is the useful part, and it generalises: saying yes confirms the address is live and monitored, after which it gets passed around. They are going with block and delete. Add it to the pattern: the approach that asks nothing and risks nothing is the one establishing whether you are worth approaching properly.
-
-🔗 https://www.reddit.com/r/selfpublish/comments/1wyflzb/i_shouldnt_respond_right/
-
-💬 What is the tell that makes you delete an email about your book without replying?
+💬 Opt-out or opt-in: which of those two words would you want in the law — and are you confident anyone would ever tell you it was time to exercise the first one?
 
 
-5. Sixty-seven queries, no personalised rejections, one offer
+3. 🤖 A major publisher's editor accused their own author of using AI
 
-Posted 5 October, and it is the most useful agent story this digest has carried because nothing about it is glamorous. They started querying in March, sent in batches with no strategy beyond apparent fit — wishlist, client list, experience — and made themselves send two new queries for every rejection. A family bereavement stopped everything in June. They nudged in July to restart. Their stated goal from the beginning was to collect a hundred rejections before considering other routes. By the end: 67 queries out, many never answered at all, not one personalised rejection, no full-manuscript requests to speak of, and no competing offers. One agent they had nudged asked for the full. It became an offer. They took it, had a call that convinced them immediately, and say the first round of edits has already made the book better. Their own headline is the thing to keep — it really only takes one.
+Posted 6 October, deliberately vague on identifying detail, and the most important thing in today's digest. A fantasy author with a two-book deal from a major publisher has had the second book delayed by family circumstances and has missed deadlines before. Under pressure for progress they sent their editor a few unpolished chapters. The editor's response was that the writing was stilted, nothing like the voice of the first book, and generated — highlighting individual sentences and whole paragraphs as AI. The author says flatly that they did not use AI and never will. What they offered as evidence was their process: they draft in Scrivener and move the text to Word for the editor, which the editor did not accept as proof. The editor said they would raise it with the team; a week later there has been no answer. Their agent is sympathetic but, in the author's words, not as outraged as they are. Note what is absent here: any standard of evidence at all. A voice that changed after a hard year away from the desk is indistinguishable, to an editor's eye, from a voice that was outsourced — and the burden landed on the writer.
 
-🔗 https://www.reddit.com/r/PubTips/comments/1wylkro/discussion_i_got_an_agent_a_story_to_tell_you_it/
+🔗 https://www.reddit.com/r/PubTips/comments/1wzeekz/pubq_my_editor_accused_me_of_using_ai_what_can_i/
 
-💬 What is your own stopping rule for querying — and is it a number or a feeling?
-
-
-6. What are you actually supposed to learn from querying in batches?
-
-Also 5 October, and it is a properly sceptical question about advice everyone repeats. The standard line is to query a small group first and use the result to improve your letter. The poster points out the arithmetic: agents now rarely explain a rejection, request rates are low, and nobody should expect a full request in their first ten queries regardless. So ten form rejections or silences tell you — what? Not whether the problem is the letter rather than the pages, and certainly not which line to change. Their suspicion is that the advice is a holdover from when rejections came with reasons. Worth reading for the replies, because if batching still earns its place, this is where someone will say why.
-
-🔗 https://www.reddit.com/r/PubTips/comments/1wy4vw6/pubq_what_exactly_are_you_supposed_to_learn_from/
-
-💬 Did querying in batches ever actually teach you something you could act on?
+💬 If someone said your pages read as generated, what could you actually produce to prove otherwise — and do you keep it?
 
 
-7. Giving up on querying and podcasting the novel instead
+4. SelfPubCon opens on 17 October with a Jane Friedman keynote
 
-From 5 October, and a genuinely different route. After what they call crashing into the wall of apathy, an author has stopped querying two novels they still believe in — beta readers enjoyed both, the prose is honestly described as average, the characters unusual and likeable, the dialogue engaging. Self-publishing was the first thought, but with a mortgage to pay they are wondering whether narrating the books themselves and releasing them as audio on YouTube and podcast platforms is the cheaper way in. They have six of about twelve episodes recorded and are candid about the difficulty: being, in their words, a terrible actor and a hyper-critical director at the same time. They name Mike Bennett's "Underwood & Finch" as the precedent they admire. A real question with real precedent, and the thread is where anyone who has done it will say what it cost.
+ALLi, 6 October. Registration was flagged here on 15 September; what is new is the shape of it. Two days, 17 and 18 October, online and free, timed deliberately against Frankfurt. The subheading is "What's Working Now and What's Next" and the strapline puts it plainly: two days, one question — where is indie publishing going, and how do you go with it. Jane Friedman keynotes with "The Indie Author's Next Move". Named sessions so far cover crowdfunding and local marketing. ALLi members and pass holders also get the Indie Author Lab on 19 October, the day after.
 
-🔗 https://www.reddit.com/r/writing/comments/1wyge2i/podcasting_your_novel/
+🔗 https://selfpublishingadvice.org/allis-selfpubcon-opens-october-17/
 
-💬 Would you narrate your own book — and is it the voice or the judgment that stops you?
+💬 Which of those two halves do you actually need this year — what is working now, or what is next?
 
 
-8. 🎬 "Your character is flat." "Your character's arc is unbelievable."
+5. 🤖 The AI and the Writing Profession survey closes in two weeks, at 1,224 responses
 
-Posted 5 October by a screenwriter two years in who keeps getting one of exactly two notes, and never the middle. They have built a character from scratch arc-first, retrofitted an arc into an existing script, and rewritten the same screenplay three times. They then post their actual framework for review — general description, want, need, trauma, the lie the character believes, the realisation — which is the generous part, because it makes the thread diagnosable rather than a vent. The question to the professionals is whether this is just trial and error over years or whether the approach itself is wrong. Novelists get the same two notes and rarely see anyone lay out their method this openly.
+Josh Bernoff, 6 October, and this is the rare item you can act on in four minutes. The 2026 survey, run by Bernoff.com and Gotham Ghostwriters, closes to new respondents around 20 October. It has 1,224 writers and editors so far against a target of 2,000, sampling a population he puts at roughly 250,000 writers and editors on US Bureau of Labor Statistics numbers. His case for the bigger number is not vanity: margin of error is about 3% at a thousand responses and 2% at two thousand, and more importantly a large sample lets the data be cut into slices — by genre, by income, by how long someone has been working — and compared against previous years for trends. The figures that get quoted at writers about AI for the next twelve months will come from surveys like this one. Being in the sample is the cheapest influence available.
 
-🔗 https://www.reddit.com/r/Screenwriting/comments/1wy70v4/pro_writers_how_did_you_learn_character_arcs/
+🔗 https://bernoff.com/blog/why-i-love-big-surveys
+🔗 https://www.surveymonkey.com/r/AIWPbern
 
-💬 Can you state your protagonist's want, need and lie in one line each — and do they contradict each other properly?
+💬 When a survey reports what writers think about AI, do you recognise yourself in the result — and did you fill one in?
+
+
+6. The Facebook Author Page guide was rewritten on Monday, and left out the thing that changed
+
+Written Word Media, 6 October, a full update of their Author Page walkthrough — and worth reading for the specifications, which are the part nobody remembers. Category: Author. Cover photo 851 by 315 pixels, minimum 399 by 150, and Facebook wants an sRGB JPG under 100KB. Intro and bio: 255 characters, so it is a line, not a paragraph. The Action Button is customisable — Sign Up, Learn More — and can point at a newsletter form, an Amazon page or your own store. The Offers section takes up to 10 promotions with 150 characters each, which works as a standing shelf of taglines. All the old classic pages are gone, so everyone is now on the same page experience and the same steps. Here is the gap, and it is checkable: the article does not mention Meta One, paid subscription, or any limit on link posts — which is exactly what this digest reported on Saturday, when Facebook Pages were capped at two link posts a month without a paid plan. A guide to optimising a Page that does not mention a new cap on the posts most authors use it for is a guide with a hole in it. Read it for the dimensions, not for the strategy.
+
+🔗 https://www.writtenwordmedia.com/how-to-optimize-your-facebook-author-page-to-sell-books/
+
+💬 If posting links off Facebook is now rationed, what is your Page actually for?
+
+
+7. Downward rank drift is the resting state, not a verdict
+
+Posted 6 October by an author who has been tracking their book's rank for weeks, and it is a useful reframe for anyone refreshing a dashboard. Their conclusion: a rank drifting down does not mean the book is failing, it means there is no new activity, which is the normal resting condition. They also describe a short window after publication in which ranks jump around without sales behind them — Amazon testing the listing — after which the book settles and drifts normally. Treating the testing window as a signal, and the drift that follows as a failure, is how authors talk themselves into panic relaunches. They have offered to break down what they have learned about ingestion and indexing if anyone wants it, which is where the thread is worth watching.
+
+🔗 https://www.reddit.com/r/selfpublish/comments/1wyz126/things_amazon_doesnt_tell_you_about_its/
+
+💬 How often do you check your rank — and has the number ever told you something you could act on?
+
+
+8. Five co-leads who all sounded like the author, and the fix that was not catchphrases
+
+Posted 6 October, and it is the best craft note in today's digest. A series with five co-leads where banter is half the book: in the first draft all five sounded like the writer being clever. The fix was not verbal tics or catchphrases. It was giving each character a relationship to information — an information-job. One fixes things in order to think, so talks while doing. One's charm is infrastructure, so talks to recruit. One treats access like gravity, so talks in systems. One is the calculator, so talks in costs. One is the conscience, so talks in rules. Once each had a job, the dialogue differentiated itself rather than being differentiated by hand. And they offer a test worth stealing: delete the dialogue tags and see whether you can still tell who is speaking.
+
+🔗 https://www.reddit.com/r/selfpublish/comments/1wz9h91/writing_dialogue_for_five_distinct_voices_the/
+
+💬 Strip the tags from your next scene of dialogue — can you still tell them apart, and which character disappears first?
+
+
+9. 🎬 Sorkin's note to himself: cut the last line of the scene
+
+Posted 5 October and short enough to try before breakfast. Aaron Sorkin has said that lately he has been taking the last line off a scene and finding the scene stronger for it; the poster tried it and reports it worked. It is the same instinct as cutting the last paragraph of a chapter, and it fails for the same reason it works: the final line is usually where a writer explains what the scene just did. Worth a pass over three scenes you are unsure about, rather than a rule.
+
+🔗 https://www.reddit.com/r/Screenwriting/comments/1wxzia7/aaron_sorkin_strange_advice_cut_the_last_line/
+
+💬 Does your last line land the scene — or summarise it?
+
+
+10. 📺 Writing and creativity in midlife, with Jordan Rosenfeld
+
+The Creative Penn, published 1 October, six days old and so the freshest thing the video lane could offer this morning — flagged rather than dressed up. Joanna Penn talks to Jordan Rosenfeld about writing and creativity in midlife, which on this show usually means the practical version of the subject: changed energy, changed time, changed reasons for doing it. Title confirmed against YouTube directly rather than read off a search result.
+
+🔗 https://www.youtube.com/watch?v=RUgU46sMfMI
+
+💬 Has what you want from writing changed in the last ten years — and did the schedule change with it?
 
 
 —
-Scout notes: yesterday's edition ran, so nothing is carried over. Source split: three items from news and trade press, five from the community lanes. YouTube lane: nothing fresh today, and the RSS route was unavailable on the full test for the third day running — all six channels failed four attempts each — while all six channel pages loaded as the fallback and carried nothing newer than videos already run here. Running count on that route this week: six of six feeds answered on 2 October, two of six on the 3rd, none since. Reddit needed a second attempt on one lane and answered first time on the other three. The UK round-up of 5 October was read in full and used as a pointer rather than an item — two of its seven links were stories this digest ran last week, which is a reasonable sign the primary lanes are not missing much. AI lane: covered today from the reader-acceptance side; no new tool releases since Wednesday.
+Scout notes: yesterday's edition ran, so nothing is carried over. Ten items: five from news and trade press, five from the community and video lanes. Both Books and Publishing stories of 7 October are readable only as far as the opening sentence, and both are used within that limit and said so; a third of theirs on publisher pay gaps was not usable at all. YouTube lane: the RSS route was unavailable on the full test for the fourth day running — all six channels failed four attempts each — and all six channel pages loaded as the fallback, carrying one video not previously run here, at six days old. Running count on that route this week: six of six feeds answered on 2 October, two of six on the 3rd, none on the four days since. Reddit refused all four lanes on the first attempt; three answered on the second and r/Screenwriting on the third. Europe lane: the European Writers' Council has nothing newer than 29 September, so Europe comes in through Frankfurt today. AI lane: covered from three directions — the legislative demand, the AI company's counter-proposal, and the accusation landing on a working author.
 
 —
 Curated daily for this community. Spotted something worth sharing?
