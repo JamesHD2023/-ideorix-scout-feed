@@ -1,99 +1,98 @@
-📚 Daily Writer's Scout — Wednesday, 07 October 2026
+📚 Daily Writer's Scout — Thursday, 08 October 2026
 
-1. 🤖 "Swallowed whole by machines owned by corporations" — Frankfurt opens, and publishers sign an appeal
+1. Spotify takes audiobooks from 22 markets to more than 180
 
-Publishing Perspectives, 6 October, from the opening press conference of Frankfurter Buchmesse. The historian Jill Lepore gave the keynote and did not soften it: "The sum of human knowledge that is contained in the world's books has been swallowed whole by machines owned by corporations." She also said, of reading itself, "No democracy can thrive without a literate electorate. It is an inheritance as precious as it is precarious." Her Pulitzer-winning We the People came out last year; her latest, The Rise and Fall of the Artificial State, is about tech monopolies. Alongside the keynote, the Börsenverein — the German Publishers and Booksellers Association, chaired by Sebastian Guggolz — issued the "Frankfurt Appeal", an open letter to German and European legislators making three demands: transparency requirements forcing AI companies to disclose the specific training data they used at the level of the individual work, a licensing marketplace with equitable revenue models, and enforcement of the European copyright law that already exists. Publishing Perspectives says dozens of publishers had signed by Tuesday; Books and Publishing, covering it on 7 October, puts the figure at more than 120 publishers and booksellers. The work-level disclosure demand is the one to watch, because it is the only one of the three that would let an individual author find out whether their own book is in a particular training set.
+Announced at Frankfurt on 7 October, on Spotify's own newsroom, and it is the biggest distribution story of the year for anyone with an audio edition. The audiobook service goes from 22 markets to more than 180, rolling out from now to the end of 2026, which Spotify puts at more than 750 million people able to stream or buy audiobooks. New markets get a catalogue of more than 350,000 titles across more than 120 languages, with new Spanish, Portuguese, Italian and Polish catalogues specifically. Three ways in, depending on where a listener is: 12 hours a month included with eligible Premium plans, coming to Italy, Spain, Portugal, Brazil, Mexico, Colombia, Poland, Chile, Norway and Peru among others; Audiobooks+, a paid add-on that is the main route in Africa, Asia and Argentina; and buying individual titles outright. The line worth underlining for authors is that Spotify says all its audiobook partnerships are non-exclusive. Their own numbers for context: Audiobooks+ has passed a million subscribers and 100 million dollars of annual recurring revenue in just over a year, monthly audiobook listeners are up nearly 40% year on year, and listening hours up more than 30%. Owen Smith, their VP of Audiobooks, framed it as authors and publishers reaching "readers they've never been able to reach before". Nothing in the release addresses royalties, payouts, or indie authors specifically, which is the gap to watch.
 
-🔗 https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-historian-jill-lepore-speaks-of-an-industry-and-a-world-on-the-knife-edge-of-history/
-🔗 https://www.booksandpublishing.com.au/articles/2026/10/07/342005/frankfurt-appeal-seeks-legislation-on-generative-ai/
+🔗 https://newsroom.spotify.com/2026-10-07/audiobooks-global-expansion/
+🔗 https://www.booksandpublishing.com.au/articles/2026/10/08/342101/spotify-to-expand-audiobook-offering-to-more-than-180-markets/
 
-💬 If a register existed showing every book inside a model's training data, would you look yours up — and what would you do with the answer?
-
-
-2. 🤖 Anthropic tells an Australian inquiry that current copyright law makes AI training there "impossible"
-
-Books and Publishing, 7 October. The free opening of their story says Anthropic has told the parliamentary inquiry into artificial intelligence that Australia's current copyright law makes it "impossible" to train AI in Australia. The rest is behind their paywall, so that sentence is all today's reporting this digest can stand behind. What fills it out is the submission itself, reported by Forbes Australia on 22 September — older than this digest's usual window, and flagged as such. In it Anthropic accepts that a broad text-and-data-mining exception "has been ruled out by the Government", and proposes instead a narrow form of conditional approval: the government would set conditions under which eligible AI developers could train on copyrighted material, publishers and creators would keep the option to opt out, and the company says it is open to the government requiring investment or other conditions in return. Read item 1 next to this one and you have the whole argument of the year in two stories — one side asking for transparency and a licensing market, the other asking for conditional permission with an opt-out.
-
-🔗 https://www.booksandpublishing.com.au/articles/2026/10/07/342013/anthropic-uses-inquiry-to-claim-current-copyright-law-makes-ai-training-impossible/
-
-💬 Opt-out or opt-in: which of those two words would you want in the law — and are you confident anyone would ever tell you it was time to exercise the first one?
+💬 If your audiobook were suddenly available in 180 markets tomorrow, is there a single thing on your listing you would want to fix first?
 
 
-3. 🤖 A major publisher's editor accused their own author of using AI
+2. 🤖 Audible is building a feature that lets listeners talk to your characters
 
-Posted 6 October, deliberately vague on identifying detail, and the most important thing in today's digest. A fantasy author with a two-book deal from a major publisher has had the second book delayed by family circumstances and has missed deadlines before. Under pressure for progress they sent their editor a few unpolished chapters. The editor's response was that the writing was stilted, nothing like the voice of the first book, and generated — highlighting individual sentences and whole paragraphs as AI. The author says flatly that they did not use AI and never will. What they offered as evidence was their process: they draft in Scrivener and move the text to Word for the editor, which the editor did not accept as proof. The editor said they would raise it with the team; a week later there has been no answer. Their agent is sympathetic but, in the author's words, not as outraged as they are. Note what is absent here: any standard of evidence at all. A voice that changed after a hard year away from the desk is indistinguishable, to an editor's eye, from a voice that was outsourced — and the burden landed on the writer.
+Audible announced three AI features on 1 October and the trade press has been working through what they mean since. Lit Hub covered it on 2 October; Jane Friedman reported on 7 October that it is starting with Audible Original titles for US and UK listeners. Character Guide is live: it shows who is speaking in real time on the player page and offers spoiler-free cards about each character, piloted on a new Audible Original of Dracula and also on 1984. Visual Explorer, which surfaces imagery and context at points in a book, is coming. The third is the one to sit up for — Interactive Stories, where the character speaks first, gives the listener a role, a goal and stakes, and then responds in real time to whatever the listener says back. The first is tied to the Dracula Original, talking to Renfield; a second follows on 5 November set in the world of the Audible Original Exoplanet. Audible says creators set the opening scenes, the turning points and the character persona, and Amazon told press the feature "will only appear where sanctioned by an author". What nobody has explained is how an author grants or withholds that sanction, what the contractual form of it is, or whether it is a separate right. Lit Hub's objection is worth hearing too: it treats the book as a starting point for expansion rather than the thing itself.
 
-🔗 https://www.reddit.com/r/PubTips/comments/1wzeekz/pubq_my_editor_accused_me_of_using_ai_what_can_i/
+🔗 https://lithub.com/audible-has-a-creepy-new-feature-that-lets-you-talk-to-characters-in-books/
 
-💬 If someone said your pages read as generated, what could you actually produce to prove otherwise — and do you keep it?
-
-
-4. SelfPubCon opens on 17 October with a Jane Friedman keynote
-
-ALLi, 6 October. Registration was flagged here on 15 September; what is new is the shape of it. Two days, 17 and 18 October, online and free, timed deliberately against Frankfurt. The subheading is "What's Working Now and What's Next" and the strapline puts it plainly: two days, one question — where is indie publishing going, and how do you go with it. Jane Friedman keynotes with "The Indie Author's Next Move". Named sessions so far cover crowdfunding and local marketing. ALLi members and pass holders also get the Indie Author Lab on 19 October, the day after.
-
-🔗 https://selfpublishingadvice.org/allis-selfpubcon-opens-october-17/
-
-💬 Which of those two halves do you actually need this year — what is working now, or what is next?
+💬 Would you sanction a machine speaking as your character — and what would you need in writing before you did?
 
 
-5. 🤖 The AI and the Writing Profession survey closes in two weeks, at 1,224 responses
+3. 🤖 The more compliments the message contains, the more likely it is a scam
 
-Josh Bernoff, 6 October, and this is the rare item you can act on in four minutes. The 2026 survey, run by Bernoff.com and Gotham Ghostwriters, closes to new respondents around 20 October. It has 1,224 writers and editors so far against a target of 2,000, sampling a population he puts at roughly 250,000 writers and editors on US Bureau of Labor Statistics numbers. His case for the bigger number is not vanity: margin of error is about 3% at a thousand responses and 2% at two thousand, and more importantly a large sample lets the data be cut into slices — by genre, by income, by how long someone has been working — and compared against previous years for trends. The figures that get quoted at writers about AI for the next twelve months will come from surveys like this one. Being in the sample is the cheapest influence available.
+Josh Bernoff's newsletter, 7 October, and the one-line heuristic in it is the most portable thing in today's digest. He points at a list compiled by Jeevan Sivasubramaniam, on LinkedIn, of the kinds of AI-fuelled scams now aimed at authors, and offers that rule of thumb for triage: the more flattery an unsolicited message carries, the more likely it is a scam. Set it next to the pattern this digest has been assembling — the "Goodreads Book Discovery Enthusiast" email on Monday, the personalised generative-AI scam emails Writer Beware took apart on 25 September — and the shape is consistent: the approach is engineered to be pleasant and to ask almost nothing, because its job is to find out whether you answer. The same newsletter carries a figure worth keeping: PEN America recorded 11,982 books banned somewhere in US schools in the year to 30 June, a record.
 
-🔗 https://bernoff.com/blog/why-i-love-big-surveys
-🔗 https://www.surveymonkey.com/r/AIWPbern
+🔗 https://bernoff.com/blog/social-media-redeemed-author-scams-anti-prime-day-newsletter-7-october-2026
 
-💬 When a survey reports what writers think about AI, do you recognise yourself in the result — and did you fill one in?
-
-
-6. The Facebook Author Page guide was rewritten on Monday, and left out the thing that changed
-
-Written Word Media, 6 October, a full update of their Author Page walkthrough — and worth reading for the specifications, which are the part nobody remembers. Category: Author. Cover photo 851 by 315 pixels, minimum 399 by 150, and Facebook wants an sRGB JPG under 100KB. Intro and bio: 255 characters, so it is a line, not a paragraph. The Action Button is customisable — Sign Up, Learn More — and can point at a newsletter form, an Amazon page or your own store. The Offers section takes up to 10 promotions with 150 characters each, which works as a standing shelf of taglines. All the old classic pages are gone, so everyone is now on the same page experience and the same steps. Here is the gap, and it is checkable: the article does not mention Meta One, paid subscription, or any limit on link posts — which is exactly what this digest reported on Saturday, when Facebook Pages were capped at two link posts a month without a paid plan. A guide to optimising a Page that does not mention a new cap on the posts most authors use it for is a guide with a hole in it. Read it for the dimensions, not for the strategy.
-
-🔗 https://www.writtenwordmedia.com/how-to-optimize-your-facebook-author-page-to-sell-books/
-
-💬 If posting links off Facebook is now rationed, what is your Page actually for?
+💬 When did you last get a message about your book that was mostly praise — and did you reply?
 
 
-7. Downward rank drift is the resting state, not a verdict
+4. The same novel pitched three ways: to an agent, to editors, and to readers
 
-Posted 6 October by an author who has been tracking their book's rank for weeks, and it is a useful reframe for anyone refreshing a dashboard. Their conclusion: a rank drifting down does not mean the book is failing, it means there is no new activity, which is the normal resting condition. They also describe a short window after publication in which ranks jump around without sales behind them — Amazon testing the listing — after which the book settles and drifts normally. Treating the testing window as a signal, and the drift that follows as a failure, is how authors talk themselves into panic relaunches. They have offered to break down what they have learned about ingestion and indexing if anyone wants it, which is where the thread is worth watching.
+Posted 6 October and it is a genuinely rare thing to see laid out. A debut author who already had an agent shares all three versions of the pitch for the same dark academia novel. The elevator pitch she sent her agent is two sentences of comparison titles and premise: Babel meets Girl Dinner, a Taiwanese-American grad student invited into an elite society that eats the brains of lower-class scholars, including, he suspects, his brother. Her agent's submission pitch to editors is a full page: the comp titles again, then the mechanism spelled out — how he is invited, what he competes for, what he stands to gain, and the question he has to answer. The publisher's retail blurb does something different again. It never says cannibalism outright, and her reading of why is the useful part: the title makes it an open secret, so hinting lets the reader make the connection themselves. The blurb also sells a vibe over a mechanism — "razor-sharp and viciously decadent", a tagline of "Knowledge is an acquired taste", a great many food puns — and builds up a love triangle the query barely mentions. Her conclusion, offered tentatively: readers do not need things spelled out as much as agents and editors do, and once you are freed from explaining the story, the spare word count can go to voice and a punchy line.
 
-🔗 https://www.reddit.com/r/selfpublish/comments/1wyz126/things_amazon_doesnt_tell_you_about_its/
+🔗 https://www.reddit.com/r/PubTips/comments/1wz1mxz/discussion_elevator_pitch_vs_query_vs_official/
 
-💬 How often do you check your rank — and has the number ever told you something you could act on?
-
-
-8. Five co-leads who all sounded like the author, and the fix that was not catchphrases
-
-Posted 6 October, and it is the best craft note in today's digest. A series with five co-leads where banter is half the book: in the first draft all five sounded like the writer being clever. The fix was not verbal tics or catchphrases. It was giving each character a relationship to information — an information-job. One fixes things in order to think, so talks while doing. One's charm is infrastructure, so talks to recruit. One treats access like gravity, so talks in systems. One is the calculator, so talks in costs. One is the conscience, so talks in rules. Once each had a job, the dialogue differentiated itself rather than being differentiated by hand. And they offer a test worth stealing: delete the dialogue tags and see whether you can still tell who is speaking.
-
-🔗 https://www.reddit.com/r/selfpublish/comments/1wz9h91/writing_dialogue_for_five_distinct_voices_the/
-
-💬 Strip the tags from your next scene of dialogue — can you still tell them apart, and which character disappears first?
+💬 Does your own blurb explain the book or sell the feeling of it — and which one were you aiming at?
 
 
-9. 🎬 Sorkin's note to himself: cut the last line of the scene
+5. An offer memo from an academic press, and no agent to read it
 
-Posted 5 October and short enough to try before breakfast. Aaron Sorkin has said that lately he has been taking the last line off a scene and finding the scene stronger for it; the poster tried it and reports it worked. It is the same instinct as cutting the last paragraph of a chapter, and it fails for the same reason it works: the final line is usually where a writer explains what the scene just did. Worth a pass over three scenes you are unsure about, rather than a rule.
+Posted 6 October, and a situation more authors land in than talk about. A narrative non-fiction author whose first book sold through an agent — one who has since left the business — got an offer memo today from an academic press. The book began as a solicited proposal: two acquisitions editors heard them speak at a conference last year and asked for it. It has been through peer review, the second press is still deciding, and they are actively querying for representation while this sits in front of them. Their question is the right one and they are honest about not knowing the answer: do academic publishers normally negotiate directly with authors, and what should they do before replying? Worth following for the replies, because the answer differs sharply between academic and trade, and because a contract read by nobody but the author is the single most expensive thing in publishing.
 
-🔗 https://www.reddit.com/r/Screenwriting/comments/1wxzia7/aaron_sorkin_strange_advice_cut_the_last_line/
+🔗 https://www.reddit.com/r/PubTips/comments/1wzcrmx/pubq_i_got_an_offer_from_an_academic_publisher/
 
-💬 Does your last line land the scene — or summarise it?
+💬 If an offer arrived this week with no agent in the picture, who would you call before signing?
 
 
-10. 📺 Writing and creativity in midlife, with Jordan Rosenfeld
+6. Launching from genuinely zero, a few weeks out
 
-The Creative Penn, published 1 October, six days old and so the freshest thing the video lane could offer this morning — flagged rather than dressed up. Joanna Penn talks to Jordan Rosenfeld about writing and creativity in midlife, which on this show usually means the practical version of the subject: changed energy, changed time, changed reasons for doing it. Title confirmed against YouTube directly rather than read off a search result.
+Posted 7 October. A gothic fantasy debut is out in a few weeks and the author has no following among fantasy readers at all — their words. Their plan is the standard one: early readers for reviews, approaches to small Bookstagram accounts, Kindle Unlimited. What they are asking is sharper than the usual version of this question, because it has two halves: what was worth the time, and what was not. The second half is the one almost nobody writes down, and the thread is where it might get written.
 
-🔗 https://www.youtube.com/watch?v=RUgU46sMfMI
+🔗 https://www.reddit.com/r/selfpublish/comments/1x0067k/firsttime_author_with_no_audience_anywhere_what/
 
-💬 Has what you want from writing changed in the last ten years — and did the schedule change with it?
+💬 Looking back at your own launch, what would you not do again?
+
+
+7. The fictional oral history, as a form
+
+Posted 6 October, and a good question about a structure that keeps selling. Novels built as a series of interviews — World War Z, Daisy Jones and the Six, FantasticLand — where characters retell parts of the story from their own side. The poster has loved the form since reading World War Z at school and has several projects using it, and is asking the two questions worth asking of any framing device: what are its strengths and weaknesses, and how do you make it carry a whole novel. It is a form with real traps. It hands you voice and unreliability for free, and it takes away the scene — nothing can happen on the page, only be reported.
+
+🔗 https://www.reddit.com/r/writing/comments/1wzejh4/writing_fictional_oral_histories/
+
+💬 Could your current story survive being told entirely in retrospect by people who were there?
+
+
+8. 🎬 "I write dialogue based on phrases I've picked up from Western media"
+
+Posted 7 October by a screenwriter in Korea who writes only in English, does not speak it day to day, and has never lived abroad. They read other people's screenplays, feel the difference, and cannot name it — authenticity, rhythm, or some edge they cannot locate — and say their own dialogue reads robotic by comparison. It is an unusually precise description of a problem most writers only meet in a weaker form, and the answers will generalise: whatever makes dialogue sound spoken rather than composed is the same thing whether you are working in a second language or in your own after too long inside a draft.
+
+🔗 https://www.reddit.com/r/Screenwriting/comments/1wzp7w8/how_to_better_my_dialogue_as_a_nonnative_english/
+
+💬 Read a page of your dialogue aloud — what is the first line you would never actually say?
+
+
+9. 📺 Self-editing your book, and what it saves
+
+The Alliance of Independent Authors, published 7 October at 13:00 UTC — the first video the channel feeds have handed over in six days, with a date read straight from the feed rather than inferred. Titled "Self-Edit Your Book and Save Thousands on Editing", which sets up the argument that matters: how much of an edit a writer can genuinely do themselves, and where paying someone is not optional. Pointer only — not watched here.
+
+🔗 https://www.youtube.com/watch?v=V5hzKTpoitI
+
+💬 Which editing pass do you trust yourself to do, and which one do you always pay for?
+
+
+10. 📺 Prepping a novel when you are a pantser
+
+Heart Breathings, posted about twelve hours before this digest went out, so Wednesday 7 October — read off the channel page rather than a feed, with the title confirmed against YouTube directly. "How To Prep A Novel When You're A Pantser (8 Preptober Tips)", which is the right question for the week: the planning advice aimed at November drafting almost all assumes you want an outline, and most of it is useless to someone who does not. Pointer only — not watched here.
+
+🔗 https://www.youtube.com/watch?v=UEFneuaG8lQ
+
+💬 Do you prep at all before a draft — and if not, what is the one thing you wish you had decided in advance?
 
 
 —
-Scout notes: yesterday's edition ran, so nothing is carried over. Ten items: five from news and trade press, five from the community and video lanes. Both Books and Publishing stories of 7 October are readable only as far as the opening sentence, and both are used within that limit and said so; a third of theirs on publisher pay gaps was not usable at all. YouTube lane: the RSS route was unavailable on the full test for the fourth day running — all six channels failed four attempts each — and all six channel pages loaded as the fallback, carrying one video not previously run here, at six days old. Running count on that route this week: six of six feeds answered on 2 October, two of six on the 3rd, none on the four days since. Reddit refused all four lanes on the first attempt; three answered on the second and r/Screenwriting on the third. Europe lane: the European Writers' Council has nothing newer than 29 September, so Europe comes in through Frankfurt today. AI lane: covered from three directions — the legislative demand, the AI company's counter-proposal, and the accusation landing on a working author.
+Scout notes: yesterday's edition ran, so nothing is carried over. Ten items: three from news and trade press, four from the community lanes, one from the screen lane, two from the video lane. YouTube lane: one of six channel feeds answered, on its fourth attempt, and gave a video from yesterday with a real feed timestamp; the other five failed four attempts each and their channel pages served as the fallback, where two more fresh videos were found and their titles confirmed against YouTube directly. A third entry sitting at the top of one channel page carried no date at all, so it was left out rather than guessed at. Running count on that route: six of six feeds answered on 2 October, two of six on the 3rd, none on the 4th through 7th, one of six today. Reddit answered r/selfpublish and r/writing first time, and needed a third attempt for both r/PubTips and r/Screenwriting. One source moved without notice: Josh Bernoff's feed address now returns a 404 page at the path this sweep has used for months, and his site's plain feed works instead — refetched this run, and flagged for the weekly review rather than patched quietly. Jane Friedman's two stories of 7 October are subscriber-only past the first sentence, so the Audible story is carried on the open trade reporting instead; the Books and Publishing story on Spotify is lede-only too, but Spotify's own release carried the detail, so that one cost nothing. Europe lane: the European Writers' Council still has nothing newer than 29 September, so Europe arrives through Frankfurt for the second day.
 
 —
 Curated daily for this community. Spotted something worth sharing?
