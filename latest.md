@@ -1,98 +1,107 @@
-📚 Daily Writer's Scout — Thursday, 08 October 2026
+📚 Daily Writer's Scout — Friday, 09 October 2026
 
-1. Spotify takes audiobooks from 22 markets to more than 180
+1. Permafree was never a button, and Amazon is remembering that
 
-Announced at Frankfurt on 7 October, on Spotify's own newsroom, and it is the biggest distribution story of the year for anyone with an audio edition. The audiobook service goes from 22 markets to more than 180, rolling out from now to the end of 2026, which Spotify puts at more than 750 million people able to stream or buy audiobooks. New markets get a catalogue of more than 350,000 titles across more than 120 languages, with new Spanish, Portuguese, Italian and Polish catalogues specifically. Three ways in, depending on where a listener is: 12 hours a month included with eligible Premium plans, coming to Italy, Spain, Portugal, Brazil, Mexico, Colombia, Poland, Chile, Norway and Peru among others; Audiobooks+, a paid add-on that is the main route in Africa, Asia and Argentina; and buying individual titles outright. The line worth underlining for authors is that Spotify says all its audiobook partnerships are non-exclusive. Their own numbers for context: Audiobooks+ has passed a million subscribers and 100 million dollars of annual recurring revenue in just over a year, monthly audiobook listeners are up nearly 40% year on year, and listening hours up more than 30%. Owen Smith, their VP of Audiobooks, framed it as authors and publishers reaching "readers they've never been able to reach before". Nothing in the release addresses royalties, payouts, or indie authors specifically, which is the gap to watch.
+The most consequential story for indie authors this week, and nobody has announced anything — which is the point. Author Media's Thomas Umstattd Jr. wrote it up on 5 October from a KDP Community thread of 28 September titled "Price-Match Apocalypse": one author watched 26 of 37 permafree titles on the US store flip back to paid over the weekend of 26 and 27 September. Eleven of the 37 stayed free. Support sent a canned note saying Amazon controls the retail price, then sent almost the same note when asked whether matching was still allowed. The poster said Facebook groups were reporting dozens, hundreds or thousands of other authors; that range is the poster's claim and Amazon has confirmed no count at all. Here is the mechanism, which is worth knowing properly even if nothing further happens. You cannot set a KDP list price to free — the 35% floor on Amazon.com is 99 cents for a file under 3MB, and the 70% band runs $2.99 to $12.99. The decade-old workaround is to stay out of KDP Select, price the book at zero on Kobo, Apple Books or Google Play, and ask Amazon to match. KDP's own Digital Book Pricing page, last updated 21 April 2026, says that if your book is free through another sales channel "we may also make it available for free". May. A matched free run also pays zero royalty, so the whole thing is a marketing instrument resting on a discretion Amazon has never given up. Indies Today updated its permafree guide on 30 September with the same picture — reversions, refused zero matches, no announcement. An earlier Community thread of 15 September has Patsy Trench reporting two books matched to Nook and Kobo repeatedly bumped back to 99 cents, with support response times going from a routine fix to two days, then ten. Dale Roberts led his Self-Publishing News on 8 October with it and was careful to say the same thing: KDP has announced no policy change and what authors are seeing is still anecdotal. If a free first-in-series is load-bearing for your funnel, go and look at its price on Amazon this morning rather than assuming.
 
-🔗 https://newsroom.spotify.com/2026-10-07/audiobooks-global-expansion/
-🔗 https://www.booksandpublishing.com.au/articles/2026/10/08/342101/spotify-to-expand-audiobook-offering-to-more-than-180-markets/
+🔗 https://www.authormedia.com/is-amazon-ending-permafree-ebooks/
+🔗 https://www.youtube.com/watch?v=20AWvGk73RM
 
-💬 If your audiobook were suddenly available in 180 markets tomorrow, is there a single thing on your listing you would want to fix first?
-
-
-2. 🤖 Audible is building a feature that lets listeners talk to your characters
-
-Audible announced three AI features on 1 October and the trade press has been working through what they mean since. Lit Hub covered it on 2 October; Jane Friedman reported on 7 October that it is starting with Audible Original titles for US and UK listeners. Character Guide is live: it shows who is speaking in real time on the player page and offers spoiler-free cards about each character, piloted on a new Audible Original of Dracula and also on 1984. Visual Explorer, which surfaces imagery and context at points in a book, is coming. The third is the one to sit up for — Interactive Stories, where the character speaks first, gives the listener a role, a goal and stakes, and then responds in real time to whatever the listener says back. The first is tied to the Dracula Original, talking to Renfield; a second follows on 5 November set in the world of the Audible Original Exoplanet. Audible says creators set the opening scenes, the turning points and the character persona, and Amazon told press the feature "will only appear where sanctioned by an author". What nobody has explained is how an author grants or withholds that sanction, what the contractual form of it is, or whether it is a separate right. Lit Hub's objection is worth hearing too: it treats the book as a starting point for expansion rather than the thing itself.
-
-🔗 https://lithub.com/audible-has-a-creepy-new-feature-that-lets-you-talk-to-characters-in-books/
-
-💬 Would you sanction a machine speaking as your character — and what would you need in writing before you did?
+💬 Is a free book doing real work in your series — and what is the plan if Amazon stops matching it?
 
 
-3. 🤖 The more compliments the message contains, the more likely it is a scam
+2. ACX just added pre-orders, promo cards and Amazon Ads for audiobooks
 
-Josh Bernoff's newsletter, 7 October, and the one-line heuristic in it is the most portable thing in today's digest. He points at a list compiled by Jeevan Sivasubramaniam, on LinkedIn, of the kinds of AI-fuelled scams now aimed at authors, and offers that rule of thumb for triage: the more flattery an unsolicited message carries, the more likely it is a scam. Set it next to the pattern this digest has been assembling — the "Goodreads Book Discovery Enthusiast" email on Monday, the personalised generative-AI scam emails Writer Beware took apart on 25 September — and the shape is consistent: the approach is engineered to be pleasant and to ask almost nothing, because its job is to find out whether you answer. The same newsletter carries a figure worth keeping: PEN America recorded 11,982 books banned somewhere in US schools in the year to 30 June, a record.
+Posted on the ACX blog on 6 October, and it is three concrete things rather than an announcement of an announcement. Pre-orders: while publishing an audiobook you can now choose to publish immediately or set up a pre-order, and ACX is explicit that if you want to set a future release date through self-service, a pre-order period is now required — so this changes the mechanics of scheduling a launch, not just the marketing of one. Promo cards: downloadable social assets sized for the usual platforms, at audible.com/promocards, where any creator can look up a title and download them with no login at all. And Amazon Ads: rights holders can now advertise verified audiobook titles with Sponsored Products ads on Amazon.com in the US, which puts audio into search results it could not reach before. ACX frames the set as covering buzz before release, reach after it, and earning commission on traffic from your own work. Coming the same week as Spotify's jump from 22 markets to more than 180, the audio side of an indie catalogue has had more mechanical change in seven days than in the preceding year.
 
-🔗 https://bernoff.com/blog/social-media-redeemed-author-scams-anti-prime-day-newsletter-7-october-2026
+🔗 https://www.acx.com/mp/blog/promote-your-audiobook
 
-💬 When did you last get a message about your book that was mostly praise — and did you reply?
-
-
-4. The same novel pitched three ways: to an agent, to editors, and to readers
-
-Posted 6 October and it is a genuinely rare thing to see laid out. A debut author who already had an agent shares all three versions of the pitch for the same dark academia novel. The elevator pitch she sent her agent is two sentences of comparison titles and premise: Babel meets Girl Dinner, a Taiwanese-American grad student invited into an elite society that eats the brains of lower-class scholars, including, he suspects, his brother. Her agent's submission pitch to editors is a full page: the comp titles again, then the mechanism spelled out — how he is invited, what he competes for, what he stands to gain, and the question he has to answer. The publisher's retail blurb does something different again. It never says cannibalism outright, and her reading of why is the useful part: the title makes it an open secret, so hinting lets the reader make the connection themselves. The blurb also sells a vibe over a mechanism — "razor-sharp and viciously decadent", a tagline of "Knowledge is an acquired taste", a great many food puns — and builds up a love triangle the query barely mentions. Her conclusion, offered tentatively: readers do not need things spelled out as much as agents and editors do, and once you are freed from explaining the story, the spare word count can go to voice and a punchy line.
-
-🔗 https://www.reddit.com/r/PubTips/comments/1wz1mxz/discussion_elevator_pitch_vs_query_vs_official/
-
-💬 Does your own blurb explain the book or sell the feeling of it — and which one were you aiming at?
+💬 Would a pre-order period change how you plan an audiobook launch — or just add three weeks of waiting?
 
 
-5. An offer memo from an academic press, and no agent to read it
+3. 🤖 "A cord nobody is allowed to pull is decoration"
 
-Posted 6 October, and a situation more authors land in than talk about. A narrative non-fiction author whose first book sold through an agent — one who has since left the business — got an offer memo today from an academic press. The book began as a solicited proposal: two acquisitions editors heard them speak at a conference last year and asked for it. It has been through peer review, the second press is still deciding, and they are actively querying for representation while this sits in front of them. Their question is the right one and they are honest about not knowing the answer: do academic publishers normally negotiate directly with authors, and what should they do before replying? Worth following for the replies, because the answer differs sharply between academic and trade, and because a contract read by nobody but the author is the single most expensive thing in publishing.
+Digital Content Next, 8 October, by Ramy Nassar, and it is the sharpest thing written this week about how AI actually goes wrong inside a publishing organisation. His argument: companies approve the tools, but the permission to act on them and the accountability when they fail stay exactly where they were. His opening example is the NUMMI car plant, which improved on the same workers and the same building because any worker could stop the production line with a cord — and the cord worked only because pulling it was permitted. The publishing examples are the part to read. At the Wall Street Journal, training alone left reporters unsure whether to use the tools; what unlocked it was an endorsement from the editor in chief, which functioned as permission. At Cleveland.com, a reporter's byline appeared on an AI-assisted story she says she neither wrote nor reviewed; the paper called it a mistake and corrected it after she posted about it, but until then her name was on the work. Union grievances over tools launched without the agreed oversight produced an arbitration ruling against Politico and a tool shutdown, and a ProPublica walkout that ended with an AI committee written into the contract. The Guardian requires senior editor approval for significant generative use; the BBC plans to extend its existing distributed editorial model to AI. His recommendations are unusually practical: reserve human sign-off for the high-stakes calls and document which uses need none, name the role that owns each remaining decision, make the organisation rather than the individual answerable for good-faith mistakes with approved tools, and retire an old approval step every time you add a new one. Set the Cleveland.com case next to Wednesday's item here, where an author's editor accused them of using AI with no standard of evidence, and you have both ends of the same missing structure.
 
-🔗 https://www.reddit.com/r/PubTips/comments/1wzcrmx/pubq_i_got_an_offer_from_an_academic_publisher/
+🔗 https://digitalcontentnext.org/blog/2026/10/08/the-ai-problem-nobody-in-publishing-wants-to-own
 
-💬 If an offer arrived this week with no agent in the picture, who would you call before signing?
-
-
-6. Launching from genuinely zero, a few weeks out
-
-Posted 7 October. A gothic fantasy debut is out in a few weeks and the author has no following among fantasy readers at all — their words. Their plan is the standard one: early readers for reviews, approaches to small Bookstagram accounts, Kindle Unlimited. What they are asking is sharper than the usual version of this question, because it has two halves: what was worth the time, and what was not. The second half is the one almost nobody writes down, and the thread is where it might get written.
-
-🔗 https://www.reddit.com/r/selfpublish/comments/1x0067k/firsttime_author_with_no_audience_anywhere_what/
-
-💬 Looking back at your own launch, what would you not do again?
+💬 If something went wrong in a book because of a tool you were told to use, who would be answerable for it?
 
 
-7. The fictional oral history, as a form
+4. European publishing is earning more and selling less
 
-Posted 6 October, and a good question about a structure that keeps selling. Novels built as a series of interviews — World War Z, Daisy Jones and the Six, FantasticLand — where characters retell parts of the story from their own side. The poster has loved the form since reading World War Z at school and has several projects using it, and is asking the two questions worth asking of any framing device: what are its strengths and weaknesses, and how do you make it carry a whole novel. It is a form with real traps. It hands you voice and unreliability for free, and it takes away the scene — nothing can happen on the page, only be reported.
+The Federation of European Publishers put its 2025 figures up at Frankfurt on 7 October, reported by Publishing Perspectives on the 8th, and the shape of it matters well beyond Europe. Net publisher turnover fell 1.2% to 24.6 billion euros, from 24.9 billion in 2024. Market value at cover price is 35.3 billion, probably 36 to 39 billion once exports, imports and self-publishing are counted. The headline number is above the 2007 peak of 24.5 billion — and adjusted for inflation it is a collapse, from 22.9 billion in 2007 to 15.2 billion now. Deputy director Enrico Turrin's comment was "Maybe we have a problem", pointing out that for four years value has mostly risen while volume has fallen, with price doing the work. Book prices rose 43.8% between 2001 and 2025 against 75.4% for consumer prices generally, so books have got relatively cheaper and still shifted fewer units: print copies in a sample covering three quarters of turnover are down about 6%, roughly 110 million copies, since 2021, on about 2.4 billion sold in 2025. New titles have slipped to 570,000 from a 2017 peak of 610,000. Formats: print is 81.6% of turnover, digital 13.1%, audio 5.3% and rising fast from 2.5% in 2021, with audiobooks up 53.3% in Spain and 13.3% in Italy last year — and the FEP admits it is "already losing track" of audio. Markets are pulling apart rather than moving together: in the first half of 2026 Italy is up 5.1% and Spain 3.9% while Germany is down 4.1%, France 5% through August, and Poland 11.7%. Spain, at 3.14 billion of domestic turnover, is the only major European market on a growth run of more than a decade. Two things in that for an indie: trade publishers are putting out 40,000 fewer new titles a year than at the peak, and the fastest-growing format is the one they say they cannot keep track of.
 
-🔗 https://www.reddit.com/r/writing/comments/1wzejh4/writing_fictional_oral_histories/
+🔗 https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-fep-warns-of-a-slide-as-european-publishers-earn-more-but-sell-less/
 
-💬 Could your current story survive being told entirely in retrospect by people who were there?
-
-
-8. 🎬 "I write dialogue based on phrases I've picked up from Western media"
-
-Posted 7 October by a screenwriter in Korea who writes only in English, does not speak it day to day, and has never lived abroad. They read other people's screenplays, feel the difference, and cannot name it — authenticity, rhythm, or some edge they cannot locate — and say their own dialogue reads robotic by comparison. It is an unusually precise description of a problem most writers only meet in a weaker form, and the answers will generalise: whatever makes dialogue sound spoken rather than composed is the same thing whether you are working in a second language or in your own after too long inside a draft.
-
-🔗 https://www.reddit.com/r/Screenwriting/comments/1wzp7w8/how_to_better_my_dialogue_as_a_nonnative_english/
-
-💬 Read a page of your dialogue aloud — what is the first line you would never actually say?
+💬 Has the price of books changed what you are willing to charge for yours?
 
 
-9. 📺 Self-editing your book, and what it saves
+5. The Self-Publishing Show is bringing its live event to the USA
 
-The Alliance of Independent Authors, published 7 October at 13:00 UTC — the first video the channel feeds have handed over in six days, with a date read straight from the feed rather than inferred. Titled "Self-Edit Your Book and Save Thousands on Editing", which sets up the argument that matters: how much of an edit a writer can genuinely do themselves, and where paying someone is not optional. Pointer only — not watched here.
+From episode 468, published 8 October. James Blatch and Cissy Mecca announce the first SPS Live USA at the Fort Worth Botanic Garden in Texas on 29 and 30 April 2027. The first year is deliberately small — 200 places — and the first 100 people on the waitlist get the chance at Founders tickets. First two speakers announced: the bestselling romance author Lucy Score and the Hollywood screenwriter Tom Donnelly. The episode covers why Fort Worth, what they want to carry over from the London conference, and their intention to keep it affordable. The same episode discusses the current controversy around RARE London 2027 and the number of authors withdrawing from it — flagged here as what the episode covers, not as something this digest has checked. Pointer only; not watched here.
 
-🔗 https://www.youtube.com/watch?v=V5hzKTpoitI
+🔗 https://www.youtube.com/watch?v=E63Ccd0WPKk
 
-💬 Which editing pass do you trust yourself to do, and which one do you always pay for?
+💬 Is a 200-person conference more useful to you than a 2,000-person one, or less?
 
 
-10. 📺 Prepping a novel when you are a pantser
+6. "RIGHTS TO AUTHOR'S NEXT WORK" — is that normal?
 
-Heart Breathings, posted about twelve hours before this digest went out, so Wednesday 7 October — read off the channel page rather than a feed, with the title confirmed against YouTube directly. "How To Prep A Novel When You're A Pantser (8 Preptober Tips)", which is the right question for the week: the planning advice aimed at November drafting almost all assumes you want an outline, and most of it is useless to someone who does not. Pointer only — not watched here.
+Posted 8 October by a new author who has done the sensible thing and asked before signing. The book is a gift book, described honestly as not a deep creative project, just a paycheque. The contract arrived with a right of first refusal, and they have quoted the clause: the publisher gets the first opportunity to read and consider the author's next suitable work for an exclusive period of six weeks, from the typescript or a detailed outline — and the opportunity to acquire publication and subsidiary rights to it, "including the opportunity to make the last bid for those rights". Their worry is exactly the right one: they would one day like to write a book that matters to them and shop it properly. Read the clause twice and note what it actually does. Six weeks of exclusivity on your next manuscript is a delay. A last-look right is different in kind — it means a rival's winning offer becomes the floor your first publisher gets told about and can match. Worth watching the thread for how negotiable this is in practice, because a clause bought with a paycheque book can sit across the career behind it.
 
-🔗 https://www.youtube.com/watch?v=UEFneuaG8lQ
+🔗 https://www.reddit.com/r/PubTips/comments/1x0m4at/pubq_is_right_of_refusal_a_standard_part_of/
 
-💬 Do you prep at all before a draft — and if not, what is the one thing you wish you had decided in advance?
+💬 Do you know what your current contract says about your next book?
+
+
+7. BookBub said yes, and now it costs 495 dollars
+
+Posted 8 October, and a clean decision problem rather than a vague question. Two books into a sci-fi space opera series, selling all right: read-through above 50%, reviews over 4.5 stars on both Amazon and Goodreads, readers who stick. Their diagnosis of their own problem is discovery, which is the correct diagnosis given those numbers. They applied for a BookBub Featured Deal, got approved, and the price is 495 dollars, which they say plainly is a lot for them right now. Book three is not out until 2027. The thing that makes this worth reading is the shape of the bet: a strong funnel with a weak top, a one-off cost, and a long gap before the next release to recoup it. The replies are where the arithmetic will be.
+
+🔗 https://www.reddit.com/r/selfpublish/comments/1x1629v/bookbub_said_yes_but_is_it_worth_it/
+
+💬 What is the most you have spent on a single promotion, and did you make it back?
+
+
+8. Every beta reader said the same thing: put the tropes in the subtitle
+
+Posted 8 October by a contemporary romance author, and the detail that makes it interesting is that it was unanimous. They hired several beta readers; every one said that without the tropes, heat level and other descriptors stated outright, readers would misunderstand what kind of book they were getting. The suggested form is a subtitle stacking the signals and then a list under the blurb — their own deliberately exaggerated example runs "A Steamy Cozy Dark Billionaire Rom-Com Romance", followed by Steamy, Cozy, Dark, Rom-Com, Open Door, HEA. They do not want to do it. Their preference is to carry the same information inside the blurb where it belongs, calling a heroine "sunshine" if that is what she is, and to let a blurb read like a blurb rather than end in a checklist. So they are asking both sides: do other romance authors hear this from their betas, and do romance readers actually require the list before they will pick a book up. It is the metadata-versus-prose question in its purest form, and romance is where it was settled first.
+
+🔗 https://www.reddit.com/r/selfpublish/comments/1x0gofy/do_your_beta_readers_tell_you_to_put_tropes_in/
+
+💬 Does your blurb tell a reader what kind of book it is in the first two lines — without a list?
+
+
+9. How long, and how many books, before it pays anything
+
+Posted 8 October, and the framing deserves the care the poster gave it. They write because they like watching ideas become stories, and they say so first. They are also severely disabled by a chronic illness that leaves them bedridden, with a realistic prospect of years or decades before that changes, and their plan is to write as much as their body allows and build a back catalogue that might one day carry supplementary income. The question to the room is the plain one: does anyone here make a decent profit, how long did it take, and across how many releases. It is the question the industry answers worst, because the honest answer is a distribution rather than a number — and the shape of that distribution, as the surveys keep showing, bends hard on title count rather than on time served.
+
+🔗 https://www.reddit.com/r/selfpublish/comments/1x0ntft/how_many_of_you_make_a_decent_living_from_your/
+
+💬 How many titles were you carrying when writing first paid a bill?
+
+
+10. Plotters start with an outline. What do pantsers start with?
+
+Posted 8 October by a self-described plotter who is about to run a workshop for a room of mixed writers and realised they could not answer for half of it. Their questions are good ones: what does a discovery writer actually begin with — a flawed character, an interesting premise, something else — and how do you know it has enough in it to run 60,000 to 100,000 words. That second half is the real question, and it is the one plotting exists to answer in advance. Worth reading alongside the Heart Breathings video in yesterday's edition, which took the same problem from the other side.
+
+🔗 https://www.reddit.com/r/writing/comments/1x10fpy/plotters_need_an_outline_to_start_a_novel_what_do/
+
+💬 If you do not outline, what is the thing you have to have before you can start?
+
+
+11. 📺 Story seeds, and why an author's note matters more now
+
+The Creative Penn, published 7 October at 06:54 UTC, with the date read straight from the channel feed. Joanna Penn on how to notice story ideas and turn them into short stories, novels or anecdotes inside non-fiction and memoir — and, the part that earns its place in this digest, why an author's note matters in an age of AI and what one might contain. She includes a short story of her own, The Black Church, with its author's note attached, so the episode shows the thing rather than describing it. The episode also touches ebook pre-orders on Smashwords, the two-titles-a-week KDP limit this digest covered on 25 September, and the Digital Publishing Awards at Frankfurt. Full transcript is linked from her show notes. Pointer only; not watched here.
+
+🔗 https://www.youtube.com/watch?v=ysj8enIyRs0
+
+💬 If your next book carried an author's note explaining how it was made, what would you want it to say?
 
 
 —
-Scout notes: yesterday's edition ran, so nothing is carried over. Ten items: three from news and trade press, four from the community lanes, one from the screen lane, two from the video lane. YouTube lane: one of six channel feeds answered, on its fourth attempt, and gave a video from yesterday with a real feed timestamp; the other five failed four attempts each and their channel pages served as the fallback, where two more fresh videos were found and their titles confirmed against YouTube directly. A third entry sitting at the top of one channel page carried no date at all, so it was left out rather than guessed at. Running count on that route: six of six feeds answered on 2 October, two of six on the 3rd, none on the 4th through 7th, one of six today. Reddit answered r/selfpublish and r/writing first time, and needed a third attempt for both r/PubTips and r/Screenwriting. One source moved without notice: Josh Bernoff's feed address now returns a 404 page at the path this sweep has used for months, and his site's plain feed works instead — refetched this run, and flagged for the weekly review rather than patched quietly. Jane Friedman's two stories of 7 October are subscriber-only past the first sentence, so the Audible story is carried on the open trade reporting instead; the Books and Publishing story on Spotify is lede-only too, but Spotify's own release carried the detail, so that one cost nothing. Europe lane: the European Writers' Council still has nothing newer than 29 September, so Europe arrives through Frankfurt for the second day.
+Scout notes: yesterday's edition ran, so nothing is carried over. Eleven items — a full day: four from news and trade press, five from the community lanes, two from the video lane. YouTube lane: all six channel feeds answered today, four of them on the first or second attempt, after four days when none did and one yesterday — the route is alive, and a run that had called it dark this week would have been wrong twice. Running count: six of six on 2 October, two of six on the 3rd, none on the 4th through 7th, one of six on the 8th, six of six today. Reddit refused every lane on the first attempt and needed a third for r/selfpublish and r/Screenwriting. Screen lane: swept, and it is the one genuinely thin lane this morning — the week's top screen threads are a bare question about leaving a manager and a request for a pitch bible nobody can find, so there is no screen item today rather than a padded one. Publishing Perspectives swapped routes on us again: plain fetching worked today and the reader tool returned nothing, the exact reverse of yesterday, so the rule is now to try both and say which worked. One story was dropped for being unreadable rather than untrue: a Variety report of 6 October on a ten-million-dollar AI studio promising to help authors adapt their own books sits behind a paywall that returns a payment-required error, and no other outlet carries it, so it is not in today's digest.
 
 —
 Curated daily for this community. Spotted something worth sharing?
