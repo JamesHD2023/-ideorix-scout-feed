@@ -1,117 +1,88 @@
-📚 Daily Writer's Scout — Sunday, 11 October 2026
+📚 Daily Writer's Scout — Monday, 12 October 2026
 
-1. 🤖 A thumbprint on the cover: the UK has registered a certification mark for books written by people
+1. 🤖 USA Today and a dozen local papers sue OpenAI for 250 million dollars
 
-Discussed on r/PubTips yesterday, and the organisation's own site confirms the substance. A British start-up called Books By People has registered what is described as the UK's first certification mark for human-authored books with the Intellectual Property Office. Publishers who join will be able to put the mark — a thumbprint — on the covers of certified print and ebook titles. Memberships roll out through the last quarter of this year, with international expansion planned across early 2027, and five publishers have signed up so far.
+Reported by The Desk on 11 October. USA Today Company, formerly Gannett, and more than a dozen of its local titles — the Arizona Republic, the Milwaukee Journal Sentinel, the Des Moines Register, the Tennessean among them — have filed in federal court against OpenAI, seeking 250 million dollars.
 
-The method is where it gets interesting, and it is deliberately not an honour system. Per The Verge, quoted in the thread: an authorship declaration, then each manuscript through their own proprietary software, then a manual examination of early drafts and research materials supplied by the writer and editor, looking for "indicators of humanity" — whether the work shows the natural process of drafting and redrafting. Publishers pay a flat membership fee plus a sum for each book put forward.
+The specifics are the interesting part, because the complaint does not stop at "you trained on our work". It alleges that OpenAI's WebText training dataset contains more than 160,000 entries originating from websites the company operates, including nearly 83,300 articles from USA Today's flagship site, and that paywalled articles are among the material used. Then it makes a second, separate claim: that ChatGPT's summaries of their reporting take readers away from the source, costing web traffic and advertising revenue. To support that, it quotes a ChatGPT product leader said to have acknowledged AI summaries could reduce traffic to other sites, and an OpenAI engineer said to have written that users would rarely click a source link. OpenAI has not commented.
 
-The endorsements on their own site are not small. Margaret Atwood: "Books by People could not come at a more timely moment. Authors, publishers, and booksellers will all welcome and indeed will need the certificate of authenticity that it can provide." Markus Dohle, who ran Penguin Random House from 2013 to 2022: "human storytelling is the lifeblood of our industry". Also Dame Harriet Walter and Mitchell Kaplan of Books & Books and the Miami Book Fair. Their chosen phrase for the whole thing is "organic literature". Note that the Authors Guild already runs a separate scheme, Human Authored, with its own mark and a per-title fee waived for members.
+Why this belongs in a digest for authors. The second claim is the one to watch, because it is about substitution rather than copying — the argument that a summary of your work competes with your work. If that succeeds it reaches a great deal further than news. Note also, for balance, that the same report records Penske Media, the owner of Variety and Deadline, LOSING its case against Google over AI-generated search summaries. Publishers are simultaneously pushing federal legislation that would force AI companies to honour requests to block their bots, modelled on a New York law passed this year that the governor has not yet signed.
 
-The qualm raised in the thread is the right one and worth stating plainly: the software is proprietary and secret. A mark that certifies an absence is only as good as the detector behind it, and nobody outside the company can examine this one. Set that against this week's item on an author whose editor accused them of using AI with no standard of evidence at all, and the shape of the next few years is visible — the question moves from "did you?" to "can you prove it?", and the proving gets outsourced.
+🔗 https://thedesk.net/2026/10/usa-today-openai-copyright-lawsuit-chatgpt/
 
-🔗 https://www.reddit.com/r/PubTips/comments/1x2otur/discussion_books_by_people_humanauthored/
-🔗 https://booksbypeople.org
-
-💬 Would you pay to have your book certified as human-written — and what would you want to see of the test before you did?
+💬 Is a summary of your book competing with your book — or advertising it?
 
 
-2. Five rounds of contract revisions over three months, for a 1,200 dollar commission
+2. Twenty-five ARCs, six weeks, zero reviews
 
-Writer Beware, 9 October, and the clearest working example this year of why boilerplate matters more than negotiation. Must Read Magazines bought five well-known genre magazines in early 2025 — Asimov's, Analog, F&SF, Alfred Hitchcock's Mystery Magazine and Ellery Queen's Mystery Magazine — and their first author contracts claimed a sweeping menu of rights including merchandising, offered no reversion, and carried a moral rights waiver. Under sustained pressure, including public involvement from SFWA, the writing contracts improved: the moral rights waiver is gone, so is the morality clause, a termination clause now returns rights if they do not publish within 30 months, and authors can demand a breach be cured. One contract added an AI training clause. The merchandising claim stays in unless you ask for it out, and most asked.
+Posted 11 October, and the poster says up front they are not after advice, they are just low. A romantasy came out on the 4th. Twenty-five ARC copies went out six weeks before release. Not one of those readers left a review. Follow-up emails were sent. They have two other romance books with around ten decent reviews each, so this is not a first attempt, and their honest reading of it is that the launch went badly and maybe the book is no good.
 
-Now the same company's art contracts. Donato Giancola describes being commissioned by Asimov's art director, starting work, and then receiving a work-for-hire agreement unlike anything he had signed with them before — including an NDA and a bar on putting the artwork in his own portfolio or on his website without permission. In his words: "I went back and forth in contract revisions with Asimov's SF legal department five times over three months. Nearly as much time was spent on these negotiations, legal revisions, and emails then what I would put into creating art for a final illustration. All for a $1200 fee on a commission who's legal contract issues were settled in a five minute digital handshake six years ago." He walked away, saying they "were looking for an artist to exploit" and that he is not the only professional to refuse. John Picacio published his own refusal memo on Bluesky.
+Worth sitting with because of where it sits in the week. On Sunday an author celebrating their first thousand dollars said reviews were the hardest part and was treating their first two books as one long ARC campaign to get enough of them for book three. On Saturday a debut author weeks from launch listed early readers for reviews as plank one of the plan. Another post the same day as this one is just the line "self publishing is work" and a list of the marketing scaffolding nobody warns you about. The ARC-to-review conversion rate is the quiet assumption under a great many launch plans, and twenty-five to zero is a data point the people building those plans should see.
 
-The structural point is the one to keep, and the author Scott Edelman puts it best: progress won by one author does not accrue to any other. Everyone starts again from the same flawed boilerplate, and even a writer who negotiates something they can sign ends up with a contract unlike those of everyone else in the same table of contents. Negotiating well is not the same as the terms being fixed.
+🔗 https://www.reddit.com/r/selfpublish/comments/1x39r5w/0_arc_readers_left_reviews/
 
-🔗 https://writerbeware.blog/2026/10/09/more-rights-grabs-from-must-read-magazines/
-
-💬 When a contract comes back worse than the handshake, how many rounds do you give it before you walk?
+💬 What is your actual ARC-to-review rate — and did you count, or assume?
 
 
-3. 🤖 Smashwords adds pre-orders — and pre-order sales all land on release day
+3. 🤖 Europe paid about 2,900 euros a title to translate 4,000 books. The biggest funder may be abolished.
 
-ALLi's news column of 10 October carries a Draft2Digital announcement worth acting on. Smashwords will accept pre-orders for the first time. They can be listed up to twelve months ahead of release, payment is taken on release day rather than at order, and here is the mechanic that matters: every pre-order sale is added to release-day sales and credited to that day when the sales rank is calculated. Draft2Digital's own figures say books available for pre-order perform significantly better at launch, and that only 20% of authors use them. Alongside it, a Presales option, which requires the pre-order listing as well, lets readers actually buy before the official release — and as ALLi reads it, authors can offer those readers a discount in exchange for joining the mailing list.
+Publishing Perspectives, 8 October, on a Frankfurt panel from the European Network for Literary Translation — thirty members across twenty-five countries, twenty-three of them in the EU. ENLIT does not hand out grants itself; its members do, almost always through government funding. The 2025 totals: more than 4,000 books supported into 60 languages, at an average grant of around 2,900 euros a title.
 
-Read that against Saturday's item here, where an author was dropping pre-orders entirely for book two because Amazon's mobile-app restrictions had confused their friends and family into not completing orders. Two platforms, opposite lessons, and the deciding factor is who your early buyers are and which app they are holding.
+France's Centre National du Livre was the largest single funder at 1,752,663 euros. Czechia, far smaller, was second at 1,580,300 — because it is this year's Frankfurt Guest of Honour, and Martin Krafl of CzechLit explained that the programme requires a certain volume of translation to work at all. CzechLit supported 194 books into German this year alone, plus Spanish, French and English. Izaskun Arretxe of the Institut Ramon Llull said Catalonia's turn as Guest of Honour in 2007 was the turning point for its translations. And two right-wing senators have proposed abolishing the CNL from 2027 as a budget cut.
 
-The same column adds a detail to the Spotify expansion this digest ran on Thursday that the company's own press release did not mention. Spotify's director of audiobook partnerships, Duncan Bruce, makes the case for indies specifically: local-language editions into every market, using Spotify's partnership with ElevenLabs to generate local-language narration. So within one week, both of the biggest audio platforms have put synthetic narration in front of indie authors as the way to reach new markets — Audible through a survey saying listeners are ready for it, Spotify through a tool.
+Be clear about what this is and is not for an indie: these grants run through publishers and national literature centres, not to self-publishers directly. What it is, is the market price of human translation with public money behind it — about 2,900 euros a book — and a warning. The piece's own framing is that translators in Europe have wholehearted support for the moment, and that the rise of AI makes the position tenuous. Set it beside Saturday's item, where Amazon's two-titles-a-week cap applies to human translations and exempts its own AI translations entirely, and Sunday's, where Spotify pitched indies on generating local-language narration through its ElevenLabs partnership. Three days, three angles, one question: who is going to pay a person to do this.
 
-🔗 https://selfpublishingadvice.org/smashwords-adds-pre-orders/
+🔗 https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-enlit-network-provides-support-for-european-literary-translation-and-translators/
 
-💬 Would you let a machine read your book in a language you cannot check?
-
-
-4. The first thousand dollars, itemised down to the KENP
-
-Posted 10 October, and the author is scrupulous about what the number is: revenue, not profit, and nowhere near covering editing, artwork, advertising and the launch party. What makes it the most useful post of the weekend is that they show the whole working.
-
-First book of a planned trilogy, out 1 September, promoted hard through their own networks beforehand, no ARCs — just beta readers — and about fifty people asking for copies before launch. A mini launch party on 3 September: 12 physical, 7 ebooks. Then half of September overseas in their country of birth: 28 physical, 9 ebooks. Back in the US for a more official launch party: 18 physical, 5 ebooks. A one-month Meta experiment with a single ad type on Facebook brought a handful of ebook sales and 6,400 KENP. Total after just over five weeks: 101 physical, 37 ebooks, 6,405 KENP — which they translate as about 17 full reads — for 155 copies.
-
-Three lessons they draw. The KENP reads excite them more than the sales, because those are strangers taking a chance rather than people they know. The Meta ad was targeted at 18 to 35 for a YA book and clicks improved substantially when they opened it to all ages. And reviews are the hard part — they are treating the first two books of the trilogy as one long ARC campaign so that book three can launch into enough reviews to justify real ad spend.
-
-🔗 https://www.reddit.com/r/selfpublish/comments/1x2oxgi/first_1000_in_revenue/
-
-💬 What did your first hundred sales actually consist of — strangers, or people who know you?
+💬 If a translation of your book cost 2,900 euros, which language would you buy first — and would you accept a machine doing it for nothing?
 
 
-5. "Talking about my book on a podcast for an hour felt like running a marathon"
+4. Stop apologising for the archetype: how King and Dickens actually introduce people
 
-Posted 10 October, and it belongs directly beside the item above. Someone has self-published a first book and loved every part of making it — the writing, the editing, the formatting, learning punctuation properly, learning image editing for the cover. Then it came out. They made the social posts, posted in the large Facebook groups they belong to (about seven strangers bought the book), sold just over 20 to friends and family, did a friend's podcast, and started looking into readings, festivals and more podcasts. Their own line is that writing the post about it was already exhausting, and they have a full-time job.
+Posted 11 October, and it is the best craft argument this digest has carried in a fortnight. The poster's diagnosis of the common method first: we build a character by hanging idiosyncrasies, backstory and internal contradictions onto a physical description. Suit and tie, slicked-back hair, polished shoes; then Harvard, then wanting more time with his kids, then picking his nose when nobody is looking. It ticks every box and the result still feels hollow.
 
-The question they actually ask is a good one and not rhetorical: does anybody enjoy this, and is there a fun side they are missing? Because if there is, they will go at it properly, and if there is not, they will write the second book instead — which they do enjoy. Worth reading the replies for anyone who has found a version of marketing that does not feel like asking friends for favours.
+What Dickens and King do instead, in his reading, is lean into our instinct to stereotype rather than flinch from it. He quotes Hard Times on Bounderby: "He was a rich man: banker, merchant, manufacturer, and what not... A man who was the bully of humility." No physical description at all, and everything you need. Bounderby is drawn as a caricature so tight that the later twist about his backstory genuinely surprises. The claim is that most writers feel ashamed of having made a caricature and rush to add complexity — which is ironically less compelling, because it subverts an expectation before the expectation has been set. He is reading The Mist at the moment and makes the same case for its supermarket cast: within a few pages you know the rebellious teenager on the motorbike, the prickly store manager, the prophetic older woman from the antiques shop. We have all met them. The archetype is not an empty vessel, it is a shortcut the reader builds for you.
 
-🔗 https://www.reddit.com/r/selfpublish/comments/1x25uho/i_dont_think_i_like_marketing/
+🔗 https://www.reddit.com/r/writing/comments/1x364ud/how_stephen_king_and_charles_dickens_craft/
 
-💬 Is there any part of marketing your own book you actually like — and could you do more of just that?
-
-
-6. The outline says "establishes his PTSD". Now what happens?
-
-Posted 10 October, and it is the most precisely stated craft problem in today's digest, because the poster shows their actual outline. They know the beats. What they cannot do is turn them into scenes with a place, a time, and something happening — without the scenes repeating each other. Their placeholders, quoted: "Establishes his PTSD". "She finds out he sabotaged her letter of recommendation". "She feels rejected, so talks to another man who shows interest."
-
-The question behind the question is the one worth the thread: is this a brainstorming shortfall, or is it a signal that something is wrong underneath — a thin concept, characters who are not interesting enough to generate behaviour? Look at those three placeholders and notice that the first names a state and the other two name events. A beat that describes a condition rather than a change is the one that will not become a scene, and that is diagnosable rather than mysterious.
-
-🔗 https://www.reddit.com/r/writing/comments/1x279s3/turning_beats_into_scenes/
-
-💬 Pick the beat you are most stuck on — does it describe something changing, or something simply being true?
+💬 Does your reader have a firm wrong impression of your character before you complicate it — or just a vague one?
 
 
-7. A small publisher, a March launch, and a family suggesting a publicist
+5. A finished novel at 55,000 words with no slack in it anywhere
 
-Posted 10 October. A first novel has been picked up by a small publisher and comes out in March. The author knows the launch will lean heavily on their own effort, has never done any of it before, and their family has suggested hiring a publicist — an idea that had not occurred to them. They are asking whether anyone who published with an indie press went that route and would recommend it.
+Posted 11 October, and a more unusual problem than the usual too-long complaint. The novel is done and they are happy with it. Every beat is there, every piece of plot. The trouble is that every sentence advances plot or character, so it reads too fast and comes in short. What they notice in other people's novels is the "mundane" material — getting into a car, starting it, the ordinary sentences that do nothing important and are nonetheless part of how a book feels like a book.
 
-Worth following because the honest answer depends on things nobody has told them yet: what the publisher is actually doing, what a publicist costs against a small-press advance, and what the realistic deliverable is for a debut. Five months out is also exactly the right time to be asking, which not everyone manages.
+Their honest difficulty is the interesting bit: their brain is wired for the important line, and they feel self-conscious about "wasting" a reader's time. Which is the wrong frame, and naming it is most of the fix — the ordinary beat is not waste, it is the rest between the loud ones, and without it nothing registers as loud. Worth the thread for anyone who outlines tightly and keeps producing manuscripts that are structurally perfect and somehow thin.
 
-🔗 https://www.reddit.com/r/PubTips/comments/1x29mzq/pubq_hiring_a_publicist_for_first_novel/
+🔗 https://www.reddit.com/r/writing/comments/1x3bssz/help_with_mundane_details/
 
-💬 If you had a fixed sum to spend on one launch, would it go to a publicist, ads, or copies in people's hands?
-
-
-8. 🎬 Six months in Los Angeles, and a plan to make them count
-
-Posted 10 October by a soon-to-graduate screenwriter from, in their words, a tiny country with a small film industry, who has a six-month university exchange in LA ahead of them. They are barred from the advanced screenwriting courses, so they are taking on-set and editing classes instead, and their plan is deliberate: build connections at the university and in the wider industry, sharpen their script supervising so they can get onto as many sets as possible and meet directors and producers, and work through a shortlist of people to approach.
-
-The reason it is here rather than in the screen lane's usual craft slot is that the plan generalises. Somebody with a finite window has worked out that the route in is a skill that puts you in the room rather than a pitch that asks to be let in. Novelists with one conference and a limited budget have the same problem and rarely frame it that well.
-
-🔗 https://www.reddit.com/r/Screenwriting/comments/1x24q95/how_can_i_make_the_most_of_6_months_in_la_as_an/
-
-💬 What skill could you learn that would put you in rooms you cannot currently get into?
+💬 When did you last let a scene breathe on purpose — and did a reader notice?
 
 
-9. Comics and graphic novels are growing everywhere, and the reason may be the price
+6. 🤖 A free day of AI-for-authors sessions, 20 and 21 November
 
-Publishing Perspectives, 9 October, from Frankfurt, where two NielsenIQ BookData commercial directors — Hazel Kenyon in Hong Kong and Fabien Rondeau in Paris — put the numbers up. Comics and graphic novels grew in every territory in 2026. French-speaking markets remain the most mature in the world for the format, and France is where most American comics sell, though that trend is now dropping off. American comics are driven by omnibuses, large hardcover collections bought by a fan base as collectables, which makes them high-cost items. Manga prices tend to be lower than average, and NielsenIQ's suggestion is that affordability partly explains the growth.
+From Indie Author Magazine's news column of 9 October, and worth diarising now because sign-ups and the call for speakers are both already open. Indie Author Training's next summit is entirely about AI technology options for authors: free sessions on day one, paid workshops and resources on day two, on 20 and 21 November. Their format at the last one was pre-recorded sessions with replays and transcripts for both days, and the paid Education Pass for day two was 149 dollars.
 
-Two things in it worth an indie's attention. The top manga names are consistent across most territories — Gotōge, Akutami, Oda — which is unusual stability for any market. And France, the second largest manga market behind Japan, peaked in 2022 and has been declining since, with the space left behind going to local creators such as the web-content creator Inoxtag and his 21 million subscribers. A mature market cooling while home-grown names move in is a pattern worth recognising if you write in a genre that is currently booming on imports.
+Flagged rather than endorsed — this digest has not seen the line-up. But a free day of sessions on exactly the subject that has dominated the last fortnight here, with a call for speakers still open, is a cheap way to hear the tool side of the argument from people selling it and the author side from people living with it, in the same room.
 
-🔗 https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-nielseniq-bookdata-reveals-statistics-on-comics-and-graphic-novels/
+🔗 https://indieauthormagazine.com/last-chance-to-tune-in-for-the-wide-for-the-win-summit-publishing-news-this-week/
 
-💬 Is your genre growing because more people want it, or because it got cheaper?
+💬 Which AI question would you actually want answered on a panel — and who would you want answering it?
+
+
+7. 🎬 If nobody knows who you are, what do you write?
+
+Posted 11 October. A screenwriter with no agent and no manager asks the only question that matters at that stage, and asks it properly: do you write something highly commercial and marketable, something smaller and stranger that shows your voice, or simply the best story you can regardless of budget and genre? And then the sharper follow-up to anyone who actually got representation off a spec — what do you think made that script get you through the door?
+
+The novelist's version is identical and gets asked less clearly. A debut is both a book and an audition, and the two want different things from it. Worth watching for the answers from people who went through the door, because the usual advice splits cleanly between "write what sells" and "write what only you could write" and almost never addresses what the person reading it is actually looking for.
+
+🔗 https://www.reddit.com/r/Screenwriting/comments/1x3ixjx/if_you_were_an_unknown_writer_trying_to_break_in/
+
+💬 Is your current book the one that sells, the one that shows what you can do, or both — and do you know which?
 
 
 —
-Scout notes: yesterday's edition ran, so nothing is carried over. Nine items: four from news and trade press, five from the community lanes, one of those in the screen lane. YouTube lane: nothing fresh today. The RSS route was unavailable on the full test for the second day — all six channels failed four attempts each — and all six channel pages loaded as the fallback, carrying only videos this digest has already run. Running count on that route: six of six feeds answered on 2 October, two of six on the 3rd, none on the 4th through 7th, one of six on the 8th, six of six on the 9th, none on the 10th or today. A correction to yesterday's foot, and it is ours rather than the source's: this digest said Writer Beware was unreachable and the scam lane unswept. The blog was reachable all along — the request shape was wrong, not the site. The feed address with a trailing slash and a browser user-agent returns 429 every time; the same address without the slash, fetched plainly, returns 200 first time. That was found this morning and the lane is swept, which is why item 2 exists. Name the route that failed, never the source. Publishing Perspectives published nothing new between yesterday's sweep and this one — the homepage came back byte-identical — so items 1 and 9 come from a Friday the weekend did not displace. Reddit answered r/selfpublish and r/Screenwriting first time and needed a second attempt for r/writing and r/PubTips. AI lane: two items, and both are about who gets to certify what a machine did or did not do.
+Scout notes: yesterday's edition ran, so nothing is carried over. Seven items, a lighter day than the week just gone: three from news and trade press, three from the community lanes, one in the screen lane. The trade lane was genuinely quiet — the only two new stories on the Australian wire this morning were second-day coverage of the Audible survey this digest led with on Saturday, so they are not repeated here, and Publishing Perspectives has published nothing new since Friday, its homepage coming back byte-identical for the third sweep running. Two of today's items are therefore from late last week rather than this morning, and both are inside the seven-day gate. r/PubTips had nothing dated yesterday in its weekly top, so the trad-publishing lane is quiet rather than skipped. YouTube lane: nothing fresh today, third day running — all six channels failed four attempts each and the channel pages carried only videos already run here. Elizabeth Spann Craig's blog returned 403 and was not swept. Writer Beware, by contrast, answered first time: yesterday's note said the trailing slash and the browser user-agent were the problem, the fetch was changed to a plain request without either, and it returned 200 immediately — one lane repaired by varying the route rather than retrying it. Reddit answered three lanes first time and needed a second attempt for r/PubTips.
 
 —
 Curated daily for this community. Spotted something worth sharing?
