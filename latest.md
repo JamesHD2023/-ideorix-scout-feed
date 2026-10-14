@@ -1,93 +1,110 @@
-📚 Daily Writer's Scout — Tuesday, 13 October 2026
+📚 Daily Writer's Scout — Wednesday, 14 October 2026
 
-1. 🤖 "AI is not a tool": 260,000 writers tell the European Parliament to stop calling it an opportunity
+1. 🤖 "Proof that does not come from a machine": a prize chair answers an AI detector
 
-Published 12 October by the European Writers' Council — 55 writers' organisations across 34 countries, representing 260,000 writers and translators, and the largest representative body for authors in the book sector anywhere. It is their formal feedback on the European Parliament's own-initiative draft report on the Cultural and Creative Sectors in the Age of AI, and they have headed it "MIND THE GAP".
+The most important story of the fortnight for anyone who writes, and it has a name attached to it. Simbarashe Steyn Kundizeza, a Zimbabwean writer, won the £10,000 2026 Caine Prize for African Writing for his story "The Blue Fighter". On 11 October The Atlantic published a piece by Vauhini Vara, "Yet Another Literary Prizewinner Seems to Be AI", whose central evidence is a scan by the AI-detection tool Pangram that flags almost the entire story as machine-written, the epigraph a notable exception. Vara reports that the same tool rated all 25 previous Caine Prize winners — and Kundizeza's own 2021 story "The Whistleblower" — as fully human. She adds stylistic markers she reads as chatbot prose: "not x, but y" constructions, a glut of metaphors, aphorisms, and stereotypes of African life she describes as common among outsiders. To her credit she states the limits: Pangram claims it mislabels human text roughly once in 24,000 cases, a peer-reviewed study found no false positives among non-native English writers, and independent research across nationalities is thin. She closes by saying she may well be wrong.
 
-Their objection is to a single word. The draft report treats generative AI as a "tool" or an "opportunity", or at best a "challenge", and the EWC calls that treatment "uncritical and whitewashing". Their own position, stated flatly: the rapid and massive emergence of generative AI has had an unprecedented NEGATIVE impact on the creative sectors, and particularly on literature and the book sector, where authors' rights matter most. Job loss, income loss, reputational loss — and they expect the EU's own forthcoming study to find exactly that, which is why they want the draft to account for it before the AI Strategy for the sector is published early next year.
+Kundizeza denies using AI. His agency says it is confident the story is his. Books and Publishing reported on 14 October that the prize has issued a statement saying it will take "a human-centred approach", that looking into such claims is its responsibility, that the process has begun and updates will go on its website — and, pointedly, that the prize celebrates stories already published elsewhere, which puts it in a bond of trust with the magazines that published them.
 
-They are not only complaining, and this is the part to take away. They thank the rapporteurs for referencing the ART principle — Authorisation, Remuneration, Transparency — coined by EWC Vice President Maïa Bensimon in 2023 and now widely quoted across the sector. Three words, and a usable test: was it authorised, is it paid for, can you see it? Any proposal that fails one of the three is identifiable at a glance. They also ask the report to define AI clearly, which sounds pedantic until you remember that a report with no definition regulates nothing.
+Then the line to keep. Ellah Wakatama, who chairs the prize's board of trustees and is also Zimbabwean, confirmed AI-generated fiction is ineligible and that a review started as soon as they heard of Vara's inquiry: she and a colleague will interview the judges, reread the story, talk to Kundizeza in detail about his methods, and have asked his agent whether verification could include earlier drafts. And she rejected the detector outright as a measure of anything. Anyone making such an accusation, she said, must offer proof that "does not come from a machine". She said she would approach him with compassion and a presumption of honesty, and pointed to details in the story she considers distinctly Zimbabwean, which she does not believe a model could produce. Her closing words to Vara: "I am fervently praying that you're wrong."
 
-Read it next to Saturday's item here, where specialists at Frankfurt concluded the EU AI Act gives publishers leverage and no teeth. Same jurisdiction, same fortnight, and the authors' body is now arguing upstream of the next law rather than about the last one.
+Tope Folarin, who won the prize in 2013, made the observation that should worry every writer outside the Anglo-American centre: many writers from the global South feel pressure to write toward Western expectations, and chatbots have latched onto exactly that pressure. So the prose that gets read as machine-made may be the prose a writer was taught the market wanted.
 
-🔗 https://europeanwriterscouncil.eu/ewc_owninireport_draft_mindthegap/
+Put this beside Sunday's item here, where a new UK certification mark proves a book is human using proprietary software nobody outside the company can inspect, and last Wednesday's, where an author's own editor accused them with no evidence standard at all. Three cases in eight days. In one of them, the person with institutional power said the burden of proof cannot be a machine's output. That is the only version of this that protects a writer.
 
-💬 Run your last AI encounter through ART — authorised, remunerated, transparent. How many of the three did it pass?
+🔗 https://brittlepaper.com/2026/10/african-literary-community-pushes-back-on-the-atlantics-ai-claims-about-10000-caine-prize-winner-simbarashe-steyn-kundizeza/
+🔗 https://www.booksandpublishing.com.au/articles/2026/10/14/342413/caine-prize-for-african-writing-taking-a-human-centred-approach-following-ai-accusation/
 
-
-2. 🤖 Cover design orders went UP 40% in a year, with AI image generators everywhere
-
-Written Word Media, published today, 13 October: Ferol Vernon interviewing Ricardo Fayet, co-founder and CMO of Reedsy, about covers. The number buried in the episode notes is the story — cover design requests on Reedsy grew 40% from 2025 to 2026, despite AI image generation being freely available the whole time. Whatever authors say about AI art, a sizeable and growing number of them are paying humans more than they did a year ago.
-
-The craft content is worth the listen on its own, and the headline claim is one this digest has not heard put so bluntly: the text on your cover matters more than the image. Also covered — the three elements every cover must get right and Fayet's three pet peeves when they go wrong; the genre-fit versus stand-out argument and his answer to it; when to recover a book and what to try first before spending the money; how to write a design brief that prevents most of the trouble; what to do when the first concepts come back and you hate them; and how AI is changing cover design along with the copyright question he says every author needs to understand. One practical tip stands out: always ask your cover designer for the background image, separately.
-
-🔗 https://www.writtenwordmedia.com/your-book-cover-is-your-number-1-marketing-asset-with-ricardo-fayet/
-
-💬 Is the text on your cover doing any work — or is it just the title in a font you liked?
+💬 If someone ran a detector over your last chapter and it came back red, what evidence of your own would you reach for first?
 
 
-3. Frankfurt closed on 236,000 visitors, and hands over to a man with "a financial year of five days"
+2. 🤖 Two-thirds of listeners pick an audiobook because of the narrator
 
-Two reports, both this week. Books+Publishing on 13 October has the attendance: 236,000 visitors in 2026, slightly down on last year, with more countries represented than before. Publishing Perspectives on 12 October has the succession, and the quotable part.
+ALLi's news column of 13 October, by Dan Holloway, going through the Audible survey this digest led with on Saturday — and his opening frame is the right one, stated better than mine: audiobook companies publish numbers with two kinds of finding, that the market is expanding, and that they are responsible for a good deal of the expansion they have just demonstrated. Spotify has led that field; Audible has now jumped in with the NielsenIQ report.
 
-Joachim Kaufmann takes over as CEO on 1 November, succeeding Juergen Boos after more than twenty years. His line to Publishing Perspectives' editor-in-chief: "I have a financial year of five days" — the fair generates 80% of the company's business. He arrives with no blueprint on purpose; target-setting starts in spring after around forty staff interviews, and his stated first move is to listen, because "good salesmen are not talking too much. They are listening mainly." He ran the Bonnier-owned German house Carlsen for twenty years, appointed at 32 ("I felt ready, but I wasn't ready"), including a Harry Potter release of 3.4 million copies into bookshops in a single day.
+Set the hype aside and the 18,000-respondent data is genuinely useful, and ALLi surfaces three figures the coverage mostly missed. Globally 34% of listeners said they consumed more audiobook content in 2025 than the year before, with the US at 35% and the UK at 38%. On cross-format behaviour, 63% said they bought an ebook or print copy after listening, and 69% said they listened after reading in another format — which, read in both directions, is an argument for having every format available rather than choosing one. And 47% of listeners said they spent less time on social media as a result, which is the first figure anyone has produced showing books taking attention back.
 
-Two priorities. The business-to-business core, where he names the real risk plainly — professionals shortening their stay or not coming — so Frankfurt has to justify a flight from Asia, Latin America or Africa through matchmaking formats, and he wants to extend its reach into book-to-screen and book-to-gaming. And consumers: this year's floor plan put German trade publishers and the public on the ground floor with professionals above, which he called "a brilliant idea". For an indie author the interesting half is the first one. A rights fair worried about relevance, explicitly looking at screen and games, is a rights fair thinking about where a book's money comes from next.
+The one this digest would underline: 65% of listeners said they sought out audiobooks on the strength of having a narrator they liked. Holloway's reading is that this leaves at least some future for human narration alongside the bottom-line case for AI narration for authors who cannot afford a person. Note where that number sits in the week — yesterday's item had cover design orders on Reedsy up 40% in a year despite free AI image tools. Two independent numbers, two crafts, both saying the human version is what the money follows.
 
-🔗 https://www.booksandpublishing.com.au/articles/2026/10/13/342255/fewer-attendees-at-frankfurt-but-more-countries-represented/
-🔗 https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-new-frankfurt-chief-has-ideas-plan-to-come/
+🔗 https://selfpublishingadvice.org/audiobooks-drive-cross-format-reading/
 
-💬 If your book had a screen or games life, would you know who to talk to about it?
-
-
-4. Twelve years, three pen names, a hundred titles, and conventions she throws herself
-
-Indie Author Magazine, 12 October, on Katie Cross, and it belongs in this week because the week has repeatedly asked how long and how many books it takes. Here is one real answer, with the circumstances attached.
-
-Cross was a pediatric charge nurse. Her husband's US Army career meant constant moves across the country, which kept breaking that career, so she turned to the thing she had always done — writing — because it could travel wherever the posting went. Twelve years on: three pen names, more than one hundred titles published, five successful Kickstarters. She speaks at conferences across the US and hosts her own, inviting readers to meet her at "Katie Cons" when she visits major cities. Her reason for self-publishing in the first place was control of the calendar — with a husband, children and everything else, she did not want to wait for other people to make decisions about her timeline.
-
-Her own summary: "self-publishing led to this journey that is continuing twelve years later and has led to my forever career." Note the shape rather than the total — a hundred titles across three names over twelve years is roughly eight a year, which is a pace, not a miracle, and the reader-meetups are a distribution channel she built because the conferences already existed and she went to them.
-
-🔗 https://indieauthormagazine.com/my-business-is-like-a-breathing-organism-katie-cross-on-following-her-readers/
-
-💬 If writing had to fit around something that keeps moving, what would you change about how you publish?
+💬 Can you name the narrator of the last audiobook you finished — and would you have started it with a different one?
 
 
-5. "I walked in, had my soul crushed, then walked out humbled and relieved"
+3. Where a backlist can still live: inside the library lending argument
 
-Posted 12 October by someone who exhibited at a comic con for the first time and wrote the honest version, which almost nobody does. Sales were sparse. His conclusion after a day of it: you are not really exhibiting and showing off your creations, you are playing the game of managing expectations.
+Publishing Perspectives, 13 October, from a Frankfurt panel on the digital public library market with Micah May of Lyrasis and the Palace Project, Heather McCormack of OCLC CloudLibrary and Brad Rose of Hoopla Digital, moderated by Andrew Richard Albanese. Worth an indie author's attention because the licensing argument decides whether a book that is not a new release can be borrowed at all.
 
-Would he recommend it? Yes — just not for sales or even for a lot of new fans. If you are an indie creator, particularly if the organisers put you in Artist Alley, you will be neglected for hours. Hundreds walk past, and the most you will get is a curious glance before something else takes it. His advice is not to take that personally: they are looking for something and you are not it, possibly for no deeper reason than never having heard of you, and their budget is not bottomless. What you can do is hand out business cards to everyone you cannot sell to — he had not prepared any, and says so. And treat it as exposure rather than profit, because covering the stall fee, the travel and your next project out of the day is close to impossible. A few more people who know your name and will follow it as long as you keep going.
+The old controversy was HarperCollins capping a library ebook licence at 26 loans. The panel distinguished that from licences that expire after a fixed period however little the book circulated — and the two-year licences some of the Big Five offer create a specific problem for older titles. When access lapses the library has to decide whether to pay again, and older works quietly vanish. May's description of the result: "an extremely bestseller, frontlist-heavy collection, which is the opposite of what the library wants." His reading of the common ground is the useful part: "where libraries and publishers have the most in common is wanting to ensure that there's good access to midlist and backlist books."
 
-🔗 https://www.reddit.com/r/selfpublish/comments/1x4cjti/so_i_hosted_my_first_comic_con_exhibit/
+Alternatives on the table. Hoopla runs pay-per-use — a checkout triggers a charge, so the library does not have to buy a title in advance to make it available, which Rose argues is exactly what discovery needs: "I can't think of a better place for those authors and those books to live than in the library. It is the place for discovery. People can try different genres, different authors, different series." The Palace Project offers loan bundles and a digital ownership model where the library owns copies and lends each to one reader at a time. McCormack noted that licensing options have widened a great deal since the pandemic without easing budget pressure, since spending on big new releases still leaves little for everything else. And one number for the week's audio thread: "audio started outselling ebooks for our business two years ago."
 
-💬 What is the cheapest thing you could hand someone who was interested but did not buy?
+🔗 https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-finding-digital-lending-models-that-work-for-libraries-publishers-authors-and-readers/
 
-
-6. A library of novellas, Goosebumps-style — is that a business?
-
-Posted 12 October by someone who grew up marvelling at how many R.L. Stine books were on any library shelf at any time and wants that for themselves. They have spent about a year on world building and the plan is a repeating cycle: novella, novella, short novel, all standalone stories in one world, across a range of genres alongside the main fantasy line, all into Kindle Unlimited so subscribers can read as much as they like.
-
-Their questions are the right ones and they are honest that they do not know. How commercially viable is this? Do readers still care about novellas — they say they personally do not read short books. How do you build an email list for ARCs when you specifically do not want every release to be a big event? And what services let you sell them as sets, releases one to three, seven to nine, and so on? Worth following because the rapid-release-into-KU model is one of the few indie strategies with real arithmetic behind it, and the people who have run it will say whether the novella length holds up or whether the page-count economics push you to the short novel every time.
-
-🔗 https://www.reddit.com/r/selfpublish/comments/1x4amp0/writing_a_plethora_of_novellas/
-
-💬 Would you rather read six novellas in one world or two novels — and would you rather write them?
+💬 Is your book borrowable anywhere — and have you ever checked?
 
 
-7. 🎬 "What do you do when you're cooking then the stove turns off?"
+4. The permission slip both pantsers and plotters need
 
-Posted this morning. A screenwriter with a horror script he genuinely likes — protagonist established, goals clear, outlook and flaws in place, and the man now investigating something frightening in a large unfamiliar house — has stopped dead. He names his own precedent: Zach Cregger saying he got stuck on Barbarian at the point where the girl is deep in the tunnel. He writes by the seat of his pants, finds it more organic, and says the moment-to-moment problem solving is what invigorates his plotting, right up until this.
+Writers Helping Writers, 13 October, and it answers two separate problems this digest has carried in four days. The argument: writers treat pantser or plotter as wiring rather than method — this is just how I am — and the strategy works until the novel arrives that breaks it. The pantser hits a wall and cannot write past it. The plotter watches the characters walk off with the carefully planned story and defy every attempt to force the outline back onto them. Either way you are stuck, and flexibility is the skill nobody talks about.
 
-The question generalises to every discovery writer, and it is the companion to the problem this digest carried on Sunday, where an outline full of beats would not turn into scenes. One writer has the map and no scenes; this one has the scene and no map. The useful replies will be about what you do at the stove rather than about outlining more.
+Their prescription is deliberately uncomfortable and correct: when a pantser is stuck, plot the way out — and an outline does not have to be the Roman-numeral document a school teacher once demanded. The plotter's half runs the other way, toward letting the thing move. Read it beside Sunday's thread here, where an outline full of beats refused to become scenes, and yesterday's screenwriter stuck halfway into a horror script with his protagonist inside the big house. Map without scenes, scene without map, and the same answer to both: use the other method for an afternoon.
 
-🔗 https://www.reddit.com/r/Screenwriting/comments/1x4k11n/stuck_where_we_all_love_getting_stuck/
+🔗 https://writershelpingwriters.net/2026/10/flexibility-for-pantsers-and-plotters/
 
-💬 When you get stuck mid-draft, do you push forward, skip ahead, or go back — and which one actually works for you?
+💬 Which method have you decided you "can't" use — and when did you last actually try it?
+
+
+5. Forty thousand words in, and eleven chapters are going in the bin
+
+Posted 13 October, and it is the cheerful version of a story that usually arrives as a crisis. They used to freeze at the outline stage, took the advice to just start writing, and it has worked much better — 40,000 words in about two and a half weeks. What they had not resolved before starting was the central mystery's character motivations. Once writing, they decided quickly that the planned details were not working, could not see how to get the characters from here to there, and kept going in the hope of solving it en route. Result: the A storyline stalled while the B plot ran too fast, and now that the A story is finally solved, the first eleven chapters are almost entirely worthless. A few passages might survive somewhere later.
+
+Their own verdict on all of it: this is not unusual for their process, because they do not know what a story is until they start writing it, and they have to live in the world and with the characters for a while before they do. They are more excited about the book than before and not looking forward to starting chapter one again. Both of those things being true at once is the realistic report, and it is worth having from someone not in distress about it.
+
+🔗 https://www.reddit.com/r/writing/comments/1x4xi96/40000_words_in_and_im_basically_starting_over/
+
+💬 What is the most you have ever thrown away — and did the next draft need you to have written it?
+
+
+6. Three months into a small-press deal, and the publisher has a new review council
+
+Posted 13 October, a first-time author's first time dealing with a publisher, and the sequence is the instructive part. A traditional New York publisher, small but apparently legitimate rather than a vanity press, made an offer in July. The CEO walked them through timeline and profit share and it all read as standard. First draft of the contract arrived in August. They joined the Authors Guild specifically for legal advice, which took about a month, had the contract reviewed with help from legal professionals around them, found no alarm bells, and sent back a thorough set of comments protecting certain rights including language rights. That was about a month ago.
+
+Now: a chased update, a promise, another follow-up, and a reply saying the publisher has replaced its editorial review council, that the transition created a backlog, that nothing further is needed from the author — and that the manuscript is in the queue for the new council, with a substantive answer by the end of this week. They are worried the new council could pull out of the offer after three months.
+
+Two things worth taking from it regardless of how it ends. Joining the Authors Guild to get a contract read is a real and affordable route, and it cost a month, which is worth knowing before you need it. And an offer is not a contract until it is signed: three months of good-faith process can still be sitting in somebody else's queue.
+
+🔗 https://www.reddit.com/r/PubTips/comments/1x51l8g/pubq_risk_of_publisher_withdrawing/
+
+💬 Who would read your publishing contract before you signed it — and do you know what that would cost?
+
+
+7. Write flash fiction set in your own novel
+
+Jane Friedman's site, 13 October, a guest post by the author and book coach Miranda Keskes, and free to read. Flash fiction is usually defined as a story under 1,000 words, which forces hyper-vigilance about syntax, word choice, punctuation and which detail earns its place. Her first argument for writing it alongside a novel is the obvious one: you get to experience every part of the writing process — idea to finished piece to byline, rejection included — on a timescale a novel cannot offer.
+
+The second argument is the one that makes it a craft tool rather than a break. Write flash fiction inspired by your own novel, and it adds depth to the manuscript. As a book coach the gap she sees most often is character depth: there is conflict on the page but the root of it is unclear, so the scene lands flat — usually because the writer has not dug far enough into where the conflict comes from. Her worked example is a father afraid every time his daughter leaves the house. A thousand words on why is a story you can publish and a backstory you can use.
+
+🔗 https://janefriedman.com/how-writing-flash-fiction-can-strengthen-your-novel/
+
+💬 Pick the character you understand least — what happened to them before page one?
+
+
+8. 🎬 Repped, no credits, and torn between what sells and what he wants to write
+
+Posted 13 October by a screenwriter at a mid-to-large agency with a couple of minor awards, decent traction and no produced credits. What has always got him meetings is high-concept comedy drawing on his background, in features and TV pilots both. His agent's strategy now is features only, because TV staffing is brutal and without someone in the room you are relying on a lucky submission — he came close that way recently and does not expect it often.
+
+The problem is that he cannot think of another high-concept feature he is excited about, and the two ideas he IS excited about are an unsolicited franchise spec he has no business writing and a personal, low-concept dramedy in the Lady Bird vein, which he has been advised against because it is hard to sell on a logline and lives or dies on execution. So: keep making the thing that works while uninspired, or make the thing he wants and accept it is less marketable.
+
+This is Tuesday's question from the other side of the door. An unrepped writer asked what to write to get in; this one is repped and asking what to write to keep moving, and discovering the question does not go away when someone answers the phone.
+
+🔗 https://www.reddit.com/r/Screenwriting/comments/1x4oang/struggling_with_what_to_write_next_follow_whats/
+
+💬 Is the thing that got you noticed the thing you want to keep making?
 
 
 —
-Scout notes: yesterday's edition ran, so nothing is carried over. Seven items: four from news and trade press, two from the community lanes, one in the screen lane. Europe led today, which it has not done on its own merits since Frankfurt opened. YouTube lane: nothing fresh today, fourth day running — all six channels failed four attempts each and the channel pages carried only videos already run here. Two lanes could not be swept, and in both cases the route was varied before the lane was written off, which is the rule this digest adopted on Sunday after calling a reachable source unreachable. r/PubTips refused four attempts on its weekly feed and then three alternative routes — a different path shape, the old interface, and the new-posts feed — returning either 429 or, twice, a 190KB block page with a 403 behind it, so the trad-publishing lane is genuinely unswept today. Worth naming that second failure mode: a block page large enough to look like content is exactly why a byte count is never a verdict, and the check caught it only because it counts feed entries rather than kilobytes. Elizabeth Spann Craig's blog returned 403 again on a second route, so two days, two shapes, no sweep. Writer Beware answered first time for the second day on the plain route. Reddit otherwise answered r/selfpublish first time and needed a second attempt for r/writing and r/Screenwriting.
+Scout notes: yesterday's edition ran, so nothing is carried over. Eight items: four from news and trade press, three from the community lanes, one in the screen lane. YouTube lane: nothing fresh today, fifth day running — all six channels failed four attempts each and the channel pages carried only videos already run here. r/selfpublish, the primary community lane, could not be swept at all: four attempts on its weekly feed, then three varied routes, returning 429s and twice the same 190KB block page with a 403 behind it. Varying the route is the rule this digest adopted on Sunday and it does not always work — three sources have now been tried that way with one repair, one still refusing and one, today's, still refusing. Elizabeth Spann Craig's blog returned 403 on a third shape, including its WordPress API, so it is three days unswept and will be reported as such rather than retried blind. Writer Beware answered first time for a third day on the plain route. Reddit otherwise answered r/writing first time, r/PubTips on a second attempt and r/Screenwriting on a third.
 
 —
 Curated daily for this community. Spotted something worth sharing?
