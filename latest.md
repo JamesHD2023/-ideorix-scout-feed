@@ -1,110 +1,102 @@
-📚 Daily Writer's Scout — Wednesday, 14 October 2026
+📚 Daily Writer's Scout — Thursday, 15 October 2026
 
-1. 🤖 "Proof that does not come from a machine": a prize chair answers an AI detector
+1. If you have an audiobook on ACX, you have twelve weeks to make a decision
 
-The most important story of the fortnight for anyone who writes, and it has a name attached to it. Simbarashe Steyn Kundizeza, a Zimbabwean writer, won the £10,000 2026 Caine Prize for African Writing for his story "The Blue Fighter". On 11 October The Atlantic published a piece by Vauhini Vara, "Yet Another Literary Prizewinner Seems to Be AI", whose central evidence is a scan by the AI-detection tool Pangram that flags almost the entire story as machine-written, the epigraph a notable exception. Vara reports that the same tool rated all 25 previous Caine Prize winners — and Kundizeza's own 2021 story "The Whistleblower" — as fully human. She adds stylistic markers she reads as chatbot prose: "not x, but y" constructions, a glut of metaphors, aphorisms, and stereotypes of African life she describes as common among outsiders. To her credit she states the limits: Pangram claims it mislabels human text roughly once in 24,000 cases, a peer-reviewed study found no false positives among non-native English writers, and independent research across nationalities is thin. She closes by saying she may well be wrong.
+ALLi published this advisory on 14 October and it is the most actionable thing this digest has carried. From 1 January 2027 Audible's legacy ACX payment model ends. Every title still on the old terms on that date must either have been enrolled in the new model by its rights holder, or be withdrawn from distribution. There is no third option and no announced grace period.
 
-Kundizeza denies using AI. His agency says it is confident the story is his. Books and Publishing reported on 14 October that the prize has issued a statement saying it will take "a human-centred approach", that looking into such claims is its responsibility, that the process has begun and updates will go on its website — and, pointedly, that the prize celebrates stories already published elsewhere, which puts it in a bond of trust with the magazines that published them.
+What changes. For more than a decade ACX paid a flat share of each sale — 40% of retail for titles exclusive to Audible, Amazon and Apple, 25% non-exclusive — and a credit spent on your book earned you a payment on your book. The new model, called Member Value and in open enrolment since 26 May 2026, replaces that for all membership listening. Audible takes each member's monthly plan price minus taxes and fees, adds the value of any extra credits they bought that month, and divides that pot among every title the member engaged with, weighted by each title's list price. A member who buys your book with a credit and listens to two others that month splits their value three ways. Cash purchases are unaffected and still pay on list price — the change bites only on membership listening, which for most indies is where most of the money has been. Headline rates rise to 50% exclusive and 30% non-exclusive, and ALLi's note on that is the one to keep: a higher percentage of a different and perhaps smaller base is not the same as a rise.
 
-Then the line to keep. Ellah Wakatama, who chairs the prize's board of trustees and is also Zimbabwean, confirmed AI-generated fiction is ineligible and that a review started as soon as they heard of Vara's inquiry: she and a colleague will interview the judges, reread the story, talk to Kundizeza in detail about his methods, and have asked his agent whether verification could include earlier drafts. And she rejected the detector outright as a measure of anything. Anyone making such an accusation, she said, must offer proof that "does not come from a machine". She said she would approach him with compassion and a presumption of honesty, and pointed to details in the story she considers distinctly Zimbabwean, which she does not believe a model could produce. Her closing words to Vara: "I am fervently praying that you're wrong."
+Three other changes arrive with it, and one is genuinely good: the minimum exclusivity term drops to 90 days from the old multi-year lock. Rights holders can also suggest a price across Audible marketplaces, though Audible keeps the final say, and titles can be opted into All You Can Listen, where qualifying listens pay through the same Member Value calculation.
 
-Tope Folarin, who won the prize in 2013, made the observation that should worry every writer outside the Anglo-American centre: many writers from the global South feel pressure to write toward Western expectations, and chatbots have latched onto exactly that pressure. So the prose that gets read as machine-made may be the prose a writer was taught the market wanted.
+What is not known. Audible says early-access participants saw average earnings rise around 45% — a figure from Audible, drawn from a self-selected group, with no published average Member Value and no breakdown anyone outside the company could check. John Doppler of ALLi's Watchdog Desk: "The Member Value model is not transparent, and it makes it harder, not easier, for authors to estimate their income." ALLi's expectation is that long series with devoted Audible listeners will do best and that more authors will earn less, especially mid-list writers whose readers listen widely. The removal mechanics are also unknown — whether a title goes down on 1 January or gets a window, whether a removed title can be reinstated by enrolling late, and what happens to royalty-share titles where the narrator never answered the consent request. A Change.org petition started by Robin Sullivan in August 2025, now past 30,000 signatures, argues the pooling moves money from credit purchases toward the Plus catalogue and that cheap AI-narrated audio flooding that catalogue would dilute every human-made title's share.
 
-Put this beside Sunday's item here, where a new UK certification mark proves a book is human using proprietary software nobody outside the company can inspect, and last Wednesday's, where an author's own editor accused them with no evidence standard at all. Three cases in eight days. In one of them, the person with institutional power said the burden of proof cannot be a machine's output. That is the only version of this that protects a writer.
+What to do now, from their checklist. Log into ACX and check every title — newly claimed ones are being enrolled automatically, older ones are not. Chase your royalty-share narrators now, not in December, because a royalty-share title cannot move without the narrator's approval and silence may cost you the listing. Revisit exclusivity, since 90 days makes going wide a far smaller commitment. Decide All You Can Listen title by title rather than as a blanket — it may bring discovery to a first-in-series and erode a strong seller. Plan 2027 audio income as a range, not a figure. And treat the end of November as your real deadline so narrator consent and portal problems have room to resolve.
 
-🔗 https://brittlepaper.com/2026/10/african-literary-community-pushes-back-on-the-atlantics-ai-claims-about-10000-caine-prize-winner-simbarashe-steyn-kundizeza/
-🔗 https://www.booksandpublishing.com.au/articles/2026/10/14/342413/caine-prize-for-african-writing-taking-a-human-centred-approach-following-ai-accusation/
+🔗 https://selfpublishingadvice.org/acx-and-audibles-new-payment-model-what-you-need-to-decide-before-31-december/
 
-💬 If someone ran a detector over your last chapter and it came back red, what evidence of your own would you reach for first?
-
-
-2. 🤖 Two-thirds of listeners pick an audiobook because of the narrator
-
-ALLi's news column of 13 October, by Dan Holloway, going through the Audible survey this digest led with on Saturday — and his opening frame is the right one, stated better than mine: audiobook companies publish numbers with two kinds of finding, that the market is expanding, and that they are responsible for a good deal of the expansion they have just demonstrated. Spotify has led that field; Audible has now jumped in with the NielsenIQ report.
-
-Set the hype aside and the 18,000-respondent data is genuinely useful, and ALLi surfaces three figures the coverage mostly missed. Globally 34% of listeners said they consumed more audiobook content in 2025 than the year before, with the US at 35% and the UK at 38%. On cross-format behaviour, 63% said they bought an ebook or print copy after listening, and 69% said they listened after reading in another format — which, read in both directions, is an argument for having every format available rather than choosing one. And 47% of listeners said they spent less time on social media as a result, which is the first figure anyone has produced showing books taking attention back.
-
-The one this digest would underline: 65% of listeners said they sought out audiobooks on the strength of having a narrator they liked. Holloway's reading is that this leaves at least some future for human narration alongside the bottom-line case for AI narration for authors who cannot afford a person. Note where that number sits in the week — yesterday's item had cover design orders on Reedsy up 40% in a year despite free AI image tools. Two independent numbers, two crafts, both saying the human version is what the money follows.
-
-🔗 https://selfpublishingadvice.org/audiobooks-drive-cross-format-reading/
-
-💬 Can you name the narrator of the last audiobook you finished — and would you have started it with a different one?
+💬 Do you know, right now, which of your audiobooks are on the new terms and which are not?
 
 
-3. Where a backlist can still live: inside the library lending argument
+2. 🤖 Bloomsbury has written down what authors may and may not do with AI — and freelancers cannot comply
 
-Publishing Perspectives, 13 October, from a Frankfurt panel on the digital public library market with Micah May of Lyrasis and the Palace Project, Heather McCormack of OCLC CloudLibrary and Brad Rose of Hoopla Digital, moderated by Andrew Richard Albanese. Worth an indie author's attention because the licensing argument decides whether a book that is not a new release can be borrowed at all.
+Discussed on r/PubTips on 14 October, and as far as the poster could establish it is the first concrete, detailed AI policy from a major publisher. Bloomsbury's AI Policy for Authors and Illustrators, in their own summary.
 
-The old controversy was HarperCollins capping a library ebook licence at 26 loans. The panel distinguished that from licences that expire after a fixed period however little the book circulated — and the two-year licences some of the Big Five offer create a specific problem for older titles. When access lapses the library has to decide whether to pay again, and older works quietly vanish. May's description of the result: "an extremely bestseller, frontlist-heavy collection, which is the opposite of what the library wants." His reading of the common ground is the useful part: "where libraries and publishers have the most in common is wanting to ensure that there's good access to midlist and backlist books."
+Permitted as assistive use: AI tools for research and brainstorming; AI tools to help edit text and prepare certain associated text items, provided you use a private AI system; AI tools to edit or enhance images, as long as the editing is done in Adobe Creative Cloud and the images are your own original work. Forbidden as generative use: submitting any AI-generated content for publication, including text, translations and images; using AI to generate images or other illustrative material. On privacy and disclosure: you may not input your work, or sections of it, into any publicly accessible AI system, and you must disclose any AI use beyond research and brainstorming to your contact at Bloomsbury.
 
-Alternatives on the table. Hoopla runs pay-per-use — a checkout triggers a charge, so the library does not have to buy a title in advance to make it available, which Rose argues is exactly what discovery needs: "I can't think of a better place for those authors and those books to live than in the library. It is the place for discovery. People can try different genres, different authors, different series." The Palace Project offers loan bundles and a digital ownership model where the library owns copies and lends each to one reader at a time. McCormack noted that licensing options have widened a great deal since the pandemic without easing budget pressure, since spending on big new releases still leaves little for everything else. And one number for the week's audio thread: "audio started outselling ebooks for our business two years ago."
+Now the definition that does the real work. A "private AI system" means a tool deployed on infrastructure fully owned or controlled by an organisation you are part of, which has explicitly confirmed that it safeguards submitted data and does not train on user prompts and content — their example is an enterprise-hosted ChatGPT provided by a university or company. And then, for the avoidance of doubt, they rule out paid, "private mode" or "incognito mode" use of publicly accessible tools such as ChatGPT.
 
-🔗 https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-finding-digital-lending-models-that-work-for-libraries-publishers-authors-and-readers/
+Read that twice if you are a freelance author with no employer, because it means there is no compliant way for you to use an AI tool to help edit your own text. The permission exists and the only qualifying infrastructure belongs to institutions. That is the poster's own concern and it is the right one. Worth reading the thread, and worth knowing this policy exists before a contract puts it in front of you — the policy itself is the thing other publishers will now be drafting against.
 
-💬 Is your book borrowable anywhere — and have you ever checked?
+🔗 https://www.reddit.com/r/PubTips/comments/1x5vi4u/discussion_bloomsbury_ai_policy_for_authors/
 
-
-4. The permission slip both pantsers and plotters need
-
-Writers Helping Writers, 13 October, and it answers two separate problems this digest has carried in four days. The argument: writers treat pantser or plotter as wiring rather than method — this is just how I am — and the strategy works until the novel arrives that breaks it. The pantser hits a wall and cannot write past it. The plotter watches the characters walk off with the carefully planned story and defy every attempt to force the outline back onto them. Either way you are stuck, and flexibility is the skill nobody talks about.
-
-Their prescription is deliberately uncomfortable and correct: when a pantser is stuck, plot the way out — and an outline does not have to be the Roman-numeral document a school teacher once demanded. The plotter's half runs the other way, toward letting the thing move. Read it beside Sunday's thread here, where an outline full of beats refused to become scenes, and yesterday's screenwriter stuck halfway into a horror script with his protagonist inside the big house. Map without scenes, scene without map, and the same answer to both: use the other method for an afternoon.
-
-🔗 https://writershelpingwriters.net/2026/10/flexibility-for-pantsers-and-plotters/
-
-💬 Which method have you decided you "can't" use — and when did you last actually try it?
+💬 Could you comply with that policy as it stands — and if not, would you sign it anyway?
 
 
-5. Forty thousand words in, and eleven chapters are going in the bin
+3. 🤖 Check free whether your books are in the catalogues the AI companies copied
 
-Posted 13 October, and it is the cheerful version of a story that usually arrives as a crisis. They used to freeze at the outline stage, took the advice to just start writing, and it has worked much better — 40,000 words in about two and a half weeks. What they had not resolved before starting was the central mystery's character motivations. Once writing, they decided quickly that the planned details were not working, could not see how to get the characters from here to there, and kept going in the hope of solving it en route. Result: the A storyline stalled while the B plot ran too fast, and now that the A story is finally solved, the first eleven chapters are almost entirely worthless. A few passages might survive somewhere later.
+Flagged by Jane Friedman on 14 October, and the service itself is open and worth five minutes. PayAuthors.com matches your books — and journal articles, separately — against the dated pirate-library catalogues, down to the file records those catalogues list: the library's own ID, the MD5 fingerprint, the torrent piece where it is recorded. It then lines those up against the timeline of when each AI company copied each library, and against US copyright registrations.
 
-Their own verdict on all of it: this is not unusual for their process, because they do not know what a story is until they start writing it, and they have to live in the world and with the characters for a while before they do. They are more excited about the book than before and not looking forward to starting chapter one again. Both of those things being true at once is the realistic report, and it is worth having from someone not in distress about it.
+What it holds: 25 LibGen snapshots from 2015 to 2025, Z-Library from 2022 to 2025 via Anna's Archive, the Books3 file list, Sci-Hub and LibGen scimag for articles, and US Copyright Office registrations from 1978 to 2025. It also, to its credit, marks the Internet Archive as a nonprofit lending library and not a pirate site. Search by author name — name order does not matter, initials are optional, co-authors are found — or paste a 10- or 13-digit ISBN. The free check shows counts and lists the titles for you to confirm. If a book is catalogued under an editor or with no author at all, a name search misses it, and they will take a link to your website's book list instead. Privacy is stated plainly: no account, no advertising trackers, no analytics cookies, and their application logs do not keep your IP address.
 
-🔗 https://www.reddit.com/r/writing/comments/1x4xi96/40000_words_in_and_im_basically_starting_over/
+Why it matters this week. Every AI item in this digest for a fortnight has been about proof — an editor accusing an author with no standard, a certification mark resting on secret software, a prize chair demanding "proof that does not come from a machine". This is the same question pointed the other way. Not prove you wrote it; prove they took it. The site cites the $1.5 billion Bartz v. Anthropic settlement for book authors, which got final approval on 20 July 2026, as the reason the file-level detail is worth having.
 
-💬 What is the most you have ever thrown away — and did the next draft need you to have written it?
+🔗 https://payauthors.com
 
-
-6. Three months into a small-press deal, and the publisher has a new review council
-
-Posted 13 October, a first-time author's first time dealing with a publisher, and the sequence is the instructive part. A traditional New York publisher, small but apparently legitimate rather than a vanity press, made an offer in July. The CEO walked them through timeline and profit share and it all read as standard. First draft of the contract arrived in August. They joined the Authors Guild specifically for legal advice, which took about a month, had the contract reviewed with help from legal professionals around them, found no alarm bells, and sent back a thorough set of comments protecting certain rights including language rights. That was about a month ago.
-
-Now: a chased update, a promise, another follow-up, and a reply saying the publisher has replaced its editorial review council, that the transition created a backlog, that nothing further is needed from the author — and that the manuscript is in the queue for the new council, with a substantive answer by the end of this week. They are worried the new council could pull out of the offer after three months.
-
-Two things worth taking from it regardless of how it ends. Joining the Authors Guild to get a contract read is a real and affordable route, and it cost a month, which is worth knowing before you need it. And an offer is not a contract until it is signed: three months of good-faith process can still be sitting in somebody else's queue.
-
-🔗 https://www.reddit.com/r/PubTips/comments/1x51l8g/pubq_risk_of_publisher_withdrawing/
-
-💬 Who would read your publishing contract before you signed it — and do you know what that would cost?
+💬 Go and run your own name. Did anything come back?
 
 
-7. Write flash fiction set in your own novel
+4. Three months, 738 readers, and three cents of profit per reader
 
-Jane Friedman's site, 13 October, a guest post by the author and book coach Miranda Keskes, and free to read. Flash fiction is usually defined as a story under 1,000 words, which forces hyper-vigilance about syntax, word choice, punctuation and which detail earns its place. Her first argument for writing it alongside a novel is the obvious one: you get to experience every part of the writing process — idea to finished piece to byline, rejection included — on a timescale a novel cannot offer.
+Posted 14 October, and it is the most complete set of launch numbers this digest has seen. A middle-aged urban fantasy debut on KDP, three months out, from an author who is a designer by trade — so the ad creative cost them nothing, and they make the point themselves that even with that advantage they could not turn a real profit.
 
-The second argument is the one that makes it a craft tool rather than a break. Write flash fiction inspired by your own novel, and it adds depth to the manuscript. As a book coach the gap she sees most often is character depth: there is conflict on the page but the root of it is unclear, so the scene lands flat — usually because the writer has not dug far enough into where the conflict comes from. Her worked example is a father afraid every time his daughter leaves the house. A thousand words on why is a story you can publish and a backstory you can use.
+The figures, in Australian dollars: royalties A$2,524.76 across 327 orders and 210,482 KENP pages read. Ad spend A$2,505.47. Net position: plus A$19.29, about twelve US dollars. Total readers, counting orders plus KENP divided by 512, 738. Profit per reader: three cents. Ratings 113, reviews 21, average 4.6 out of 5.
 
-🔗 https://janefriedman.com/how-writing-flash-fiction-can-strengthen-your-novel/
+The texture is the useful part. Meta ads worked well early and fell apart in month three, so they stopped them — and their read is that Meta is excellent for Kindle Unlimited page reads specifically, with a day or two of spend reviving the reads when they slow. Amazon ads they could not make work at all: two weeks, a decent budget, and in their genre the only way to get clicks was to bid too high, so about $30 bought zero sales. Since the ads stopped, sales continue at a trickle — fifteen this month. On reviews, they had heard one in a hundred and are seeing closer to one in ten rate the book, Goodreads readers being markedly pickier than Amazon's, and replying to people who said they enjoyed it on Meta with a request for a review got compliance nine times out of ten. They are doing pre-orders for book two this time, via a link added to the thank-you page of book one, and have 19 so far from nothing — their point being that it proves demand. Also 70 Amazon followers, value unknown until the next book lands. Their closing honesty: they still do not know whether the sales came from Meta or from Amazon's own recommendations, and assume both.
 
-💬 Pick the character you understand least — what happened to them before page one?
+🔗 https://www.reddit.com/r/selfpublish/comments/1x5d8qv/three_months_later_the_data/
+
+💬 If you ran your own ads and royalties side by side for three months, which number would be bigger?
 
 
-8. 🎬 Repped, no credits, and torn between what sells and what he wants to write
+5. Faber will no longer supply Sally Rooney's works in the UK, in any format
 
-Posted 13 October by a screenwriter at a mid-to-large agency with a couple of minor awards, decent traction and no produced credits. What has always got him meetings is high-concept comedy drawing on his background, in features and TV pilots both. His agent's strategy now is features only, because TV staffing is brutal and without someone in the room you are relying on a lucky submission — he came close that way recently and does not expect it often.
+Books and Publishing reported on 15 October that Faber has announced it will "no longer supply her works in the UK in any format", following the Palestine Action legislation. Their story sits behind a paywall past the opening, so that sentence and that attribution is as far as this digest can go on today's reporting.
 
-The problem is that he cannot think of another high-concept feature he is excited about, and the two ideas he IS excited about are an unsolicited franchise spec he has no business writing and a personal, low-concept dramedy in the Lady Bird vein, which he has been advised against because it is hard to sell on a logline and lives or dies on execution. So: keep making the thing that works while uninspired, or make the thing he wants and accept it is less marketable.
+The background, from reporting last year and flagged as older: Palestine Action was proscribed in the UK in July 2025, and supporting a proscribed organisation carries a maximum sentence of up to 14 years. Rooney said she would direct royalties to the group. In a witness statement for a High Court challenge to the ban she said the law was unclear on whether Faber could pay her royalties at all, and that her existing works "may have to be withdrawn from sale" in Britain. She has also said she cannot safely enter the UK without potentially facing arrest.
 
-This is Tuesday's question from the other side of the door. An unrepped writer asked what to write to get in; this one is repped and asking what to write to keep moving, and discovering the question does not go away when someone answers the phone.
+Set aside the politics, which are not this digest's business, and the mechanism is worth every author's attention. This is a publisher withdrawing an author's entire catalogue from a major market because of legal uncertainty about whether it can pay her. Distribution is not only a commercial arrangement; it runs through law, and the law can change underneath a backlist. Few of us will meet this particular version. The general version — your publisher stops supplying a market and the decision is not yours — is in every contract as a possibility nobody reads for.
 
-🔗 https://www.reddit.com/r/Screenwriting/comments/1x4oang/struggling_with_what_to_write_next_follow_whats/
+🔗 https://www.booksandpublishing.com.au/articles/2026/10/15/342480/faber-ceases-distribution-of-sally-rooney-works-in-uk-following-palestine-action-legislation/
 
-💬 Is the thing that got you noticed the thing you want to keep making?
+💬 Does your contract say anything about what happens if your publisher stops supplying a market?
+
+
+6. Seven edits, a paid proofreader, six months lost, and a stranger from sixteen years ago
+
+Posted 14 October by the same author who posted on Sunday about not enjoying marketing, and the sequel is worse and better. After about seven of their own editing passes they hired someone to proofread and format the book for print. The proofreading went reasonably — plenty of typos and punctuation caught. The formatting was a disaster: the transcript kept coming back unformatted, then the person said they had misplaced the final version and sent a new "final" with the same faults. Six months of that.
+
+So they did it themselves, researched KDP print formatting properly, got hardcover, paperback and ebook working, read the whole book again, found a decent number of remaining typos, and published. Now friends reading it are finding more mistakes — which the proofreader missed and which, to their credit, they say they missed too, while noting they paid somebody for exactly that. Then the turn: they posted about the book in a Facebook group, somebody they had not spoken to in sixteen years got in touch, now works as a proofreader for legal documents, bought the book, started finding things, and offered to proofread and edit it for nothing. They are going to pay him something anyway because it is only right.
+
+Two things worth taking. Hiring someone does not transfer the responsibility, and the only check that caught the remaining errors was a reader who cared. And the marketing problem they were agonising over on Sunday has been parked by a reason to park it — which is its own small lesson about what actually generates momentum.
+
+🔗 https://www.reddit.com/r/selfpublish/comments/1x5s775/a_rant_about_proofreading/
+
+💬 Who was the last person to read your book cover to cover looking for errors — and did you pay them?
+
+
+7. 📺 Special editions, in five steps
+
+The Alliance of Independent Authors, posted about sixteen hours before this digest went out, so Wednesday 14 October — read off the channel page rather than a feed, with the title confirmed against YouTube directly. "How to Create Special Edition Books: 5 Steps for Indie Authors". Pointer only; not watched here.
+
+Worth the slot because of where it sits in the week. On Tuesday this digest carried Katie Cross, twelve years and a hundred titles in, with five successful Kickstarters behind her — and special editions are what most of those campaigns are for. Today's lead is about an audiobook platform changing the terms underneath you. A special edition is the opposite kind of asset: a physical object you set the price of, sell direct, and nobody can re-pool.
+
+🔗 https://www.youtube.com/watch?v=eEKTz3EeOZg
+
+💬 Is there a version of one of your books that somebody would pay three times the price for?
 
 
 —
-Scout notes: yesterday's edition ran, so nothing is carried over. Eight items: four from news and trade press, three from the community lanes, one in the screen lane. YouTube lane: nothing fresh today, fifth day running — all six channels failed four attempts each and the channel pages carried only videos already run here. r/selfpublish, the primary community lane, could not be swept at all: four attempts on its weekly feed, then three varied routes, returning 429s and twice the same 190KB block page with a 403 behind it. Varying the route is the rule this digest adopted on Sunday and it does not always work — three sources have now been tried that way with one repair, one still refusing and one, today's, still refusing. Elizabeth Spann Craig's blog returned 403 on a third shape, including its WordPress API, so it is three days unswept and will be reported as such rather than retried blind. Writer Beware answered first time for a third day on the plain route. Reddit otherwise answered r/writing first time, r/PubTips on a second attempt and r/Screenwriting on a third.
+Scout notes: yesterday's edition ran, so nothing is carried over. Seven items: four from news and trade press, two from the community lanes, one from the video lane. The container this digest is built in was rebuilt overnight and everything working had to be reconstructed from the spec — the data branch, the public feed clone, the fetch scripts and the parsers — which is why today's run took longer than usual; nothing was lost, because none of it lives in the container. YouTube lane: the RSS route was unavailable for the sixth day running, all six channels failing four attempts each, and the channel pages served as the fallback, where two videos not previously run here appeared and both had their titles confirmed against YouTube directly. Elizabeth Spann Craig's blog returned 403 for a fourth day; three request shapes have now been tried, including its WordPress API, so it is a block rather than a request problem and it will not be retried blind again. Writer Beware answered first time for a fourth day on the plain route. Reddit was better than it has been all week: r/selfpublish and r/PubTips first time, r/writing on a second attempt, r/Screenwriting on a third. Screen lane: swept and thin — two archive link-dumps and a For Your Consideration script — so no screen item rather than a padded one. One story was reported only as far as it could be read: the Faber announcement, where the trade source paywalls after the opening sentence and the background is explicitly labelled as last year's reporting.
 
 —
 Curated daily for this community. Spotted something worth sharing?
