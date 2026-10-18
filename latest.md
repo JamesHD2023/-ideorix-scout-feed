@@ -1,119 +1,160 @@
-📚 Daily Writer's Scout — Saturday, 17 October 2026
+📚 Daily Writer's Scout — Sunday, 18 October 2026
 
-1. 🤖 Substack wired an AI detector into its platform, and ALLi's director says the certificate is the wrong argument
+1. 🤖 Five author societies on three continents have written the rules themselves, and Ishiguro has signed
 
-Orna Ross, who runs the Alliance of Independent Authors, published this on 16 October, and it is the clearest account yet of what the detector fight is actually about. Her summary of her own position: certifying writing as "human-made" matters far less than treating each other with humanity.
+Publishing Perspectives, 15 October, and this is the biggest thing in the AI lane this week. The UK's Society of Authors, together with the Creators' Rights Alliance in the UK, the Authors Guild in the US, the Australian Society of Authors, the Writers' Union of Canada and the New Zealand Society of Authors, has launched a global charter for the responsible and ethical use of generative AI. Kazuo Ishiguro, Tracy Chevalier and Kester Brewin have backed it.
 
-The live case. This summer Substack wired Pangram — the same detection tool behind the Caine Prize review this digest carried on Thursday — into its platform, without consulting Substack writers and without a meaningful opt-out. Readers can now quote Pangram's percentage likelihood that a post was human-made. The result, in her words, was some writers shouting witch-hunt, others cheering the platform for housekeeping that was long overdue, and neither side showing much understanding of the other. Many have called it a civil war, which she calls only slightly dramatic.
+The reason given for doing it this way is the line to keep. Anna Ganley, the SoA's chief executive and chair: "In the vacuum of any meaningful policy from governments, we have come together to define how generative AI services should be governed to protect and support human creators." Note who the charter is aimed at. It is not addressed to the AI companies. It asks authors and the industry around them — agents, publishers, prize bodies — to pledge how they themselves will behave.
 
-Pangram's co-founder and chief technology officer Bradley Emi published a response of sorts titled "LLMs don't just mimic human text". The Silicon Valley veteran Lisa Kostova used her own Substack to describe it as a well-worn trick: "proof by intimidation", confidently answering a question nobody had asked, with jargon, charts and statistics, while ignoring the moral and ethical concerns actually being raised. Ross's point is that whether AI text can be distinguished from human text was never the community's question. The questions were: what exactly does the score measure, why was the community not consulted, and why is Substack taking no responsibility and setting no guardrails while sending its readers and writers off to police each other. Neither company has meaningfully engaged.
+What a signatory actually commits to, because the specifics are more interesting than the headline. To use generative AI only in a transparent, responsible and ethical way, weighing the benefits against the environmental, social, economic, democratic and ethical costs. To follow UNESCO's ten core principles of responsible AI and the CLEAR framework from the Brave New World report, adapted for the charter. To use AI, where used, to widen access, inclusion and discoverability so more creators from more backgrounds reach wider audiences. To work mindfully on the impact on jobs, livelihoods and the environment, and invest in people's skills. Then five harder ones: educate and train your workforce in responsible use; run risk assessments on any proposed AI use case covering IP, data protection, impact on creators, diversity and sustainability; create, publish and keep updated an "ethical AI Permitted Use and Disclosure" policy; push for consent-based systems requiring rightsholder permission; and disclose it when AI-generated content forms a material part of a published work.
 
-She also sets out the year's casualties. A debut thriller bought by Minotaur in a seven-figure, two-book deal after a reported fourteen-way auction — allegedly around $2.5 million — was withdrawn by its own co-agents, Marc Gerald and Ashley Coleman at Europa Content, in late July, after rumours from people who had read the manuscript cited the hallmarks of AI: negative parallelism, off-kilter metaphors, a flat prose style. And Hachette pulled Mia Ballard's horror novel Shy Girl in the US and discontinued it in the UK after allegations that were never proven.
+Vanessa Fox O'Loughlin, chair of the SoA's authors board and the bestselling author Sam Blake, said what that means in practice for a working writer: "I will be encouraging all of my publishers to sign." Ishiguro's own framing is more modest than a manifesto and better for it — a core set of principles "we can debate and continue to review", something to rally around. Chevalier called it a step towards transparency "so that we all think more carefully about how we use this shiny new tool."
 
-One more thing in the piece worth going for on its own: ALLi surveyed its own members on AI — how they use it, whether they have a policy, what worries them most — and more than 1,200 replied. The full results are live and free to read.
+It is also the week's answer to a question this digest has carried twice. On Monday the European Writers' Council produced ART — Authorisation, Remuneration, Transparency. On Saturday they asked the EU for a Nutri-Score for the AI value chain. Both were demands made of governments and companies. This one is a set of promises creators make about their own conduct, and it is the first of the three a single author can actually sign today.
 
-🔗 https://selfpublishingadvice.org/the-detection-wars-ai-is-publishings-wicked-problem/
+🔗 https://publishingperspectives.com/2026/10/authors-industry-groups-announce-global-charter-for-the-ethical-use-of-gen-ai/
 
-💬 If a platform you publish on put a human-made percentage next to your work tomorrow, what would you want to know before it went live?
-
-
-2. 🤖 More than three-quarters negative, and 37% have thought about leaving
-
-Publishing Perspectives, 16 October, on two research presentations at Frankfurt — and the first properly quantified picture of what AI is doing to a writing profession.
-
-The European Council of Literary Translators' Associations surveyed 1,785 people in 2026. More than 77% have a negative outlook on generative AI's development in translation and publishing. 37% have considered leaving the profession, and AI's impact was the most frequently cited reason, closely followed by fewer opportunities and declining income. That is not unfamiliarity talking: CEATL president Francesca Novajra reported that roughly 70% had experimented with or used AI in their work, for research, individual phrases or association-run tests — which she distinguishes firmly from putting a whole literary text through a machine. Nearly 30% report fewer assignments they attribute to AI, while about half saw no change. And on post-editing, which is where this week's running theme lands: around a third had been offered work revising machine-generated translations, most declined, and of those who accepted, nearly three-quarters were paid less than for standard human translation. Novajra described assignments that demand more effort while carrying the same quality expectations: "they really can't accept this 'good enough' approach to translation."
-
-The second study, from the HumanAId project in Czechia, is smaller and its lead researcher Jiřina Šmejkalová was explicit that 142 responses are not representative of the industry — but two findings are too interesting to leave out. Nearly nine in ten found saving time a relevant or decisive motivation, and use clustered "more in activities around editorial work, at least so far, than in the editorial work itself" — marketing and design people using it most and liking it most, editors and proofreaders among the least satisfied. And the age finding inverts the usual assumption: older, more experienced respondents assessed AI-related change more positively, while among those aged 30 to 39, around 70% agreed they felt pressured to use AI and were uncomfortable with it.
-
-Šmejkalová's framing is the line to keep: "the central conflict is not between AI users and non-users, but rather between efficiency and creativity."
-
-🔗 https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-programs-explore-ais-impact-on-translation-and-the-future-of-publishing/
-
-💬 Would you take post-editing work at a lower rate than writing — and if not, who will?
+💬 Of those pledges, which one would be hardest for you to keep honestly — and would you still sign?
 
 
-3. 🤖 "We are not in the pockets of the big companies": the EU has started asking for training data
+2. 🤖 One click produced the audiobook. Then came six to eight months of work
 
-The European Writers' Council, 16 October, reporting from a Dublin conference on copyright and human creativity held on 14 October under the Irish EU Presidency. Three things in it matter.
+Indie Author Magazine, 16 October, profiling Phil Marshall, co-founder of the AI audiobook company Spoken — and the most useful thing about it is that the testimony comes from someone selling the technology.
 
-The enforcement has started. Henna Virkkunen, the EU's Executive Vice President for Tech Sovereignty, said the AI Act is in place and the EU has begun enforcing it: "we have sent requests for information from the tech companies that have not disclosed their training data." She confirmed the principle that nobody's work should be used without compensation, said plainly that the text and data-mining exemption is not working, and added: "we are not in the pockets of the big companies. We are enforcing our legislation."
+Marshall generated an audiobook of his own debut hard science fiction novel, Taming the Perilous Skies, with a single click. The novel has more than one hundred speaking characters. He then spent six to eight months on the production, wrestling individual passages into the emotional shape he wanted, hearing over and over the difference between a generated voice saying the right words and a character delivering them convincingly. His verdict on that stretch: "It was just an unbearable amount of work."
 
-The first compliance measurement is not encouraging. Harshvaardhan Pandit of Trinity College Dublin's AI Accountability Lab analysed 80 of the "summaries" AI companies have filed with the EU and reported clear evidence of "a wilful exclusion of the requirement" by the bigger technology companies. Read that against last Saturday's item here, where specialists at Frankfurt concluded the AI Act gives publishers leverage and no teeth: the teeth are being tested, and the first count says the largest firms are declining to comply.
+Where it started is the better story. At the Taos Toolbox workshop in New Mexico — two weeks, eighteen people, led by Nancy Kress and Walter Jon Williams — he wrote a short story in under twenty-four hours with six characters, each with a different accent, gathered at a chalet in France before calamity arrives. He is an audio-only reader and an AI person, and he was floored by what the tech could do. Then he tried to make the six-character story come to life through AI narration: "it was nightmarish."
 
-And the EWC has a frame worth borrowing. Their board member, the writer and historian Dr Conor Kostick, asked for his priority, said transparency — from the books used in training all the way through to the final product — and put it like this: "for the public good, the EU implemented laws requiring labelling to tell us what we are putting into our bodies. Well, we need the same laws to know what we are putting into our minds." They are calling it a Nutri-Score for the AI value chain. It is the second time in five days the EWC has produced a three-word handle for a complicated demand, after ART — Authorisation, Remuneration, Transparency — on Monday.
+His diagnosis is worth a writer's attention regardless of whether you would ever use the tool. He believed the manuscript already contained the information the software needed — who is speaking, what distinguishes each voice, how the characters interact — and that extracting it was the real problem, not the voices. So Spoken's approach is about directing scenes, keeping an independent listener in the loop, and settling how the humans behind licensed voices get paid, rather than about better voice generation.
 
-🔗 https://europeanwriterscouncil.eu/ewc_ieeupres_copyrightconference/
+Which makes three independent arrivals at the same place in one week. Bernoff's survey verbatims on Friday said fixing AI output is harder than writing it. The literary translators told Frankfurt that post-editing machine translation demands more effort at lower rates. And here is a founder of an AI audiobook company putting a number on it: one click, then most of a year.
 
-💬 Would a label listing what went into a model change which tools you were willing to use?
+🔗 https://indieauthormagazine.com/phil-marshall-and-the-work-behind-ai-audiobooks/
 
-
-4. Pay to play is pay to play: eleven business names and one owner
-
-Writer Beware, 16 October, and Victoria Strauss has done the full archaeology on the Australian children's publisher Starfish Bay Publishing — the company whose allegations Books and Publishing noted in passing on 7 October.
-
-The money first. Starfish Bay ran an "Author Supported Traditional Publishing Programme", introduced because of what its website called the severe effect of the pandemic on its business, which required authors to provide a "temporary loan" of AU$6,000. Strauss's response to the author who asked her about it in 2024 is the sentence to remember: including words like traditional and loan and temporary in your demand for money does not change the fact that a large amount of cash is due upfront as a condition of publication. Pay to play is pay to play. Her second point is the one people miss — even if the company sincerely meant to repay within two and a half years, what guarantees it is still trading by then, if four years after the pandemic it still needs its authors to finance it.
-
-The history, assembled from the Wayback Machine. No fees at all before late 2021. By March 2022, a "hybrid publishing model" under the Tiny Seed imprint requiring authors to buy 200 hardbacks at a 20% discount. By early 2023, the Author Supported plan. Also, per documentation shared with her but never on the website, a "signed author program" running at least through mid-2025 — guaranteed publication of one book a year if the author submitted at least two manuscripts annually, in exchange for a four-figure "refundable advance payment". By November 2025 the fee programmes appear to have gone and all imprints are described as traditional.
-
-Then the structure. Starfish Bay was registered in Australia in June 2014 by Liang (Luke) Hou, who incorporated Tiny Seed in the UK in 2017. Across 2025 and 2026 the holdings ballooned to at least eight new business names, several with registered or pending trademarks — Little Fern, Magic Window, Magic Seed, Joyspring Books, Everlight Tales, Tiny Thinkers, Flying Light Publishing Group, Pocket Rainbow. Several are described as partnership publishers with required book purchases and have no evidence of having published anything. Strauss credits the Starfish Bay authors who contacted her with assembling the list; she double-checked it and added the links.
-
-🔗 https://writerbeware.blog/2026/10/16/author-complaints-at-starfish-bay-publishing/
-
-💬 When a publisher asks for money and calls it something else, what is the word you use for it?
+💬 Where in your own process has "the AI did it in seconds" quietly become a longer job than doing it yourself?
 
 
-5. "I've taken on about forty writers as clients and turned down well over 20,000, so far"
+3. 🤖 18,000 listeners, and they are still choosing the human narrator
 
-Posted 16 October, and it is the most useful thing a rejection has ever done. An SFF author shares their second rejection letter, redacted, from a UK agent who ran SFF imprints in London for fifteen years before setting up their own agency — and the agent has explained the entire acquisition economics while declining the book.
+The Alliance of Independent Authors' news podcast, 16 October, where news editor Dan Holloway works through Audible's new NielsenIQ study of 18,000 listeners. Two findings.
 
-The numbers. Most UK editors see around thirty books a week and take on one or two debut novels in an entire year; an agent's figures are similar. Forty clients taken on, well over twenty thousand turned down. The entry level for a new novelist is "special", not "good", and the agent says that was equally true thirty years ago.
+Audiobook fans buy the same book in more than one format. That is a straightforwardly commercial point: the audio edition is not cannibalising the ebook or the paperback for this group, it is an additional purchase by the same reader.
 
-What has changed, and this is the part worth the reading. Publishers' sales and marketing directors now have much more power than fifteen years ago: if they do not believe a first novel can be sold into the bookselling trade in numbers, in some companies they will block the editor from acquiring it. A senior editor told this agent a few weeks ago that even where he loved an author's writing he would not make an offer until the submitted book was 100% right for the market — and recently acquired an author whose previous four novels he and everyone else in London had turned down despite liking them a great deal.
+And they are still seeking out human narrators. Set that against the Audible-commissioned survey reported from Frankfurt earlier this month, which found half of listeners would try AI narration. The two are not in conflict — willing to try is not the same as choosing — and together they are the clearest counter-number available to anyone being told the audio market has already settled the question.
 
-And the honest bit about taste: it is so often an unquantifiable gut reaction to an indefinable voice, rather than "I wanted more of this or less of that". The agent did not finish wanting to say WOW, so the answer is no, and they say explicitly that another agent may well feel differently.
+Also in the episode: Smashwords has added pre-orders and pre-sales through Draft2Digital, and the Bookseller reports AI splitting the ghostwriting market in two.
 
-🔗 https://www.reddit.com/r/writing/comments/1x7d9cl/my_rejection_letter_sheds_light_on_the_publishing/
+🔗 https://selfpublishingadvice.org/podcast-audiobook-listeners-buy-in-multiple-formats/
 
-💬 Is your opening chapter "special" or "good" — and do you know which, honestly?
-
-
-6. Eight books, 94 orders, 75 dollars under water, and calling it a win
-
-Posted 16 October by the author who wrote the one-line "self publishing is work" post this digest noted on 11 October, and the update is a quietly excellent counterweight to a week of break-even arithmetic.
-
-Eight books published now — four in a series, two in a related genre, two standalones — with three more due by year end, which exhausts everything written between 2000 and 2026. His phrase: the cupboard is empty and he is starting from a blank sheet, with a bit of experience. Since mid-September: 66,405 KENP pages read and 94 orders. The first Amazon ad ran on 21 September and got immediate traction on book one, with what looks like good read-through across the series. Book one has been promoted on Booksy and the Fussy Librarian. He is about $75 under water on advertising spend against revenue.
-
-His own verdict is the thing to take: he is calling it a win and checking the write-a-book box off, intends to keep writing and keep the series alive, and doubts it will ever be financially viable — a great and fun retirement project. Set against Thursday's three-cents-per-reader report and Monday's twenty-five ARCs with no reviews, it is the same arithmetic with a different question asked of it.
-
-🔗 https://www.reddit.com/r/selfpublish/comments/1x73eyb/first_book_series_appears_to_be_working/
-
-💬 What would "a win" look like for your next book, in a sentence, before you launch it?
+💬 If your next book had an audio edition, would you want your readers to know who read it?
 
 
-7. A named scam: Reader's Route
+4. 🤖 He did nothing to game it, and ChatGPT ranked him first for ghostwriters
 
-Posted this morning, and short. An author says they did not do their usual due diligence and got taken by an outfit called Reader's Route, and is posting about it — in their own words, willing to shame themselves in order to stop anyone else becoming another victim. The post itself carries no detail of the mechanism, so treat it as a name to recognise rather than a case study, and the comments are where any specifics will be.
+Josh Bernoff, 16 October, on the thing nobody has a playbook for yet — generative engine optimisation. Ghostwriting leads are now reaching him because AI models surface his name, and he had not optimised for it.
 
-Worth running anyway, because this is the third distinct shape of the same problem in a fortnight here: a publisher asking for money and calling it a loan, scam emails engineered to be flattering and to ask almost nothing, and now a paid service that took a writer who normally checks. The pattern across all three is that the approach arrives looking like an opportunity and the check that would have caught it takes ten minutes.
+He tested it properly rather than guessing. Google incognito, a fresh Gmail account never used for anything, so no personalisation could be feeding him his own reflection. The prompt asked for ten ghostwriters for a project, with conditions: familiar with analysing technology trends, experienced at ghostwriting, comfortable with AI but not using it for writing, and knowledgeable about how business books build a reputation as a thought leader. ChatGPT ranked him first and listed the capabilities it had prioritised.
 
-🔗 https://www.reddit.com/r/selfpublish/comments/1x7y6gb/another_scam_readers_route/
+One of those capabilities is the detail worth the whole piece, quoted as the model put it: "Human-written work: Understands AI and its implications but agrees not to use generative AI to draft or write your manuscript."
 
-💬 What is the ten-minute check you run before you pay anyone — and did you run it last time?
+The machine, asked to recommend a writer, treated not-using-the-machine as a selling point — and it could only know that about him because he has said so, in public, repeatedly, for years. Whatever you think of AI search, the mechanism here is ordinary: a clear, consistent, long-standing public position on how you work is now a discoverability asset.
+
+🔗 https://bernoff.com/blog/how-i-dominated-ai-ghostwriter-searches-geo-without-even-trying
+
+💬 If a reader asked a model to recommend an author who works the way you work, is there anything in public for it to find?
 
 
-8. 📺 "Are you overplanning your world? Let's fix it"
+5. A UK certification that reads your drafts, not your finished book
 
-Heart Breathings, posted about a day before this digest went out — read off the channel page rather than a feed, with the title confirmed against YouTube directly this morning. Pointer only; not watched here.
+Jane Friedman, 14 October, reporting a new human-certified label in the UK. The item is behind her paid subscription, so this is the one free sentence and no more — but that sentence is the interesting part.
 
-It lands in the right week. On Tuesday this digest carried someone who had spent about a year on world building before starting a planned library of novellas; on Wednesday, Writers Helping Writers arguing that flexibility is the untaught skill and that a stuck pantser should plot and a stuck plotter should let go. World building is where overplanning hides most comfortably, because it never looks like procrastination.
+Rather than working on the honour system, the service examines work process materials supplied by the author and editor for "indicators of humanity."
 
-🔗 https://www.youtube.com/watch?v=Xh3Y_eh4Gtk
+That is a different instrument from everything else in this argument. The Authors Guild mark in the US is self-certified. The detectors — Pangram and the rest, which this digest has carried all week — score the finished text. A French scheme pairs detection software with an auditor interview. This one asks to see how the book was made: drafts, notes, editorial correspondence, the debris of actually writing something. The free portion does not name the scheme, so we are not naming one.
 
-💬 How much of your world have you built that the reader will never see — and is any of it load-bearing?
+Worth knowing even if you never apply, because it points at where this is heading. Proof that does not come from a machine means keeping a record while you work, not producing one afterwards.
+
+🔗 https://janefriedman.com/new-human-certified-label-in-uk/
+
+💬 If someone asked you to prove you wrote your last book, what would you be able to show them?
+
+
+6. A fake agency with real authors on its client list: Chapter House Literary
+
+Posted to the querying community on 16 October, and it is a name to recognise. An author describes being inundated with scam and AI emails offering to publish or review their work, and says the usual tells make them easy — a cold approach from an agent or publisher is suspicious in itself, and 99% of the time the sender's address does not match the company it claims to be.
+
+This one was different. A legitimate-looking business, a legitimate-seeming business email on the domain chapterhouseliterary.com, linking to a real and very professional-looking website. The quirk they noticed: the site only loads from the bare https address, and putting www in front lands on a parked domain page.
+
+What broke it open is the detail worth passing on. The "agents" use invented names over stolen photographs of real people, and the "authors" page lists real authors and real books that appear to have nothing to do with the agency. As far as the poster can tell, it has no connection to the genuine Chapterhouse Publishing or Chapter House Journal — the near-miss name being part of the design.
+
+Their closing line is the honest state of it: the bots are getting better and the scams are getting more sophisticated. Third shape in three days here, after a publisher asking for a "temporary loan" and a paid service called Reader's Route. The check that catches all three is the same one: reverse-image the staff photographs and email two of the listed authors.
+
+🔗 https://www.reddit.com/r/PubTips/comments/1x79u4x/pubtip_warning_of_a_scam_chapter_house_literary/
+
+💬 Would a reverse image search on an agency's team page have occurred to you before today?
+
+
+7. Seventy agents, six months, not one request
+
+Posted 17 October, and it is the lived version of the agent's rejection letter this digest carried yesterday. A writer has reached the end of querying: nearly six months, seventy agents, no requests and not a single personalised rejection. Everything has timed out past three months.
+
+What makes it worth reading is that they did the work. Beta readers, both friends and strangers who read the genre, loved the book, and the feedback was incorporated. A traditionally published mentor read it and helped with the query letter. The query was workshopped further. The opening pages were worked on endlessly. Another traditionally published author read query and opening and, after minor tweaks, called it extremely polished. Fifteen-plus years of writing behind them, as a screenwriter before this — a first novel, not a first rodeo.
+
+Their own read on it is unusually clear-eyed: perhaps not hooky enough for today's market, but well written, well structured — their strength, and the part no agent read far enough to see — with strong characters and contemporary themes. They are probably going to self-publish, because they still believe in the book. And the part that stings: having read that most queries do not hit the basics, it is depressing that after all that work nobody asked for the full manuscript.
+
+Read it next to yesterday's agent, who takes on around forty clients against well over twenty thousand turned down, and who said the bar for a debut is "special", not "good". That is the arithmetic from the desk. This is the arithmetic from the chair.
+
+🔗 https://www.reddit.com/r/PubTips/comments/1x86wgv/discussion_zero_requests/
+
+💬 At what point does "keep querying" stop being persistence and start being a decision you are avoiding?
+
+
+8. When the printer wants $17 and the market pays $12
+
+Posted 17 October by a first-time children's book author who went with Lulu and has run into the arithmetic that stops a lot of illustrated books: the average children's picture book sells for around $8 to $15, and Lulu's printing cost alone is $17. Add shipping and any profit at all and the book is priced out of its own category.
+
+No answer in the thread worth reporting yet, so this is here as the question, and it is the right question to ask before the book exists rather than after. Print-on-demand pricing is driven by trim size, page count, colour throughout versus colour on a few pages, and paper — and for a full-colour children's book those choices are the margin. The usual routes out are a smaller trim, cutting to a standard page count, a hardback edition priced where hardbacks are expected to sit, comparing a second printer against the first, and accepting that direct sales at events may carry the economics that retail cannot.
+
+🔗 https://www.reddit.com/r/selfpublish/comments/1x8bqmu/how_do_you_price_a_book_when_printing_alone_costs/
+
+💬 Did you price your last book from your costs, or from what the category was already charging?
+
+
+9. 📺 "Bad Choices Make Good Stories: Character, Critique And Community"
+
+The Creative Penn, with Erin Dionne. Read off the channel page rather than a feed, so the age is a range not a date — the page said three days before this run, which puts it on 14 or 15 October. Title confirmed against YouTube directly this morning. Pointer only; not watched here.
+
+The title is doing real work: bad choices make good stories is the cleanest statement of why likeable, sensible protagonists are so hard to read about — and it sits next to today's certification and charter items as a reminder that the craft argument and the AI argument are separate conversations.
+
+🔗 https://www.youtube.com/watch?v=IkBUJ8VdEpk
+
+💬 What is the worst decision your protagonist makes — and did you let them make it, or protect them from it?
+
+
+10. 📺 "The Self Publishing Show (Episode 469) Are You Visible?"
+
+Learn Self Publishing, the Self Publishing Formula channel. Channel page again, so a range: two days before this run, putting it on 15 or 16 October. Title confirmed against YouTube directly this morning. Pointer only; not watched here.
+
+Running it mainly because of the pairing. Bernoff's piece above is a live case of visibility arriving from a direction nobody was optimising for, and this is the week's dedicated treatment of the same question from the marketing side.
+
+🔗 https://www.youtube.com/watch?v=83JHGHFta3A
+
+💬 If a reader found you this week, which door did they come through?
+
+
+11. 🎬 Screen lane: the book nobody has filmed yet
+
+Posted 17 October to the screenwriting community, and a thread rather than news: what book has never been adapted and is perfect for the screen? The poster's own answer is an animated Timbuktu, Paul Auster's novel narrated by a dog named Mr Bones, on the grounds that Auster was a filmmaker and his prose always had a cinematic quality.
+
+Thin as a news item, included because the question is a useful one from the other side of the desk. Novelists are being asked, in effect, which books read as films — and the answers tend to be about voice and a single clear image rather than plot.
+
+🔗 https://www.reddit.com/r/Screenwriting/comments/1x89qra/if_you_could_adapt_any_book_into_a_movie_what/
+
+💬 If someone optioned your novel tomorrow, what is the one scene you would fight to keep?
 
 
 —
-Scout notes: yesterday's edition ran, so nothing is carried over. Eight items: five from news and trade press, two from the community lanes, one from the video lane. Three of the five news items are AI items, which is what the sources published on a Friday — the detector argument, the translators' survey and the EU enforcement news all landed within hours of each other. YouTube lane: the RSS route was unavailable for the eighth day running, all six channels failing four attempts each, and the channel pages served as the fallback, carrying three videos not previously run here, with the one used confirmed against YouTube directly today. Elizabeth Spann Craig's blog returned 403 for a sixth day, recorded as blocked after three request shapes were tried earlier in the week. Writer Beware answered first time for a sixth day on the plain no-slash route — and published the week's most substantial scam investigation, which is the item that would have been missed had the route not been fixed on the 11th. Reddit needed three attempts for r/selfpublish and two for r/PubTips, with r/writing and r/Screenwriting answering first time. Screen lane: swept and thin again, so no screen item rather than a padded one.
+Scout notes: eleven items — five from news and trade press, four from the community lanes, two from the video lane. Honest about where they came from: the trade sources published nothing new between Friday evening and this run, so today's news items are Friday's and Thursday's stock that had not run here yet, every one of them inside the seven-day gate and checked against the ledger. Publishing Perspectives' homepage came back byte-identical to yesterday's, 157,732 bytes, which is a Sunday rather than a fault, and the charter story leading today was found on it and dated 15 October from the article's own timestamp. The Bookseller's collective AI licensing scheme looked like a lead until the article's date read 10 March, so it is out. UK lane: present today for the first time in a fortnight, and twice — the Society of Authors is the charter's lead organisation, and the certification item is Jane Friedman reporting a UK scheme. YouTube lane: the RSS route failed for the ninth day running, six channels at four attempts each in the sweep and eight attempts each on the two channels used, so the channel pages were the route again, with both titles confirmed against YouTube directly and both ages stated as ranges rather than dates. Elizabeth Spann Craig's blog returned 403 for a seventh day, recorded as blocked. Writer Beware answered first time on the plain no-slash route and had published nothing since Friday's Starfish Bay investigation. Reddit needed three attempts for r/writing, four for r/PubTips and two for r/Screenwriting; r/selfpublish answered first time. Diary note, from Indie Author Magazine on 16 October: Indie Author Training's AI technology summit runs 20 and 21 November, day one free to attend and covering where each tool falls short as well as what it does, day two ticketed at $499.
 
 —
 Curated daily for this community. Spotted something worth sharing?
