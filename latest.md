@@ -1,106 +1,127 @@
-📚 Daily Writer's Scout — Tuesday, 20 October 2026
+📚 Daily Writer's Scout — Wednesday, 21 October 2026
 
-1. 🤖 Library readers can now filter your book out for using AI, and the switch is already live
+1. 🤖 Three hundred authors have just sued Meta one at a time, and the arithmetic is the point
 
-The most actionable thing in today's digest, and almost nobody has noticed it. Libby — the app through which most library ebook and audiobook borrowing happens, run by OverDrive — now carries AI content controls. Not announced with a press release: OverDrive's own help pages for the feature carry last-updated stamps of 14 and 15 October, and the independent write-ups land on 16 and 17 October.
+Bloomberg Law, yesterday, 20 October, on filings made the day before in the federal court for the Northern District of California. Around 300 authors have begun individual claims against Meta over allegations it copied their books to train its large language models without permission. Their lawyers, at Freedman Normand Friedland and Stris & Maher, say they plan to file for close to a thousand more authors in the coming months. The authors range from novelists to journalists.
 
-Where it lives and what it does, from OverDrive's own documentation. Menu, then Content Controls, then AI Contributions. Under Audio there is a "Human narrators only" preference. The default setting matters as much as the switch: it only hides AI-narrated titles in deep search — that is, titles your own library does not own — until you turn off the "Deep search only" toggle under "Where to apply filters", at which point AI narration disappears from every list and search you see. Settings do not sync between devices, so a reader has to set it on each one.
+What makes this different from everything that came before it is the shape, not the allegation. Every major author case against an AI company so far has used the class action mechanism, where thousands of writers are grouped into one unit and litigate together. These are individual lawsuits, deliberately separate. The underlying claim is the familiar one: that Meta downloaded hundreds of thousands of ebooks from the illegal databases known as shadow libraries and trained on them. Meta's defence is the familiar one too — fair use, on the grounds that the copying is transformed into an entirely new technology.
 
-What this means from the author's side of the counter. Library lending has been a quiet, reliable channel for indies, and a reader-side filter now sits in front of it. The filter works off declared AI contribution, which makes your metadata a commercial decision rather than an ethical one: if you used AI narration and said so, some readers will never see the book; if you used it and did not say so, you are relying on a detection system that OverDrive itself does not claim is perfect, with your library relationship as the stake. The context is not hypothetical either — the blog that flagged this reports librarians discussing dropping a rival service over AI titles being added to it.
+Now the arithmetic, which is why this matters to anyone with a book that might be caught up in it. Each author in these suits seeks statutory damages, which can run to a maximum of $150,000 per infringing work. Compare the settlement route: the first class action, against Anthropic, produced $1.5 billion and roughly $3,000 for each author who opted in. That is the trade in plain terms — a near-certain three thousand as part of a class, or a much larger theoretical maximum alone, with the cost and risk that goes with it. And the risk is real: in Kadrey v. Meta, a separate proposed class action, the judge found the plaintiffs had failed to provide the evidence the case needed.
 
-Worth checking today where your own titles sit, and what your distributor has declared on your behalf.
+The four cases are Reno, Sheard, Winspear and Older v. Meta Platforms, all filed on 19 October.
 
-🔗 https://help.libbyapp.com/en-us/6313.htm
+🔗 https://news.bloomberglaw.com/litigation/meta-sued-by-hundreds-of-authors-in-ai-training-copyright-cases
 
-💬 If a reader filter asked "human narrators only", would your audiobooks pass — and did you choose that, or did your distributor?
-
-
-2. YouTube is circling audiobooks, and the money question is wide open
-
-Tubefilter, 15 October, on a Wall Street Journal report, with Publishing Perspectives picking it up in its Monday round-up yesterday: YouTube has been in active discussions with publishers about an audiobook offering, with a possible launch in 2027. YouTube has not confirmed it.
-
-The shape of it, so far as anyone outside the talks knows. It would likely be tied to YouTube Premium, the ad-free tier at $15.99 a month for new customers, which together with YouTube Music already reaches more than 125 million subscribers. A la carte purchases are also possible. Nothing is settled on pricing, catalogue or licensing terms.
-
-Why it matters more than another platform rumour. It arrives a week after Spotify said it would expand audiobooks to 180 markets. If YouTube follows Spotify in folding listening hours into an existing subscription at no extra cost, millions of people get audiobooks overnight in markets where audiobook retail barely exists — and Publishing Perspectives puts the real question plainly: how would publishers, and by extension authors, be compensated. Audiobooks are already on YouTube in a fragmented way, including unauthorised uploads and public-domain recordings with millions of views, and the revenue from that is negligible. Whether this becomes a new income line or a new subscription pool where per-listen value gets diluted depends entirely on a business model nobody has seen.
-
-🔗 https://www.tubefilter.com/2026/10/15/youtube-audiobook-library-in-2027-book-publishing/
-
-💬 Would you put your audiobook on a $15.99 all-you-can-listen tier if the per-listen rate was unknown at signing?
+💬 If your book were eligible for both routes, would you take the class settlement or go it alone — and what would decide it?
 
 
-3. 🤖 AI narration is 0.4% of listening to new titles, and exclusivity can cost you 70% of your listeners
+2. 🤖 A human-authorship mark that asks for your manuscript history, and can travel in your retail metadata
 
-Two numbers from BookBeat's chief executive Niclas Sandin, presented at Frankfurt and reported in Publishing Perspectives' round-up yesterday, 19 October. Both deserve to be in every wide-versus-exclusive argument from now on.
+Reported by the Alliance of Independent Authors' news summary yesterday, 20 October, and confirmed from the organisation's own pages: Books By People launched last week, certifying books as human-written and giving them a reader-facing mark. Margaret Atwood is quoted on their homepage calling it a certificate of authenticity that authors, publishers and booksellers "will need", alongside the former Penguin Random House chief executive Markus Dohle, the actress and author Dame Harriet Walter, and the Books & Books president Mitchell Kaplan.
 
-The first is the AI-narration figure: 0.4% of listening to new titles in 2026. Sandin's own reading is that it has yet to transform the market. Set it beside the numbers this digest has carried in the last five days — the Audible survey at Frankfurt where half of listeners said they would try AI narration, and the NielsenIQ study of 18,000 listeners who still seek out human narrators. Willingness to try, stated in a survey, and 0.4% of actual listening hours are very different measurements, and only one of them is behaviour.
+The mechanism is the part worth reading twice, because it is not a detector and not an honour system. Titles are registered and then reviewed on three things: creation accounts, manuscript history, and signature analysis. Their own framing draws the contrast — unlike online tools that attempt to detect AI, or trust-based labels, they map the signs of humanity visible in the writing process. No generative AI is permitted in the content of an eligible title, though tools like AI spell checkers are allowed. They say their regulations have been examined and approved by the UK Intellectual Property Office.
 
-The second number is the one with money attached. Sandin argued that audiobook growth depends on engagement and retention rather than catalogue size, and criticised exclusivity as a growth strategy: delayed releases or poor positioning can cost publishers up to 70% of potential listeners. His platform's scale gives the claim some weight — nearly 1.3 million paying subscribers across ten European markets, more than 1.5 billion listening hours, over €500 million paid to publishers since 2015, a million hours of listening a day with more than 90% of it audio, and completion rates reaching 82% on some titles.
+Two practical details. Certified titles appear on a public profile in a directory, reachable by a unique ID and QR code. And the certification status can be added to the data you send retailers, so a shop's systems can recognise it — which, read next to yesterday's item on Libby's new AI filters, is the second place this week where a human-authorship claim becomes a field in your metadata rather than a line in your bio.
 
-Corroboration from the retail side in the same round-up: Thalia, Germany's largest bookseller, grew sales 4.5% to €2.3 billion in the year to September, with ebook revenue up 7% and audiobooks up 22% — and its chief executive Ingo Kretzschmar still warning that the broader book market remains under pressure. Audio is where the growth is in Europe. The argument is about who captures it.
+The catch for this community, in ALLi's words: it is at the moment a "for publisher" organisation that does not seem to be set up for indies, though it does not appear to exclude an indie publishing under their own imprint. Worth watching rather than queueing for — and note that this is the kind of scheme the new UK label reported on 14 October was described as being, examining work-process materials rather than finished text. We have not seen the two confirmed as the same thing.
 
-🔗 https://publishingperspectives.com/2026/10/around-the-book-world-monday-october-19-2026/
+🔗 https://booksbypeople.org/
 
-💬 Is your audio exclusive — and if so, what did you get for it that was worth the listeners you cannot reach?
-
-
-4. 🤖 "Stop asking 'Could AI do this job?'"
-
-Josh Bernoff, yesterday, 19 October, on automation "at scale" — and it is the clearest short account yet of what gets lost, from someone who uses the tools daily.
-
-His four things that are always true. Automating a repetitive process is nearly always faster and cheaper. It always runs into exceptions — the generated code is buggy, the report misses the key insight, the screening tool rejects the excellent candidate, the chatbot infuriates the one complainant with two million followers. When people do the work, they think creatively and turn problems into breakthroughs, so once their work is automated you have solved today's tasks and removed the source of tomorrow's insight. And people prefer to deal with people: the customer wants to be heard as much as fixed.
-
-His summary line is the one to keep: AI is good at doing what people have done the way they have always done it, which means progress only on the status quo. Creative improvement tends to start with people. He is blunt about the felt result, too — the sense that dealing with automated systems is making the world crappier is not a coincidence; things are getting faster and cheaper for routine work and worse at the moments that actually matter.
-
-Then the reframe, which transfers straight to a writing business. Stop asking "could AI do this job?", because that almost always ends in a disservice to someone. Start asking "how could people do this job better?" Every automated task is a lost chance for insight unless you have planned a way to harvest that insight inside the automated system. And his own position, stated plainly and then clarified in his comments when a reader asked what it meant: he is an AI-enhanced writer who writes every word himself, using AI for many tasks including research but not for writing. The results, he says, are better that way.
-
-🔗 https://bernoff.com/blog/the-problem-with-automation-at-scale
-
-💬 Which task in your writing week would you automate, and what would you do to keep the insight it currently gives you?
+💬 Could you produce a manuscript history for your last book if someone asked for one tomorrow — and in what form?
 
 
-5. An opportunity with a deadline: five unpublished US novelists, mentorship and a grant, closes 30 November
+3. 🤖 "Using generative AI in the shadows": the Society of Authors answers its critics
 
-Publishing Perspectives, 19 October. The Women's Prize Trust and Chanel have launched Originators, a programme for emerging novelists in the United States, announced at a launch event in New York last week.
+The third beat of the story this digest has carried since Sunday, from ALLi's news summary yesterday, 20 October. Dan Holloway's opening line is "this week in who could possibly have seen it coming" — the Charter of Ethical AI Use ran into a reaction from authors arguing that it allows too much, and that the red line should be drawn against the use of generative AI altogether. He notes The Bookseller's report carried some choice phrasing from authors, including seasonally appropriate remarks about inviting vampires over thresholds.
 
-What is on offer. Five writers will be selected to receive mentorship, professional development, help building a network in publishing, and a grant from Chanel to support the writing project, gathering in New York in spring 2027 for the announcement and a reception with the panel.
+The Society of Authors' chief executive Anna Ganley has answered in a blog post, and the pragmatic case rests on one sentence: "We are deeply concerned that people within the industry are using generative AI in the shadows, where it cannot be monitored or its use and impacts fully understood." Ganley's position is that her organisation is no less opposed to generative AI than it has ever been, and no less clear about its harms — the charter is about bringing an unstoppable practice into the light where standards can apply.
 
-What to send. The programme invites unpublished US-based novelists to apply with a writing sample of 5,000 words, a synopsis, and information about themselves. Submissions are open now and close on 30 November 2026.
+It is a familiar argument in other fields, and worth examining on its merits rather than its vibe: regulation rather than prohibition at least produces scrutiny. The counter-argument is equally familiar, and is what the critics are making — that a voluntary standard signed by the parties it constrains normalises the practice while changing little. Both things can be true at once, which is why this one is not going to resolve this week.
 
-Who is reading. The panel is chaired by A.M. Homes, a previous Women's Prize for Fiction winner, with Virginia Evans (2026 winner, for her debut The Correspondent), V.V. Ganeshananthan (2024, Brotherless Night), Tayari Jones (2019, An American Marriage) and Nicole Krauss, twice shortlisted. Homes's framing of why it exists is worth reading if you are hesitating: in her own development it was the vote of confidence from teachers and mentors, people who recognised something before she could recognise it herself, that pushed her to dig deeper.
+Linking ALLi's summary rather than the Society's own post, because the Society's website returns a 403 to this sweep; the sentence above is as ALLi quotes it.
 
-Note the eligibility honestly: US-based and unpublished, so a chunk of this community is out — but a 5,000-word sample read by that panel is an unusually cheap lottery ticket for anyone who qualifies.
+🔗 https://selfpublishingadvice.org/society-of-authors-defends-ai-charter/
 
-🔗 https://publishingperspectives.com/2026/10/the-womens-prize-trust-and-chanel-partner-to-support-emerging-writers-in-the-us/
-
-💬 Do you have 5,000 words you would be willing to put in front of five prize-winning novelists by the end of November?
+💬 Does bringing AI use into the open reduce the harm, or just make it respectable?
 
 
-6. 🎬 They cut the prose out of the screenplay, and now it reads like bullet points
+4. The scam that passed every check: a real editor's name, a real address, and a referral
 
-Posted to the screenwriting community on 17 October, and it is a craft problem novelists will recognise in a different costume. A writer was told their prose was novelistic — fun to read, but not what a screenplay is, and that industry readers would give up on a strong story because of the amount of it. Five thousand edits later they agree: much of it was not filmable, good for an actor or a reader but not for a camera. And now the script reads, in their words, almost bullet-pointed. This, then this, then this. They describe it as having pruned the flowers out of their own garden.
+Posted yesterday, 20 October, and it is the most instructive thing in today's digest because the author did everything right and still nearly went along with it.
 
-The question they are really asking is whether the pruning was right, and the answer in the replies and in general practice is that both things can be true. What was cut was genuinely unfilmable; what the cutting exposed is that the rhythm was doing work the prose was getting credit for. A sparse script still has to control pace, and that control has to come from scene length, white space and the order of revelation rather than from sentences.
+The approach. An email from someone claiming to be Editor in Chief at a well-known publishing house, expressing interest in a short story collection the author self-published almost ten years ago. The author's first thought was vanity press or scam, so they verified the credentials — and the address was a genuine one belonging to the real person. After introductions, the "editor" suggested continuing through the author's agent. The author has no agent, so one was recommended by name, with the suggestion of mentioning the editor who made the introduction.
 
-The detail that makes it useful here: they plan a novel version anyway, so the flowers get planted somewhere. If you write in more than one form, that is the cleanest possible test of which effects belong to which medium.
+How it unravelled, by the author's own edits to the post. The recommended agent's email address turned out to be a single letter different from the real person's. The replies then started reading like generated text — very glad to hear from you, excited to work together — and ended in a request for a formal query letter and the full manuscript before anything could proceed. The author is not sending the manuscript, and is weighing whether to send the complete text of War and Peace instead.
 
-🔗 https://www.reddit.com/r/Screenwriting/comments/1x8ob30/removing_unneeded_prose_now_it_reads_boring/
+The reason to read this even if you would never fall for it. Monday's scam here was a fake agency with invented staff, and the check that catches it is "does this company exist". This one defeats that check entirely: the company is real, the first person is real, their email is real, and the forgery is one character inside a referral. The check that catches this one is different — reply only to an address you looked up yourself, never the one in the email, and never send a manuscript to anyone who found you.
 
-💬 What is one thing your prose does that could not survive being filmed — and is it load-bearing, or decoration?
+🔗 https://www.reddit.com/r/selfpublish/comments/1xarpn7/a_traditional_publisher_contacted_me_about_one_of/
+
+💬 When something flattering arrives in your inbox, what is the first thing you check — and would it have caught this one?
 
 
-7. The urge to write arrives at work and dies on the doorstep
+5. An editor argues you should not pay an editor yet
 
-Posted yesterday evening, 19 October, and the most relatable thing in the sweep. A writer is frustrated that the urge to write arrives while they are at work and must be doing something else, and is completely gone by the time they get home — leaving them to manufacture the feeling instead. They ask whether it is an ADHD thing, boredom, or just bad timing, and whether anyone has found a way to trick their brain into wanting it at a usable hour.
+Writers Helping Writers, yesterday, 20 October, with Jill Boehme — a freelance editor opening with the observation that you might expect her to talk you into hiring her, and that the opposite is true. Free feedback from readers comes first; a professional edit has its place after that.
 
-Running it as a question rather than an answer, because the comments are where the useful part will be, and because the mechanism is worth saying out loud: the urge usually shows up when writing is forbidden, and the forbidding is doing some of the work. The practical dodges people report tend to be small — capture one line in your phone at the moment the urge hits rather than the whole idea, stop mid-sentence the night before so there is an obvious handhold, and separate "feeling like writing" from "starting", because for most working writers only the second one is available on a schedule.
+The ladder, with her verdicts. Alpha readers read your first draft, and her answer on whether you need them is no: a first draft is the messiest thing you will ever write, by some accounts the telling of the story to yourself, and sending it out is a waste of your reader pool. Save them. Beta readers take the second draft, after substantial revision, and tell you what is confusing and what is not working. Critique partners operate at the level below a developmental edit — asking where a scene is going, what a character's motive is, flagging overwriting and the clunky synonyms people reach for instead of "said". Her point for indies is that strong critique partners can take the place of hiring a line editor, and if you do not have one, that is when you pay for it.
 
-🔗 https://www.reddit.com/r/writing/comments/1xa6w07/really_need_to_stop_getting_the_urge_to_write_at/
+Her one non-negotiable is the last rung, and it applies on both publishing routes: no book should go to print without a professional final copy edit, catching the small inconsistencies, the timeline hiccups and the missing commas that nobody who has read the manuscript twenty times can still see.
 
-💬 What actually gets you started on a day when the urge is nowhere — and does it work more than half the time?
+Read it next to Monday's item here on paid beta readers, where an author now insists on a video call to be sure a human read the book. Same problem from the other end of the transaction: feedback is only worth what the reader actually brought to it, and the cheapest versions are the ones you have to earn rather than buy.
+
+🔗 https://writershelpingwriters.net/2026/10/should-writers-pay-to-have-their-work-edited/
+
+💬 Which rung of that ladder are you missing — and is it the one you keep paying to skip?
+
+
+6. Plotter or pantser is a question about one phase, not about you
+
+Jane Friedman's site, yesterday, 20 October, with a guest post by the writer, editor and book coach Karmen H. Špiljak — and it is the cleanest demolition of that argument I have read.
+
+Her problem was the familiar one: she drafted some manuscripts with no plan, outlined others in detail, and spent most of her time somewhere between. "Plantser" never satisfied her, because the label explained nothing about her own process and offered no way to improve it.
+
+The reframe came from Anne H. Janzer's book The Writer's Process, which breaks writing into seven steps from research to publication — condensed here into preparation, drafting and revision. Seen that way, the whole plotter and pantser divide turns out to describe only the first of the three. Some writers enjoy the blank canvas; others want to understand the story before committing to it. That is a preference about preparation, not an identity, and preparation is far more than outlining — how you do it can change with the story, your experience and what you need from it.
+
+The reason it is worth your five minutes: an identity cannot be improved, but a method can. If you have ever lost an argument about outlining to someone who writes nothing like you, this is the frame that ends it.
+
+🔗 https://janefriedman.com/what-many-novelists-get-wrong-about-preparation/
+
+💬 What does preparation actually look like for you — and is it the same for every book you have written?
+
+
+7. Seven writing contests with deadlines inside the next six weeks
+
+The Authors Guild published its monthly round-up yesterday, 20 October. The dates are close enough to act on, so here are the headline figures with the catches stated.
+
+Closing 1 November: the Ronald Sukenick Innovative Fiction Contest, open to US writers, $3,000 plus publication, $25 to enter; and the Catherine Doctorow Innovative Fiction Prize, $15,000 plus publication, $25 to enter, but restricted to US writers with at least three published books of fiction.
+
+Closing 13 November: the F(r)iction Short Story Contest, open to all writers, $1,000; and the Narrative Fall Story Contest, open to all writers, $2,500, $27 to enter.
+
+Closing 30 November: the Quill Prose Award for queer writers, $1,000 plus publication, $10 to enter; the A. Poulin, Jr. Poetry Prize for US poets who have not previously published a book, $1,000 plus publication, $30 to enter; and the Chautauqua Prize, for a book first published in the US in English in 2026, fiction and some nonfiction, $7,500, $85 to enter.
+
+Two of these are open to writers anywhere, which is worth saying because most such lists are not. And note the entry fees against the prizes before you submit to several — a competition is a legitimate route to attention, and it is also the one place where the scam filter and the opportunity list sit closest together.
+
+🔗 https://authorsguild.org/contests/calls-for-submissions-november-2026/
+
+💬 Have you ever entered a contest and had something real come of it — or is the fee the only thing you remember?
+
+
+8. The monkey's paw grants your wish: one devoted reader, three stars every time
+
+Posted on 19 October, and the funniest honest thing in the sweep. An author's wish: not fame, not thousands of readers, just a tiny number of strangers who find the books, enjoy them, and perhaps read another. Granted — in the form of one exceptionally prolific reader working enthusiastically through the entire catalogue and awarding every single book three stars.
+
+The twist that makes it a real problem rather than a joke. They finish the books, so the author can watch the progress on their KDP dashboard and know what is coming next. And because the existing ratings are few, even though they are all five stars, each three-star arrival pulls the average down hard.
+
+Worth running because the mechanism behind the joke is one of the least discussed facts of early indie life: with a small number of ratings, every individual rating is a shock to the average, which means your public numbers are mostly noise until the sample is big enough to be signal. The author's own note is the right place to land — they know they should be grateful someone is reading, and they are, and it is still uncomfortable to watch.
+
+🔗 https://www.reddit.com/r/selfpublish/comments/1x9v19j/monkeys_paw_p/
+
+💬 What is the kindest three-star review you have ever had — and did it tell you anything the five-star ones did not?
 
 
 —
-Scout notes: seven items — five from news and trade press, two from the community lanes, one of those the screen item. YouTube lane: nothing fresh today. The lane was swept in full and the RSS route failed for the eleventh day running, six channels at four attempts each, with all six channel pages loading as the fallback — but every video inside the seven-day gate is one this digest has already run, so there is no video item rather than a repeat. One lane was unreachable and is reported as such: r/selfpublish refused nine requests across five different shapes, four from the scheduled sweep and five more by hand, and the one that returned a 200 was a 335KB "Welcome to Reddit" page carrying zero entries — size is not an answer. r/PubTips answered first time, r/Screenwriting on the second attempt, r/writing on the third. Publishing Perspectives published again after three days of a byte-identical homepage, and both new articles are in today's digest. Two finds today came via Monday's Weekly News round-up at authorhelp.uk, which is the UK source in this sweep: one of the pieces it linked turned out to be dated 11 October on its own feed, outside the seven-day gate, and the same blog's 17 October post is what put the Libby filter on today's list. The Federation of European Publishers' figures in yesterday's Publishing Perspectives round-up are not repeated here: this digest ran them on 9 October, and the ledger is the reason the same numbers are not being served twice. Elizabeth Spann Craig's blog returned 403 for a ninth day, recorded as blocked. Writer Beware answered first time and has published nothing since Friday.
+Scout notes: eight items — six from news and trade press, two from the community lanes, both of those from r/selfpublish. Screen lane: swept and nothing new worth running, so no screen item today rather than a padded one. YouTube lane: nothing fresh today. Swept in full, the RSS route failing for the twelfth day running at four attempts per channel, with all six channel pages serving as the fallback; every video inside the seven-day gate is one this digest has already run, and the oldest of them now sits on the gate boundary. Three of today's AI items come from two sources, deliberately: the Meta filings are reported from Bloomberg Law's own account of the court documents, and the certification and charter items both surfaced in ALLi's Tuesday news summary, with the Books By People detail then taken from that organisation's own pages rather than from the report about it. The Society of Authors' website returned 403 again today on two request shapes, so its chief executive's words are quoted as ALLi quotes them and the link goes to ALLi. Writers Helping Writers' feed dropped a connection mid-sweep and answered first time on a retry. Written Word Media's updated KDP Global Fund payout table is not run here — this digest covered that URL already. Reddit, with route variation added to the sweep after yesterday's failure: r/selfpublish, r/PubTips and r/Screenwriting all answered first time, and r/writing answered on the second shape after one refusal rather than burning four attempts on the same one. Elizabeth Spann Craig's blog returned 403 for a tenth day, recorded as blocked. Writer Beware has published nothing since Friday.
 
 —
 Curated daily for this community. Spotted something worth sharing?
