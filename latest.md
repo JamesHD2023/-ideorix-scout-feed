@@ -1,110 +1,99 @@
-📚 Daily Writer's Scout — Friday, 23 October 2026
+📚 Daily Writer's Scout — Saturday, 24 October 2026
 
-1. Kindle Unlimited is now Kindle+ — and if your ebook is in KDP Select, your AI-narrated audiobook is already in it
+1. Register a copyright before mid-November or pay 22% more — and the date is sooner than you have been told
 
-The biggest platform change of the year for anyone in KDP Select, announced by Amazon to authors on 21 October and rolling out across the store on 22 October. Two separate things happened at once, and the second one matters far more than the first.
+This came up as a passing remark on the Alliance of Independent Authors' news podcast yesterday, 23 October, where Dan Holloway reported that newsletters and copyright were what authors asked about most at SelfPubCon 2026, and that registering before the fee rise could save you money. He put the rise at the new year. We checked, and it is sooner than that — which turns a vague intention into something with a date on it.
 
-The rebrand. Kindle Unlimited is now Kindle+. Amazon says the new name better reflects a catalogue that now includes ebooks, audiobooks, magazines and comics, and the "+" convention travels better across its international stores. On product pages the badge, the membership box and the tagline have all changed — the subscription line now reads "Over 5 million eBooks and audiobooks". The rollout is visibly unfinished: some pages still say Kindle Unlimited, some say Kindle+, and some say both. Written Word Media's practical advice on marketing copy is the right call — write "Available in Kindle Unlimited (now Kindle+)" for a while, because readers do not yet know the new name.
+What the Copyright Office's own fee page said when we read it this morning: electronic filing for a single author, same claimant, one work, not for hire is still $45; the Standard Application is still $65; paper filing is still $125. So nothing has changed yet.
 
-The change that actually affects your money. Eligible audiobooks are now included in the subscription, and listening is paid by page from the same KDP Select Global Fund that pays for ebook reads. Here is Amazon's own wording, from the email it sent authors: "Audiobooks with Virtual Voice: When the associated eBook is enrolled in KDP Select, audiobooks with virtual voice are automatically included in Kindle+ (and the Audible Plus catalog). If your eBook is already enrolled, your audiobook is now available to Kindle+ listeners, and no action is required from you." Read that twice. If you used Virtual Voice and your ebook is in Select, this has already happened to you. ACX audiobooks can be added by enrolling, and eligible ACX titles must be exclusively distributed through Audible.
+What is coming, per the Copyright Alliance's explainer of 13 October: the Office submitted its final proposed fee schedule to Congress in July, the Copyright Act gives Congress 120 days to object, and if it does not, the new fees take effect — almost certainly as early as 12 November. The new numbers are $55 for the single-author electronic filing (up 22%), $85 for all other filings (up 31%), and $185 for paper (up 48%). Fees rise an average of 43% across the schedule.
 
-The rules that are confirmed. Each page is paid once per subscriber: if someone listens to your first three chapters and later reads those same chapters, the second pass is a re-read and earns nothing, and the same applies in reverse. Immersive Reading — reading and listening at once — pays at the higher applicable rate. Amazon says it is adding money to the fund for listening, and that ebook reads continue to be paid by page as they are today. KDP reporting now separates Kindle+ pages read from pages listened, and there is a new all-formats filter.
+So the practical position for a US author with an unregistered book, stated plainly: roughly three weeks, not two months. Registration is what gives you the option of statutory damages and legal fees in an infringement case rather than only provable losses — which is exactly the difference the AI training-data suits this digest has been covering all week turn on, where the individual claims against Meta are built on statutory damages of up to $150,000 per work. Ten dollars a title is not the point. The point is that the cheapest week to do a job you were going to do anyway is this one.
 
-The questions nobody can answer yet, which are the ones to hold your nerve on. Amazon has not published a listening rate, has not said how much it is adding to the fund or how that figure will be set, and has not guaranteed that per-page ebook rates stay where they are. Audiobook listening in Kindle+ is US-only for now, with more markets promised and none named. And the exclusivity picture is not fully clear: the existing KDP Select ebook exclusivity, the ACX distribution terms and any new Kindle+ requirement are three different things, and Written Word Media — who are chasing this — recommend reading the agreements before you change your audiobook distribution. That is the right advice. Nothing here needs a decision today except one: go and look at what is enrolled in your own account.
+Two honest caveats. Congress could still intervene, so the date is near-certain rather than certain, and the Copyright Office page is the thing to check before you file. And this is a US registration system: authors elsewhere hold copyright automatically without it, though US registration is open to foreign authors and is what a US court wants to see.
 
-🔗 https://www.writtenwordmedia.com/kindle-plus-for-authors/
+🔗 https://www.copyright.gov/about/fees.html
 
-💬 Did you know your Virtual Voice audiobook was going into the subscription — and if you had been asked first, what would you have said?
-
-
-2. "I'm happy with my 6th book, but this will be my last for Amazon"
-
-Posted yesterday, 22 October, hours after the Kindle+ announcement and with no reference to it, which is what makes it worth reading next to item one.
-
-The numbers first, because they are stated honestly. Book six went up a week ago and has sold ten copies, three of them pre-orders. The author calls that a modest success — they had feared one sale or none — and notes it is simply hard on Amazon now. They have published since December 2021, a book a year since 2022.
-
-Their account of what changed is the part to discuss: four or five years ago it was easier to gain traction without spending much money or grinding on social media, and that was before what they call the AI-junk revolution and before the algorithms buried indie authors. Whether you accept that diagnosis or not, the decision following from it is clear and oddly cheerful — no future work on Amazon, taken "with joy and relief, rather than defeat". Future projects go free on Royal Road or as direct paperback sales; they already have a box and shelves of copies at home. What they want back is specific: to stop worrying about numbers, page reads, star ratings, review counts and rankings, and return to writing for its own sake.
-
-They also report something worth watching, and they say they are hearing it rather than measuring it: a lot of talk on bookish social media about authors wanting off the KDP hamster wheel, with some pulling books permanently and moving to direct sales through their own sites. Treat that as a straw in the wind, not a trend — but it is the second item this week where an author's answer to the economics was to cut the platform out rather than work it harder.
-
-🔗 https://www.reddit.com/r/selfpublish/comments/1xclo4m/im_happy_with_my_6th_book_but_this_will_be_my/
-
-💬 If you stopped counting page reads and rankings tomorrow, what would you actually do differently?
+💬 Is your latest book registered — and if not, is it because you decided against it or because you never got round to it?
 
 
-3. 🤖 The Authors Guild says no publisher should make you prove you wrote your book. An editor says they will anyway
+2. Hollywood is shopping the backlist, and three-quarters of requested books get exactly one enquiry
 
-Josh Bernoff, yesterday, 22 October, going through the Authors Guild's new "AI Best Practices for Publishers" guideline by guideline. He critiques it from a position of respect and his overall verdict is worth stating first: publishers as an industry have abdicated the job of writing their own guidelines, and he commends the Guild for filling the void.
+Publishing Perspectives, 23 October, on a new report from the rights-tracking platform Rightscenter — "Book-to-Screen Marketplace Insights, 2019–2026" — built from what studios, producers and scouts actually search for on the platform rather than from the deals that get announced. Anne-Elisa Schaffer, co-owner, on why they published it: everyone can see the announced deals, and they wanted to show the much larger layer underneath.
 
-The guideline every author should know about is the contract one. No publisher should cancel a contract over AI use unless the author broke a signed contract or policy that clearly prohibited that particular use and it was a material term. Bernoff's note on why this is badly needed: multiple authors have had contracts revoked on the strength of policies never stated in advance, and nobody knows how many quiet cancellations happened out of the spotlight.
+Four findings worth an author's attention.
 
-Then the detector rules, which are the practical core. No publisher, editor or agent should rely on an AI detector alone to decide a book contains AI text, or rely on a detector's self-reported error rate; a flag should begin a conversation with the author, not end one. The Guild's reasoning is blunt — one false accusation can ruin a career, so the harm is too great to tolerate any false positives. Specifically on who gets wrongly flagged: detectors work by measuring how predictable word choice and sentence structure are, so writing by non-native English speakers gets flagged at higher rates, as does writing in genres with strong conventions and prose that is plain by design. Plain or formulaic prose is not, on its own, evidence of AI use. Bernoff adds the practical point from the editor's chair: a manuscript a detector flags usually has other problems too — repetition, missing attribution, dull prose — and those are perfectly good reasons to decline it regardless.
+Backlist titles have climbed to nearly two-thirds of all requests. Emily Parker, the other co-owner: "A good book doesn't expire. The market has quietly figured that out, and the numbers make it undeniable." Your five-year-old novel is not out of the running; on these numbers it is where the running is.
 
-And then guideline seven, which lands squarely on the argument this digest has been running all week. The Guild says authors should not be required to prove they wrote their books, that many writers are deeply offended by the suggestion, and — this is the specific bit — it "opposes any requirement that authors use technologies that track or log their writing process in order to demonstrate that they wrote the work themselves", while fully supporting authors who choose to keep their drafts in case they are later accused.
+Nearly 75% of requested titles are enquired after by a single user. Genuine competitive situations are the identifiable exception, not the rule. That is worth holding on to the next time a single polite enquiry feels like a lottery win or, worse, like leverage.
 
-Bernoff's challenge to that is the honest one, and it is this week's tension in two sentences. If a publisher says prove you wrote this, how is an author supposed to answer? Writing generates masses of research, sources and drafts; keep track of it, because you may need it — and an author whose text tests as AI-generated with none of that material is going to have trouble getting published, whatever the Guild opposes. Set that beside Wednesday's item here on a certification scheme that reviews manuscript history, and Thursday's French prize asking entrants to document their method well enough to be reproduced. Nobody wants a surveillance requirement. Everyone is converging on wanting the records anyway.
+What is getting the most interest: female protagonists, at 48% of titles; LitRPG, meaning speculative fiction with game mechanics; and international stories, up three and a half times on last year. The report also breaks interest down by whether a title is a standalone, a series, or short stories and anthologies, and how that changes over time.
 
-🔗 https://bernoff.com/blog/a-critique-of-the-authors-guilds-ai-best-practices-for-publishers
+And the titles themselves are instructive, because they are not all this year's hits — the most-viewed list runs from Donna Tartt's The Secret History to Fourth Wing, and the most-requested list marks several titles as having been requested in seven or more of the eight years in the dataset: Exhalation, A Little Life, Legendborn, The House in the Cerulean Sea, The Midnight Library. Persistent interest, year after year, without a deal.
 
-💬 Would you keep a log of how you write if it protected you from a false accusation — or is that already a step too far?
+🔗 https://publishingperspectives.com/2026/10/interest-in-translated-fiction-rising-sharply-for-us-film-tv-production-companies/
 
-
-4. 🤖 The study at the centre of the economic case against AI has been dropped from the evidence
-
-The Alliance of Independent Authors' news summary, yesterday, 22 October, with a development that deserves more attention than it is getting.
-
-Dr Tuhin Chakrabarty's widely cited paper argues that generative AI causes market dilution with the potential for significant economic harm to creators — it is the study people reach for when they need the economic argument rather than the moral one. In the copyright case against OpenAI, OpenAI moved to bar the plaintiffs from relying on it, alleging the work was funded by Susman Godfrey, the firm acting for the plaintiffs. Chakrabarty has denied that in a sworn declaration.
-
-Here is the turn: the plaintiffs did not oppose OpenAI's motion, and the paper has been dropped from the evidence submitted. So the denial stands and the study is out of the case anyway. ALLi credits Jane Friedman, who had just given the keynote at SelfPubCon 2026, for the story.
-
-Why it matters beyond this one case. The market-dilution argument is the bridge between "they took our work" and "it cost us money", and quantified harm is what damages awards are built on. A study being withdrawn rather than tested is not a finding that it was wrong, and it is not a finding that it was right either — it simply leaves the economic question where it was: argued, widely believed, and not yet established in court.
-
-🔗 https://selfpublishingadvice.org/chakrabarty-paper-dropped-from-openai-suit/
-
-💬 What would actually prove AI has cost authors money — and who do you think should have to pay for that research?
+💬 If a producer searched your genre and your year today, would your backlist be findable — and does anyone know who controls your dramatic rights?
 
 
-5. Short video has overtaken bookshelves in China, and Portugal grew while Europe shrank
+3. The reader did not believe a true thing: what to do about the Tiffany problem
 
-Publishing Perspectives, 22 October, with Carlo Carrenho on the markets that are not following the pattern. Two of his outliers are worth an indie author's attention.
+Posted on 22 October, and it is the best craft question of the week because the answer is genuinely contested. A writer working on an early medieval European novel has an alpha reader — a writing-group colleague, normally very perceptive, but not a regular reader of detail-rich historical fiction — who is tripping over accurate details.
 
-The first reorganises what discovery even means. China's book retail market fell 2.24% in 2025, but OpenBook's retail trends report splits sales a different way from everyone else: shelf-based retail, meaning the physical and digital places where readers browse and choose, against content-driven e-commerce, meaning short video, livestreams and algorithmic discovery, mostly on Douyin. Content-driven grew 30.43% and reached 40.53% of the market, overtaking shelf-based retail for the first time. That is a shrinking market in which the video channel is now the biggest single route to a reader. Nobody should port a Chinese platform statistic straight onto their own marketing plan — but if you have been treating short video as a nice-to-have alongside the real channels, this is the first market where it became the main one.
+The term, for anyone who has not met it: the Tiffany problem is when a historically or factually accurate detail reads as anachronistic or unrealistic to a modern audience. Tiffany is a medieval English name, and no reader will accept it in a medieval novel.
 
-The second is the European number nobody expected. Portugal's book market grew 7.6% in value and 6.9% in units in 2025, to about €217.5 million on 14.8 million books — roughly 5.2% real growth against inflation of 2.3%. Set that against Germany's print market down about 5% in real terms and France down about 1.9%. The honest caveat comes from the Portuguese publishers' and booksellers' association itself, which warns against mistaking a cyclical trend for a structural recovery: much of the growth came from an exceptional run on colouring books. Selling more books and making more money in the same year is still rare enough in Europe to be worth knowing about.
+Their actual dilemma is the useful part, and it is a judgement every writer of anything researched will face. They already write brief in-story explanations for terms they know most readers will not have. They are striving for accuracy and do not want to over-explain or info-dump. So: act on one thorough alpha reader now, or wait for beta readers who read more superficially and may not comment at all, or wait for an editor?
 
-🔗 https://publishingperspectives.com/2026/10/one-industry-many-markets/
+Their own resolution, added as an edit after the replies came in, is the sensible one: wait and see what the beta readers think. Two things in the thread are worth taking away whatever you write. The first is the distinction they drew themselves — the reader both failed to understand certain words and failed to buy certain things, and those are two different problems with two different fixes. The second is that one very thorough reader is a sample of one: what they catch is real, and whether it matters is a question only more readers can answer.
 
-💬 If short video became the main way readers found books in your market, would you be ready — or would you stop publishing?
+🔗 https://www.reddit.com/r/writing/comments/1xcqaur/should_i_address_a_test_readers_tiffany_problem/
 
-
-6. 📺 "The Self Publishing Show (Episode 470) Is the AI Deluge Hurting Us?"
-
-Learn Self Publishing, the Self Publishing Formula channel, published 22 October at 23:00 UTC. Pointer only; not watched here.
-
-A small note on how this one got here, because it says something about the gate. This video appeared on the channel page yesterday with no age shown and no title returned by YouTube's own data, so it was refused rather than guessed at. Today the channel's feed came back with its published date and its title, and here it is, a day later and properly dated. Refusing an undated item costs a day. Guessing costs more.
-
-On the substance, it is the question underneath this whole week in one episode title, and it sits directly next to today's second item, where an author leaving Amazon named the AI deluge as the reason.
-
-🔗 https://www.youtube.com/watch?v=jjj_4HsMbb8
-
-💬 Has the volume of new books changed how you launch — or only how you feel about launching?
+💬 What true thing in your book has a reader refused to believe — and did you cut it, explain it, or keep it and let them be wrong?
 
 
-7. Offered representation by an agent, then ghosted for four weeks
+4. "When DOES a story deserve to be longer?"
 
-Posted 21 October, and short enough to quote the whole situation. An established agent replied to a query with real enthusiasm and asked whether the writer would be interested in being represented. The writer answered that they would love to talk. The agent has not replied since. Four weeks, one further follow-up, nothing.
+Posted yesterday, 23 October, by a self-described overwriter who is arguing with the single most repeated piece of revision advice: that a story can always be cut.
 
-Running it because the question asked is the useful one — how common is this? — and because the answer shapes what you do next. An offer of representation made in an email is not an offer of representation in any binding sense, and silence after one is not a verdict on the book. Agents leave jobs, get ill, have agencies change direction, and occasionally let something slide past the point where picking it back up is comfortable. None of that is a reason for the writer to stop.
+They make the case better than the advice deserves. They cannot imagine a world in which every publishable story must come in under 110,000 words, given genre conventions like the fast pace expected of a psychological thriller. They accept the production-cost argument publishers make, and say fairly that it is a reason about economics rather than about the book. What they object to is the assumption that a manuscript over 110,000 words must contain bloat, must have two scenes that could be one, must have some itch left to scratch — and they distinguish their own case carefully: not a beginner attached to a two-page description of a lake, but 130,000 words after seven solid revisions.
 
-The practical reading: after a second follow-up goes unanswered, this is information about one agent's reliability rather than about the manuscript, and the right response is to keep querying. If you were holding other submissions out of courtesy while this conversation happened, that courtesy has expired.
+Their question, which is the one to discuss: what allows a story to deserve to be longer? Is it simply excellent writing and the ability to hold attention and never let go?
 
-🔗 https://www.reddit.com/r/PubTips/comments/1xby6mi/pubq_ghosted_by_an_agent_after_offering/
+Worth running because the honest answer splits along the publishing route you take, and nobody says that out loud often enough. On the traditional route, length is partly a commercial constraint arriving in the costume of a craft rule, and a debut at 130,000 words is a harder sell whatever its quality. Self-publishing removes the production-cost argument almost entirely and leaves only the reader's patience — which is a real limit, and a different one.
 
-💬 How long do you wait on a silence before you treat it as a no?
+🔗 https://www.reddit.com/r/writing/comments/1xd2gqe/when_does_a_story_deserve_to_be_longer/
+
+💬 What is the longest book you have genuinely loved — and did it earn its length, or did you just forgive it?
+
+
+5. The man who built the newsletter tools has never published a book, and said so
+
+Indie Author Magazine, 23 October, profiling Evan Gow, founder of StoryOrigin — and the reason to read it is a moment of candour most vendor profiles would have left out.
+
+How the business started. Gow left his job in July 2017 intending to write and to build tools for authors. When he asked writers how to begin a publishing career, what he got back sounded like a shopping list: one service for the mailing list, another for reviewers, universal book links, spreadsheets, Facebook Groups for newsletter swaps, more systems for beta readers and audiobook promotions. His diagnosis: "You're doing all this context switching between all the different things. You've just got too much to do." He saw a software problem. The software then consumed the writing.
+
+The candour. During the interview, described as an indie author himself, he corrected it: he has written short fiction and has never published anything. His understanding of author businesses comes from listening to the people doing the work, not from doing it. His own framing: "I want to build the system that I want to use when I get around to being able to actually write something worth publishing." That is worth knowing when you weigh any author tool, including the ones that do come from working authors — not as a mark against him, but because he volunteered it.
+
+What the platform does and, usefully, does not do. It delivers reader magnets, organises beta and review copies, provides landing pages and file delivery, and coordinates promotions — group promotions, where authors gather their reader magnets on one landing page, and newsletter swaps, where two authors feature each other. It does not manage your newsletter; it supports the activities that grow one. He is explicit that it only makes collaboration easier to organise and assess: the author still owns the recommendation and whether it makes sense for the readers who signed up. And the problem he solved is real — authors told him they had stopped arranging swaps they found useful because searching ten Facebook groups and coordinating by comment was a headache.
+
+🔗 https://indieauthormagazine.com/evan-gow-on-author-mailing-lists-and-the-business-of-reaching-readers/
+
+💬 Which bit of your author business is still held together by a spreadsheet and goodwill?
+
+
+6. Asking for the marketing ideas nobody lists
+
+Posted on 21 October, and short. A first-time author says they already know the standard playbook — build the email list, send ARCs, get reviews, optimise the Amazon page, maybe run Amazon or Meta ads — and wants to hear the less obvious tactics. Have you tried anything out of the box, and did it work?
+
+Running it as the question it is, because this community can answer it better than an article can, and because the framing is unusually honest for a first-book marketing post: they are not asking what to do, they have read that; they are asking what actually worked for someone. Note what item five above suggests about where the answers tend to live — the tactics that keep working for indies are mostly collaborations with other authors rather than purchases, and they are the ones least likely to appear on a listicle.
+
+🔗 https://www.reddit.com/r/selfpublish/comments/1xbiqze/what_does_a_realistic_marketing_plan_look_like/
+
+💬 What is the one marketing thing you tried that nobody recommended — and would you do it again?
 
 
 —
-Scout notes: seven items — four from news and trade press, two from the community lanes, one from the video lane. Screen lane: swept and nothing fresh worth running today, so no screen item rather than a padded one. YouTube lane: the RSS route came back today after thirteen consecutive days of failure — five of six channels answered, so for the first time in a fortnight the video item carries a publication timestamp from the feed itself rather than a range derived from a channel page. The one channel that still refused RSS fell back to its page as usual. Self-Publishing with Dale's news video of 22 October covers the YouTube audiobooks story this digest ran on Tuesday, so it is held back as a same-subject repeat rather than run. The Alliance of Independent Authors' website is back after yesterday's outage and answered first time. The CEATL translators' figure in ALLi's summary — 30% reporting fewer assignments — is a new number on a survey this digest ran last Saturday, so the survey is not run again; only the Chakrabarty story from that summary is new here. Reddit behaved: r/writing, r/PubTips and r/Screenwriting all answered first time and r/selfpublish on the second shape. Elizabeth Spann Craig's blog returned 403 for an eleventh day, recorded as blocked. Writer Beware has published nothing since 16 October. The Kindle+ story was checked against Amazon's own material before being run: the KDP help centre now carries guidance for an "Available in Kindle+" badge, and Amazon's email to authors is quoted above from an outlet that reproduced it in full.
+Scout notes: six items — three from news and trade press, three from the community lanes. A Saturday-sized edition and nothing padded to make it longer. AI lane: quiet today — swept in full and nothing new passed. What it turned up: the Chakrabarty study being dropped from the OpenAI case, which this digest ran yesterday; Audible's talk-to-Dracula feature, covered here on 8 October; the Books By People certification, covered on Wednesday; and Josh Bernoff launching a workplace-writing venture of his own, which is a product announcement aimed at businesses rather than authors. YouTube lane: nothing fresh today. The lane was swept in full and the RSS route failed on all six channels, one day after it answered on five of them — so yesterday's recovery was a single window, not a return; the channel pages served as the fallback and every video inside the seven-day gate is one this digest has already run. Screen lane: the book-to-screen report above is the screen-relevant item today; the screenwriting community produced only personal news, so there is no separate screen item. Two things were deliberately NOT run, both caught by the pre-ship subject sweep rather than by eye. Audible's feature letting listeners talk to Dracula leads ALLi's podcast this week, and this digest covered that announcement in full on 8 October, Renfield and the author-sanction question included — the podcast is the same subject reported later, not a new development. And a querying success post from 23 October carrying a full set of statistics is the same shape as the agent-offer-with-numbers item this digest ran on 6 October, eighteen days ago and inside the 45-day block. Also dropped: Publishing Perspectives' piece on RBmedia's European expansion, which is marked "(Sponsored)" on the page — paid placement is not news here. The copyright item was checked against the Copyright Office's own fee page this morning rather than taken from the podcast, which is how the date moved from "the new year" to 12 November. Elizabeth Spann Craig's blog returned 403 for a twelfth day, recorded as blocked. Writer Beware has published nothing since 16 October. Reddit: r/selfpublish and r/Screenwriting answered first time, r/writing and r/PubTips on the second shape.
 
 —
 Curated daily for this community. Spotted something worth sharing?
