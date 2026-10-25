@@ -1,99 +1,101 @@
-📚 Daily Writer's Scout — Saturday, 24 October 2026
+📚 Daily Writer's Scout — Sunday, 25 October 2026
 
-1. Register a copyright before mid-November or pay 22% more — and the date is sooner than you have been told
+1. 🤖 272,000 European writers and translators have refused to sign the EU's AI transparency code, and the reason is one word: exemptions
 
-This came up as a passing remark on the Alliance of Independent Authors' news podcast yesterday, 23 October, where Dan Holloway reported that newsletters and copyright were what authors asked about most at SelfPubCon 2026, and that registering before the fee rise could save you money. He put the rise at the new year. We checked, and it is sooner than that — which turns a vague intention into something with a date on it.
+Published this morning, 25 October, timed for International Artists' Day. The European Writers' Council and CEATL — the European Council of Literary Translators' Associations, between them representing around 272,000 writers and literary translators — have issued a joint statement saying neither organisation will co-sign the European AI Office's Code of Practice on Transparency of AI-Generated Content. Their verdict on it: in its final version the Code "risks becoming technically useless for the book sector, and for readers and consumers, as too many exemptions and loopholes allow responsibilities to be circumvented along the distribution value chain."
 
-What the Copyright Office's own fee page said when we read it this morning: electronic filing for a single author, same claimant, one work, not for hire is still $45; the Standard Application is still $65; paper filing is still $125. So nothing has changed yet.
+The sentence worth carrying out of this whole argument. On the exemptions built around undefined terms like "human review", "editorial control" and "AI-assisted fiction": "A 'human review' cannot magically transform AI-generated content into human-created or human-written works, and it should not be used as a loophole through which transparency obligations disappear."
 
-What is coming, per the Copyright Alliance's explainer of 13 October: the Office submitted its final proposed fee schedule to Congress in July, the Copyright Act gives Congress 120 days to object, and if it does not, the new fees take effect — almost certainly as early as 12 November. The new numbers are $55 for the single-author electronic filing (up 22%), $85 for all other filings (up 31%), and $185 for paper (up 48%). Fees rise an average of 43% across the schedule.
+What they want instead. Transparency that is persistent rather than ending at the moment of generation — machine-detectable marking and human-readable labelling obligatory through the whole chain, from the AI provider through the user to publishers, platforms, distributors and finally the reader, with a detailed disclosure always accessible to a human. And they are blunt that watermarking alone is not the answer: these marks can be removed or altered as content is copied and redistributed, a market in services to strip them is already emerging, and a framework leaning on technical marking "could risk creating the appearance of transparency without really guaranteeing it."
 
-So the practical position for a US author with an unregistered book, stated plainly: roughly three weeks, not two months. Registration is what gives you the option of statutory damages and legal fees in an infringement case rather than only provable losses — which is exactly the difference the AI training-data suits this digest has been covering all week turn on, where the individual claims against Meta are built on statutory damages of up to $150,000 per work. Ten dollars a title is not the point. The point is that the cheapest week to do a job you were going to do anyway is this one.
+The specific rule they propose for translation is the most concrete thing in the statement, and indie authors publishing in translation should read it twice. A literary translation counts as AI-generated if the first draft was fully or partially produced with generative AI — in which case it should be stated on the title page, the copyright page and in the metadata — and a person commissioned to revise an AI-generated translation should be credited as an editor, not as a translator. Their line on the quality question: "Readers deserve quality: a 'good enough' version of any literary work is spoilage, whatever the genre."
 
-Two honest caveats. Congress could still intervene, so the date is near-certain rather than certain, and the Copyright Office page is the thing to check before you file. And this is a US registration system: authors elsewhere hold copyright automatically without it, though US registration is open to foreign authors and is what a US court wants to see.
+Two numbers from the statement, each labelled as it labels itself. The 2025 Special Eurobarometer on Europeans' attitudes towards culture found more than 8 in 10 Europeans prefer works created by humans over AI-generated content. And on the scale of the problem in the book market they write that since 2023 thousands of AI-generated or unlicensed machine-"translated" books have been commercially distributed, with "ca 50% of new e-books title are presumably machine-generated" — their estimate, and note they hedge it themselves with "presumably".
 
-🔗 https://www.copyright.gov/about/fees.html
+And then the sentence that turns the whole week's argument around. They write that authors who write and translate without using AI "often find themselves having to prove that their work is 100% human-created, when this transparency should be guaranteed for products generated or manipulated by AI, not the other way around." Set that against Friday's item here, where the Authors Guild opposed any requirement that authors log their writing process to prove authorship. Same objection, arrived at from opposite ends of the industry: the burden of proof is sitting on the wrong party.
 
-💬 Is your latest book registered — and if not, is it because you decided against it or because you never got round to it?
+For context on how isolated this position is — the Code has been running since the Commission published it in June, and the Commission's own September figures put signatories at around 190 organisations. This is a large, organised abstention rather than a lonely one, from one of Europe's biggest rightsholder groups.
 
+🔗 https://europeanwriterscouncil.eu/exemptions-should-not-swallow-the-rule-ewc-and-ceatl-joint-statement/
 
-2. Hollywood is shopping the backlist, and three-quarters of requested books get exactly one enquiry
-
-Publishing Perspectives, 23 October, on a new report from the rights-tracking platform Rightscenter — "Book-to-Screen Marketplace Insights, 2019–2026" — built from what studios, producers and scouts actually search for on the platform rather than from the deals that get announced. Anne-Elisa Schaffer, co-owner, on why they published it: everyone can see the announced deals, and they wanted to show the much larger layer underneath.
-
-Four findings worth an author's attention.
-
-Backlist titles have climbed to nearly two-thirds of all requests. Emily Parker, the other co-owner: "A good book doesn't expire. The market has quietly figured that out, and the numbers make it undeniable." Your five-year-old novel is not out of the running; on these numbers it is where the running is.
-
-Nearly 75% of requested titles are enquired after by a single user. Genuine competitive situations are the identifiable exception, not the rule. That is worth holding on to the next time a single polite enquiry feels like a lottery win or, worse, like leverage.
-
-What is getting the most interest: female protagonists, at 48% of titles; LitRPG, meaning speculative fiction with game mechanics; and international stories, up three and a half times on last year. The report also breaks interest down by whether a title is a standalone, a series, or short stories and anthologies, and how that changes over time.
-
-And the titles themselves are instructive, because they are not all this year's hits — the most-viewed list runs from Donna Tartt's The Secret History to Fourth Wing, and the most-requested list marks several titles as having been requested in seven or more of the eight years in the dataset: Exhalation, A Little Life, Legendborn, The House in the Cerulean Sea, The Midnight Library. Persistent interest, year after year, without a deal.
-
-🔗 https://publishingperspectives.com/2026/10/interest-in-translated-fiction-rising-sharply-for-us-film-tv-production-companies/
-
-💬 If a producer searched your genre and your year today, would your backlist be findable — and does anyone know who controls your dramatic rights?
+💬 If a label had to follow a book through every hand that sold it, would you want yours to carry one — and what would it say?
 
 
-3. The reader did not believe a true thing: what to do about the Tiffany problem
+2. A debut author's launch postmortem, with the real numbers in it
 
-Posted on 22 October, and it is the best craft question of the week because the answer is genuinely contested. A writer working on an early medieval European novel has an alpha reader — a writing-group colleague, normally very perceptive, but not a regular reader of detail-rich historical fiction — who is tripping over accurate details.
+Indie Author Magazine, 23 October, where the columnist Susan Odev takes apart her own romance debut one month after publication. The reason to read it rather than the hundredth "how to launch" article is that she puts her figures on the table.
 
-The term, for anyone who has not met it: the Tiffany problem is when a historically or factually accurate detail reads as anachronistic or unrealistic to a modern audience. Tiffany is a medieval English name, and no reader will accept it in a medieval novel.
+The numbers. Just over two hundred copies sold in the first month, six reviews averaging 4.5 stars. Her own verdict: not a bestseller, a solid start, especially for a debut.
 
-Their actual dilemma is the useful part, and it is a judgement every writer of anything researched will face. They already write brief in-story explanations for terms they know most readers will not have. They are striving for accuracy and do not want to over-explain or info-dump. So: act on one thorough alpha reader now, or wait for beta readers who read more superficially and may not comment at all, or wait for an editor?
+What worked, and the smallest number is the most interesting. The cover worked — readers commented on it, it signalled the right genre and tone, and the professional designer gets hired again for book two. Her newsletter had forty subscribers. Forty. Those forty were engaged: they bought on launch day and left the early reviews. And the preorder helped, because having a live link for a few weeks beforehand meant she could promote something clickable rather than asking people to remember to come back.
 
-Their own resolution, added as an edit after the replies came in, is the sensible one: wait and see what the beta readers think. Two things in the thread are worth taking away whatever you write. The first is the distinction they drew themselves — the reader both failed to understand certain words and failed to buy certain things, and those are two different problems with two different fixes. The second is that one very thorough reader is a sample of one: what they catch is real, and whether it matters is a question only more readers can answer.
+What did not. Social media promotion was scattered — posting three times one day, forgetting the next, with engagement to match, and a suspicion she annoyed some followers.
 
-🔗 https://www.reddit.com/r/writing/comments/1xcqaur/should_i_address_a_test_readers_tiffany_problem/
+The method, which is the transferable part. Collect the quantifiable first: sales in week one and month one, subscribers gained, reviews, ad spend and what it produced. Then the qualitative: which posts landed, what readers mentioned, where traffic came from. She keeps it in a plain spreadsheet, and her reason is the best line in the piece — "Your memory is an unreliable narrator", which will turn a disappointing launch into a disaster or a modest success into the time everything went wrong. She also keeps a running "Reader Notes" document per book, and her rule on acting on feedback is sound: if three people mention the same issue, it is probably real.
 
-💬 What true thing in your book has a reader refused to believe — and did you cut it, explain it, or keep it and let them be wrong?
+Her playbook for book two is three items long and entirely unglamorous: start the blurb eight weeks out instead of four, schedule social posts in batches, send ARC requests six weeks before release instead of three. Book two is outlined and drafting, with a spring release chosen to be sustainable rather than panicked.
 
+🔗 https://indieauthormagazine.com/author-inklings-learning-from-your-launch/
 
-4. "When DOES a story deserve to be longer?"
-
-Posted yesterday, 23 October, by a self-described overwriter who is arguing with the single most repeated piece of revision advice: that a story can always be cut.
-
-They make the case better than the advice deserves. They cannot imagine a world in which every publishable story must come in under 110,000 words, given genre conventions like the fast pace expected of a psychological thriller. They accept the production-cost argument publishers make, and say fairly that it is a reason about economics rather than about the book. What they object to is the assumption that a manuscript over 110,000 words must contain bloat, must have two scenes that could be one, must have some itch left to scratch — and they distinguish their own case carefully: not a beginner attached to a two-page description of a lake, but 130,000 words after seven solid revisions.
-
-Their question, which is the one to discuss: what allows a story to deserve to be longer? Is it simply excellent writing and the ability to hold attention and never let go?
-
-Worth running because the honest answer splits along the publishing route you take, and nobody says that out loud often enough. On the traditional route, length is partly a commercial constraint arriving in the costume of a craft rule, and a debut at 130,000 words is a harder sell whatever its quality. Self-publishing removes the production-cost argument almost entirely and leaves only the reader's patience — which is a real limit, and a different one.
-
-🔗 https://www.reddit.com/r/writing/comments/1xd2gqe/when_does_a_story_deserve_to_be_longer/
-
-💬 What is the longest book you have genuinely loved — and did it earn its length, or did you just forgive it?
+💬 What are the three figures from your last launch — and can you find them, or would you be guessing?
 
 
-5. The man who built the newsletter tools has never published a book, and said so
+3. The author who proved where the spam came from, and how you can too
 
-Indie Author Magazine, 23 October, profiling Evan Gow, founder of StoryOrigin — and the reason to read it is a moment of candour most vendor profiles would have left out.
+Posted 24 October, and the method matters more than the accusation. An author joined a site to promote their book and, as they do with every new site, signed up using Apple's Hide My Email — which generates a unique random address for that one service. Weeks later that address filled with what they describe as low-effort AI-generated spam pushing book promotion services. Because the address had been used nowhere else, they say the leak source is unambiguous.
 
-How the business started. Gow left his job in July 2017 intending to write and to build tools for authors. When he asked writers how to begin a publishing career, what he got back sounded like a shopping list: one service for the mailing list, another for reviewers, universal book links, spreadsheets, Facebook Groups for newsletter swaps, more systems for beta readers and audiobook promotions. His diagnosis: "You're doing all this context switching between all the different things. You've just got too much to do." He saw a software problem. The software then consumed the writing.
+Why the technique is worth copying whatever you make of the case. A unique address per service turns a vague suspicion into evidence: when the spam arrives you know exactly which sign-up produced it, and you can filter or disable that address without touching your real inbox. Apple's Hide My Email does it for iCloud+ users; a catch-all domain or an alias feature on your mail provider does the same job. The cost is nothing and the diagnostic power is total.
 
-The candour. During the interview, described as an indie author himself, he corrected it: he has written short fiction and has never published anything. His understanding of author businesses comes from listening to the people doing the work, not from doing it. His own framing: "I want to build the system that I want to use when I get around to being able to actually write something worth publishing." That is worth knowing when you weigh any author tool, including the ones that do come from working authors — not as a mark against him, but because he volunteered it.
+How to treat the specific claim, honestly. This is one author's report. We looked this morning for independent accounts of the named site and found none either way — no corroboration, and no defence. Similar names exist in this space too, and nothing here speaks to any other site. So treat it as a reason to apply the method rather than as a verdict, and if you are weighing any promotion service, the free vetting routes are the Alliance of Independent Authors' Watchdog list and the Absolute Write Bewares board, both of which carry years of accumulated author experience.
 
-What the platform does and, usefully, does not do. It delivers reader magnets, organises beta and review copies, provides landing pages and file delivery, and coordinates promotions — group promotions, where authors gather their reader magnets on one landing page, and newsletter swaps, where two authors feature each other. It does not manage your newsletter; it supports the activities that grow one. He is explicit that it only makes collaboration easier to organise and assess: the author still owns the recommendation and whether it makes sense for the readers who signed up. And the problem he solved is real — authors told him they had stopped arranging swaps they found useful because searching ten Facebook groups and coordinating by comment was a headache.
+🔗 https://www.reddit.com/r/selfpublish/comments/1xe8lo6/beware_indieauthornet_dot_com/
 
-🔗 https://indieauthormagazine.com/evan-gow-on-author-mailing-lists-and-the-business-of-reaching-readers/
-
-💬 Which bit of your author business is still held together by a spreadsheet and goodwill?
+💬 Do you know which sign-up leaked your email — and if not, would a unique address per service be worth five minutes to set up?
 
 
-6. Asking for the marketing ideas nobody lists
+4. Four books instead of twenty-four: the multi-author event nobody warns you about
 
-Posted on 21 October, and short. A first-time author says they already know the standard playbook — build the email list, send ARCs, get reviews, optimise the Amazon page, maybe run Amazon or Meta ads — and wants to hear the less obvious tactics. Have you tried anything out of the box, and did it work?
+Posted in the small hours this morning, 25 October, and it is the most practical warning in today's digest because the cost is measurable.
 
-Running it as the question it is, because this community can answer it better than an article can, and because the framing is unusually honest for a first-book marketing post: they are not asking what to do, they have read that; they are asking what actually worked for someone. Note what item five above suggests about where the answers tend to live — the tactics that keep working for indies are mostly collaborations with other authors rather than purchases, and they are the ones least likely to appear on a listicle.
+The author writes smutty romance and has done in-person signings all year, solo and in groups. One shop where a solo appearance had gone particularly well invited them back for a multi-author event. The other authors were perfectly pleasant people. One of them writes religious and children's books, and spent the event singing religious songs on a ukulele every few minutes.
 
-🔗 https://www.reddit.com/r/selfpublish/comments/1xbiqze/what_does_a_realistic_marketing_plan_look_like/
+The arithmetic: four books sold, against twenty-four at the same shop as a solo author. Customers were visibly steering around the table. People did come up to that author, which makes sense — the music matched their readership — and the romance writer packed up early, partly on sales and partly because hours of that music was more than they wanted to sit through. Their conclusion is a business decision rather than a complaint: solo events at that shop from now on.
 
-💬 What is the one marketing thing you tried that nobody recommended — and would you do it again?
+The lesson generalises past the specifics, and it is one that in-person selling advice almost never mentions. A table is a shared shopfront. Whoever is next to you is part of your display whether you like it or not, and a genre mismatch does not split the audience neatly between you — it can repel the readers who would have bought from you. Before accepting a group event, the questions worth asking the organiser are who else is confirmed, what they write, and whether anything is being performed.
+
+🔗 https://www.reddit.com/r/selfpublish/comments/1xerhpg/mini_rant_inperson_sales_bombed_today_because_of/
+
+💬 What is the worst table you have been put next to — and did you say anything to the organiser afterwards?
+
+
+5. Every road in the plot leads somewhere you do not want to go
+
+Posted at four this morning, 25 October, and it is the craft question of the day: what do you do when your own story insists on something you hate?
+
+A writer has a plot they like a great deal, and the next major beat that everything is pointing at is the central couple breaking up through plain incompatibility — which then leads, as they put it, to even worse things. They have stalled, because every road leads there and they do not want to go. Work around it, write it anyway, or something else?
+
+Worth running as the question, because the answers divide along a real fault line and both sides have good arguments. One camp says the resistance is information: if the logic of the characters demands it, writing around it produces the kind of soft, unearned turn readers feel without being able to name. The other says a plot is not a train timetable — if every road leads somewhere, that is a fact about the roads you built, and the fix is earlier, in the premise or the characters, not in flinching at the junction.
+
+The third answer, which is usually the true one: write the thing you are dreading, in a draft nobody will see, and find out whether you were protecting the story or protecting yourself. Drafts are cheap. Knowing is not.
+
+🔗 https://www.reddit.com/r/writing/comments/1xeskd1/do_you_write_things_you_hatedislikedont_want_to/
+
+💬 What has your story demanded that you did not want to write — and did you write it in the end?
+
+
+6. 📺 "No More Writer's Block: How I Outline My Entire Book"
+
+Heart Breathings, read off the channel page rather than a feed — the page said twelve hours before this run, so late yesterday or early today. Title confirmed against YouTube directly this morning. Pointer only; not watched here.
+
+Worth the pairing with today's fifth item. That writer is stuck because the plot insists on something they do not want; an outlining method is one answer to being stuck, and the honest caveat is that it is an answer to a different kind of stuck — not knowing what happens next, rather than knowing and not wanting it. Both are real and they do not have the same fix.
+
+🔗 https://www.youtube.com/watch?v=j7YDlmaEZvw
+
+💬 Does outlining stop you getting stuck, or just move where you get stuck to?
 
 
 —
-Scout notes: six items — three from news and trade press, three from the community lanes. A Saturday-sized edition and nothing padded to make it longer. AI lane: quiet today — swept in full and nothing new passed. What it turned up: the Chakrabarty study being dropped from the OpenAI case, which this digest ran yesterday; Audible's talk-to-Dracula feature, covered here on 8 October; the Books By People certification, covered on Wednesday; and Josh Bernoff launching a workplace-writing venture of his own, which is a product announcement aimed at businesses rather than authors. YouTube lane: nothing fresh today. The lane was swept in full and the RSS route failed on all six channels, one day after it answered on five of them — so yesterday's recovery was a single window, not a return; the channel pages served as the fallback and every video inside the seven-day gate is one this digest has already run. Screen lane: the book-to-screen report above is the screen-relevant item today; the screenwriting community produced only personal news, so there is no separate screen item. Two things were deliberately NOT run, both caught by the pre-ship subject sweep rather than by eye. Audible's feature letting listeners talk to Dracula leads ALLi's podcast this week, and this digest covered that announcement in full on 8 October, Renfield and the author-sanction question included — the podcast is the same subject reported later, not a new development. And a querying success post from 23 October carrying a full set of statistics is the same shape as the agent-offer-with-numbers item this digest ran on 6 October, eighteen days ago and inside the 45-day block. Also dropped: Publishing Perspectives' piece on RBmedia's European expansion, which is marked "(Sponsored)" on the page — paid placement is not news here. The copyright item was checked against the Copyright Office's own fee page this morning rather than taken from the podcast, which is how the date moved from "the new year" to 12 November. Elizabeth Spann Craig's blog returned 403 for a twelfth day, recorded as blocked. Writer Beware has published nothing since 16 October. Reddit: r/selfpublish and r/Screenwriting answered first time, r/writing and r/PubTips on the second shape.
+Scout notes: six items — two from news and trade press, three from the community lanes, one from the video lane. A Sunday-sized edition and nothing padded. YouTube lane: fresh today, and this one came in at the last minute — the RSS route failed on all six channels, four attempts each, and the channel pages served as the fallback, where five of the six carried only videos this digest has already run and the sixth had posted about twelve hours before this run. Its age is given as the page's own figure rather than a date, and the title was confirmed against YouTube directly. Screen lane: swept and nothing new, so no screen item today. Deliberately not run: ALLi's Saturday news summary leads on Kindle Unlimited passing $5 billion in payouts and YouTube eyeing audiobooks, and this digest ran the first on 19 October and the second on 20 October, so both halves are same-subject repeats rather than new developments. The 25 October item leading today was published at 05:00 UTC, about eight minutes before this run began, and is read from the European Writers' Council's own page. Publishing Perspectives' homepage came back byte-identical to yesterday's — a Sunday, not a fault. On the EU Code itself: the search layer confirmed it has been open for signature since the Commission published it in June, with around 190 signatory organisations on the Commission's September figures, which is the context the statement is refusing to join rather than a new policy this week. Reddit was slow but complete: r/selfpublish and r/PubTips answered first time, r/Screenwriting on the second shape, and r/writing needed five shapes. Elizabeth Spann Craig's blog returned 403 for a thirteenth day, recorded as blocked. Writer Beware has published nothing since 16 October.
 
 —
 Curated daily for this community. Spotted something worth sharing?
