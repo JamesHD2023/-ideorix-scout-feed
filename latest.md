@@ -1,101 +1,86 @@
-📚 Daily Writer's Scout — Sunday, 25 October 2026
+📚 Daily Writer's Scout — Monday, 26 October 2026
 
-1. 🤖 272,000 European writers and translators have refused to sign the EU's AI transparency code, and the reason is one word: exemptions
+1. The Anthropic money has a date and a number: payments by 15 November, about $2,203.56 a book — not $3,000
 
-Published this morning, 25 October, timed for International Artists' Day. The European Writers' Council and CEATL — the European Council of Literary Translators' Associations, between them representing around 272,000 writers and literary translators — have issued a joint statement saying neither organisation will co-sign the European AI Office's Code of Practice on Transparency of AI-Generated Content. Their verdict on it: in its final version the Code "risks becoming technically useless for the book sector, and for readers and consumers, as too many exemptions and loopholes allow responsibilities to be circumvented along the distribution value chain."
+If you filed a claim in the Anthropic copyright settlement, this is the week to log into the portal. The settlement's own site now says the first round of payments is expected on or before 15 November 2026, and the number attached to it is lower than the one everybody has been quoting, including this digest.
 
-The sentence worth carrying out of this whole argument. On the exemptions built around undefined terms like "human review", "editorial control" and "AI-assisted fiction": "A 'human review' cannot magically transform AI-generated content into human-created or human-written works, and it should not be used as a loophole through which transparency obligations disappear."
+The figure, from class counsel's status report to the court as quoted by the Text and Academic Authors Association: "After deduction of fees, services awards, and expenses, each Work is allotted approximately $2,203.56 of funds currently in the Settlement Fund, which does not yet include Anthropic's final payment of $450 million plus interest."
 
-What they want instead. Transparency that is persistent rather than ending at the moment of generation — machine-detectable marking and human-readable labelling obligatory through the whole chain, from the AI provider through the user to publishers, platforms, distributors and finally the reader, with a detailed disclosure always accessible to a human. And they are blunt that watermarking alone is not the answer: these marks can be removed or altered as content is copied and redistributed, a market in services to strip them is already emerging, and a framework leaning on technical marking "could risk creating the appearance of transparency without really guaranteeing it."
+So the correction, plainly, because we ran the other figure twice last week. The widely reported "roughly $3,000 per work" was the headline arithmetic on a $1.5 billion fund. The first actual payment is about $2,203.56, because legal fees, service awards and expenses come out of the fund before authors do — and because Anthropic's final $450 million has not been paid in yet. That last part is the good news in the sentence: there is a second distribution to come once that money arrives, and Anthropic is required to pay it by September 2027. The total per work should end up higher than this first cheque; it will not be arriving this year.
 
-The specific rule they propose for translation is the most concrete thing in the statement, and indie authors publishing in translation should read it twice. A literary translation counts as AI-generated if the first draft was fully or partially produced with generative AI — in which case it should be stated on the title page, the copyright page and in the metadata — and a person commissioned to revise an AI-generated translation should be credited as an editor, not as a translator. Their line on the quality question: "Readers deserve quality: a 'good enough' version of any literary work is spoilage, whatever the genre."
+Who gets paid in the first round, in the settlement's own words: works "on which claimants do not disagree on the appropriate allocation (or who quickly reach agreement to resolve any disagreement)" and for which claimants have provided all the information the administrator needs. If a publisher or agent has filed a competing claim on your work, or if your payment details are incomplete, you are not in this round.
 
-Two numbers from the statement, each labelled as it labels itself. The 2025 Special Eurobarometer on Europeans' attitudes towards culture found more than 8 in 10 Europeans prefer works created by humans over AI-generated content. And on the scale of the problem in the book market they write that since 2023 thousands of AI-generated or unlicensed machine-"translated" books have been commercially distributed, with "ca 50% of new e-books title are presumably machine-generated" — their estimate, and note they hedge it themselves with "presumably".
+Two things to do rather than read about. Check that your payment information in the portal is complete, because an incomplete record is the one reason for delay entirely within your control. And if the allocation shown for your work is wrong, submit your supporting information — the window for that is 60 days from getting access to your consolidated claim information, not the 30 days the September notices stated. This digest covered that extension on 30 September; the payment date and the per-work figure are the genuinely new parts.
 
-And then the sentence that turns the whole week's argument around. They write that authors who write and translate without using AI "often find themselves having to prove that their work is 100% human-created, when this transparency should be guaranteed for products generated or manipulated by AI, not the other way around." Set that against Friday's item here, where the Authors Guild opposed any requirement that authors log their writing process to prove authorship. Same objection, arrived at from opposite ends of the industry: the burden of proof is sitting on the wrong party.
+🔗 https://www.anthropiccopyrightsettlement.com/
 
-For context on how isolated this position is — the Code has been running since the Commission published it in June, and the Commission's own September figures put signatories at around 190 organisations. This is a large, organised abstention rather than a lonely one, from one of Europe's biggest rightsholder groups.
-
-🔗 https://europeanwriterscouncil.eu/exemptions-should-not-swallow-the-rule-ewc-and-ceatl-joint-statement/
-
-💬 If a label had to follow a book through every hand that sold it, would you want yours to carry one — and what would it say?
+💬 Have you checked your claim in the portal this month — and does the allocation it shows match what you expected?
 
 
-2. A debut author's launch postmortem, with the real numbers in it
+2. An author found their book being given away on Spotify, credited as read by them
 
-Indie Author Magazine, 23 October, where the columnist Susan Odev takes apart her own romance debut one month after publication. The reason to read it rather than the hundredth "how to launch" article is that she puts her figures on the table.
+Posted yesterday evening, 25 October, and it is the most useful hour you could spend today if you have never gone looking.
 
-The numbers. Just over two hundred copies sold in the first month, six reviews averaging 4.5 stars. Her own verdict: not a bestseller, a solid start, especially for a debut.
+What they found, after reading that authors should periodically scan for unauthorised copies and impersonation. On Spotify, someone had created an episode advertising a free EPUB download of their novel — and the listing said it was read by them, which they certainly had not done. On Yumpu, a document-hosting site, another listing advertising a free PDF of the same book. They had published on neither platform.
 
-What worked, and the smallest number is the most interesting. The cover worked — readers commented on it, it signalled the right genre and tone, and the professional designer gets hired again for book two. Her newsletter had forty subscribers. Forty. Those forty were engaged: they bought on launch day and left the early reviews. And the preorder helped, because having a live link for a few weeks beforehand meant she could promote something clickable rather than asking people to remember to come back.
+What happened next is the part worth knowing, because it is a split result. They reported the Spotify listing and Spotify replied to say the responsible account had been disabled. They emailed Yumpu's support explaining they were the author and had never authorised it, and have had no response at all.
 
-What did not. Social media promotion was scattered — posting three times one day, forgetting the next, with engagement to match, and a suspicion she annoyed some followers.
+The one decision they got exactly right: they did not click either link, so they have not confirmed whether the listings actually contained the manuscript. That is the correct instinct. A link promising a free copy of your own book is a link built to be clicked by you, and malware and credential harvesting are at least as common in this corner as actual piracy.
 
-The method, which is the transferable part. Collect the quantifiable first: sales in week one and month one, subscribers gained, reviews, ad spend and what it produced. Then the qualitative: which posts landed, what readers mentioned, where traffic came from. She keeps it in a plain spreadsheet, and her reason is the best line in the piece — "Your memory is an unreliable narrator", which will turn a disappointing launch into a disaster or a modest success into the time everything went wrong. She also keeps a running "Reader Notes" document per book, and her rule on acting on feedback is sound: if three people mention the same issue, it is probably real.
+Their questions are the ones to bring to this group, because collective experience beats an article here: where else should authors check, what actually gets listings removed when a site ignores you, and has anyone had real results from copyright takedown notices, Google removal requests, or paid monitoring services?
 
-Her playbook for book two is three items long and entirely unglamorous: start the blurb eight weeks out instead of four, schedule social posts in batches, send ARC requests six weeks before release instead of three. Book two is outlined and drafting, with a spring release chosen to be sustainable rather than panicked.
+🔗 https://www.reddit.com/r/selfpublish/comments/1xfbcwt/found_my_book_on_spotify_and_yumpu_without_my/
 
-🔗 https://indieauthormagazine.com/author-inklings-learning-from-your-launch/
-
-💬 What are the three figures from your last launch — and can you find them, or would you be guessing?
+💬 Have you ever searched for your own book title plus "free download" — and what did you find?
 
 
-3. The author who proved where the spam came from, and how you can too
+3. "Prose isn't that important, the plot and characters are"
 
-Posted 24 October, and the method matters more than the accusation. An author joined a site to promote their book and, as they do with every new site, signed up using Apple's Hide My Email — which generates a unique random address for that one service. Weeks later that address filled with what they describe as low-effort AI-generated spam pushing book promotion services. Because the address had been used nowhere else, they say the leak source is unambiguous.
+Posted yesterday evening, 25 October, and it is the sharpest craft argument of the weekend because of the analogy it opens with.
 
-Why the technique is worth copying whatever you make of the case. A unique address per service turns a vague suspicion into evidence: when the spam arrives you know exactly which sign-up produced it, and you can filter or disable that address without touching your real inbox. Apple's Hide My Email does it for iCloud+ users; a catch-all domain or an alias feature on your mail provider does the same job. The cost is nothing and the diagnostic power is total.
+Imagine an aspiring film director saying that visual storytelling is not that important, that the plot and characters matter more. In a primarily visual medium, the visuals are the foundation and the thing that distinguishes film from every other way of telling a story. The writer's point: a book is primarily made of words and sentences, it is called prose fiction, and prose is the raw material you have to work with when showing anyone your groundbreaking plot and characters. Separating the story from the building blocks of the medium does not really make sense.
 
-How to treat the specific claim, honestly. This is one author's report. We looked this morning for independent accounts of the named site and found none either way — no corroboration, and no defence. Similar names exist in this space too, and nothing here speaks to any other site. So treat it as a reason to apply the method rather than as a verdict, and if you are weighing any promotion service, the free vetting routes are the Alliance of Independent Authors' Watchdog list and the Absolute Write Bewares board, both of which carry years of accumulated author experience.
+And the nuance, which is what lifts it above a rant. This does not mean prose must be flowery, or that anything written simply is bad. Hemingway deliberately used everyday language and uncomplicated sentences — and he also chose those words with intention, and knew how to make something like music on the page with a simple vocabulary. The writer's complaint about the people who say "write simply, like Hemingway" is that many of them do not care for poetry at all, and so miss the chance to learn how to tell their story in the best way available to them, because they treat the basic material of their medium as something to handle as little as possible.
 
-🔗 https://www.reddit.com/r/selfpublish/comments/1xe8lo6/beware_indieauthornet_dot_com/
+🔗 https://www.reddit.com/r/writing/comments/1xfcfnk/the_writing_advice_i_hate_the_most_prose_isnt/
 
-💬 Do you know which sign-up leaked your email — and if not, would a unique address per service be worth five minutes to set up?
-
-
-4. Four books instead of twenty-four: the multi-author event nobody warns you about
-
-Posted in the small hours this morning, 25 October, and it is the most practical warning in today's digest because the cost is measurable.
-
-The author writes smutty romance and has done in-person signings all year, solo and in groups. One shop where a solo appearance had gone particularly well invited them back for a multi-author event. The other authors were perfectly pleasant people. One of them writes religious and children's books, and spent the event singing religious songs on a ukulele every few minutes.
-
-The arithmetic: four books sold, against twenty-four at the same shop as a solo author. Customers were visibly steering around the table. People did come up to that author, which makes sense — the music matched their readership — and the romance writer packed up early, partly on sales and partly because hours of that music was more than they wanted to sit through. Their conclusion is a business decision rather than a complaint: solo events at that shop from now on.
-
-The lesson generalises past the specifics, and it is one that in-person selling advice almost never mentions. A table is a shared shopfront. Whoever is next to you is part of your display whether you like it or not, and a genre mismatch does not split the audience neatly between you — it can repel the readers who would have bought from you. Before accepting a group event, the questions worth asking the organiser are who else is confirmed, what they write, and whether anything is being performed.
-
-🔗 https://www.reddit.com/r/selfpublish/comments/1xerhpg/mini_rant_inperson_sales_bombed_today_because_of/
-
-💬 What is the worst table you have been put next to — and did you say anything to the organiser afterwards?
+💬 Whose simple prose do you reread for the sentences rather than the story?
 
 
-5. Every road in the plot leads somewhere you do not want to go
+4. 🎬 "The best path to making a movie is to own something" — and a book counts
 
-Posted at four this morning, 25 October, and it is the craft question of the day: what do you do when your own story insists on something you hate?
+Posted in the small hours this morning, 26 October, as a list of hard truths for screenwriters, and novelists should read it because of where it lands.
 
-A writer has a plot they like a great deal, and the next major beat that everything is pointing at is the central couple breaking up through plain incompatibility — which then leads, as they put it, to even worse things. They have stalled, because every road leads there and they do not want to go. Work around it, write it anyway, or something else?
+The practitioner's framing of the market, offered as their own account rather than sourced figures: in the 1990s around three hundred spec screenplays sold a year, some from outside Hollywood entirely — contests, writing samples, bedroom writers who struck gold. Today spec sales are rare to nearly zero, mostly going to writers with an inside track, and the films often are not made. Specs now tend to get produced independently and cheaply; most vanish, a few reach a streamer or a festival.
 
-Worth running as the question, because the answers divide along a real fault line and both sides have good arguments. One camp says the resistance is information: if the logic of the characters demands it, writing around it produces the kind of soft, unearned turn readers feel without being able to name. The other says a plot is not a train timetable — if every road leads somewhere, that is a fact about the roads you built, and the fix is earlier, in the premise or the characters, not in flinching at the junction.
+Their harder points, compressed. Most films are not original scripts: they are remakes, book adaptations, comics, licensed content, or prestige projects from established directors. Formatting is close to meaningless outside a shooting draft — a marketable story matters more than a correct one. Screenwriting is often gig work paying very little, union card or not. Filmmaking is a business, so deals, funding, contracts, unions and distribution are fundamentals rather than someone else's department. Filmmakers who build an audience on TikTok or YouTube are more bankable than a spec writer. And script contests are misleading about what winning actually opens.
 
-The third answer, which is usually the true one: write the thing you are dreading, in a draft nobody will see, and find out whether you were protecting the story or protecting yourself. Drafts are cheap. Knowing is not.
+The conclusion is the reason it is in an author's digest: "The best path to making a movie is to own something: intellectual property, a book, a true story, being an expert in a topic, something that only you can do and sell to Hollywood. Build an audience. Get some heat. Hollywood will call you."
 
-🔗 https://www.reddit.com/r/writing/comments/1xeskd1/do_you_write_things_you_hatedislikedont_want_to/
+Set that beside Saturday's item here, which was sourced data rather than one writer's view: on the rights platform Rightscenter's figures, backlist titles are now nearly two-thirds of all book-to-screen requests. One is an argument and one is a measurement, and they point the same way — the asset is the book you own, not the script you are hoping someone buys.
 
-💬 What has your story demanded that you did not want to write — and did you write it in the end?
+🔗 https://www.reddit.com/r/Screenwriting/comments/1xfj8lj/hard_truths_for_screenwriters_in_2026/
+
+💬 What do you own that Hollywood could not make without you?
 
 
-6. 📺 "No More Writer's Block: How I Outline My Entire Book"
+5. The bookshop float that keeps not happening
 
-Heart Breathings, read off the channel page rather than a feed — the page said twelve hours before this run, so late yesterday or early today. Title confirmed against YouTube directly this morning. Pointer only; not watched here.
+The New Publishing Standard, 25 October, with a careful timeline of the Barnes & Noble and Waterstones stock market listing — which would have created the first publicly traded bookselling share of real scale, and which has now slipped out of 2026 entirely.
 
-Worth the pairing with today's fifth item. That writer is stuck because the plot insists on something they do not want; an outlining method is one answer to being stuck, and the honest caveat is that it is an answer to a different kind of stuck — not knowing what happens next, rather than knowing and not wanting it. Both are real and they do not have the same fix.
+The sequence, as reported. Elliott Management, which has owned Waterstones since 2018 and Barnes & Noble since 2019, was sounding out banks for a London listing in February. By May it had lined up Goldman Sachs and JPMorgan to arrange a combined float of both chains, at a valuation reported around £2 billion. In July the chairman of Next, Michael Roney, became non-executive chairman of the holding company. Also in July, Waterstones was reported among UK listing hopefuls considering deferral to 2027, after Christmas trading. By autumn, roundups list it among London listings postponed.
 
-🔗 https://www.youtube.com/watch?v=j7YDlmaEZvw
+The author's own cautions are worth repeating because they are the honest part: the postponement reports name Waterstones, and nobody has spelled out whether the combined float with Barnes & Noble is deferred as a single unit; there is no filing, no prospectus and no announced date; and delayed is not abandoned. Earlier reporting also warned that market volatility could push it further, which would put even 2027 in question.
 
-💬 Does outlining stop you getting stuck, or just move where you get stuck to?
+Why it belongs in a digest for indie authors. These two chains are the largest route to a physical shelf in the UK and the US, and who owns them — a hedge fund preparing an exit, or public shareholders expecting quarterly growth — shapes how much risk a buyer takes on an unknown name. Nothing changes for your book this week. It is worth knowing that the ownership question is still open and that the answer will arrive as a business decision about returns, not about books.
+
+🔗 https://thenewpublishingstandard.com/2026/10/25/barnes-noble-waterstones-ipo-banks-booked-2027/
+
+💬 Has a high street chain ever stocked your book — and if so, what actually made it happen?
 
 
 —
-Scout notes: six items — two from news and trade press, three from the community lanes, one from the video lane. A Sunday-sized edition and nothing padded. YouTube lane: fresh today, and this one came in at the last minute — the RSS route failed on all six channels, four attempts each, and the channel pages served as the fallback, where five of the six carried only videos this digest has already run and the sixth had posted about twelve hours before this run. Its age is given as the page's own figure rather than a date, and the title was confirmed against YouTube directly. Screen lane: swept and nothing new, so no screen item today. Deliberately not run: ALLi's Saturday news summary leads on Kindle Unlimited passing $5 billion in payouts and YouTube eyeing audiobooks, and this digest ran the first on 19 October and the second on 20 October, so both halves are same-subject repeats rather than new developments. The 25 October item leading today was published at 05:00 UTC, about eight minutes before this run began, and is read from the European Writers' Council's own page. Publishing Perspectives' homepage came back byte-identical to yesterday's — a Sunday, not a fault. On the EU Code itself: the search layer confirmed it has been open for signature since the Commission published it in June, with around 190 signatory organisations on the Commission's September figures, which is the context the statement is refusing to join rather than a new policy this week. Reddit was slow but complete: r/selfpublish and r/PubTips answered first time, r/Screenwriting on the second shape, and r/writing needed five shapes. Elizabeth Spann Craig's blog returned 403 for a thirteenth day, recorded as blocked. Writer Beware has published nothing since 16 October.
+Scout notes: five items — two from news and trade press, three from the community lanes, one of those the screen item. A thin Monday honestly reported: the trade sources published almost nothing new over the weekend, and two things that looked like items could not be read. AI lane: quiet today on new developments — the settlement item leading today is money and procedure rather than the acceptance argument, and nothing new surfaced in the lane itself. YouTube lane: nothing fresh today. The RSS route failed on all six channels for the third day running, four attempts each, the channel pages served as the fallback, and every video inside the seven-day gate has already run here — including yesterday's Heart Breathings upload. Behind a wall: Books+Publishing has three Australian and New Zealand stories this morning, including Love Your Bookshop Day sales and a new authors' initiative, and all of them are subscriber-only with no readable summary, so none is run rather than guessed at. The UK round-up at authorhelp.uk publishes at 08:00, after this run, so Monday's edition is never in it. Deliberately not run: a querying post pointing at a named literary agency's own social post as evidence of AI use. The poster hedges it twice themselves — it could be human error — and we could not verify it, so pointing readers at an unverified inference about a named business is not something this digest will do. The vetting lesson it carries was covered here on Wednesday and Saturday. The settlement figures were read from the settlement's own site and from class counsel's status report as quoted by the Text and Academic Authors Association, not from the aggregator summaries that surfaced first — which is how the $3,000 figure this digest used twice last week came to be corrected. Reddit: r/writing answered first time, r/selfpublish and r/Screenwriting on the second shape, r/PubTips on the third. Elizabeth Spann Craig's blog returned 403 for a fourteenth day, recorded as blocked. Writer Beware has published nothing since 16 October.
 
 —
 Curated daily for this community. Spotted something worth sharing?
