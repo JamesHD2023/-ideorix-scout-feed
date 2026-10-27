@@ -1,87 +1,143 @@
-📚 Daily Writer's Scout — Monday, 26 October 2026
+📚 Daily Writer's Scout — Tuesday, 27 October 2026
 
-1. The Anthropic money has a date and a number: payments by 15 November, about $2,203.56 a book — not $3,000
+1. "When the AI companies claim it is impossible, they are lying to you" — Australian authors at the AI inquiry
 
-If you filed a claim in the Anthropic copyright settlement, this is the week to log into the portal. The settlement's own site now says the first round of payments is expected on or before 15 November 2026, and the number attached to it is lower than the one everybody has been quoting, including this digest.
+Last Wednesday, 21 October, Anna Funder, Charlotte Wood and Markus Zusak sat down in front of Australia's Joint Select Committee on Artificial Intelligence alongside the Australian Society of Authors, the Australian Publishers Association and Hachette's CEO, to argue against watering down copyright law for AI training. The transcripts of what they said went up on the ASA's site the same day, and they are the clearest statement of the authors' case anyone has made this year.
 
-The figure, from class counsel's status report to the court as quoted by the Text and Academic Authors Association: "After deduction of fees, services awards, and expenses, each Work is allotted approximately $2,203.56 of funds currently in the Settlement Fund, which does not yet include Anthropic's final payment of $450 million plus interest."
+Charlotte Wood took on the argument that licensing at scale cannot be done. Her evidence was her own book: "Copyright licensing supports careers like mine, including the licensing of UK rights to my last novel, enabling it to be shortlisted for the world's most prestigious literary award, the Booker Prize, in turn leading to enormous economic benefit to me and a boost to our book industry. Licensing — directly through publishers and collecting agencies — happens every day. It is careful work, but it is not complicated. When the AI companies claim it is impossible, they are lying to you."
 
-So the correction, plainly, because we ran the other figure twice last week. The widely reported "roughly $3,000 per work" was the headline arithmetic on a $1.5 billion fund. The first actual payment is about $2,203.56, because legal fees, service awards and expenses come out of the fund before authors do — and because Anthropic's final $450 million has not been paid in yet. That last part is the good news in the sentence: there is a second distribution to come once that money arrives, and Anthropic is required to pay it by September 2027. The total per work should end up higher than this first cheque; it will not be arriving this year.
+Anna Funder went to what copyright is for: "The AI companies need to come to the table and make licensing deals, like everyone else who wishes to use our work, which is our property. Language is the greatest technology ever invented, and they know it. It is how we see inside ourselves, and each other. It is how we understand what it is to be human."
 
-Who gets paid in the first round, in the settlement's own words: works "on which claimants do not disagree on the appropriate allocation (or who quickly reach agreement to resolve any disagreement)" and for which claimants have provided all the information the administrator needs. If a publisher or agent has filed a competing claim on your work, or if your payment details are incomplete, you are not in this round.
+Markus Zusak put the working writer's position without self-pity: "It's hard enough for most creative people to make a living as it is — and we realise that's a choice — but if we don't fight for it now, it won't be that long till there's almost nothing left to fight for at all. Fair copyright for our efforts — and for the efforts of writers and all artists around the world — seems like a pretty fair request."
 
-Two things to do rather than read about. Check that your payment information in the portal is complete, because an incomplete record is the one reason for delay entirely within your control. And if the allocation shown for your work is wrong, submit your supporting information — the window for that is 60 days from getting access to your consolidated claim information, not the 30 days the September notices stated. This digest covered that extension on 30 September; the payment date and the per-work figure are the genuinely new parts.
+And two numbers from the ASA's opening statement that are worth carrying into any argument you have about this: the AI companies are facing over 150 lawsuits in the United States alone, and there are over 200 licensing deals for AI training already done. Both facts cut the same way. Where these companies judged the legal risk too high, they licensed. Where they thought they could get away with it, they did not. The ASA's summary of the industry's stated position — "No asking permission, no calling it a license, no liability" — ends with the most Australian sentence in the whole hearing: "It doesn't pass the pub test."
 
-🔗 https://www.anthropiccopyrightsettlement.com/
+What the ASA actually asked for, rather than just opposing: don't introduce an opt-out scheme; clarify the importation provisions; and introduce statutory damages, so that an Australian author has leverage to compel a licence here regardless of where the model was trained.
 
-💬 Have you checked your claim in the portal this month — and does the allocation it shows match what you expected?
+🔗 https://www.asauthors.org.au/news/authors-oppose-watering-down-copyright-law-for-big-tech-at-parliamentary-inquiry/
+🔗 https://www.asauthors.org.au/news/asa-calls-for-stronger-copyright-protections-to-address-offshore-ai-theft/
 
-
-2. An author found their book being given away on Spotify, credited as read by them
-
-Posted yesterday evening, 25 October, and it is the most useful hour you could spend today if you have never gone looking.
-
-What they found, after reading that authors should periodically scan for unauthorised copies and impersonation. On Spotify, someone had created an episode advertising a free EPUB download of their novel — and the listing said it was read by them, which they certainly had not done. On Yumpu, a document-hosting site, another listing advertising a free PDF of the same book. They had published on neither platform.
-
-What happened next is the part worth knowing, because it is a split result. They reported the Spotify listing and Spotify replied to say the responsible account had been disabled. They emailed Yumpu's support explaining they were the author and had never authorised it, and have had no response at all.
-
-The one decision they got exactly right: they did not click either link, so they have not confirmed whether the listings actually contained the manuscript. That is the correct instinct. A link promising a free copy of your own book is a link built to be clicked by you, and malware and credential harvesting are at least as common in this corner as actual piracy.
-
-Their questions are the ones to bring to this group, because collective experience beats an article here: where else should authors check, what actually gets listings removed when a site ignores you, and has anyone had real results from copyright takedown notices, Google removal requests, or paid monitoring services?
-
-🔗 https://www.reddit.com/r/selfpublish/comments/1xfbcwt/found_my_book_on_spotify_and_yumpu_without_my/
-
-💬 Have you ever searched for your own book title plus "free download" — and what did you find?
+💬 "It is careful work, but it is not complicated" — has anyone here actually licensed your work to an AI company, and what did the process look like?
 
 
-3. "Prose isn't that important, the plot and characters are"
+2. A publisher with 16 books due next spring closes on Friday
 
-Posted yesterday evening, 25 October, and it is the sharpest craft argument of the weekend because of the analogy it opens with.
+Catapult Book Group — the group that holds the Catapult, Counterpoint, Soft Skull and Hawthorne Books imprints — is being sold by its owner and CEO Elizabeth Koch, and operations wind down on 30 October. That is this Friday. The news came out through the Catapult Union, which confirmed it to Publishers Lunch on 23 October, and was picked up by Shelf Awareness the same day.
 
-Imagine an aspiring film director saying that visual storytelling is not that important, that the plot and characters matter more. In a primarily visual medium, the visuals are the foundation and the thing that distinguishes film from every other way of telling a story. The writer's point: a book is primarily made of words and sentences, it is called prose fiction, and prose is the raw material you have to work with when showing anyone your groundbreaking plot and characters. Separating the story from the building blocks of the medium does not really make sense.
+The details that matter if you are published by anyone small. The buyer has not been named. The union says the sale covers the company's assets only, and that "continued employment with the prospective buyer is not an option" — Defector reports all of the roughly two dozen staff are being let go. Sixteen titles were scheduled for this coming spring. Nobody has publicly said what happens to those contracts.
 
-And the nuance, which is what lifts it above a rant. This does not mean prose must be flowery, or that anything written simply is bad. Hemingway deliberately used everyday language and uncomplicated sentences — and he also chose those words with intention, and knew how to make something like music on the page with a simple vocabulary. The writer's complaint about the people who say "write simply, like Hemingway" is that many of them do not care for poetry at all, and so miss the chance to learn how to tell their story in the best way available to them, because they treat the basic material of their medium as something to handle as little as possible.
+Why it is in a self-publishing digest. This is the shape of risk that indie authors are routinely told they are avoiding, and it is worth being precise about what it actually costs rather than smug about it. When a publisher is sold for its assets, your contract is an asset. It can be assigned to a buyer you never chose, or it can sit in limbo while a wind-down is administered. The editor who bought your book is gone in both cases. If you have a contract with a small or mid-sized press, this is the week to find your reversion clause and read it — specifically, what triggers a reversion of rights, whether "out of print" is defined in a way that print-on-demand can keep alive indefinitely, and whether there is any clause covering insolvency or a change of control. Knowing the answer before you need it costs an hour. Finding out afterwards is the expensive version.
 
-🔗 https://www.reddit.com/r/writing/comments/1xfcfnk/the_writing_advice_i_hate_the_most_prose_isnt/
+🔗 https://lunch.publishersmarketplace.com/2026/10/catapult-is-being-sold-operations-will-wind-down-on-october-30/
+🔗 https://www.reddit.com/r/PubTips/comments/1xg46j3/discussion_catapult_book_group_shuttering/
 
-💬 Whose simple prose do you reread for the sentences rather than the story?
-
-
-4. 🎬 "The best path to making a movie is to own something" — and a book counts
-
-Posted in the small hours this morning, 26 October, as a list of hard truths for screenwriters, and novelists should read it because of where it lands.
-
-The practitioner's framing of the market, offered as their own account rather than sourced figures: in the 1990s around three hundred spec screenplays sold a year, some from outside Hollywood entirely — contests, writing samples, bedroom writers who struck gold. Today spec sales are rare to nearly zero, mostly going to writers with an inside track, and the films often are not made. Specs now tend to get produced independently and cheaply; most vanish, a few reach a streamer or a festival.
-
-Their harder points, compressed. Most films are not original scripts: they are remakes, book adaptations, comics, licensed content, or prestige projects from established directors. Formatting is close to meaningless outside a shooting draft — a marketable story matters more than a correct one. Screenwriting is often gig work paying very little, union card or not. Filmmaking is a business, so deals, funding, contracts, unions and distribution are fundamentals rather than someone else's department. Filmmakers who build an audience on TikTok or YouTube are more bankable than a spec writer. And script contests are misleading about what winning actually opens.
-
-The conclusion is the reason it is in an author's digest: "The best path to making a movie is to own something: intellectual property, a book, a true story, being an expert in a topic, something that only you can do and sell to Hollywood. Build an audience. Get some heat. Hollywood will call you."
-
-Set that beside Saturday's item here, which was sourced data rather than one writer's view: on the rights platform Rightscenter's figures, backlist titles are now nearly two-thirds of all book-to-screen requests. One is an argument and one is a measurement, and they point the same way — the asset is the book you own, not the script you are hoping someone buys.
-
-🔗 https://www.reddit.com/r/Screenwriting/comments/1xfj8lj/hard_truths_for_screenwriters_in_2026/
-
-💬 What do you own that Hollywood could not make without you?
+💬 Has anyone here had a press fold or get sold out from under them — and how long did it take to get your rights back?
 
 
-5. The bookshop float that keeps not happening
+3. Don't launch a book in December. Launch it on 26 December.
 
-The New Publishing Standard, 25 October, with a careful timeline of the Barnes & Noble and Waterstones stock market listing — which would have created the first publicly traded bookselling share of real scale, and which has now slipped out of 2026 entirely.
+Published in the small hours this morning, 27 October, and it is the most practical thing in today's digest: Written Word Media's Ricci and Ferol break the holidays into three separate marketing windows rather than one blur, with do's and don'ts for each.
 
-The sequence, as reported. Elliott Management, which has owned Waterstones since 2018 and Barnes & Noble since 2019, was sounding out banks for a London listing in February. By May it had lined up Goldman Sachs and JPMorgan to arrange a combined float of both chains, at a valuation reported around £2 billion. In July the chairman of Next, Michael Roney, became non-executive chairman of the holding company. Also in July, Waterstones was reported among UK listing hopefuls considering deferral to 2027, after Christmas trading. By autumn, roundups list it among London listings postponed.
+The Turkey 10 (21–30 November). Anchored on Thanksgiving, Black Friday, Small Business Saturday and Cyber Monday. Readers expect deals and are shopping for themselves as much as for other people, so this is the window to discount even if discounting is not your usual habit. The warning attached to it is a cost warning: every e-commerce retailer on earth is pouring money into Meta and Google ads in those ten days, and their figure for what that does to your click and impression costs is a rise of "anywhere from 50% to like double or triple". Their recommendation is therefore the opposite of what instinct says — dial your paid ads back, and move the budget into fixed-price promotion and your own email list, where you pay the same as any other month and you are not in an auction. And you have permission to email more than usual, with one caveat: if you have not emailed your list in six months, do not start with a daily sequence.
 
-The author's own cautions are worth repeating because they are the honest part: the postponement reports name Waterstones, and nobody has spelled out whether the combined float with Barnes & Noble is deferred as a single unit; there is no filing, no prospectus and no announced date; and delayed is not abandoned. Earlier reporting also warned that market volatility could push it further, which would put even 2027 in question.
+The Holiday Hustle (1 December to shipping cutoffs). Gifting and urgency, and the one with a physical-inventory angle: local December fairs, markets and hotel pop-ups, where you can take fifty paperbacks, sign them, hand them over and never touch a shipping label. Their framing for selling at a table is worth stealing — the person walking past has no idea what to buy for someone. A signed book with a story behind it is the answer to that problem.
 
-Why it belongs in a digest for indie authors. These two chains are the largest route to a physical shelf in the UK and the US, and who owns them — a hedge fund preparing an exit, or public shareholders expecting quarterly growth — shapes how much risk a buyer takes on an unknown name. Nothing changes for your book this week. It is worth knowing that the ownership question is still open and that the answer will arrive as a business decision about returns, not about books.
+The Golden Window (26 December to mid-January). Their argument is that this is the single best launch window of the year, and it is the reason not to publish in December. Every retailer's Q4 is over, so they stop bidding and advertising costs fall. Gift cards are sitting unspent, mostly Amazon's. People are off work, on their phones, short of cash and looking for cheap entertainment. And "read more" is one of the few New Year's resolutions that is genuinely pleasant to keep. So: ads down in November, ads up in January, and a launch date after Christmas rather than before it.
 
-🔗 https://thenewpublishingstandard.com/2026/10/25/barnes-noble-waterstones-ipo-banks-booked-2027/
+One scheduling note from the episode that is easy to miss — promotion-site inventory for the holiday period sells out early, so the booking decision is now, not in three weeks.
 
-💬 Has a high street chain ever stocked your book — and if so, what actually made it happen?
+🔗 https://www.writtenwordmedia.com/the-3-phases-of-holiday-book-sales-and-how-to-win-each-one/
+
+💬 Have you ever launched in the first half of January, and did the cheaper ads actually show up in your numbers?
 
 
-—
-Scout notes: five items — two from news and trade press, three from the community lanes, one of those the screen item. A thin Monday honestly reported: the trade sources published almost nothing new over the weekend, and two things that looked like items could not be read. AI lane: quiet today on new developments — the settlement item leading today is money and procedure rather than the acceptance argument, and nothing new surfaced in the lane itself. YouTube lane: nothing fresh today. The RSS route failed on all six channels for the third day running, four attempts each, the channel pages served as the fallback, and every video inside the seven-day gate has already run here — including yesterday's Heart Breathings upload. Behind a wall: Books+Publishing has three Australian and New Zealand stories this morning, including Love Your Bookshop Day sales and a new authors' initiative, and all of them are subscriber-only with no readable summary, so none is run rather than guessed at. The UK round-up at authorhelp.uk publishes at 08:00, after this run, so Monday's edition is never in it. Deliberately not run: a querying post pointing at a named literary agency's own social post as evidence of AI use. The poster hedges it twice themselves — it could be human error — and we could not verify it, so pointing readers at an unverified inference about a named business is not something this digest will do. The vetting lesson it carries was covered here on Wednesday and Saturday. The settlement figures were read from the settlement's own site and from class counsel's status report as quoted by the Text and Academic Authors Association, not from the aggregator summaries that surfaced first — which is how the $3,000 figure this digest used twice last week came to be corrected. Reddit: r/writing answered first time, r/selfpublish and r/Screenwriting on the second shape, r/PubTips on the third. Elizabeth Spann Craig's blog returned 403 for a fourteenth day, recorded as blocked. Writer Beware has published nothing since 16 October.
+4. Meta pulled the AI-training wording out of its business terms — and the one lever you hold is robots.txt
 
-—
-Curated daily for this community. Spotted something worth sharing?
-Post it below.
+This one has been moving for ten days and today is the first time it is settled enough to be worth your attention. Meta consolidated the crawling language in its commercial terms — the terms that govern ads and business products, which is the category an author Page and an author's ad account sit in — and the new wording included the word "train". Nieman Lab reported it, publishers and digital-rights groups pushed back hard, and Meta revised the terms on 16 October, removing "train" and narrowing the stated permitted uses to advertising and business products.
+
+What is verified and what is not, because the author-facing version of this story going round has flattened it. Verified: the wording changed, and Meta's spokesperson's position is that "the crawling terms we consolidated only applied to our ads and business products, and we've clarified that in the terms themselves," and separately that "this is not about scraping news sites." Verified: publishers are not satisfied. Canadian Press reported on 21 October that News Media Canada's members are "very concerned and are seeking clarity", and Kevin Desjardins of the Canadian Association of Broadcasters called Meta's position an "obvious contradiction", saying the company is "seeking broad permissions to access and use content from publishers' websites". Not verified, and I am saying so rather than repeating it: the implementation date. Most reporting says 30 October; one outlet says it moved again to 20 November. I could not find a second source for the November date, so treat it as unconfirmed.
+
+The practical part, and it is small but it is yours. Meta's own answer to the objection is that the terms do not override a site owner's robots.txt preferences and that content owners can use robots.txt to signal them. That is a company pointing at a file on your own web host as the mechanism. If you have an author website and you have never looked at its robots.txt, this is the week — whatever you think of the terms, the lever Meta itself names is one you control, and it takes minutes rather than a lawyer.
+
+🔗 https://www.cjme.com/2026/10/22/canadian-news-publishers-worried-about-metas-new-terms-of-service-2/
+🔗 https://qz.com/meta-business-terms-ai-scraping-news-publishers-101926
+
+💬 Does your author site have a robots.txt — and have you ever deliberately set what it allows?
+
+
+5. Hollywood is paying seven figures for short stories that publishers won't buy
+
+From Carlo Carrenho's Monday round-up at Publishing Perspectives, 26 October, citing the New York Times: film studios are paying seven-figure sums for unpublished short stories while trade publishers remain reluctant to buy short fiction collections at all.
+
+The named deals: Netflix has acquired Nicholas Binge's Understudy. Universal bought Colin Bannon's Long Lost, with Steven Spielberg attached to produce. Amazon MGM Studios acquired Harrison Query's Code Black. None of these went through a publisher first.
+
+Why this is not just a curiosity. Two of the oldest pieces of received wisdom in this business are that short fiction does not sell and that translated fiction does not sell in English — and the screen side is now actively buying both. We covered the Rightscenter figures here on Saturday, so this is the same current from the other bank: studios going directly to writers without waiting for the story to become a book.
+
+What to take from it, carefully, because this is a market for a very small number of writers and the deals above are not a route anyone can plan. The usable part is the reframe. A finished short story you could not place is not dead inventory. It is a self-contained, rights-clean, fully-owned asset in a format that at least three major buyers are currently paying real money for, and the thing that makes it saleable is that you own all of it. That is an argument for keeping a drawer of finished short work, and for not signing away film and television rights casually in any contract that touches it.
+
+🔗 https://publishingperspectives.com/2026/10/around-the-book-world-monday-october-26-2026/
+
+💬 Have you got finished short fiction sitting unpublished — and do you know who holds its screen rights?
+
+
+6. Half of Australia's audiobook listeners are paying subscribers, and most arrived in the last two years
+
+New research in the same Monday round-up, from NielsenIQ BookData: Understanding the Australian Audiobook Consumer 2026, based on a survey of 1,102 adults.
+
+The findings. Nearly half of Australian audiobook consumers are paying subscribers. More than half first tried the format within the past two years — which is to say this is a market still filling up, not a settled one. On discovery, the two leading routes are tied: personal recommendations and browsing audiobook websites, at 28% each, followed by searching for a favourite author at 25% and search engines at 24%.
+
+Sit with that discovery split for a moment, because it is the actionable part and it is not what most author marketing assumes. Half of all discovery here is either word of mouth or a reader browsing a store with no particular title in mind. That puts the weight on the things that work in a browse — cover, category placement, sample, series position — and on readers telling each other, rather than on an ad reaching someone who already wants your book.
+
+On what stops people, BookScan Australia's Claire Harrison, speaking on The Bestsellers Podcast, named three barriers: narration quality, affordability, and hesitation about AI narration. Her point on the first was that a bad narrator does not just lose that one sale — it can put a listener off trying audiobooks again at all. Worth weighing if you are costing up an audio edition and the cheap option is tempting.
+
+🔗 https://publishingperspectives.com/2026/10/around-the-book-world-monday-october-26-2026/
+
+💬 For those with audiobooks out — where do your audio sales actually come from, and does it look anything like that 28/28/25/24 split?
+
+
+7. You can be exclusive on Amazon and still go wide — including into libraries
+
+Indie Author Magazine published its write-up of the Wide for the Win Summit yesterday, 26 October (disclosure, and theirs: IAM, Indie Author Training and Wide for the Win are sister organisations, and Mark Leslie Lefebvre consults for Draft2Digital). The summit ran 9–10 October for more than six hundred registered authors across thirty-five sessions, and the single most useful thing in the write-up is the myth the opening session set out to kill.
+
+Going wide is not a yes-or-no switch, and KDP Select exclusivity does not lock you out of it. Lefebvre's framing: "Wide is a whole set of decisions." Bradley Charbonneau's list of what you can take wide while keeping your ebook exclusive to Amazon: print, translations, hardcovers, special editions. "Audio can also be wide. And then direct is sort of like the uber wide."
+
+The concrete route, and this is the bit most authors do not know. Since Amazon's September 2025 policy change, authors with ebooks in KDP Select can also distribute them to libraries. In practice that means going into an aggregator's dashboard, leaving every retailer unchecked, and switching on only the library wholesalers. You stay exclusive for retail and you are in libraries. For print, Lefebvre's recommendation was IngramSpark as distributor with the trade discount set appropriately.
+
+The community is free to join at wideforthewin.com, which is their link rather than ours, and worth it if you want to work through the decisions one at a time rather than treating wide as an all-or-nothing move.
+
+🔗 https://indieauthormagazine.com/publishing-wide-your-way-wide-for-the-win-summit-teaches-authors-how-to-build-their-own-mix/
+
+💬 If you are exclusive on Amazon — did you know libraries were still available to you, and have you switched them on?
+
+
+8. 🎬 New from Kindlepreneur, twelve hours ago: five genres new authors should avoid
+
+Dave Chesson posted "New Authors: Avoid These 5 Book Genres (Here's Why)" about twelve hours before this digest went out — the freshest thing in the video lane today and the only new video across the six channels we watch.
+
+Pointer only: nobody here has watched it, so this is a flag rather than a summary, and the title is confirmed from YouTube's own data rather than guessed. Worth ten minutes if you are choosing a lane for a first book, with the usual caution that "avoid" lists are about the difficulty of competing in a category, not about what you are allowed to write.
+
+🔗 https://www.youtube.com/watch?v=AU4giUU2JBA
+
+💬 Which genre did you start in, and would you tell a first-time author to pick it?
+
+
+9. 💬 Discussion: "They won't look at your work and see an author, they'll see YOU"
+
+Posted yesterday afternoon, 26 October, by a writer who got a publisher for their first book and wanted to tell people what the price actually was.
+
+The account. They wrote when their partner and newborn were asleep. They wrote when they should have been earning or doing the housework. They fell apart physically and mentally, and were, in their own word, unpleasant to be around. A handful of friends and family bought the book, and then silence. Their explanation for the silence is the sharpest thing in the post: to the people who know you, you are not an author, you are you — and they have seen you with a runny nose and a hangover. You become "a barrier between them and the book".
+
+They do not regret it. The proof copy in their hand settles that question. What they are changing on book two, already underway: no writing until 2am, because "it makes for subpar prose anyway"; kettlebells twice a week; not handing their partner the gremlin version of themselves; play with the kids; keep the day job. And plan the book — "don't pants it like you're Gorge R. R. fricking Martin", because their straight horror drifted into something else entirely when the structure went on the wonk.
+
+They added an edit afterwards, which is worth reading too: they are fine, the routine is healthy now, the hard patch was a couple of months, and their family did buy the book with their own money when they could have had free author copies. The post is about the worst of it, not the whole of it.
+
+🔗 https://www.reddit.com/r/writing/comments/1xfyo6j/they_dont_care_harsh_lessons_learned_publishing/
+
+💬 Who was the first person outside your own household who cared about your book — and were you surprised by who it turned out to be?
+
+
+— — —
+
+Nine items today, every one traced to a fetch or search run this morning with a date inside seven days. Lanes: AI held the lead and item 4. Australia supplied two items, from the two Australian sources added to the sweep yesterday — they have earned their place. YouTube's RSS feeds 404'd on all six channels again this morning, on four attempts each plus two more live retries, so the video lane came off the channel pages; one new video, title confirmed through YouTube's own oEmbed data. Elizabeth Spann Craig's blog has now 403'd for fifteen consecutive days. Books+Publishing Australia remains subscriber-only. One thing I checked and did not run: Korean publishers' "No Books, No AI" appeal, which has 163 publishers and 333 individuals signed — real, dated 26 October, but context rather than something you can act on, and the digest was already long.
+
+Powered by Ideorix — The Manuscript Engine
