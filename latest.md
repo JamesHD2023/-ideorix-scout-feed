@@ -1,143 +1,148 @@
-📚 Daily Writer's Scout — Tuesday, 27 October 2026
+📚 Daily Writer's Scout — Wednesday, 28 October 2026
 
-1. "When the AI companies claim it is impossible, they are lying to you" — Australian authors at the AI inquiry
+1. If you have an author website, read this one first — and ignore the version going round that says "prior to 8.2"
 
-Last Wednesday, 21 October, Anna Funder, Charlotte Wood and Markus Zusak sat down in front of Australia's Joint Select Committee on Artificial Intelligence alongside the Australian Society of Authors, the Australian Publishers Association and Hachette's CEO, to argue against watering down copyright law for AI training. The transcripts of what they said went up on the ASA's site the same day, and they are the clearest statement of the authors' case anyone has made this year.
+There is a genuinely serious web security story running, and the author-facing summaries of it are getting one detail wrong in the direction that gets people hurt. So here is the checked version.
 
-Charlotte Wood took on the argument that licensing at scale cannot be done. Her evidence was her own book: "Copyright licensing supports careers like mine, including the licensing of UK rights to my last novel, enabling it to be shortlisted for the world's most prestigious literary award, the Booker Prize, in turn leading to enormous economic benefit to me and a boost to our book industry. Licensing — directly through publishers and collecting agencies — happens every day. It is careful work, but it is not complicated. When the AI companies claim it is impossible, they are lying to you."
+What it is. Two flaws in PHP, the language that runs most website software including WordPress and WooCommerce. They are called php2shell, their numbers are CVE-2026-109618 and CVE-2026-109619, and both are rated 9.2 out of 10. They allow unauthenticated remote code execution — meaning someone can run their own code on the server without a password or a login. PHP shipped emergency patches on 21 October, a day earlier than planned because the details leaked.
 
-Anna Funder went to what copyright is for: "The AI companies need to come to the table and make licensing deals, like everyone else who wishes to use our work, which is our property. Language is the greatest technology ever invented, and they know it. It is how we see inside ourselves, and each other. It is how we understand what it is to be human."
+The part that moved. On 26 October the US Cybersecurity and Infrastructure Security Agency added both to its Known Exploited Vulnerabilities catalogue. That is the formal statement that these are being used in attacks now, not theoretically. Palo Alto Networks counts over 22.6 million exposed instances potentially vulnerable.
 
-Markus Zusak put the working writer's position without self-pity: "It's hard enough for most creative people to make a living as it is — and we realise that's a choice — but if we don't fight for it now, it won't be that long till there's almost nothing left to fight for at all. Fair copyright for our efforts — and for the efforts of writers and all artists around the world — seems like a pretty fair request."
+The correction, and it matters. One author-facing summary this morning says the flaw affects "versions of PHP prior to 8.2". Read that on 8.3 and you would conclude you are fine. You are not. CISA's own wording is that the vulnerabilities "affect all PHP installations serving web requests", and the fixed versions it names are PHP 8.5.12, 8.4.27, 8.3.36 or 8.2.35. So 8.3.35 is vulnerable; 8.3.36 is not. It is the fourth digit that matters, not the second. I have not been able to verify the "70% of the web" figure attached to that same summary, so I am not repeating it as fact.
 
-And two numbers from the ASA's opening statement that are worth carrying into any argument you have about this: the AI companies are facing over 150 lawsuits in the United States alone, and there are over 200 licensing deals for AI training already done. Both facts cut the same way. Where these companies judged the legal risk too high, they licensed. Where they thought they could get away with it, they did not. The ASA's summary of the industry's stated position — "No asking permission, no calling it a license, no liability" — ends with the most Australian sentence in the whole hearing: "It doesn't pass the pub test."
+The harder line, for anyone on cheap or old hosting. CISA says systems running PHP 8.1 or earlier should be taken offline until they can be updated — because there is no patch for those versions. If your site has been sitting on a host you have not thought about since 2021, that is the sentence to act on.
 
-What the ASA actually asked for, rather than just opposing: don't introduce an opt-out scheme; clarify the importation provisions; and introduce statutory damages, so that an Australian author has leverage to compel a licence here regardless of where the model was trained.
+What to actually do, in order. Ask your host, in writing, which PHP version your site is running — the full version number, all three parts. If it is below one of the four fixed versions, ask them to update it, and ask when. If it is 8.1 or earlier, ask them what their plan is, because yours is now a decision about whether the site stays up. If you run the site yourself, patch today. And note the one mitigation trap: switching off session upload progress closes only part of one of the two flaws and does nothing for the other, so it is not a substitute for updating.
 
-🔗 https://www.asauthors.org.au/news/authors-oppose-watering-down-copyright-law-for-big-tech-at-parliamentary-inquiry/
-🔗 https://www.asauthors.org.au/news/asa-calls-for-stronger-copyright-protections-to-address-offshore-ai-theft/
+🔗 https://www.cisa.gov/news-events/alerts/2026/10/21/critical-vulnerabilities-php-require-immediate-patching
+🔗 https://selfpublishingadvice.org/critical-php-vulnerability/
 
-💬 "It is careful work, but it is not complicated" — has anyone here actually licensed your work to an AI company, and what did the process look like?
+💬 Do you know, right now, what PHP version your author site runs — and do you know who to ask?
 
 
-2. A publisher with 16 books due next spring closes on Friday
+2. "Does anyone else feel like they constantly have to prove they DIDN'T use AI?"
 
-Catapult Book Group — the group that holds the Catapult, Counterpoint, Soft Skull and Hawthorne Books imprints — is being sold by its owner and CEO Elizabeth Koch, and operations wind down on 30 October. That is this Friday. The news came out through the Catapult Union, which confirmed it to Publishers Lunch on 23 October, and was picked up by Shelf Awareness the same day.
+Posted last night, 27 October, by an author who has just published their first book and did everything the honest way.
 
-The details that matter if you are published by anyone small. The buyer has not been named. The union says the sale covers the company's assets only, and that "continued employment with the prospective buyer is not an option" — Defector reports all of the roughly two dozen staff are being let go. Sixteen titles were scheduled for this coming spring. Nobody has publicly said what happens to those contracts.
+What they paid for: an illustrator found through Etsy for character art, a separate artist for the cover, a designer for the website, and a commissioned illustration of themselves for the About page so that the author's own portrait matched the style of the characters. Someone saw that portrait and immediately said it was AI.
 
-Why it is in a self-publishing digest. This is the shape of risk that indie authors are routinely told they are avoiding, and it is worth being precise about what it actually costs rather than smug about it. When a publisher is sold for its assets, your contract is an asset. It can be assigned to a buyer you never chose, or it can sit in limbo while a wind-down is administered. The editor who bought your book is gone in both cases. If you have a contract with a small or mid-sized press, this is the week to find your reversion clause and read it — specifically, what triggers a reversion of rights, whether "out of print" is defined in a way that print-on-demand can keep alive indefinitely, and whether there is any clause covering insolvency or a change of control. Knowing the answer before you need it costs an hour. Finding out afterwards is the expensive version.
+What they did next is the interesting part. They replied publicly explaining who they had hired, and deliberately did not delete the comment — "I'd rather publicly explain where the artwork came from than make it look like I'm trying to hide something." They have also started listing their artists in their Linktree next to the retailer links, partly to credit people who deserve it and partly because of "this weird pressure to have receipts showing that real people made this stuff."
 
-🔗 https://lunch.publishersmarketplace.com/2026/10/catapult-is-being-sold-operations-will-wind-down-on-october-30/
-🔗 https://www.reddit.com/r/PubTips/comments/1xg46j3/discussion_catapult_book_group_shuttering/
+And then the mechanical version of the same problem, which is the bit most of us have not hit yet: they uploaded commissioned artwork to TikTok and the platform automatically flagged the post as potentially containing AI-generated content. So the accusation now arrives without a human making it.
 
-💬 Has anyone here had a press fold or get sold out from under them — and how long did it take to get your rights back?
+They are not bitter about the suspicion, and said so: there is an enormous amount of AI-generated content out there and they understand why people assume. What they mind is that paying real artists buys you no protection from the assumption. Their worry going into a marketing push: the further the work reaches, the more often they will be defending it.
 
+Their edit, added later: they blocked the person, who turned out to be trolling rather than asking. The lesson they drew was about energy, not evidence.
 
-3. Don't launch a book in December. Launch it on 26 December.
+This connects to something we ran on 21 October — the Books By People scheme, which certifies human authorship from creation accounts, manuscript history and signature analysis. At the time it read like infrastructure for a problem that was coming. A week later, here is the problem, arriving as a comment under someone's cover art and as an automatic label on a video.
 
-Published in the small hours this morning, 27 October, and it is the most practical thing in today's digest: Written Word Media's Ricci and Ferol break the holidays into three separate marketing windows rather than one blur, with do's and don'ts for each.
+🔗 https://www.reddit.com/r/selfpublish/comments/1xh5lb1/does_anyone_else_feel_like_they_constantly_have/
 
-The Turkey 10 (21–30 November). Anchored on Thanksgiving, Black Friday, Small Business Saturday and Cyber Monday. Readers expect deals and are shopping for themselves as much as for other people, so this is the window to discount even if discounting is not your usual habit. The warning attached to it is a cost warning: every e-commerce retailer on earth is pouring money into Meta and Google ads in those ten days, and their figure for what that does to your click and impression costs is a rise of "anywhere from 50% to like double or triple". Their recommendation is therefore the opposite of what instinct says — dial your paid ads back, and move the budget into fixed-price promotion and your own email list, where you pay the same as any other month and you are not in an auction. And you have permission to email more than usual, with one caveat: if you have not emailed your list in six months, do not start with a daily sequence.
+💬 Has your cover, art or prose ever been accused of being AI when it wasn't — and did you answer, ignore it, or delete it?
 
-The Holiday Hustle (1 December to shipping cutoffs). Gifting and urgency, and the one with a physical-inventory angle: local December fairs, markets and hotel pop-ups, where you can take fifty paperbacks, sign them, hand them over and never touch a shipping label. Their framing for selling at a table is worth stealing — the person walking past has no idea what to buy for someone. A signed book with a story behind it is the answer to that problem.
 
-The Golden Window (26 December to mid-January). Their argument is that this is the single best launch window of the year, and it is the reason not to publish in December. Every retailer's Q4 is over, so they stop bidding and advertising costs fall. Gift cards are sitting unspent, mostly Amazon's. People are off work, on their phones, short of cash and looking for cheap entertainment. And "read more" is one of the few New Year's resolutions that is genuinely pleasant to keep. So: ads down in November, ads up in January, and a launch date after Christmas rather than before it.
+3. "Just because you wrote a character doesn't automatically mean you own every illustrated version of her"
 
-One scheduling note from the episode that is easy to miss — promotion-site inventory for the holiday period sells out early, so the booking decision is now, not in three weeks.
+ALLi published a long interview with Selina Brown yesterday, 27 October. She founded the Black British Book Festival as an indie author in 2021, now has a deal with Penguin, and sells her Nena books and a Nena doll through her own shop. The interview is worth reading whole, but three things in it are useful to anyone, in any country, in any genre.
 
-🔗 https://www.writtenwordmedia.com/the-3-phases-of-holiday-book-sales-and-how-to-win-each-one/
+The rights warning, which is the line quoted above. If you commission illustration — a cover, character art, a children's book, a doll — the fact that you invented the character does not settle who owns each drawn version of her. Her advice is to raise visual and merchandise rights early, before anyone starts drawing. That is a question that costs nothing to ask at the commissioning stage and is close to impossible to unpick afterwards.
 
-💬 Have you ever launched in the first half of January, and did the cheaper ads actually show up in your numbers?
+The direct-sales reality check. "One of the best lessons independent publishing taught me is the value of a direct relationship with your reader" — and, in the same breath, "revenue and profit are not the same thing," because once you are holding stock and paying for fulfilment, every single product has to justify itself. She runs direct and Penguin side by side and says the two "coexist happily". Her framing of the decision is one to steal: not "can I get a publisher?" but "what's the right model for this book?"
 
+The data point, because it is sourced and it is stark. In the first 24 weeks of 2026, 14 Black authors made the UK's top 1,000 by sales, earning £2.8m between them — 0.9% of that group's revenue. She deliberately will not quote a headline pay-gap percentage, because "we don't have comprehensive enough UK data for that yet", and she explains why the data is thin: few publishers track author output by ethnicity, indie sales through Amazon, direct sites, schools and festivals mostly miss the industry datasets, and surveys circulated through narrow networks miss the authors they most need to reach. Her conclusion applies to every under-counted corner of this business, self-publishing very much included: "If a whole part of the market is hard to measure, it becomes easy for that part of the market to be undervalued."
 
-4. Meta pulled the AI-training wording out of its business terms — and the one lever you hold is robots.txt
+🔗 https://selfpublishingadvice.org/selina-brown-on-building-the-black-british-book-festival-selling-direct-and-why-the-data-still-isnt-good-enough/
 
-This one has been moving for ten days and today is the first time it is settled enough to be worth your attention. Meta consolidated the crawling language in its commercial terms — the terms that govern ads and business products, which is the category an author Page and an author's ad account sit in — and the new wording included the word "train". Nieman Lab reported it, publishers and digital-rights groups pushed back hard, and Meta revised the terms on 16 October, removing "train" and narrowing the stated permitted uses to advertising and business products.
+💬 If you have commissioned cover or character art — do you know, in writing, what you own and what the artist owns?
 
-What is verified and what is not, because the author-facing version of this story going round has flattened it. Verified: the wording changed, and Meta's spokesperson's position is that "the crawling terms we consolidated only applied to our ads and business products, and we've clarified that in the terms themselves," and separately that "this is not about scraping news sites." Verified: publishers are not satisfied. Canadian Press reported on 21 October that News Media Canada's members are "very concerned and are seeking clarity", and Kevin Desjardins of the Canadian Association of Broadcasters called Meta's position an "obvious contradiction", saying the company is "seeking broad permissions to access and use content from publishers' websites". Not verified, and I am saying so rather than repeating it: the implementation date. Most reporting says 30 October; one outlet says it moved again to 20 November. I could not find a second source for the November date, so treat it as unconfirmed.
 
-The practical part, and it is small but it is yours. Meta's own answer to the objection is that the terms do not override a site owner's robots.txt preferences and that content owners can use robots.txt to signal them. That is a company pointing at a file on your own web host as the mechanism. If you have an author website and you have never looked at its robots.txt, this is the week — whatever you think of the terms, the lever Meta itself names is one you control, and it takes minutes rather than a lawyer.
+4. The four things Australia's authors have been asking for since 2023, and the contract toolkit most members never open
 
-🔗 https://www.cjme.com/2026/10/22/canadian-news-publishers-worried-about-metas-new-terms-of-service-2/
-🔗 https://qz.com/meta-business-terms-ai-scraping-news-publishers-101926
+The Australian Society of Authors published its October record of work this morning, 28 October. We led yesterday on the Joint Select Committee hearing it describes, so this is the rest of the file — and two parts of it are more useful than the hearing coverage was.
 
-💬 Does your author site have a robots.txt — and have you ever deliberately set what it allows?
+First, the asks, stated plainly. Since 2023 the ASA has been asking that, as a condition of doing business in Australia, AI companies must: pay ongoing compensation for the offshore theft of creators' work; be honest about what copyright material they trained on and where they got it; negotiate permission for all future uses; and abide by Indigenous Cultural and Intellectual Property protocols. That fourth one does not appear on the equivalent lists from most other countries' writers' organisations, and it is the one worth noticing. They also made a submission to Australia's Office of AI consultation on 9 October, which will be published once the Office releases it.
 
+Second, and this is the practical half. ASA CEO Lucy Hayward spent part of the month telling University of Queensland writing students something that applies to every first-time author anywhere: the excitement of an offer makes you want to sign immediately, and that is exactly the moment to slow down, because "your contracts are the bedrock of your creative career and have implications for a substantial period of time." The ASA publishes standard royalty rates, template contracts and a Guide to AI clauses, runs a paid contract review through Authors Legal, and has a free Member Advice Service. If you are Australian and you are a member, that is a set of documents you have already paid for. If you are not Australian, the published royalty rates and the AI-clause guide are still a useful yardstick to hold a contract against.
 
-5. Hollywood is paying seven figures for short stories that publishers won't buy
+Worth setting beside yesterday's item on the Catapult wind-down, where authors with contracts at a publisher being sold for its assets are now finding out what their termination and reversion clauses actually say. The cheap moment to read a contract is before you sign it. The expensive moment is this one.
 
-From Carlo Carrenho's Monday round-up at Publishing Perspectives, 26 October, citing the New York Times: film studios are paying seven-figure sums for unpublished short stories while trade publishers remain reluctant to buy short fiction collections at all.
+🔗 https://www.asauthors.org.au/news/asa-at-work-october/
 
-The named deals: Netflix has acquired Nicholas Binge's Understudy. Universal bought Colin Bannon's Long Lost, with Steven Spielberg attached to produce. Amazon MGM Studios acquired Harrison Query's Code Black. None of these went through a publisher first.
+💬 Did anyone review your first publishing contract before you signed it — and if you went ahead without that, would you do it again?
 
-Why this is not just a curiosity. Two of the oldest pieces of received wisdom in this business are that short fiction does not sell and that translated fiction does not sell in English — and the screen side is now actively buying both. We covered the Rightscenter figures here on Saturday, so this is the same current from the other bank: studios going directly to writers without waiting for the story to become a book.
 
-What to take from it, carefully, because this is a market for a very small number of writers and the deals above are not a route anyone can plan. The usable part is the reframe. A finished short story you could not place is not dead inventory. It is a self-contained, rights-clean, fully-owned asset in a format that at least three major buyers are currently paying real money for, and the thing that makes it saleable is that you own all of it. That is an argument for keeping a drawer of finished short work, and for not signing away film and television rights casually in any contract that touches it.
+5. 🎬 Two new videos this morning, and the YouTube feeds answered for the first time in eleven days
 
-🔗 https://publishingperspectives.com/2026/10/around-the-book-world-monday-october-26-2026/
+A note on method before the pointers, because it changes how much you can trust the dates: YouTube's machine-readable feeds have been returning 404 for all six of the channels we watch for eleven straight days, which has meant reading approximate ages off channel pages. This morning all six answered on the first few attempts, so today's dates are exact publication timestamps rather than estimates.
 
-💬 Have you got finished short fiction sitting unpublished — and do you know who holds its screen rights?
+Two things are new and neither has been watched here, so these are pointers, not reviews.
 
+The Self Publishing Show, "It's time to face facts. Ignoring AI is no longer viable." Published yesterday, 27 October, at 12:35 UTC. The title is doing a lot of work and we are not going to guess at the argument behind it — but note that the same channel's episode 470, which we flagged on 23 October, asked "Is the AI Deluge Hurting Us?". Two pieces in a week from the same people suggests a position being worked out rather than a one-off.
+🔗 https://www.youtube.com/watch?v=fDU2CEfbGs8
 
-6. Half of Australia's audiobook listeners are paying subscribers, and most arrived in the last two years
+Self-Publishing with Dale, "Email Services for Authors: What You Really Need." Published this morning, 28 October, at 00:49 UTC — roughly five hours before this digest. Unglamorous and probably the more immediately useful of the two if you have been putting off choosing a mailing-list provider.
+🔗 https://www.youtube.com/watch?v=V8cx4z5IUHk
 
-New research in the same Monday round-up, from NielsenIQ BookData: Understanding the Australian Audiobook Consumer 2026, based on a survey of 1,102 adults.
+💬 Which mailing-list provider are you on, and would you move if you were starting again today?
 
-The findings. Nearly half of Australian audiobook consumers are paying subscribers. More than half first tried the format within the past two years — which is to say this is a market still filling up, not a settled one. On discovery, the two leading routes are tied: personal recommendations and browsing audiobook websites, at 28% each, followed by searching for a favourite author at 25% and search engines at 24%.
 
-Sit with that discovery split for a moment, because it is the actionable part and it is not what most author marketing assumes. Half of all discovery here is either word of mouth or a reader browsing a store with no particular title in mind. That puts the weight on the things that work in a browse — cover, category placement, sample, series position — and on readers telling each other, rather than on an ad reaching someone who already wants your book.
+6. A bookshop said yes — on condition the book becomes returnable
 
-On what stops people, BookScan Australia's Claire Harrison, speaking on The Bestsellers Podcast, named three barriers: narration quality, affordability, and hesitation about AI narration. Her point on the first was that a bad narrator does not just lose that one sale — it can put a listener off trying audiobooks again at all. Worth weighing if you are costing up an audio edition and the cheap option is tempting.
+Posted yesterday afternoon, 27 October, and it is the exact decision point that separates "my book is available to bookshops" from "my book is in bookshops."
 
-🔗 https://publishingperspectives.com/2026/10/around-the-book-world-monday-october-26-2026/
+The situation. An author distributing through IngramSpark has their titles set to non-returnable. They approached their first few bookshops. One was glad to stock it as-is. The second was also keen but asked them to switch the setting to returnable first. Their question to the group: how common is that, do most shops expect it, and what has it actually cost people who said yes — "for better or worse."
 
-💬 For those with audiobooks out — where do your audio sales actually come from, and does it look anything like that 28/28/25/24 split?
+Why this is worth knowing even if no shop has asked you yet. Returnable means the shop can send unsold copies back, and with print-on-demand the author carries the cost of that return rather than a publisher's warehouse. It is the single setting that most often decides whether a bricks-and-mortar buyer will take a risk on an unknown name, and it is a real financial exposure rather than a formality. The author has the risk framed correctly already — they said so — which is why the question they are asking is the right one: not "is it risky?" but "what happened to you?"
 
+If you have been through this on either side of the decision, that thread is the place for it. Lived numbers beat general advice here, because the answer plausibly depends on your genre, your print cost and how many shops you are approaching.
 
-7. You can be exclusive on Amazon and still go wide — including into libraries
+🔗 https://www.reddit.com/r/selfpublish/comments/1xh107d/ingram_spark_distribution_is_it_worth_changing_to/
 
-Indie Author Magazine published its write-up of the Wide for the Win Summit yesterday, 26 October (disclosure, and theirs: IAM, Indie Author Training and Wide for the Win are sister organisations, and Mark Leslie Lefebvre consults for Draft2Digital). The summit ran 9–10 October for more than six hundred registered authors across thirty-five sessions, and the single most useful thing in the write-up is the myth the opening session set out to kill.
+💬 Have you ever switched to returnable — and did the orders that came in cover the returns that came back?
 
-Going wide is not a yes-or-no switch, and KDP Select exclusivity does not lock you out of it. Lefebvre's framing: "Wide is a whole set of decisions." Bradley Charbonneau's list of what you can take wide while keeping your ebook exclusive to Amazon: print, translations, hardcovers, special editions. "Audio can also be wide. And then direct is sort of like the uber wide."
 
-The concrete route, and this is the bit most authors do not know. Since Amazon's September 2025 policy change, authors with ebooks in KDP Select can also distribute them to libraries. In practice that means going into an aggregator's dashboard, leaving every retailer unchecked, and switching on only the library wholesalers. You stay exclusive for retail and you are in libraries. For print, Lefebvre's recommendation was IngramSpark as distributor with the trade discount set appropriately.
+7. Five ways to put a theme in a book without preaching
 
-The community is free to join at wideforthewin.com, which is their link rather than ours, and worth it if you want to work through the decisions one at a time rather than treating wide as an all-or-nothing move.
+Writers Helping Writers, yesterday morning, 27 October. The premise is that theme is the thread that makes everything else in a story cohere, that it works because the ideas are universal, and that the whole effect collapses the moment the reader can hear the author rather than the character.
 
-🔗 https://indieauthormagazine.com/publishing-wide-your-way-wide-for-the-win-summit-teaches-authors-how-to-build-their-own-mix/
+The five techniques, compressed:
 
-💬 If you are exclusive on Amazon — did you know libraries were still available to you, and have you switched them on?
+Show the theme's impact, not the theme. A character who keeps pontificating about the meaning of life is not a character, he is the author with a hat on. Instead, build situations that force choices around the idea, and let the choices do the stating.
 
+Surround the protagonist with disagreement. If your hero believes revenge will bring peace, give them a loved one who took revenge and is still full of anger, and a friend who thinks retribution is never the answer. Readers take an idea far more seriously when they are left to pick between versions of it.
 
-8. 🎬 New from Kindlepreneur, twelve hours ago: five genres new authors should avoid
+Give the antagonist the opposite belief. Luke and Vader; Andy Sachs and Miranda Priestly. The one condition attached: both positions have to be genuinely arguable, with backstory and real reasons, or it is not a conflict, it is a lesson.
 
-Dave Chesson posted "New Authors: Avoid These 5 Book Genres (Here's Why)" about twelve hours before this digest went out — the freshest thing in the video lane today and the only new video across the six channels we watch.
+Use a symbol and let readers find it. The mockingjay for rebellion in The Hunger Games; the greasers' long hair for identity and belonging in The Outsiders. A symbol alone represents nothing much — it works when it sits alongside theme-shaped choices and contrasting characters.
 
-Pointer only: nobody here has watched it, so this is a flag rather than a summary, and the title is confirmed from YouTube's own data rather than guessed. Worth ten minutes if you are choosing a lane for a first book, with the usual caution that "avoid" lists are about the difficulty of competing in a category, not about what you are allowed to write.
+Hide it in the parts of the story nobody expects to carry it. Setting (the Shire for goodness, the marsh in Where the Crawdads Sing for isolation), but also the character's job, their hobbies, their appearance, their relationships — a job that embodies what they believe gives you natural conflict the moment the belief starts to shift.
 
-🔗 https://www.youtube.com/watch?v=AU4giUU2JBA
+The sentence the whole piece rests on: trust your readers to connect the dots.
 
-💬 Which genre did you start in, and would you tell a first-time author to pick it?
+🔗 https://writershelpingwriters.net/2026/10/adding-theme-in-story/
 
+💬 What is the theme of the thing you are writing now — and could a reader name it without you telling them?
 
-9. 💬 Discussion: "They won't look at your work and see an author, they'll see YOU"
 
-Posted yesterday afternoon, 26 October, by a writer who got a publisher for their first book and wanted to tell people what the price actually was.
+8. 🎬 His manager told him to burn the script. It just wrapped production.
 
-The account. They wrote when their partner and newborn were asleep. They wrote when they should have been earning or doing the housework. They fell apart physically and mentally, and were, in their own word, unpleasant to be around. A handful of friends and family bought the book, and then silence. Their explanation for the silence is the sharpest thing in the post: to the people who know you, you are not an author, you are you — and they have seen you with a runny nose and a hangover. You become "a barrier between them and the book".
+Posted yesterday evening, 27 October, by an anonymous working screenwriter with real credits — A-list attachments on a stalled project, a tentpole rewrite for Sony worked from a Spielberg note, writing for or with David Mackenzie and Francis Lawrence's team, a spec Todd Lieberman once tried to set up with Mark Wahlberg.
 
-They do not regret it. The proof copy in their hand settles that question. What they are changing on book two, already underway: no writing until 2am, because "it makes for subpar prose anyway"; kettlebells twice a week; not handing their partner the gremlin version of themselves; play with the kids; keep the day job. And plan the book — "don't pants it like you're Gorge R. R. fricking Martin", because their straight horror drifted into something else entirely when the structure went on the wonk.
+The story. His manager is twenty years at a major agency and now on his own, and for years took out scripts with little commercial hope, which the writer read as loyalty. Then the writer showed him a small real-time true-crime spec, budgetable at around $500,000, which he hoped to direct himself on the strength of earlier no-budget films that got good trade and New York Times notices. The manager, in the writer's telling, got "almost violently angry", clenched his teeth, told him to forget the script existed, and may have said to burn it.
 
-They added an edit afterwards, which is worth reading too: they are fine, the routine is healthy now, the hard patch was a couple of months, and their family did buy the book with their own money when they could have had free author copies. The post is about the worst of it, not the whole of it.
+The writer's read on why: no money and no clout in it for the manager, and no advance in the kind of career he was being positioned for. So he went back to writing for the only buyers his manager would approach — and the post's funniest and bleakest detail is that the manager once produced a calculator to demonstrate how many hours one of those producers had spent reading his specs without finding anything that would "work in the current marketplace". Asked to send something to a respected actor with an established production company, the manager behaved as though the man did not exist.
 
-🔗 https://www.reddit.com/r/writing/comments/1xfyo6j/they_dont_care_harsh_lessons_learned_publishing/
+The script he was told to burn has just wrapped production. He did not direct it.
 
-💬 Who was the first person outside your own household who cared about your book — and were you surprised by who it turned out to be?
+Why it is in an author's digest, and it is not schadenfreude. His own conclusion is the transferable part: "Not everything should be aimed at the A-list. There's a thriving B, C, D-list industry out there and it needs more material than the A-list does." Replace "A-list" with "Big Five", or with "the chart", and it is the same observation. The person representing you is paid out of a particular size of deal, and a project too small to pay them can still be the right project for you. That is not a reason to distrust representation. It is a reason to know whose economics you are hearing when you are told something is not worth doing.
+
+🔗 https://www.reddit.com/r/Screenwriting/comments/1xh2pon/what_gets_made_and_what_doesnt/
+
+💬 Has anyone ever told you a project wasn't worth doing, and been wrong — and how long did it take to find out?
 
 
 — — —
 
-Nine items today, every one traced to a fetch or search run this morning with a date inside seven days. Lanes: AI held the lead and item 4. Australia supplied two items, from the two Australian sources added to the sweep yesterday — they have earned their place. YouTube's RSS feeds 404'd on all six channels again this morning, on four attempts each plus two more live retries, so the video lane came off the channel pages; one new video, title confirmed through YouTube's own oEmbed data. Elizabeth Spann Craig's blog has now 403'd for fifteen consecutive days. Books+Publishing Australia remains subscriber-only. One thing I checked and did not run: Korean publishers' "No Books, No AI" appeal, which has 163 publishers and 333 individuals signed — real, dated 26 October, but context rather than something you can act on, and the digest was already long.
+Eight items, every one traced to a fetch or search run this morning with a verifiable date inside seven days. The lead was independently verified against CISA's own alert rather than taken from the author-facing summary, which is how the "prior to 8.2" error surfaced. AI lane: items 1, 2, 4 and half of 5. YouTube lane: the feeds answered on all six channels for the first time in eleven days, so today's two video dates are exact timestamps from the feeds. Elizabeth Spann Craig's blog has now 403'd for sixteen consecutive days. Books+Publishing Australia's AI-inquiry and Writing Australia survey items are subscriber-only with no readable body, and on the Writing Australia economic-value survey I could find neither a link to take part nor a closing date, so I have not run it as an item rather than send anyone looking for a door I could not find. Two things found and deliberately not run as repeats: a querying post-mortem with full numbers (we ran the same shape on 18 October) and an essay on the myth of the gifted writer (same argument, same site, 16 October).
 
 Powered by Ideorix — The Manuscript Engine
