@@ -1,138 +1,115 @@
-📚 Daily Writer's Scout — Friday, 30 October 2026
+📚 Daily Writer's Scout — Saturday, 31 October 2026
 
-1. November starts on Sunday. If you were waiting for NaNoWriMo, it is not coming — here is what replaced it
+1. 800 authors, $48 million, and a spreadsheet in Karachi with 403 names on it
 
-An author asked in r/writing on 28 October: "I heard about some November writing challenge, anybody know the details?" It is a fair question with a slightly awkward answer, and with two days to go it is worth answering properly.
+The Guardian published a long investigation into literary scams on Thursday, 29 October, by Snigdha Poonam. It is the best-sourced thing written on this subject and if you read one piece this weekend, read it.
 
-The background. The non-profit behind National Novel Writing Month closed on 31 March 2025, citing money problems. There is no official NaNoWriMo this year or last. What there is instead is a scatter of replacements, none of which inherited the name or the central community, which is exactly why a writer who has been away for a couple of years would not know where to look.
+The scale, from the US Department of Justice rather than from anybody's estimate. PageTurner was a fictitious US-registered publishing company that ran from 2017 to 2024, staffed by a call centre in Cebu in the Philippines, which told authors it was an intermediary to literary agents, film studios and streaming services — and then charged them "taxes", transaction fees and other costs before their book could be published or adapted. More than 800 authors were defrauded of upwards of $48 million. One author lost more than $600,000. At least $42 million was laundered through accounts in the Philippines. One defendant pleaded guilty in May this year; three are awaiting trial.
 
-What I could establish this morning, and a caveat on it first. The challenges themselves do not publish dated press announcements, so this comes from ProWritingAid's own guide page, which is dated 5 October 2026 — older than the week this digest normally works in, and a page with an interest in the answer. Check any detail on the organiser's own page before you commit to it.
+The volume now, from the organisations that field it. The Writers' Guild of Great Britain reports "an explosion" in members asking for advice about unusually enticing offers, and its general secretary Ellie Piers says "even the most vigilant of writers are understandably falling prey to these scams". The Society of Authors' chief executive Anna Ganley: "Our advisory team receives at least a dozen reports of scams each week," and she traces the spike to generative AI. The US Authors Guild hears from authors scammed or nearly scammed every day.
 
-The largest replacement appears to be ProWritingAid's Novel November, abbreviated NovNov: 50,000 words during November, free to join, sign-up at prowritingaid.com/novel-november. The detail that matters is that you do NOT have to draft in their software — their page says you can track progress from whatever writing app you already use. That is the difference between a challenge and a funnel, and it is the first thing to check on any of these.
+The small amounts are the point. Victoria Strauss of Writer Beware, quoted in the piece: "Amounts reported to me range from $55 to $350. In one case, the scammer offered three 'spotlight packages' — basic, essential and premium — for between $100 and $200." One author paid $478.65 to a "Mary Brown" who claimed a network of book clubs across the US, UK and Australia, and later noticed a different name entirely as the PayPal recipient. A fake book club asked $100 for snacks — for an event on Zoom. These are priced to be waved through.
 
-The others that page names, with their shapes: Dabble's 60-Day Novel Challenge, 50,000 words, free to join with some resources behind their subscription. World Anvil's NovelEmber, 50,000 words of prose in November, free with an account that has feature and storage limits — aimed at worldbuilders, so fantasy and science fiction. Rogue's Amazing Word Rush, free, with goals at 25k, 50k, 75k, 100k or your own number over 30, 31 or 61 days. Sarra Cannon's Rough Draft Challenge, where you set your own target. StoryADay, which is one finished short story a day rather than a novel. 4TheWords' WriteFest. And two plain trackers if all you want is the bar going up: MyWriteClub and TrackBear.
+And then the document, which is the thing I cannot stop thinking about. A scam-buster in New Zealand was sent a spreadsheet by a scammer in Karachi, titled "LinkedIn Outreach 2026", with monthly data from March to August. One sheet carries 403 names, each labelled by type: new author, cookbook author, religious author, investigative author, poetry author, New York Times bestselling author. Mostly US, the rest Canada, Australia and Europe. There are columns for who found the profile, who made first contact, what service the author needs, which department is handling them, the meeting links sent. And outcomes: "Paid $1,200 UP FRONT." "Not willing to pay, has been scammed before." "Meeting booked Wed 12 Aug, 10pm PKT, number confirmed, deep trust-built relationship, ready to invest, needs custom package built around limited budget and multi-project scope."
 
-The honest advice underneath the list. The thing that made NaNoWriMo work was never the 50,000 — it was ten thousand people doing it in the same month, which is still true whichever banner you pick or none. If you want the words, pick the one whose goal you would actually hit and tell someone you are doing it. If you want the company, the choice of platform matters less than finding the room.
+Why authors, who famously have no money? Angela Hoy of WritersWeekly.com puts it down to wanting to be read. Her managing editor Brian Whiddon: "Not every author is a narcissist, but they all want to be recognised. That's exactly what these scammers are targeting. They have identified a very, very lucrative niche." AI now makes the flattery sound personalised and specific. And Hoy names the group most at risk, which is worth saying out loud in a group like this one: older authors, because a great many people leave the book in them until they retire, and retirement is also when there is a fund to take.
 
-🔗 https://www.reddit.com/r/writing/comments/1xhwj6k/i_heard_about_some_november_writing_challenge/
-🔗 https://prowritingaid.com/nanowrimo-alternatives
+The rule of thumb, from the screenwriter who brought the piece to the forums where I found it, and it is as good as any: if a stranger reaches out and offers to make your dreams come true — for a price — it is a scam.
 
-💬 Are you writing in November — and under which banner, if any?
+🔗 https://www.theguardian.com/news/ng-interactive/2026/oct/29/paid-for-book-clubs-fake-film-deals-emails-explosion-literary-scams-authors
+🔗 https://www.reddit.com/r/Screenwriting/comments/1xj7lm6/booktofilm_scams/
 
+💬 What is the most convincing approach you have had — and what was the detail that gave it away?
 
-2. Spotify will now take a monthly fee from your listeners and keep only 10% of it
 
-This landed in ALLi's news summary yesterday, 29 October, and it is ten days old as a launch — Spotify Memberships went live on 20 October — but it had not reached the self-publishing press until now and it is worth knowing about if you have a podcast or have been thinking about one.
+2. Jane Friedman thinks the AI accusation scandals are about to stop. Her reasoning is uncomfortable.
 
-What it is. Listeners pay a monthly fee for extra content from a podcaster: exclusive audio or video, bonus episodes, fewer ads, early access, archive access. A fan can join on a Free or a Premium Spotify account. In other words, Patreon, built into the app where people already listen.
+Published yesterday, 30 October, free to read, and it is the first argued answer to something this digest has run three times in five days — honest authors being accused of using AI.
 
-The number that makes it interesting: creators keep 90% of membership revenue, and Spotify keeps 10%. That is roughly in line with Patreon's platform fee, with the difference that the subscribe button sits inside the player rather than on a separate site a listener has to be persuaded to visit.
+Her prediction is that the public scandals will fade, and the reason is not that people will calm down. It is that publishers and agents will start scoring manuscripts before they buy them. In her words: "Any smart publisher is going to get ahead of those accusations and be aware of a discoverable score prior to publication." And they "won't move forward with a project that might prove troublesome in its provenance."
 
-The eligibility bar, which is lower than you would guess. Three published episodes, 100 listeners or viewers, and 100 consumption hours on Spotify in the previous 30 days — and the show must be hosted on Spotify for Creators or Megaphone. One hundred listeners is not a big podcast. It is launched in 34 markets including the US, UK, Canada and Australia.
+Her supporting observation is the sharp one. The books caught up in this year's allegations "were written, submitted, edited, and published before" the detection tools were in common use. The scandals are a backlog working through the system, not a steady state. On the tools themselves she is measured rather than enthusiastic — she calls Pangram "right often enough to be useful" while saying plainly that it is not always right.
 
-Why this is in an author's digest rather than a podcaster's. A great many authors already run a podcast as marketing and treat it as a pure cost. This is the first time the platform most of their listeners use has offered a route to charge for it at a 10% take, with a threshold a modest author podcast can clear. It does not make a podcast a business on its own. It changes the arithmetic of whether one is worth continuing.
+Two things in her replies to commenters matter more than the headline. Detection is far more reliable on a full-length manuscript than on a short excerpt, so a score on a sample is weak evidence. And some writers are introducing AI-flavoured text without knowing it, through the editing and grammar tools they already use — which is the quiet trap in all of this, and worth checking on your own current manuscript.
 
-🔗 https://selfpublishingadvice.org/copyright-claims-against-meta/
-🔗 https://techcrunch.com/2026/10/20/spotify-launches-paid-podcast-memberships-with-perks-beyond-bonus-content/
+It is a prediction and a commentary, not an established fact, and the comments argue with her. But hold it next to this week's items here and the shape is clear: the accusation problem does not get solved, it gets moved — from a public row after publication to a private score before acquisition. Which is a better outcome for the industry and a colder one for an unknown writer.
 
-💬 Do you run a podcast for your books — and have you ever tried to charge for any part of it?
+🔗 https://janefriedman.com/why-the-ai-detection-scandals-will-end-probably-quite-soon/
 
+💬 If an agent told you your manuscript scored badly on an AI detector, what could you actually show them?
 
-3. Week 1: 34. Week 2: 16. Week 3: 12. Week 4: 3.
 
-Posted yesterday morning, 29 October, by an author one month out from publishing their first non-fiction book — and they gave the week-by-week numbers with the channel split, which is rarer and more useful than a single total.
+3. The answer to the accusation problem is a page on your own website, written before anyone asks
 
-Week one: 34 copies (29 through Ingram, 5 through KDP). Week two: 16 (9 Ingram, 7 KDP). Week three: 12 (11 Ingram, 1 KDP). Week four: 3 (2 Ingram, 2 KDP — their numbers, as given). Two more through Ingram since. Total 67.
+ALLi published this through Indie Author Magazine yesterday, 30 October, free to read, and it is the practical companion to item 2. The argument in one line: "When you say nothing, others fill the gap with assumptions."
 
-Look at that curve, because it is the single most useful thing in the post. The launch spike is most of the month's sales, it halves every week, and by week four it is effectively over. That is normal. It is what a launch does when the marketing is front-loaded, and knowing it in advance is the difference between "my book has failed" and "my book has finished its launch and now needs a different kind of work."
+What an AI policy is. A short, dated page on your own site saying where you stand, so that the question is answered before it is asked. ALLi offers three positions and is explicit that it does not care which you pick — AI-minimal, AI-assisted, AI-integrated — and that you can sit between them and change over time. "What matters is not which position you choose", only that the choice is deliberate.
 
-The book is a study of one street during the 1871 census — the lives of the people who lived there, set against Victorian life. So the marketing was local by design: two local newsletters including the local history group, posters and flyers, posts on local Facebook pages, a free copy to the local bookshop which agreed to stock it. A TikTok account built to around 400 followers posting their research findings, some Instagram, and a website carrying the material that did not fit in the book, now at over 250 unique visitors.
+The questions each position has to answer. If you are AI-minimal: which of the everyday tools you already use have AI inside them? And what do you want to say about your work being used to train AI? If you are AI-assisted: where exactly is the line between an AI tool and a human you pay — on covers, on audiobooks, on translation? If you are AI-integrated: how do you direct it, how do you revise it, and how do you take responsibility for what comes out?
 
-Two things they flagged that are worth flagging on. The local bookshop stocked it, but readers reported waiting over two weeks to get hold of a copy — which is a print-on-demand supply question sitting underneath an apparent win. And the appearance in the local history newsletter in week four, which they had expected to lift sales, did not.
+The part to act on today, whatever your position. Keep your evidence of authorship: drafts, notebooks, version histories, and your AI chats if you use them. If your work is ever questioned, that is what you have. Their Scrivener tip is worth two minutes of your Saturday — put dates in your backup names and remove the backup limit.
 
-The honest part, which they wrote plainly: they flip between pleased and disappointed; they have had lovely emails from readers that brought real joy; they find marketing draining and asking for reviews embarrassing; they have a severe chronic illness and are autistic, so the in-person launch they had planned at the pub in the book could not be scheduled around their health. Their questions to the group are whether everyone feels this mix at the one-month mark, and whether they should assume sales now peter out.
+Where to put the policy: its own page, linked from your footer or About page. Share it with your editor, cover designer and narrator — and ask them about their AI use too. Date it, review it once a year, and update it when your practice changes or a retailer changes its rules. Keep it in your own voice and keep it short: "Most readers want a clear answer, not an essay." ALLi has a free guide, Writing Your AI Policy, with sample wording for each of the three positions.
 
-The answer to the second is in their own curve, and the answer to the first is almost certainly yes. Set this beside Wednesday's post here — 40 copies and 8,300 Kindle Unlimited pages in 90 days — and you have two first-time authors, different genres, different channels, both telling the truth about numbers that the louder parts of this industry never show you.
+And one line in it that deserves to be the group's house rule, because the accusations this week came from readers rather than from publishers: do not run another author's work through a detector and publicise the result. "No score is the whole truth."
 
-🔗 https://www.reddit.com/r/selfpublish/comments/1xieulf/one_month_since_i_published_my_nonfiction_book/
+🔗 https://indieauthormagazine.com/alli-exclusive-why-every-indie-author-needs-an-ai-policy/
 
-💬 What did week four look like for you — and what did you do in week five?
+💬 Which of the three are you — AI-minimal, AI-assisted or AI-integrated — and could a reader find that out from your website today?
 
 
-4. "The average traditionally published book is better. But the best books are self-published."
+4. An author searched for her own unpublished novel and found a one-star AI review at the top
 
-Posted yesterday afternoon, 29 October, and it is the most interesting argument in a self-publishing forum this week because it concedes the other side's point first.
+Posted last night, 30 October, and it is the week's most unpleasant discovery.
 
-The claim in full. The average traditionally published book is better than the average self-published one — AI books, low-effort cash grabs and churned-out volume bring the average down, and the writer says so without flinching. But the best books, they argue, are self-published, because those can only exist where there is no barrier to publication.
+A debut novelist found her unpublished book listed on a website that posts scathing one-star reviews of manuscripts before they are published — reviews that appear to be AI-written. Her words: she "felt a little bit like I was going to throw up" when she realised her own novel was there. It is now the first result when she searches her own title.
 
-Their reasoning is about who the gatekeepers are, and it is more careful than the usual version. It is explicitly not an attack on agents: they understand good writing, they know how a story is built, some are writers themselves. The question is a different one — an agent is assessing mass-market appeal and where a book sits on a shelf beside similar titles. So what happens to the manuscript that is not similar to anything? Does a genre-bending outlandish submission always get recognised for what it is? They extend it to film, where a risk-averse Hollywood no longer makes the kind of stories it made in the seventies, eighties and nineties.
+Her distinction is the right one, and it is not wounded pride. "I'm not concerned so much that AI thinks my novel sucks, but more that a general reader interested in the book is going to see this horrible review." For an established name it is noise — she notes the site gave a Nobel Prize winner one star and some vomit emojis. For a debut with no other search footprint, it is the whole first impression.
 
-And then the analogy, which is the part you will remember. A mass-market bourbon is blended to a standard, so it is reliably good and tastes the same every time, and the customer knows exactly what they are buying. A single malt from a small-batch distillery varies year to year, is rougher, and some years are better than others — but you can taste what is particular about it. Their own caveat, unprompted: not everything unique is good, a lot of these books are rough around the edges, which may be exactly why no agent took them, and "you don't always get a high level of polish when you're on the frontier."
+What I can and cannot tell you, stated plainly. She deliberately did not name the site and I am not naming it either, for her reason and one of my own: the site is reportedly the subject of a New York Times investigation, said to have found the reviews very likely AI-written and some of the same manuscripts later appearing on a pirate library — but I could not reach that article this morning, and everything I found about it was a second-hand summary of it. Naming a business on the strength of a summary I could not check is not something this digest does. If you want to look, the thread is linked below.
 
-It grew out of another thread asking whether anyone actually reads self-published books, which is a thinner question. This is the better one, and the comments are where it lives.
+The useful part, since several people here are between a deal and a publication date. Search your own title and your own name now, in a private window, and see what a reader would see. If something hostile and automated is sitting at the top, the fix is not a takedown you probably cannot get — it is putting enough of your own material in front of it that it stops being the first thing: your own book page, your publisher's listing, a Goodreads entry, a post about the book under your own name. That takes weeks, which is why today is better than the week of your launch.
 
-🔗 https://www.reddit.com/r/selfpublish/comments/1xiq63w/hypothesis_the_best_modern_books_are_selfpublished/
+🔗 https://www.reddit.com/r/PubTips/comments/1xjud1p/discussion_literary_scout_website_publishing_one/
 
-💬 Name a self-published book you would hand to someone who thinks self-published means worse.
+💬 Have you searched your own book title lately — and was anything above you that you did not put there?
 
 
-5. Seven ways to stretch a frightening scene, on the one day of the year you have an excuse
+5. "I KNEW it was good, because I was laughing the whole way"
 
-Writers Helping Writers, yesterday morning, 29 October — a companion to Tuesday's piece on theme from the same site, and unusually well timed for tomorrow.
+Posted yesterday morning, 30 October, and it is the best-described creative problem of the week.
 
-The principle underneath all of it: reveal the danger too fast and the pressure evaporates. Fear is tension because when a character is threatened their choices start to matter, and the reader feels the dread with them. So the craft is in controlling the rate of the reveal.
+The situation. The writer finished a novel they loved — the best thing they have written, and what they loved most was the tone: very comedic, but with heart, somewhere near Kings of the Wyld or Magic 2.0. Since then they have brainstormed a pile of ideas they genuinely like. But when they sit down to write them, the tone comes out darker and more serious. Those darker books are exactly the kind of thing they want to READ, and they feel they SHOULD write them because they COULD be great. They are just not the thing they want to be writing.
 
-The techniques, with the examples that make them stick.
+So they are stuck, and they are honest about where the doubt comes from: when they read back what they are writing now it feels "just kinda...not great" — and they half-suspect that is simply what a rough draft feels like to everyone. Then the sentence that settles it: "with the other one, I was cracking myself up. I KNEW it was good, because I was laughing the whole way."
 
-Foreshadowing. Their example is A Quiet Place: Evelyn drags a bag of wet laundry up the stairs, it snags a nail and leaves it standing upright on the tread, and she does not notice. The audience does. As the piece puts it, in a world of sound-hunting monsters, "an exposed nail, in that moment, is even scarier."
+That is a better diagnostic than most craft advice. Not "is this good" but "is this doing to me what it is supposed to do to a reader". If a comedy makes you laugh in the first draft, something is working that no amount of revision can install later. If a draft reads flat to its own author, that may be the usual rough-draft feeling — or it may be the wrong book.
 
-Hidden threats. The worst danger is the one the character cannot see — something in the next room, on the roof, just outside the window. Keep it out of sight and keep the reader there with them.
+Their question is whether to abandon ideas they think would make great books in order to chase the voice. This group has more people who have made that choice in both directions than any article does. It sits next to Sunday's item here, where a writer's plot was demanding an outcome they did not want — the same argument between the book that wants writing and the book the writer wants to write.
 
-Symbolism. The red balloon before Pennywise in Stephen King's It, which works because a balloon belongs to childhood and joy, and subverting it is the move.
+🔗 https://www.reddit.com/r/writing/comments/1xj6lrw/i_keep_starting_novels_that_id_want_to_read_but/
 
-Weather. Not atmosphere for its own sake, but weather chosen against your character: a full moon breaking cloud exactly when they need darkness; the onset of spring threatening to melt the ice over the thing they need to stay hidden.
+💬 Have you ever abandoned a good idea to keep the voice you actually enjoy writing in — and did you go back to it?
 
-Contrast, which is the amplifier for the other four. Moonlight that increases danger instead of relieving it. A bright balloon that terrifies. Combine it with symbol, foreshadow or weather.
 
-Purposeful sensory detail. Too much description kills pace — but survival instinct makes a frightened person notice everything, so a few more details at precisely the dangerous moment reads as the character's own attention narrowing rather than as the author describing.
+6. Is it worth paying someone to design the inside of the book?
 
-🔗 https://writershelpingwriters.net/2026/10/draw-out-tension-fear-driven-scenes/
+Posted yesterday evening, 30 October, and it is a short question with a real cost attached, which is why it is here rather than in a comment.
 
-💬 Which frightening scene in a book has stayed with you longest — and do you know what the writer did to you?
+The whole of it: they do not want to spend too much, but they want the finished book to look professional — and after all the work on the writing, they would hate to let the story down with a badly designed interior.
 
+Worth answering properly, because the interior is the part of the production nobody praises and everybody notices. The decision isn't one decision either: a plain novel in a standard trim with no images is a very different job from non-fiction with tables, images, footnotes and a running head, and from a print edition with a hardback and a paperback in different sizes. The honest range of options runs from a free template, through a one-off paid typesetting job, to paying someone who will also handle the next six books in the series.
 
-6. 🎬 A producer loves the short and can see the feature. When does the lawyer arrive?
+If you have paid for this, what the group needs is the number and whether you would do it again — and if you did it yourself with a template, which one and what broke. Those two answers are worth more than any general advice, because the right choice here depends almost entirely on what kind of book is being set.
 
-Posted yesterday evening, 29 October, and it is a rights problem in its purest form — which is why it is in an author's digest and not just a screenwriter's.
+🔗 https://www.reddit.com/r/selfpublish/comments/1xjmtkd/is_it_worth_paying_a_pro_to_design_the_inside_of/
 
-The situation. A writer has a short script with feature potential and has started talking to a producer, an old colleague. The producer loves the short, is ready to go into production in the new year with team, gear and financing in place, and part of what they love is the feature potential. The feature is outlined but not written. Money and ownership have not been discussed — the first conversation was friendly.
+💬 Did you pay for your interior design, and what did it cost — or did a template do the job?
 
-What the writer wants, stated clearly, which is already most of the work: to be the person who writes the feature script, and not to sign away the feature potential while agreeing terms on a short that was never going to make money anyway. Their instinct is to treat the two as separate products and sign nothing about ownership of sequels, spinoffs or expansions arising from the short.
 
-The hard part, which they name honestly: based on past dealings they have no doubt the producer will want to own the IP outright, and they are not sure they can fight that and keep him interested. "I'm just not sure what to ask for or when to ask for it to make sure that I don't get shut out should, god forbid, we have a hit feature on our hands in the future."
+—
+Scout notes: six items — three from news and trade press, three from the community lanes, and a Saturday-sized edition with nothing padded. AI lane: busy, and in both directions — items 2 and 3 are the acceptance argument and the practical answer to it, item 4 is AI pointed at authors, and item 1's scam story is partly an AI story too, since the Society of Authors traces the spike in convincing approaches to generative AI. YouTube lane: nothing fresh today. Swept in full; the RSS route answered on one of six channels after four attempts each, the channel pages served for the rest, and every video inside the seven-day gate is one this digest has already run. Screen lane: the Guardian investigation arrived through the screenwriting forum and the book-to-film angle is the screen-relevant item, so there is no separate screen piece. One thing I could NOT stand up, and item 4 says so in the item: the New York Times reporting that the one-star-review site is said to be based on. Every version of it I could reach this morning was a second-hand summary, so the site is not named here. The lead's figures are the Department of Justice's own, via the Guardian, not an estimate. Elizabeth Spann Craig's blog returned 403 for a nineteenth day. Writer Beware has published nothing since 16 October, though Victoria Strauss is quoted in item 1. Reddit: r/writing and r/PubTips answered first time, r/selfpublish and r/Screenwriting on the second shape. And an apology owed: the four editions from Tuesday to Friday went out without the sign-off below, which is where you are invited to bring something of your own. That was my error and it is fixed.
 
-Why this is the week's rights story in miniature. On Tuesday here, Selina Brown's warning that inventing a character does not settle who owns each illustrated version of her. On Wednesday, agents' termination and tail clauses. On Thursday, a book held inside a contract while a publisher stopped answering. Every one of them is the same thing: the cheap moment to settle who owns what is before anyone starts work, while everybody is still delighted with each other. The expensive moment is after there is something worth owning.
-
-🔗 https://www.reddit.com/r/Screenwriting/comments/1xisx1c/short_film_with_feature_plans_is_it_time_for_an/
-
-💬 Have you ever had to go back and renegotiate ownership after the work was already made — and how did that go?
-
-
-7. 🎬 Two new videos overnight, and one claim in a title I could not stand up
-
-Both of these come off channel pages rather than feeds — YouTube's machine-readable feeds returned 404 on all six of our channels this morning, on four attempts each — so the ages are ranges, not timestamps. Neither has been watched here; titles are confirmed from YouTube's own data.
-
-The Self Publishing Show, episode 471: "Finish Your Book, Superdraft with T.D. Donnelly." Posted about five hours before this digest, so overnight into 30 October. Given it is the last day of October and item 1 is about November drafting challenges, a "finish your book" episode is landing on the right morning.
-🔗 https://www.youtube.com/watch?v=L03z9CE3WD8
-
-Self-Publishing with Dale: "Kindle+ Rolls Out as KDP Reports Crash | Self-Publishing News (Oct. 29, 2026)." Posted about twelve hours before this digest, so yesterday afternoon. The Kindle+ rollout we have covered — Kindle Unlimited was renamed and audiobooks folded in. The second half of that title is the reason I am flagging it with a warning rather than as news: I went looking for any report of KDP's sales reporting breaking on 29 October and could not find one. Amazon's own documentation explains several ordinary reasons the dashboard looks wrong — the Today tab is not expected to match the Orders, Royalties Estimator or KENP reports, and page reads can take 24 to 48 hours to appear — so a reporting wobble during a platform rename is exactly when authors should be slowest to conclude their sales have vanished. Watch the video by all means. Do not panic at the title, and if your own dashboard looks wrong this week, give it a day before you draw a conclusion.
-🔗 https://www.youtube.com/watch?v=-PpEswdLyE0
-
-💬 Has your KDP dashboard looked wrong this week — and did it come right on its own?
-
-
-— — —
-
-Seven items today rather than the usual eight, and that is the honest count: the trade press was quiet, the agent-side forums were taken up with "has anyone dealt with this agency" questions, and the one big story in the feeds — 300 authors filing individual copyright claims against Meta — we ran on 21 October when it was new. Every item traces to a fetch or search run this morning. Two dates are older than this digest's usual window and both are labelled as such: Spotify's launch (20 October, which reached the self-publishing press only yesterday) and the November-challenge detail (a guide page dated 5 October, because the challenges do not publish dated announcements). YouTube's feeds returned 404 on all six channels after answering on all six on Wednesday, so item 7's ages come off channel pages as ranges. Elizabeth Spann Craig's blog has now 403'd for eighteen consecutive days. One title claim checked and NOT confirmed: "KDP Reports Crash" — see item 7.
-
-Powered by Ideorix — The Manuscript Engine
+—
+Curated daily for this community. Spotted something worth sharing?
+Post it below.
