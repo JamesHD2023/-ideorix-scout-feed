@@ -1,107 +1,112 @@
-📚 Daily Writer's Scout — Sunday, 01 November 2026
+📚 Daily Writer's Scout — Monday, 02 November 2026
 
-1. 1,500 launch parties and 150,000 tickets — and the one line in it that is about you
+1. Meta has shelved the terms indefinitely — the follow-up to the story we left unfinished
 
-ALLi's news summary yesterday, 31 October, on the launch of A Court of Splintered Harmony, the sixth book in Sarah J. Maas's A Court of Thorns and Roses series, from Bloomsbury.
+On Tuesday this digest ran Meta's revised commercial terms, the ones covering ads and business products, which is the category an author Page and an author's ad account sit in. One thing was deliberately left open that day: the date the terms would take effect. Most reporting said 30 October, one outlet said it had moved to 20 November, no second source could be found for the November date, and the item said so rather than picking one.
 
-The numbers, which are the reason this is not just celebrity news. In the UK, 300 midnight launch parties, 150 of them in Waterstones branches — that is from The Bookseller. In the US and Canada, 1,500 parties, selling 150,000 tickets — that is from NBC News. ALLi sets it against Harry Potter and the Deathly Hallows in July 2007, where the Huffington Post UK reported nearly 300 midnight parties in UK Waterstones stores, plus 1,200 at Borders.
+Here is the resolution, and it is better than either date. On 28 October, per Reuters, Meta announced it was delaying the rollout of the new commercial terms INDEFINITELY, following concerns from publishers and digital advertisers. The company says the consultation could run past 20 November, and that if it does, implementation is delayed again. Until then, Meta's existing terms remain in place.
 
-Read that comparison carefully, because the interesting part is not which book is bigger. Over twenty years, the UK's Waterstones figure is almost identical — and the US figure has gone from 1,200 parties at a single chain that no longer exists to 1,500 parties, now spread across independent stores, many of them genre specialists that did not exist in 2007. The infrastructure for a book launch has moved out of the chains and into a network of small shops.
+The sequence, for the record, because the dates are the story: terms set for 30 October, pushed to 20 November after the News/Media Alliance demanded Meta withdraw the language authorising it to crawl websites associated with business accounts, then shelved with no date at all.
 
-Which is where the line that is actually about you comes in. ALLi's own reading: Maas and Brandon Sanderson both do the same thing, which is not "marketing" but building a deep, continuing relationship with devoted readers and giving them somewhere to be together — and indie authors are already good at this. What has changed is that the tools are cheap now, and that independent booksellers actively want to work with indie authors on events and exclusive editions. The second half of that sentence is a door, and most of us have never knocked on it.
+Two things in the resolution that were not in Tuesday's version. Antitrust authorities in the EU and the UK have received complaints about the terms — so this is now a regulatory matter in two jurisdictions, not only a publishers' row. And Meta has rejected the publishers' claims while delaying anyway, which is the shape of a company buying time rather than changing its mind.
 
-ALLi's caution, which they have given before and repeat: be careful about copying a crowdfunding success like Sanderson's. The community-building is the transferable part; the eight-figure Kickstarter is not.
+What has not changed, and it is still the only part you control. Meta's answer to the objection was that the terms do not override a site owner's robots.txt preferences. A delay is not a withdrawal. If you have an author website and you have not looked at its robots.txt, the breathing space is the reason to do it this week rather than the reason not to.
 
-And a date for the diary if you want to watch this experiment run again: the seventh and final book in the series is out on 27 January, about three months away, which will give a clean set of comparison figures.
+🔗 https://www.spokesman.com/stories/2026/oct/28/meta-delays-indefinitely-its-rollout-of-new-commer/
+🔗 https://www.booksandpublishing.com.au/articles/2026/11/02/343576/meta-delays-proposed-changes-to-terms-following-complaints/
 
-🔗 https://selfpublishingadvice.org/a-court-of-splintered-harmony/
-
-💬 Have you ever approached an independent bookshop about an event or an exclusive edition — and what did they say?
-
-
-2. 🎬 November starts today, and Heart Breathings is writing a book alongside you for thirty days
-
-Posted yesterday evening, 31 October: "Write A Book With Me Over The Next 30 Days ✨💻 How To Win The Rough Draft Challenge."
-
-Pointer only — nobody here has watched it, and the title and channel are confirmed from YouTube's own data, published at 18:26 UTC yesterday, so about eleven hours before this digest.
-
-Why it is worth flagging on day one rather than day ten. On Friday this digest answered an author who asked where NaNoWriMo had gone, and listed the replacements. The Rough Draft Challenge, run by Sarra Cannon, was one of them — the one where you set your own target rather than being handed 50,000 words. A write-along video from a channel that has been posting preparation material all October is the version of this that comes with company, which is the thing the old event actually provided and the thing a word-count target on its own does not.
-
-If you are starting something today, this is a reasonable place to put your first hour.
-
-🔗 https://www.youtube.com/watch?v=Ev-Yr1GKRh4
-
-💬 Did you start something this morning — and what is your target for the month?
+💬 Did you change anything on your own site over the last fortnight because of this — or decide it was not worth it?
 
 
-3. "I literally have $27.00 in my account" — an audiobook, a horror novel, and a request this group can actually answer
+2. "Did you sign it?" 👁️👄👁️
 
-Posted yesterday evening, 31 October, and it is the one to read the comments on.
+Posted last night, 1 November, and it is the best thing in today's digest. Read it for the pleasure of it and then take the three lessons.
 
-Where they are. They released the audiobook of their supernatural horror novel earlier this month, and they are genuinely proud of it — "The voice actor is excellent. I got goosebumps even though I wrote the book, lol." They ran Amazon ads, made a book trailer, went on social media, and timed it for October on the sound reasoning that people are in the mood. They got a few sales. They are autistic and say they find connecting with people hard.
+What happened. They listed author copies of their book on Facebook Marketplace at about $2 under the online price — not as a strategy, just to get copies into hands while they save the real marketing push for February, when book two arrives and there is a series to promote. The book is already on Amazon, Walmart, Barnes & Noble and TikTok Shop.
 
-What they are asking for, and the two things they ask people not to do. They want resources, tips, links, a direction to walk in. They know what is coming: an influx of messages offering professional services, and some scammers. Their position on both is unanswerable — "I don't have money. I literally have $27.00 in my account. Everything goes to medical bills and treatment." And then the line of the week: "It's hard to scam people when they're broke, so I got that going for me."
+The next day, a message. Their first thought: "Is this a scam??" It was not. A man out shopping at Barnes & Noble, looking for science fiction, had seen the Marketplace listing, thought theirs sounded interesting, and wanted a copy. They work remotely, so they grabbed the laptop, got in the car and drove over. They talked about the book for a bit — written about a year ago, out about a week.
 
-Why it is in today's digest rather than left as one more marketing question. Yesterday's lead here was the Guardian's investigation into literary scams — 800 authors, $48 million, a spreadsheet of 403 names sorted by author type. This is what the other end of that pipeline looks like: somebody who has just finished a real piece of work, cannot pay for help, and expects to be approached by people who will charge them for it anyway. The useful reply is a free resource with a name, and this group has people who know several.
+Then: "Did you sign it?" Reader, they had not. He asked for an autograph. They went back to the car for a Sharpie, and in their own telling, "I was so nervous my brain was like, 'Wait… how do I spell my own name again?'" They had been practising an author signature precisely for this and it still came out sloppy. He signed up for their newsletter.
 
-The second thing worth noticing, for anyone else timing a horror launch: October is the obvious month and therefore the most crowded one. They did the right thing and it did not clear the noise.
+The three lessons, which are real.
 
-🔗 https://www.reddit.com/r/selfpublish/comments/1xkj3gm/well_i_suck_at_marketing_lol/
+Pre-sign your copies. Their own conclusion, and the cheapest thing on this list: "I'm pre-signing my Marketplace copies from now on."
 
-💬 What is the single best FREE book-marketing resource you have used — a name or a link, not advice?
+The channel nobody talks about works. A general-purpose local marketplace put a stranger who was already in a bookshop looking for your genre in front of your book, at a price you set, with the whole margin yours. One sale is one sale — but it cost nothing and it produced a newsletter subscriber and a conversation.
 
+And the thing worth sitting with, after a week in which this digest led twice on people being preyed on: their first instinct at a message from a reader was that it must be a scam. That is what a year of this does. It was a man who likes science fiction.
 
-4. A correction, and the reason this digest re-checks its own items
+🔗 https://www.reddit.com/r/selfpublish/comments/1xldeym/sold_my_first_book_in_person_today_and_got_asked/
 
-On Friday this digest flagged a video titled "Kindle+ Rolls Out as KDP Reports Crash" and attached a warning rather than reporting it as news: nothing could be found confirming that KDP's sales reporting had broken, and Amazon's own documentation explains several ordinary reasons the dashboard looks wrong — the Today tab is not expected to match the other reports, and page reads can take 24 to 48 hours to appear. The advice given was to wait a day before concluding your sales had vanished.
-
-The video is now titled "Kindle+ Launches, Where Did KDP Page Reads Go?" — confirmed this morning from two separate sources, YouTube's feed and its own title data. So the "crash" claim is no longer being made, and the question that replaced it is precisely the page-read lag. If you looked at your dashboard this week and panicked, that is the answer.
-
-Two smaller corrections in the same place, because it is better to say so than to leave them.
-
-That video's publication time was given on Friday as "about twelve hours before this digest", read off a channel page. The feed now gives it as 29 October at 16:12 UTC — inside the range that was stated, which is the whole reason the range rule exists.
-
-And one that was simply wrong. On Wednesday a video was listed as published at 00:49 UTC on 28 October, read straight from YouTube's feed that morning. The same feed now gives its publication time as 06:17 UTC on 31 October. The link has worked throughout and the title has not changed; what moved is the timestamp YouTube reports, which is consistent with the video having come down and gone back up. So Wednesday's "roughly five hours before this digest" was right at the time and is not right now. It is a small thing. It is also the kind of small thing that, left unmentioned, is how a digest stops being worth trusting.
-
-🔗 https://www.youtube.com/watch?v=-PpEswdLyE0
-
-💬 Did your KDP page reads look wrong this week — and had they reappeared by the next day?
+💬 Have you sold a book hand to hand — and were you ready for the question about signing it?
 
 
-5. How clean is the draft you send your own agent?
+3. Developmental or copy edit, and can one person really do both in a single round?
 
-Posted late yesterday, 31 October, and it is a better question than the usual version because of who is being asked.
+Posted last night, 1 November, by an author who has done the research and found the research contradicting itself — which is the honest state of editing advice.
 
-The framing. Not "how polished should a submission be" — that has a thousand answers. This is for authors who already have an agent and are sending them the NEXT project, one already pitched, perhaps with a few pages or chapters read. How clean is what you actually send? Do you work at the big-picture level and let the sentences go? When a scene or a paragraph or a single word does not feel right, do you send it anyway?
+Their position. Not their first novel, but the first they are publishing. A dark MM open-door romance. They have two offers in hand: one editor who will do a copy edit, and another who will do developmental AND copy editing in one round. They are confident they need the copy edit. The question is how much the developmental edit matters, and whether one round can genuinely be both.
 
-And the reasoning behind asking, which is sharp. The industry is changing; agents and editors are working out where to spend their time and attention; authors want to put their effort into projects they love and that have a real chance of reaching readers. In that situation, how much polish to apply before someone else reads it is a resource-allocation question, not a perfectionism question.
+Worth answering properly rather than in a sentence, because the two jobs point in opposite directions. A developmental edit asks whether the book works — structure, pacing, whether the romance earns its turns, whether a subplot is load-bearing or decoration. Its output is usually a letter and a conversation, and then you rewrite. A copy edit works at the sentence: grammar, consistency, continuity, house style, whether the character's eyes changed colour in chapter nine. Its output is a marked-up manuscript.
 
-They have marked it explicitly as a discussion and a chance to gather data rather than a request for advice, which is the right instinct and worth copying. This digest ran a version of this question at the end of September, about where the second-draft polish threshold sits. This is the same question with a real relationship on the other side of it, which changes the answer.
+The reason the one-round offer deserves a careful look is the order. If a developmental edit does its job, you rewrite — and a copy edit applied to text you are about to rewrite is money spent on sentences that will not survive. That does not make the combined offer wrong. It makes it worth asking the editor exactly what the deliverable is, in what order, and what happens if their structural notes mean a third of the book changes.
 
-🔗 https://www.reddit.com/r/writing/comments/1xkmhn7/agented_authors_how_polished_is_the_draft_you/
+Two questions this group can answer better than any article: did your developmental edit change the book, and if you bought a combined round, what did you actually get?
 
-💬 For anyone agented: what state is the draft in when you hit send — and has that changed since book one?
+🔗 https://www.reddit.com/r/selfpublish/comments/1xldfgz/developmental_vs_copy_editing/
+
+💬 If you have paid for a developmental edit — did it change the book, and would you buy one again?
 
 
-6. "I gave out my address because I don't have anywhere else to send things"
+4. Where are self-published authors getting those foiled, sprayed-edge editions?
 
-Posted yesterday afternoon, 31 October, in six words of question and one sentence of explanation — and after the week this digest has had, it deserves a proper answer.
+Posted on Saturday, 31 October, and it is the practical twin of yesterday's lead here, which ended on independent booksellers wanting to work with indie authors on exclusive editions.
 
-The whole post: is a P.O. Box worth it? A few people and authors have asked to swap books, and they gave out their home address, because they had nowhere else to send things.
+The question: they keep seeing self-published books that look like the special editions established authors get — heavily coloured, foiled, the lot. Where do those come from?
 
-Three reasons this matters more than it looks. Swapping books with other authors means handing your home address to people you met online, including anyone impersonating an author — and this week's lead here was an investigation into exactly that industry, with a spreadsheet of 403 writers sorted by type. Second, if you ever register copyright, apply for an ISBN in your own name, or set up as a sole trader, an address can end up on a public record. Third, the practical one: ARCs, signed copies, reader post and returns all need somewhere to go, and once your home address is out it does not come back.
+The mechanical answer first, because it explains everything else. Sprayed and printed edges are applied AFTER the book is bound. Print-on-demand prints and binds one copy when somebody orders it, and there is no step in that process where anyone sprays an edge. So a sprayed-edge edition is not a setting you switch on in KDP or IngramSpark. It means a print RUN that you order, pay for, store and sell yourself — which is why these editions turn up on authors' own shops, at conventions and as crowdfunding rewards rather than on Amazon.
 
-The options are not only a post-office box, which is why the thread is worth reading rather than answering in one line: a P.O. Box, a mailbox service that gives you a street address so couriers will deliver, a registered-office or business address service if you have a company, or a trusted shop or workspace. They cost different amounts, and in some countries a P.O. Box cannot receive parcels at all — which is the thing to check before paying for one.
+Which changes the question from "where" to "how many and where will they live". Short-run and specialty printers do this work, with minimums that start far lower than they used to — one US short-run printer advertises runs from 25 copies with foil stamping, and a UK specialist offers sprayed edges, foiling and colour sections with a shop integration for selling direct. I am naming the capability rather than vouching for any price, because every figure I could find this morning came off printers' own marketing pages, and minimums and costs need confirming with the printer directly.
 
-If you have solved this, say which option and roughly what it costs where you are. Half this group is in a different country from the other half and that is exactly what makes the answers useful.
+The honest shape of the decision: you are swapping a zero-inventory business for a boxes-in-the-spare-room business, in exchange for an object people will pay a premium for and photograph. Indie Author Magazine has a piece on custom printing if you want to go further, and the thread is the place to ask what people actually paid.
 
-🔗 https://www.reddit.com/r/selfpublish/comments/1xkcrsw/po_box_worth_it/
+🔗 https://www.reddit.com/r/selfpublish/comments/1xkbard/getting_pretty_books_self_published/
 
-💬 Do you use a P.O. Box, a mail service, or your own address — and have you ever regretted the choice?
+💬 Have you ordered a special edition run — how many copies, and are they sold or are they still in the spare room?
+
+
+5. The first of the month, and everything goes back to zero
+
+Posted yesterday lunchtime, 1 November, in four lines, and it belongs in today's edition because yesterday was the first of the month and a lot of people here will have had the same small lurch.
+
+The whole post: their first novel has been out a month and a half, and they can tell it is always going to be a sad day at the start of each month when the sales dashboard resets to zero. "It's a bit jarring to see."
+
+It is worth saying out loud because the feeling is manufactured by an interface, not by the business. Your reporting month resets. Your book does not. The reader who buys it on the 3rd is as real as the one who bought it on the 29th, and the only thing that changed at midnight was which column Amazon puts them in.
+
+Two practical defences, since this will happen eleven more times this year. Keep your own running total somewhere outside the dashboard — a spreadsheet with a line a month takes a minute and turns twelve resets into one rising number. And set beside it the two sets of real figures this digest ran last week: 40 copies and 8,300 Kindle Unlimited pages over 90 days, and 67 copies across a month that went 34, 16, 12, 3 by week. Both of those authors read their own curve as failure. Neither was.
+
+🔗 https://www.reddit.com/r/selfpublish/comments/1xl1rvt/when_the_month_changes_in_kindle_direct_publishing/
+
+💬 Do you keep your own sales record outside the dashboard — and has it changed how the first of the month feels?
+
+
+6. 🎬 The second rewrite is an option, not a promise — how often does anyone exercise it?
+
+Posted last night, 1 November, and it is in here because it is a contract question wearing screenwriting clothes.
+
+The question: how often do studios actually exercise the option for the second rewrite and polish? In a screen deal those later steps are typically options the studio holds rather than work you are guaranteed — the money is structured in steps, and each step beyond the first is theirs to trigger or not.
+
+Why a novelist should care about the answer. This is what a staged deal looks like from the inside, and it is the same structure authors meet in a multi-book contract where the later books are at the publisher's option, in an option agreement on a novel where the renewal is theirs to take, and in any arrangement where a headline total assumes every step gets triggered. The number you are being quoted is often the ceiling, not the deal.
+
+So the useful thing to carry out of the thread is a question to ask of any staged arrangement before signing it: what proportion of these steps actually get exercised, and what do I have if they stop after the first one? Whoever answers in that thread is answering it with data, for one corner of one industry — but the question transfers whole.
+
+🔗 https://www.reddit.com/r/Screenwriting/comments/1xlfa4x/how_often_do_studios_exercise_the_option_for_the/
+
+💬 Have you ever been in a staged deal where the later steps were never triggered — and did you see it coming?
 
 
 —
-Scout notes: six items — two from news and trade press, three from the community lanes, one from the video lane — and a Sunday-sized edition with nothing padded. AI lane: quiet today on new developments. Swept in full; what it turned up was the ALLi news podcast repeating the PHP flaw, the Spotify memberships and the Kindle Unlimited payout figure, all three of which this digest ran on Wednesday, Friday and 19 October, and Jane Friedman's detection piece and ALLi's AI-policy guide, both run yesterday. YouTube lane: fresh today, and the feeds came back — RSS answered on five of six channels, so today's video time is an exact timestamp rather than a range. Those recovered feeds are also what produced item 4, which is a correction to this digest's own earlier items rather than to anybody else's: the feeds now disagree with what the channel pages said on Wednesday and Friday, in one case because a video was retitled and in the other because its publication time moved. Both are stated in the item. Screen lane: swept and nothing cleared the bar — the screenwriting forum produced personal news, script-share requests and a question about an old piece of software, so there is no screen item today. Behind a wall: Books+Publishing Australia has published nothing since Thursday evening and the weekend brought no new Australian items; the UK round-up at authorhelp.uk publishes on Monday mornings, after this run. Two things swept and not run: ALLi's memoir-awards piece from yesterday and Indie Author Magazine's interview on building a sustainable indie business from Friday — both good, both kept for a thin weekday rather than used to pad a Sunday. Elizabeth Spann Craig's blog returned 403 for a twentieth day. Writer Beware has published nothing since 16 October. Reddit: r/selfpublish and r/writing answered first time, r/PubTips and r/Screenwriting needed more than one shape.
+Scout notes: six items — one from news, four from the community lanes, one from the screen lane — and a Monday-sized edition with nothing padded. The lead is a FOLLOW-UP to our own Tuesday item rather than new news: the thing left unverified that day, the implementation date, now has an answer, and it is that there is no date. AI lane: quiet today on new developments beyond that follow-up. Swept in full; nothing new surfaced that this digest has not run in the last four days. YouTube lane: nothing fresh today. Swept in full, the RSS route failed on all six channels at four attempts each after answering on five of six yesterday, the channel pages served as the fallback, and every video inside the seven-day gate has already run here. Behind a wall: Books+Publishing Australia has three items this morning worth knowing exist and none readable — a piece headed "Copyright and the Constitution", New Zealand booksellers protesting over deliveries, and the Meta delay, which is why the lead carries an independent source alongside it. The UK round-up at authorhelp.uk publishes at 08:00, after this run, so Monday's edition is never in it. Swept and kept rather than used to pad: ALLi's memoir-awards piece and Indie Author Magazine's sustainable-business interview, held over for a second day. Elizabeth Spann Craig's blog returned 403 for a twenty-first day — three weeks, and it should probably come out of the sweep or move to another route. Writer Beware has published nothing since 16 October. Reddit: r/PubTips and r/Screenwriting answered first time, r/selfpublish on the second shape, r/writing on the third.
 
 —
 Curated daily for this community. Spotted something worth sharing?
