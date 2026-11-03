@@ -1,112 +1,118 @@
-📚 Daily Writer's Scout — Monday, 02 November 2026
+📚 Daily Writer's Scout — Tuesday, 03 November 2026
 
-1. Meta has shelved the terms indefinitely — the follow-up to the story we left unfinished
+1. The Kindle+ rollout has broken audiobook enrolment — and here is one author's map of the problems
 
-On Tuesday this digest ran Meta's revised commercial terms, the ones covering ads and business products, which is the category an author Page and an author's ad account sit in. One thing was deliberately left open that day: the date the terms would take effect. Most reporting said 30 October, one outlet said it had moved to 20 November, no second source could be found for the November date, and the item said so rather than picking one.
+Posted in the small hours this morning, 3 November, and it is the most useful thing you will read today if you have a human-narrated audiobook. This digest has covered the Kindle Unlimited rename to Kindle+ twice — on 23 October when it happened, and on Friday when a video title claimed KDP's reports had crashed. This is the first author report of what the change actually costs.
 
-Here is the resolution, and it is better than either date. On 28 October, per Reuters, Meta announced it was delaying the rollout of the new commercial terms INDEFINITELY, following concerns from publishers and digital advertisers. The company says the consultation could run past 20 November, and that if it does, implementation is delayed again. Until then, Meta's existing terms remain in place.
+Their position: four books with narrators they paid for and whose rights they own outright, wanting ebooks and audiobooks both in KDP Select for discoverability. One enrolled cleanly. Three did not, in three different ways.
 
-The sequence, for the record, because the dates are the story: terms set for 30 October, pushed to 20 November after the News/Media Alliance demanded Meta withdraw the language authorising it to crawl websites associated with business accounts, then shelved with no date at all.
+Problem one, Whispersync. One book was ineligible because Whispersync for voice was not enabled — which they learned is something Amazon does at their end, normally automatically, provided there is a 97% match between the text and the audio. The workaround they found: email ACX's info address, attest that you believe it is a 97% match, and ask them to confirm. Theirs is not resolved yet. The route to that answer was an hour on hold, a bot, then a human KDP agent who sent help-article links that were broken — and could not open them either — before telling them to call ACX, who said it was an Amazon problem, which took another twenty minutes to unpick.
 
-Two things in the resolution that were not in Tuesday's version. Antitrust authorities in the EU and the UK have received complaints about the terms — so this is now a regulatory matter in two jurisdictions, not only a publishers' row. And Meta has rejected the publishers' claims while delaying anyway, which is the shape of a company buying time rather than changing its mind.
+Problem two, the greyed-out button. On another title the KDP Select enrolment button was simply not clickable. What worked: get a human agent, exchange screenshots until they accept you genuinely cannot click it, then open a ticket and email back and forth. Resolved, eventually.
 
-What has not changed, and it is still the only part you control. Meta's answer to the objection was that the terms do not override a site owner's robots.txt preferences. A delay is not a withdrawal. If you have an author website and you have not looked at its robots.txt, the breathing space is the reason to do it this week rather than the reason not to.
+Problem three, which is the one with no answer. They sold a book to Amazon's Kindle Scout crowdsourcing programme eleven years ago. That programme has shut down, there is nobody to talk to, they are about fifteen emails in, and because they do not "own" the ebook they cannot enrol the audiobook. They have asked ALLi support too.
 
-🔗 https://www.spokesman.com/stories/2026/oct/28/meta-delays-indefinitely-its-rollout-of-new-commer/
-🔗 https://www.booksandpublishing.com.au/articles/2026/11/02/343576/meta-delays-proposed-changes-to-terms-following-complaints/
+Two things worth taking from it beyond the workarounds. Royalty-share narrated books do not appear to be enrollable yet at all, while Amazon promotes its Virtual Voice option — make of that what you will. And the broader lesson: a platform rename is never only a rename. If you have audio and you have not checked your enrolment status since 23 October, check it now rather than when you need it.
 
-💬 Did you change anything on your own site over the last fortnight because of this — or decide it was not worth it?
+🔗 https://www.reddit.com/r/selfpublish/comments/1xmfa85/problemsworkarouns_kdp_selectkindle_enrollment/
 
-
-2. "Did you sign it?" 👁️👄👁️
-
-Posted last night, 1 November, and it is the best thing in today's digest. Read it for the pleasure of it and then take the three lessons.
-
-What happened. They listed author copies of their book on Facebook Marketplace at about $2 under the online price — not as a strategy, just to get copies into hands while they save the real marketing push for February, when book two arrives and there is a series to promote. The book is already on Amazon, Walmart, Barnes & Noble and TikTok Shop.
-
-The next day, a message. Their first thought: "Is this a scam??" It was not. A man out shopping at Barnes & Noble, looking for science fiction, had seen the Marketplace listing, thought theirs sounded interesting, and wanted a copy. They work remotely, so they grabbed the laptop, got in the car and drove over. They talked about the book for a bit — written about a year ago, out about a week.
-
-Then: "Did you sign it?" Reader, they had not. He asked for an autograph. They went back to the car for a Sharpie, and in their own telling, "I was so nervous my brain was like, 'Wait… how do I spell my own name again?'" They had been practising an author signature precisely for this and it still came out sloppy. He signed up for their newsletter.
-
-The three lessons, which are real.
-
-Pre-sign your copies. Their own conclusion, and the cheapest thing on this list: "I'm pre-signing my Marketplace copies from now on."
-
-The channel nobody talks about works. A general-purpose local marketplace put a stranger who was already in a bookshop looking for your genre in front of your book, at a price you set, with the whole margin yours. One sale is one sale — but it cost nothing and it produced a newsletter subscriber and a conversation.
-
-And the thing worth sitting with, after a week in which this digest led twice on people being preyed on: their first instinct at a message from a reader was that it must be a scam. That is what a year of this does. It was a man who likes science fiction.
-
-🔗 https://www.reddit.com/r/selfpublish/comments/1xldeym/sold_my_first_book_in_person_today_and_got_asked/
-
-💬 Have you sold a book hand to hand — and were you ready for the question about signing it?
+💬 Have you managed to get a human-narrated audiobook into KDP Select since the Kindle+ change — and what did it take?
 
 
-3. Developmental or copy edit, and can one person really do both in a single round?
+2. There is a free online book fair this weekend and you have four days to get ready
 
-Posted last night, 1 November, by an author who has done the research and found the research contradicting itself — which is the honest state of editing advice.
+Flagged in AuthorHelp UK's weekly round-up yesterday, 2 November, and then checked against the organisers' own pages, because an event is exactly the kind of thing worth getting right.
 
-Their position. Not their first novel, but the first they are publishing. A dark MM open-door romance. They have two offers in hand: one editor who will do a copy edit, and another who will do developmental AND copy editing in one round. They are confident they need the copy edit. The question is how much the developmental edit matters, and whether one round can genuinely be both.
+What it is. The Fediverse Book Fair, tagged #FediBookFair, runs across the weekend of 7 and 8 November. It is virtual — there is no venue, no travel, no table to pay for. In the organisers' own words, there is no fee and the only cost to participate is some time. Registration exists but is optional; it just gets you occasional updates.
 
-Worth answering properly rather than in a sentence, because the two jobs point in opposite directions. A developmental edit asks whether the book works — structure, pacing, whether the romance earns its turns, whether a subplot is load-bearing or decoration. Its output is usually a letter and a conversation, and then you rewrite. A copy edit works at the sentence: grammar, consistency, continuity, house style, whether the character's eyes changed colour in chapter nine. Its output is a marked-up manuscript.
+How it works. You post about your books over the weekend and tag the posts #FediBookFair, and the organisers boost what they see. Every format is welcome — paperback, hardback, ebook, audiobook, graphic novel, braille — and any language, with the honest caveat that the organisers will not boost posts they cannot read, which in practice means non-English posts may not get amplified by them. You can run competitions or offer things like signed copies.
 
-The reason the one-round offer deserves a careful look is the order. If a developmental edit does its job, you rewrite — and a copy edit applied to text you are about to rewrite is money spent on sentences that will not survive. That does not make the combined offer wrong. It makes it worth asking the editor exactly what the deliverable is, in what order, and what happens if their structural notes mean a third of the book changes.
+Two notes before you plan around it. This runs on the Fediverse — Mastodon and the other services that federate with it — so if you are not already there, the weekend starts with making an account, which is why four days' notice is useful rather than academic. And the guidance all comes from the organisers' own FAQ, so check it for the current rules before you build a campaign on it.
 
-Two questions this group can answer better than any article: did your developmental edit change the book, and if you bought a combined round, what did you actually get?
+Why it is worth an hour of your weekend even at a small scale. It is free, it is a crowd assembled specifically to look at books, and unlike a sales-ranking push it leaves you with follows rather than a spike. Set it beside Sunday's item here about launch parties moving out of the chains and into smaller venues: this is the same shift happening in the places where readers talk.
 
-🔗 https://www.reddit.com/r/selfpublish/comments/1xldfgz/developmental_vs_copy_editing/
+🔗 https://authorhelp.uk/FediBookFair/
+🔗 https://authorhelp.uk/fedibookfair/fedibookfair-faq/
 
-💬 If you have paid for a developmental edit — did it change the book, and would you buy one again?
-
-
-4. Where are self-published authors getting those foiled, sprayed-edge editions?
-
-Posted on Saturday, 31 October, and it is the practical twin of yesterday's lead here, which ended on independent booksellers wanting to work with indie authors on exclusive editions.
-
-The question: they keep seeing self-published books that look like the special editions established authors get — heavily coloured, foiled, the lot. Where do those come from?
-
-The mechanical answer first, because it explains everything else. Sprayed and printed edges are applied AFTER the book is bound. Print-on-demand prints and binds one copy when somebody orders it, and there is no step in that process where anyone sprays an edge. So a sprayed-edge edition is not a setting you switch on in KDP or IngramSpark. It means a print RUN that you order, pay for, store and sell yourself — which is why these editions turn up on authors' own shops, at conventions and as crowdfunding rewards rather than on Amazon.
-
-Which changes the question from "where" to "how many and where will they live". Short-run and specialty printers do this work, with minimums that start far lower than they used to — one US short-run printer advertises runs from 25 copies with foil stamping, and a UK specialist offers sprayed edges, foiling and colour sections with a shop integration for selling direct. I am naming the capability rather than vouching for any price, because every figure I could find this morning came off printers' own marketing pages, and minimums and costs need confirming with the printer directly.
-
-The honest shape of the decision: you are swapping a zero-inventory business for a boxes-in-the-spare-room business, in exchange for an object people will pay a premium for and photograph. Indie Author Magazine has a piece on custom printing if you want to go further, and the thread is the place to ask what people actually paid.
-
-🔗 https://www.reddit.com/r/selfpublish/comments/1xkbard/getting_pretty_books_self_published/
-
-💬 Have you ordered a special edition run — how many copies, and are they sold or are they still in the spare room?
+💬 Are you on the Fediverse at all — and if you are, has it ever sold you a book or sold one of yours?
 
 
-5. The first of the month, and everything goes back to zero
+3. He trained a chatbot on his own writing. It answered a reader in German.
 
-Posted yesterday lunchtime, 1 November, in four lines, and it belongs in today's edition because yesterday was the first of the month and a lot of people here will have had the same small lurch.
+Josh Bernoff published this yesterday, 2 November, and it is a short post with two findings in it that nobody discussing author chatbots seems to mention.
 
-The whole post: their first novel has been out a month and a half, and they can tell it is always going to be a sad day at the start of each month when the sales dashboard resets to zero. "It's a bit jarring to see."
+The background, which this digest noted a week ago: he turned years of his own blog posts and book chapters about writing and publishing into a question-answering coach, built with a partner, and then made it free and login-free.
 
-It is worth saying out loud because the feeling is manufactured by an interface, not by the business. Your reporting month resets. Your book does not. The reader who buys it on the 3rd is as real as the one who bought it on the 29th, and the only thing that changed at midnight was which column Amazon puts them in.
+The first surprise is the ugly one. One anonymous user came back repeatedly to type profanity at it — the same person did it on his partner's site too. His question about it is the honest one: is this where we are heading, "stupid humans having vacuous profanity-laden conversations with random chatbots"? The practical lesson for anyone thinking of doing the same with their back catalogue: free and login-free means open to everyone, including the one person who wants to abuse a machine with your name on it.
 
-Two practical defences, since this will happen eleven more times this year. Keep your own running total somewhere outside the dashboard — a spreadsheet with a line a month takes a minute and turns twelve resets into one rising number. And set beside it the two sets of real figures this digest ran last week: 40 copies and 8,300 Kindle Unlimited pages over 90 days, and 67 copies across a month that went 34, 16, 12, 3 by week. Both of those authors read their own curve as failure. Neither was.
+The second surprise is the remarkable one. Somebody asked a well-formed question in German. The coach answered in German — a language that is nowhere in its training material, because he does not write in it. He ran the answer through Google Translate and found it was "exactly the same direct and challenging response I would have written."
 
-🔗 https://www.reddit.com/r/selfpublish/comments/1xl1rvt/when_the_month_changes_in_kindle_direct_publishing/
+Sit with what that means if you are weighing this up. An assistant trained on your own body of work can speak to readers in languages you have never published in, in your register, without a translator being involved anywhere — and you will not be able to read what it said. He checked his. That is the step that turns an interesting capability into a responsible one, and it is not optional: an answer in your voice, in a language you cannot read, carrying your name, is still your answer.
 
-💬 Do you keep your own sales record outside the dashboard — and has it changed how the first of the month feels?
+🔗 https://bernoff.com/blog/two-things-that-surprised-me-about-my-own-chatbot
+
+💬 Would you let a chatbot trained on your own books answer readers — and in languages you cannot check?
 
 
-6. 🎬 The second rewrite is an option, not a promise — how often does anyone exercise it?
+4. A year of developmental edits, a book they barely recognise, and the question nobody asks out loud
 
-Posted last night, 1 November, and it is in here because it is a contract question wearing screenwriting clothes.
+Posted yesterday afternoon, 2 November, and it is the other end of the question this digest ran yesterday, where an indie author asked how much a developmental edit really matters. Here is what a year of them looks like from inside a traditional deal.
 
-The question: how often do studios actually exercise the option for the second rewrite and polish? In a screen deal those later steps are typically options the studio holds rather than work you are guaranteed — the money is structured in steps, and each step beyond the first is theirs to trigger or not.
+Their position. Debut sold last year at auction for what they call a "good" sum. They were happy "for about a minute." They have been in developmental edits for almost a year. Their editor has advised they will continue through Christmas and then move to the line edit.
 
-Why a novelist should care about the answer. This is what a staged deal looks like from the inside, and it is the same structure authors meet in a multi-book contract where the later books are at the publisher's option, in an option agreement on a novel where the renewal is theirs to take, and in any arrangement where a headline total assumes every step gets triggered. The number you are being quoted is often the ceiling, not the deal.
+What they actually say, and it is worth quoting because the honesty is the value: "every revision seems to be making the book worse. I barely recognise it." And then the thing underneath it — "The problem is I genuinely can't tell anymore whether the book *is* worse, or if this is just exhaustion taking over."
 
-So the useful thing to carry out of the thread is a question to ask of any staged arrangement before signing it: what proportion of these steps actually get exercised, and what do I have if they stop after the first one? Whoever answers in that thread is answering it with data, for one corner of one industry — but the question transfers whole.
+The shape of the process, for calibration. A loose big-picture edit through to spring, introducing new plotlines. Then three intensive rounds tying together everything that arose from the big-picture revision. Their editor repeatedly tells them how much they love the book, "even though they have basically had me rewrite it from scratch." Their agent adores the editor, trusts them with the manuscript, and has largely stayed out of the editorial process — which leaves the author, in their own word, rudderless.
 
-🔗 https://www.reddit.com/r/Screenwriting/comments/1xlfa4x/how_often_do_studios_exercise_the_option_for_the/
+The arguments they have tried on themselves and that have stopped working: that they agreed to this editor's vision when they took the money, and that it is a collaboration now rather than a solo endeavour.
 
-💬 Have you ever been in a staged deal where the later steps were never triggered — and did you see it coming?
+Their questions are the right ones and they are asking the right room. Is it normal to hate your book after a year of edits? Have things gone wrong here? And most importantly, how do they get it over the line?
+
+Why both ends of this belong in a self-publishing digest. Yesterday's author was deciding whether to pay for a developmental edit at all. Today's got one of the most thorough developmental processes in the business, for free, as part of a deal most writers would want — and is a year in with no publication date and no way to judge their own book. Neither position is the better one. They are different costs, and it is worth knowing both before choosing.
+
+🔗 https://www.reddit.com/r/PubTips/comments/1xm58sq/discussion_developmental_edit_burnout_tips_for/
+
+💬 Have you come out of a long edit still liking your book — and what kept you going through the middle of it?
+
+
+5. 46 sales, a drip-release plan, and a setting that quietly cost three months
+
+Posted yesterday evening, 2 November, by an author planning a three-or-four-book series and trying to get the release strategy right before writing themselves into a corner. There is a planning question in it and a cautionary detail, and the detail is the part to read first.
+
+The cautionary detail. Their first novel has sold about 46 copies this year, with almost no promotion by their own choice. Their Kindle Unlimited page reads were poor — and then they discovered the book had not been enrolled after the first three months, and that during the period it WAS enrolled there was an error on page counts, with no starting location set. That is fixed now, and they cannot tell how much of the weak performance it explains.
+
+Anyone with a book in Kindle Unlimited should take ten minutes today on the back of that: check the enrolment is live, check the page count looks right, and check the start-reading location is set. Page reads are paid by page, so a page-count error is a direct cut to the money, and nothing tells you it has happened.
+
+The planning question, which is a real one. They are a third of the way into book one of the series. Is it better to write the whole series first, or to finish two, then launch book one with book two already on preorder, and run a "drip" release at roughly 60-day intervals — ARCs, launch, next — while drafting book three? They can see the cost of their own plan and say so: it means sitting on a finished book, which they know will be hard.
+
+They have also been honest about ARCs in a way that matches what this group keeps reporting: hundreds of ARC claims across three services, and the sales did not follow.
+
+🔗 https://www.reddit.com/r/selfpublish/comments/1xma6cv/series_strategydo_you_write_al_the_way_through/
+
+💬 If you write series — did you bank books before launching, and would you do it that way again?
+
+
+6. The scene where nothing is missing and nothing is alive
+
+Posted yesterday evening, 2 November, and it is the sharpest craft question of the week because the asker has already tried the standard answer and found its limits.
+
+The problem, exactly stated. Without a publisher's editor, revision falls on you or your beta readers, and one thing keeps getting through: scenes where nothing is technically missing. The plot moves, characters talk, information comes out — and it reads lifeless.
+
+They know the usual diagnosis, and they put it better than most craft books do: the scene has events but no conflict. "A character picking up an apple is nothing, but a starving character watching someone take the last one is a scene." That fixes some of theirs.
+
+And then the objection that makes the question worth answering: some quiet scenes work perfectly well with no obvious obstacle in them at all. So conflict cannot be the whole answer, and they are not willing to pretend it is.
+
+What they are asking the room, and it is the practical version: when you caught a dead scene before publishing, what caught it — a paid editor, beta readers, or your own revision process? And what actually fixed it?
+
+That second question is where the value is. "Add conflict" is advice. "I read it aloud and heard that nobody wanted anything" is a method. If you have a test you use for this — reading aloud, asking what each character wants on the page, cutting the first and last paragraph, checking whether anything is different at the end of the scene than at the start — that is the thing to post.
+
+🔗 https://www.reddit.com/r/selfpublish/comments/1xmd5j3/selfpublishers_how_do_you_catch_scenes_that_have/
+
+💬 What is your test for a flat scene — and what did it catch the last time you used it?
 
 
 —
-Scout notes: six items — one from news, four from the community lanes, one from the screen lane — and a Monday-sized edition with nothing padded. The lead is a FOLLOW-UP to our own Tuesday item rather than new news: the thing left unverified that day, the implementation date, now has an answer, and it is that there is no date. AI lane: quiet today on new developments beyond that follow-up. Swept in full; nothing new surfaced that this digest has not run in the last four days. YouTube lane: nothing fresh today. Swept in full, the RSS route failed on all six channels at four attempts each after answering on five of six yesterday, the channel pages served as the fallback, and every video inside the seven-day gate has already run here. Behind a wall: Books+Publishing Australia has three items this morning worth knowing exist and none readable — a piece headed "Copyright and the Constitution", New Zealand booksellers protesting over deliveries, and the Meta delay, which is why the lead carries an independent source alongside it. The UK round-up at authorhelp.uk publishes at 08:00, after this run, so Monday's edition is never in it. Swept and kept rather than used to pad: ALLi's memoir-awards piece and Indie Author Magazine's sustainable-business interview, held over for a second day. Elizabeth Spann Craig's blog returned 403 for a twenty-first day — three weeks, and it should probably come out of the sweep or move to another route. Writer Beware has published nothing since 16 October. Reddit: r/PubTips and r/Screenwriting answered first time, r/selfpublish on the second shape, r/writing on the third.
+Scout notes: six items — two from news and trade press, four from the community lanes. The lead is the first FIRST-HAND report of what the Kindle+ rename did to audiobook enrolment, which this digest has been following since 23 October; the event in item 2 was flagged by the UK round-up and then checked against the organisers' own pages rather than taken on trust. AI lane: one item, and it is a practical one rather than a policy one. Swept in full; nothing new surfaced beyond it. YouTube lane: nothing fresh today. Swept in full, the RSS route failed on all six channels at four attempts each, the channel pages served as the fallback, and every video inside the seven-day gate has already run here. Screen lane: swept in full — it took three request shapes to get through — and nothing cleared the bar: career and morale posts, a script archive, and the staged-deal question this digest ran yesterday. Behind a wall: Books+Publishing Australia's "Copyright and the Constitution" piece is still subscriber-only with no readable body, and it is the one Australian item this week this digest would most like to read. Elizabeth Spann Craig's blog returned 403 for a twenty-second day. Writer Beware has published nothing since 16 October. Reddit: r/PubTips answered first time, r/writing and r/Screenwriting on the third shape, and r/selfpublish needed four — the slowest the lane has been in a fortnight.
 
 —
 Curated daily for this community. Spotted something worth sharing?
