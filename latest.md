@@ -1,118 +1,135 @@
-📚 Daily Writer's Scout — Tuesday, 03 November 2026
+📚 Daily Writer's Scout — Wednesday, 04 November 2026
 
-1. The Kindle+ rollout has broken audiobook enrolment — and here is one author's map of the problems
+1. $503 spent, 500 copies given away, 20 pages read: one author's full marketing accounts
 
-Posted in the small hours this morning, 3 November, and it is the most useful thing you will read today if you have a human-narrated audiobook. This digest has covered the Kindle Unlimited rename to Kindle+ twice — on 23 October when it happened, and on Friday when a video title claimed KDP's reports had crashed. This is the first author report of what the change actually costs.
+Posted on Monday, 2 November, by a new author with no audience promoting a completed duology — and because their day job is accounting, they published the whole thing channel by channel with costs attached. This is the most useful document in this digest for weeks. Their own apology, which is not needed: "Sorry for all the numbers."
 
-Their position: four books with narrators they paid for and whose rights they own outright, wanting ebooks and audiobooks both in KDP Select for discoverability. One enrolled cleanly. Three did not, in three different ways.
+What they ran: a five-day free promotion on Amazon, the books in Kindle Plus, and two 30-second videos — one built from a generated audio dialogue out of the book, one of themselves with the covers and a description.
 
-Problem one, Whispersync. One book was ineligible because Whispersync for voice was not enabled — which they learned is something Amazon does at their end, normally automatically, provided there is a 97% match between the text and the audio. The workaround they found: email ACX's info address, attest that you believe it is a 97% match, and ask them to confirm. Theirs is not resolved yet. The route to that answer was an hour on hold, a bot, then a human KDP agent who sent help-article links that were broken — and could not open them either — before telling them to call ACX, who said it was an Amazon problem, which took another twenty minutes to unpick.
+Meta ads, four days, manual interest-based targeting: around 4,000 impressions, 240 clicks through to Amazon, about $0.23 a click. Cost roughly $55. That is the one channel that did what it said it would.
 
-Problem two, the greyed-out button. On another title the KDP Select enrolment button was simply not clickable. What worked: get a human agent, exchange screenshots until they accept you genuinely cannot click it, then open a ticket and email back and forth. Resolved, eventually.
+Amazon Ads, manually targeted, 39 keyword phrases: 16 impressions. Zero clicks. Read that again. On the retailer's own advertising platform, 39 keywords produced sixteen impressions — which is not a bad campaign, it is a campaign that never ran.
 
-Problem three, which is the one with no answer. They sold a book to Amazon's Kindle Scout crowdsourcing programme eleven years ago. That programme has shut down, there is nobody to talk to, they are about fifteen emails in, and because they do not "own" the ebook they cannot enrol the audiobook. They have asked ALLi support too.
+TikTok, the same two videos. The audio-dialogue video on broad targeting: 36,000 impressions, 3,600 likes, 114 saves, $50 for five days. The video of themselves on interest targeting: 5,230 impressions, 1,476 likes, 133 saves, $80. And the line that should be pinned to the wall of everyone building a TikTok strategy: "Despite all that engagement, I gained very few new followers."
 
-Two things worth taking from it beyond the workarounds. Royalty-share narrated books do not appear to be enrollable yet at all, while Amazon promotes its Virtual Voice option — make of that what you will. And the broader lesson: a platform rename is never only a rename. If you have audio and you have not checked your enrolment status since 23 October, check it now rather than when you need it.
+Instagram, both videos, interest targeting: 3,582 impressions, 70 likes, 3 shares for $40; and 1,400 impressions, 89 likes, 1 share for $40. About 100 new followers — so Instagram bought followers where TikTok bought applause.
 
-🔗 https://www.reddit.com/r/selfpublish/comments/1xmfa85/problemsworkarouns_kdp_selectkindle_enrollment/
+Goodreads, two giveaways at $119 each: around 1,400 entrants and about 800 unique users shelving the book on the first; the second runs to 1 December. Two hundred copies given away in total.
 
-💬 Have you managed to get a human-narrated audiobook into KDP Select since the Kindle+ change — and what did it take?
+Reddit, one post in a free-ebooks community: about 400 views, 5 upvotes.
 
+The bottom line in their own arithmetic. About 300 free downloads on Amazon plus the 200 Goodreads copies. Kindle Plus pages read: "barely at 20." Total spend $503. Their summary: "it's costing me around $1 per copy just to give my books away."
 
-2. There is a free online book fair this weekend and you have four days to get ready
+Three things worth taking from it, carefully. A free promotion plus paid traffic buys downloads, and downloads are not readers — 500 copies out and 20 pages read is the whole lesson in two numbers. Engagement metrics on video platforms are not intent; saves and likes cost almost nothing and mean almost nothing. And an advertising platform can simply fail to deliver your campaign, so check impressions before you conclude your keywords were wrong.
 
-Flagged in AuthorHelp UK's weekly round-up yesterday, 2 November, and then checked against the organisers' own pages, because an event is exactly the kind of thing worth getting right.
+Their closing questions are honest and open: will any reviews come out of it, what happens next, and where does anyone actually promote Kindle Plus. Nobody knows yet. That is the state of the art.
 
-What it is. The Fediverse Book Fair, tagged #FediBookFair, runs across the weekend of 7 and 8 November. It is virtual — there is no venue, no travel, no table to pay for. In the organisers' own words, there is no fee and the only cost to participate is some time. Registration exists but is optional; it just gets you occasional updates.
+🔗 https://www.reddit.com/r/selfpublish/comments/1xlps1s/my_first_book_marketing_experiment_here_are_the/
 
-How it works. You post about your books over the weekend and tag the posts #FediBookFair, and the organisers boost what they see. Every format is welcome — paperback, hardback, ebook, audiobook, graphic novel, braille — and any language, with the honest caveat that the organisers will not boost posts they cannot read, which in practice means non-English posts may not get amplified by them. You can run competitions or offer things like signed copies.
-
-Two notes before you plan around it. This runs on the Fediverse — Mastodon and the other services that federate with it — so if you are not already there, the weekend starts with making an account, which is why four days' notice is useful rather than academic. And the guidance all comes from the organisers' own FAQ, so check it for the current rules before you build a campaign on it.
-
-Why it is worth an hour of your weekend even at a small scale. It is free, it is a crowd assembled specifically to look at books, and unlike a sales-ranking push it leaves you with follows rather than a spike. Set it beside Sunday's item here about launch parties moving out of the chains and into smaller venues: this is the same shift happening in the places where readers talk.
-
-🔗 https://authorhelp.uk/FediBookFair/
-🔗 https://authorhelp.uk/fedibookfair/fedibookfair-faq/
-
-💬 Are you on the Fediverse at all — and if you are, has it ever sold you a book or sold one of yours?
+💬 Which single marketing channel has ever returned more than you put into it — and how did you know?
 
 
-3. He trained a chatbot on his own writing. It answered a reader in German.
+2. $250, one sale, and a 0.2% click-through: the other half of the same problem
 
-Josh Bernoff published this yesterday, 2 November, and it is a short post with two findings in it that nobody discussing author chatbots seems to mention.
+Posted on Monday, 2 November, a few hours after the accounts above, by a different author with the opposite diagnosis problem.
 
-The background, which this digest noted a week ago: he turned years of his own blog posts and book chapters about writing and publishing into a question-answering coach, built with a partner, and then made it free and login-free.
+Their numbers: about $250 across Amazon and Facebook ads, and one sale. They have reworked the blurb more than ten times and think it is genuinely good now. The ads are targeted at comparable authors and titles. Click-through hovers around 0.2%, which they believe is acceptable. And then: "when people hit the landing page, they just…don't buy."
 
-The first surprise is the ugly one. One anonymous user came back repeatedly to type profanity at it — the same person did it on his partner's site too. His question about it is the honest one: is this where we are heading, "stupid humans having vacuous profanity-laden conversations with random chatbots"? The practical lesson for anyone thinking of doing the same with their back catalogue: free and login-free means open to everyone, including the one person who wants to abuse a machine with your name on it.
+Why this belongs next to item 1 rather than buried under it. The author above has a delivery problem — ads that worked, and a free promotion that produced downloads instead of readers. This author has a conversion problem: the traffic arrives and nothing happens. Those need opposite fixes, and the most expensive mistake in this whole area is treating one as the other and buying more clicks.
 
-The second surprise is the remarkable one. Somebody asked a well-formed question in German. The coach answered in German — a language that is nowhere in its training material, because he does not write in it. He ran the answer through Google Translate and found it was "exactly the same direct and challenging response I would have written."
+The honest list of what sits between a click and a purchase, since that is what the thread is for: the cover at thumbnail size, the first line of the blurb before the "read more" fold, the price against the category, the sample, the review count, and the series position. Any one of them can hold the whole thing shut, and the only way to find out which is to change one at a time.
 
-Sit with what that means if you are weighing this up. An assistant trained on your own body of work can speak to readers in languages you have never published in, in your register, without a translator being involved anywhere — and you will not be able to read what it said. He checked his. That is the step that turns an interesting capability into a responsible one, and it is not optional: an answer in your voice, in a language you cannot read, carrying your name, is still your answer.
+If you have moved a book from traffic-without-sales to sales, the useful answer is which single thing you changed and what the number did afterwards.
 
-🔗 https://bernoff.com/blog/two-things-that-surprised-me-about-my-own-chatbot
+🔗 https://www.reddit.com/r/selfpublish/comments/1xlwphp/traffic_but_no_sales/
 
-💬 Would you let a chatbot trained on your own books answer readers — and in languages you cannot check?
-
-
-4. A year of developmental edits, a book they barely recognise, and the question nobody asks out loud
-
-Posted yesterday afternoon, 2 November, and it is the other end of the question this digest ran yesterday, where an indie author asked how much a developmental edit really matters. Here is what a year of them looks like from inside a traditional deal.
-
-Their position. Debut sold last year at auction for what they call a "good" sum. They were happy "for about a minute." They have been in developmental edits for almost a year. Their editor has advised they will continue through Christmas and then move to the line edit.
-
-What they actually say, and it is worth quoting because the honesty is the value: "every revision seems to be making the book worse. I barely recognise it." And then the thing underneath it — "The problem is I genuinely can't tell anymore whether the book *is* worse, or if this is just exhaustion taking over."
-
-The shape of the process, for calibration. A loose big-picture edit through to spring, introducing new plotlines. Then three intensive rounds tying together everything that arose from the big-picture revision. Their editor repeatedly tells them how much they love the book, "even though they have basically had me rewrite it from scratch." Their agent adores the editor, trusts them with the manuscript, and has largely stayed out of the editorial process — which leaves the author, in their own word, rudderless.
-
-The arguments they have tried on themselves and that have stopped working: that they agreed to this editor's vision when they took the money, and that it is a collaboration now rather than a solo endeavour.
-
-Their questions are the right ones and they are asking the right room. Is it normal to hate your book after a year of edits? Have things gone wrong here? And most importantly, how do they get it over the line?
-
-Why both ends of this belong in a self-publishing digest. Yesterday's author was deciding whether to pay for a developmental edit at all. Today's got one of the most thorough developmental processes in the business, for free, as part of a deal most writers would want — and is a year in with no publication date and no way to judge their own book. Neither position is the better one. They are different costs, and it is worth knowing both before choosing.
-
-🔗 https://www.reddit.com/r/PubTips/comments/1xm58sq/discussion_developmental_edit_burnout_tips_for/
-
-💬 Have you come out of a long edit still liking your book — and what kept you going through the middle of it?
+💬 What was the one change that finally made your page convert — and did you expect it to be that one?
 
 
-5. 46 sales, a drip-release plan, and a setting that quietly cost three months
+3. The free answer to both of the above: the six stories you already have and have never used
 
-Posted yesterday evening, 2 November, by an author planning a three-or-four-book series and trying to get the release strategy right before writing themselves into a corner. There is a planning question in it and a cautionary detail, and the detail is the part to read first.
+Jenny Hansen at Writers Helping Writers, yesterday morning, 3 November. It is the piece this digest would hand to Sunday's author who had $27 in the bank and asked where to start, and it costs nothing but a blank page.
 
-The cautionary detail. Their first novel has sold about 46 copies this year, with almost no promotion by their own choice. Their Kindle Unlimited page reads were poor — and then they discovered the book had not been enrolled after the first three months, and that during the period it WAS enrolled there was an error on page counts, with no starting location set. That is fixed now, and they cannot tell how much of the weak performance it explains.
+Her diagnosis, borrowed from her work with business owners, and it lands: they are good at what they do but cannot explain why it matters, because "their expertise has become so familiar to them that they no longer recognize what makes it valuable." She calls it Invisible Value, and says authors have it too. We know everything about our books, and then we reduce all of it to "a genre, a short description, and a purchase link…and we stop talking about the good stuff."
 
-Anyone with a book in Kindle Unlimited should take ten minutes today on the back of that: check the enrolment is live, check the page count looks right, and check the start-reading location is set. Page reads are paid by page, so a page-count error is a direct cut to the money, and nothing tells you it has happened.
+The line that reframes the whole problem: "When you use facts and figures to do the job that story is supposed to do, no one will know why your work is special."
 
-The planning question, which is a real one. They are a third of the way into book one of the series. Is it better to write the whole series first, or to finish two, then launch book one with book two already on preorder, and run a "drip" release at roughly 60-day intervals — ARCs, launch, next — while drafting book three? They can see the cost of their own plan and say so: it means sitting on a finished book, which they know will be hard.
+Her six stories, compressed, and none of them is the plot of your novel:
 
-They have also been honest about ARCs in a way that matches what this group keeps reporting: hundreds of ARC claims across three services, and the sales did not follow.
+Your Core Story — the one message you want remembered about you and your books, not your bio or your pitch. For series authors: what single message connects all of them?
 
-🔗 https://www.reddit.com/r/selfpublish/comments/1xma6cv/series_strategydo_you_write_al_the_way_through/
+Your Origin Story — not when you first picked up a pencil. "What happened that made this particular book feel necessary?" Her sharper version: sometimes the story is not how you became a writer, it is why you could not NOT write this one.
 
-💬 If you write series — did you bank books before launching, and would you do it that way again?
+Your Reader Impact Story — what happened when the writing reached someone. A reader who got through something because of it; someone who recognised themselves in a character. Use them, with permission.
+
+Your Against-the-Odds Story — the manuscript that spent five years in a drawer; the character who refused to cooperate until you threw out half the outline; discovering three drafts in that you had been telling the wrong story. Not a list of what went wrong, but what you did when it did.
+
+Your Values-in-Action Story — instead of telling readers that courage or community matters to you, tell them a story that shows it.
+
+Your Future Vision Story — the promise you are making. Justice eventually prevailing; ordinary people doing extraordinary things; the badly flawed getting a second chance.
+
+And the exercise, which is the part to do today. Grab a blank page and answer: which character surprised you or hijacked the plot? What real place, memory or discovery inspired your world? Which research discovery changed something important? Which scene nearly defeated you, and how did you solve it? What hidden detail would readers love to know? What has a reader said that you will never forget? Her claim is that most authors are shocked how much comes out, and that it is enough for newsletters, blog posts, interviews, social posts and at least one reader conversation. She suggests doing it monthly.
+
+Her closing distinction is the thing to keep: "Marketing helps people discover you and your books. Storytelling helps them understand why they might care about it."
+
+🔗 https://writershelpingwriters.net/2026/11/increase-visibility-for-your-book-with-these-stories-within-a-story/
+
+💬 Answer one of her six questions here — the character who hijacked your plot, or the thing a reader said that you will never forget.
 
 
-6. The scene where nothing is missing and nothing is alive
+4. The survey finding, at last: writers who use AI to HELP do better. Writers who use AI to WRITE do worse.
 
-Posted yesterday evening, 2 November, and it is the sharpest craft question of the week because the asker has already tried the standard answer and found its limits.
+Josh Bernoff published his first headline finding yesterday, 3 November, from his survey of 1,500 writers on AI and the writing profession — the survey this digest noted when he called for responses in late September, when it closed on 7 October, and when the first verbatim answers appeared on 16 October. This is the payoff.
 
-The problem, exactly stated. Without a publisher's editor, revision falls on you or your beta readers, and one thing keeps getting through: scenes where nothing is technically missing. The plot moves, characters talk, information comes out — and it reads lifeless.
+The finding, in his framing. He splits respondents into two groups: writers who use AI to help with their work, and writers who use AI to write. The first group succeeds more. The second does not. His three lines carry it: "AI is a great writing assistant." "AI is not even a good writer." "And that makes all the difference."
 
-They know the usual diagnosis, and they put it better than most craft books do: the scene has events but no conflict. "A character picking up an apple is nothing, but a starving character watching someone take the last one is a scene." That fixes some of theirs.
+The caveat, which he states himself and which this digest will not bury: the analysis is "far from complete". This is one person's survey and a preliminary cut of it. Treat it as the best-evidenced thing available on the question rather than as settled.
 
-And then the objection that makes the question worth answering: some quiet scenes work perfectly well with no obvious obstacle in them at all. So conflict cannot be the whole answer, and they are not willing to pretend it is.
+What he uses it for himself, which is the specific and useful part: data analysis, identifying problems in his writing, capturing the right voice, and choosing the right word. Note what is not on that list — producing sentences a reader will see. His verdict on AI prose is unsparing: repetitive, clichéd, soulless, shallow, inaccurate and tedious. He calls it slop. He also notes in passing that AI-generated writing is not copyrightable, without developing it.
 
-What they are asking the room, and it is the practical version: when you caught a dead scene before publishing, what caught it — a paid editor, beta readers, or your own revision process? And what actually fixed it?
+Why it matters beyond the argument. Set it beside Saturday's item here on writing an AI policy, which offered three honest positions — AI-minimal, AI-assisted, AI-integrated — and declined to say which was right. This is the first piece of evidence that the middle position is not a compromise but the one that pays. One survey does not settle it. It is a great deal more than anybody had last month.
 
-That second question is where the value is. "Add conflict" is advice. "I read it aloud and heard that nobody wanted anything" is a method. If you have a test you use for this — reading aloud, asking what each character wants on the page, cutting the first and last paragraph, checking whether anything is different at the end of the scene than at the start — that is the thing to post.
+🔗 https://bernoff.com/blog/the-ai-augmented-writer
 
-🔗 https://www.reddit.com/r/selfpublish/comments/1xmd5j3/selfpublishers_how_do_you_catch_scenes_that_have/
+💬 Where does AI earn its place in your process, if anywhere — and where have you decided it does not?
 
-💬 What is your test for a flat scene — and what did it catch the last time you used it?
+
+5. "Has anyone had this? Am I just paranoid?" — the approach, happening live
+
+Posted yesterday evening, 3 November, by a writer who can feel something is wrong and cannot name it. After last week's lead here on the Guardian's investigation into literary scams, this is what the first move looks like from the receiving end.
+
+What is happening to them. They have been posting word-count updates for a rewrite on Threads. Two people have asked to "talk about my book in private" — having been told functionally nothing about it beyond "I'm rewriting it from a portal fantasy to a second world fantasy" and that it is "a sapphic faery tale inspired by the legend of Tamlin." The conversations feel odd: "almost reminiscing of the kind of hype up BS that chat bots do." Their question: "If it is a scam what is the scam!?"
+
+The answer, from the reporting rather than from guesswork. The ask comes later, and the flattery comes first — that is the design. The Guardian's piece quoted the people who field these daily: WritersWeekly's managing editor on what is being targeted, "Not every author is a narcissist, but they all want to be recognised"; the Society of Authors receiving at least a dozen reports a week and tracing the spike to generative AI, which is why the praise now sounds personal; and the Karachi spreadsheet with 403 authors on it, each labelled by type, with columns for who found the profile and who made first contact. "Talk about my book in private" is first contact. The service — a website, social media management, an agent, a film deal — arrives once there is a relationship.
+
+So: not paranoid. Their instinct that the warmth was synthetic was the correct read, and the right response to a stranger who praises a book they know nothing about is to let the conversation stay public and see whether it survives that.
+
+The uncomfortable counterweight, and it is Monday's item here: an author who got a genuine message from a reader on Facebook Marketplace and whose first thought was also "Is this a scam??" It was a man who likes science fiction. The cost of this industry is not only the money people lose. It is that a real reader now has to get past your guard.
+
+🔗 https://www.reddit.com/r/writing/comments/1xn2yo6/is_this_a_scam/
+
+💬 Has a flattering stranger ever approached you about your work — and what did they eventually ask for?
+
+
+6. Do you actually need a website to launch a book?
+
+Posted on Monday, 2 November, and it is a fair question rather than a naive one — the asker's own framing is that people seem to care more about social profiles than about standard websites these days.
+
+The question: if the book will be sold on Amazon and other retailers, and all the book information is there, is a website still necessary?
+
+Worth answering with this week in mind rather than from first principles. A retailer page is rented space whose rules change — this digest spent Tuesday on authors unable to enrol audiobooks after a platform rename, and last week on a reporting dashboard that made sales look like they had vanished. A mailing list and a site you control are the only assets in this business that cannot be renamed out from under you.
+
+Two things from this week's items sharpen it further. Item 3 above is a plan for a year of material about your books, and that material needs somewhere permanent to live. And last Wednesday's lead was a critical flaw in the software most author websites run on — which is the honest other side: a site you own is also a site you are responsible for patching.
+
+So the real question is not "website or no website" but "what is the smallest site that is worth owning". For most people that is a page with the books, a short biography, a contact route that is not your home address, and a newsletter sign-up — and nothing else to maintain.
+
+🔗 https://www.reddit.com/r/selfpublish/comments/1xm2k6r/do_you_actually_need_a_website_for_your_book/
+
+💬 Do you have an author website — and what does it actually do for you that your retailer pages do not?
 
 
 —
-Scout notes: six items — two from news and trade press, four from the community lanes. The lead is the first FIRST-HAND report of what the Kindle+ rename did to audiobook enrolment, which this digest has been following since 23 October; the event in item 2 was flagged by the UK round-up and then checked against the organisers' own pages rather than taken on trust. AI lane: one item, and it is a practical one rather than a policy one. Swept in full; nothing new surfaced beyond it. YouTube lane: nothing fresh today. Swept in full, the RSS route failed on all six channels at four attempts each, the channel pages served as the fallback, and every video inside the seven-day gate has already run here. Screen lane: swept in full — it took three request shapes to get through — and nothing cleared the bar: career and morale posts, a script archive, and the staged-deal question this digest ran yesterday. Behind a wall: Books+Publishing Australia's "Copyright and the Constitution" piece is still subscriber-only with no readable body, and it is the one Australian item this week this digest would most like to read. Elizabeth Spann Craig's blog returned 403 for a twenty-second day. Writer Beware has published nothing since 16 October. Reddit: r/PubTips answered first time, r/writing and r/Screenwriting on the third shape, and r/selfpublish needed four — the slowest the lane has been in a fortnight.
+Scout notes: six items — two from news and trade press, four from the community lanes. Today's edition is heavily weighted to marketing, and that is because the lanes were: two authors published real spending figures within hours of each other on Monday, a free method for the same problem arrived on Tuesday, and the survey finding landed the same afternoon. Nothing was padded to make that shape. AI lane: item 4, and it is the payoff of a survey this digest has followed since the call for responses in late September — the finding is preliminary by the author's own statement and is labelled as such. YouTube lane: nothing fresh today. Swept in full, the RSS route failed on all six channels at four attempts each, the channel pages served as the fallback, and every video inside the seven-day gate has already run here. Screen lane: swept in full — it took four request shapes — and nothing cleared the bar: craft and format questions, a treatment posted for feedback, and a request for pitch examples. Behind a wall: Books+Publishing Australia announced three 2027 writers' festivals this morning — Sydney, Manly and Northern Territory — all subscriber-only with no readable body, so I could not tell you whether any carries an open call for writers, which is the only part that would matter. Elizabeth Spann Craig's blog returned 403 for a twenty-third day. Writer Beware has published nothing since 16 October, though its co-founder is quoted at second hand in item 5. Reddit was the slowest it has been all week: r/selfpublish needed three request shapes and r/writing, r/PubTips and r/Screenwriting four each. r/PubTips carried nothing but query critiques this morning, which is why it supplied no item.
 
 —
 Curated daily for this community. Spotted something worth sharing?
