@@ -1,135 +1,128 @@
-📚 Daily Writer's Scout — Wednesday, 04 November 2026
+📚 Daily Writer's Scout — Thursday, 05 November 2026
 
-1. $503 spent, 500 copies given away, 20 pages read: one author's full marketing accounts
+1. Free editorial feedback on your first 1,500 words — and the window closes today
 
-Posted on Monday, 2 November, by a new author with no audience promoting a completed duology — and because their day job is accounting, they published the whole thing channel by channel with costs attached. This is the most useful document in this digest for weeks. Their own apology, which is not needed: "Sorry for all the numbers."
+Writers Helping Writers opened their monthly Phenomenal First Pages contest at 05:06 UTC this morning, a few minutes before this digest went out. It is a 24-HOUR contest, so if you are reading this over your first coffee, you have most of a day and no more.
 
-What they ran: a five-day free promotion on Amazon, the books in Kindle Plus, and two 30-second videos — one built from a generated audio dialogue out of the book, one of themselves with the covers and a description.
+What is on offer: editorial feedback on the first 1,500 words of a middle grade, young adult or adult novel. Three winners are drawn. The editor is Marissa Graff, who has read for literary agent Sarah Davies at Greenhouse Literary Agency for over five years and works through Angelella Editorial, specialising in MG, YA and adult fiction.
 
-Meta ads, four days, manual interest-based targeting: around 4,000 impressions, 240 clicks through to Amazon, about $0.23 a click. Cost roughly $55. That is the one channel that did what it said it would.
+How to enter, and the details that actually disqualify people. Leave your contact information on their entry form — that is the whole entry, you do not send pages yet. Have your pages ready in case you are drawn, because if they do not hear back from you within 48 hours they pick a new winner and your critique is forfeited. Check the email address on the form is right. Format: one-inch margins, double spaced, 12pt Times New Roman. No picture books and no novels in verse.
 
-Amazon Ads, manually targeted, 39 keyword phrases: 16 impressions. Zero clicks. Read that again. On the retailer's own advertising platform, 39 keywords produced sixteen impressions — which is not a bad campaign, it is a campaign that never ran.
+Why this is the lead rather than a footnote, in a week where this digest has run two sets of real marketing accounts with four-figure spends and nothing much to show. A professional read of your opening 1,500 words, free, drawn by lot, with entry taking under a minute. Their own note is that some entrants have gone on to work with the editor, and a few have said the polished pages helped them get representation. Even if you are not drawn, having your first 1,500 words formatted and ready to send at an hour's notice is a useful state to be in.
 
-TikTok, the same two videos. The audio-dialogue video on broad targeting: 36,000 impressions, 3,600 likes, 114 saves, $50 for five days. The video of themselves on interest targeting: 5,230 impressions, 1,476 likes, 133 saves, $80. And the line that should be pinned to the wall of everyone building a TikTok strategy: "Despite all that engagement, I gained very few new followers."
+They run it monthly, so if today is impossible, subscribing to their blog is how you hear about the next one.
 
-Instagram, both videos, interest targeting: 3,582 impressions, 70 likes, 3 shares for $40; and 1,400 impressions, 89 likes, 1 share for $40. About 100 new followers — so Instagram bought followers where TikTok bought applause.
+🔗 https://writershelpingwriters.net/2026/11/win-feedback-on-your-first-1500-words/
 
-Goodreads, two giveaways at $119 each: around 1,400 entrants and about 800 unique users shelving the book on the first; the second runs to 1 December. Two hundred copies given away in total.
+💬 Are your first 1,500 words ready to send right now — and if not, what is stopping you?
 
-Reddit, one post in a free-ebooks community: about 400 views, 5 upvotes.
 
-The bottom line in their own arithmetic. About 300 free downloads on Amazon plus the 200 Goodreads copies. Kindle Plus pages read: "barely at 20." Total spend $503. Their summary: "it's costing me around $1 per copy just to give my books away."
+2. "The creator is very quiet. The critic is a loud, drunken jerk."
 
-Three things worth taking from it, carefully. A free promotion plus paid traffic buys downloads, and downloads are not readers — 500 copies out and 20 pages read is the whole lesson in two numbers. Engagement metrics on video platforms are not intent; saves and likes cost almost nothing and mean almost nothing. And an advertising platform can simply fail to deliver your campaign, so check impressions before you conclude your keywords were wrong.
+Joanna Penn published her interview with T.D. Donnelly yesterday, 4 November, with a full transcript, so this is read rather than guessed at. It is the best explanation this digest has carried of why a writing process stalls, and it arrives three days after a debut author here described being a year into developmental edits and unable to tell whether the book was getting worse or they were just exhausted.
 
-Their closing questions are honest and open: will any reviews come out of it, what happens next, and where does anyone actually promote Kindle Plus. Nobody knows yet. That is the state of the art.
+The model, which is two voices rather than one. The creator is quiet. The critic, in Donnelly's phrase, is "a loud, drunken jerk" — and the trouble is not that the critic is wrong, it is that it is loud enough that you cannot hear the creator. His diagnosis of most stalls: "the wrong voice starts talking during the wrong part of the process." He is explicit that he is not trying to silence the critic — "I think an ideal process is where both voices get their turn to speak", and both get used on every book.
 
-🔗 https://www.reddit.com/r/selfpublish/comments/1xlps1s/my_first_book_marketing_experiment_here_are_the/
+The fix is phase separation, and it is concrete. Creator phases: brainstorming and drafting. Critic phases: outlining and editing. Keep the critic out of drafting — he calls the backspace key the enemy of drafting, and he taped a thumbtack to his.
 
-💬 Which single marketing channel has ever returned more than you put into it — and how did you know?
+Three other things worth stealing. He writes five notes the night before each session so he knows what comes next, which is a very small amount of planning doing a lot of work. He dictates while walking, then transcribes. And he borrows from improv: say yes, be specific, and "there are no mistakes, only opportunities."
 
+One detail is worth pulling out on its own, because yesterday's item here was Josh Bernoff's survey finding that writers who use AI to HELP succeed while writers who use AI to WRITE do not. Donnelly's use of AI, from the transcript: he has a tool clean up the formatting of his dictated transcript "without changing words." That is the distinction in practice rather than in principle — the machine tidies the shape and does not touch the sentences.
 
-2. $250, one sale, and a 0.2% click-through: the other half of the same problem
+🔗 https://www.thecreativepenn.com/2026/11/04/the-creator-and-the-critic-how-to-fix-your-writing-process-with-t-d-donnelly/
 
-Posted on Monday, 2 November, a few hours after the accounts above, by a different author with the opposite diagnosis problem.
+💬 Which voice shows up at the wrong time for you — and what have you done to make it wait?
 
-Their numbers: about $250 across Amazon and Facebook ads, and one sale. They have reworked the blurb more than ten times and think it is genuinely good now. The ads are targeted at comparable authors and titles. Click-through hovers around 0.2%, which they believe is acceptable. And then: "when people hit the landing page, they just…don't buy."
 
-Why this belongs next to item 1 rather than buried under it. The author above has a delivery problem — ads that worked, and a free promotion that produced downloads instead of readers. This author has a conversion problem: the traffic arrives and nothing happens. Those need opposite fixes, and the most expensive mistake in this whole area is treating one as the other and buying more clicks.
+3. Two publishing deals in a year, from someone who spent years getting none
 
-The honest list of what sits between a click and a purchase, since that is what the thread is for: the cover at thumbnail size, the first line of the blurb before the "read more" fold, the price against the category, the sample, the review count, and the series position. Any one of them can hold the whole thing shut, and the only way to find out which is to change one at a time.
+Posted in the small hours this morning, 5 November, by a writer who went from rejections and ignored submissions to two deals in twelve months, and who has written down what changed. It is specific, it is free, and the last line of it matters after the fortnight this digest has had.
 
-If you have moved a book from traffic-without-sales to sales, the useful answer is which single thing you changed and what the number did afterwards.
+What they used to do: "bombard all of them with anything I had: kids books, short stories, a nonfiction cancer book, comic books, tons of half-finished projects, pitches, and wondered why I never got anything back."
 
-🔗 https://www.reddit.com/r/selfpublish/comments/1xlwphp/traffic_but_no_sales/
+What changed, in their words: "find the people who want your work." They found an independent publisher that does only horror, which at the time was asking for gothic literature, dark fantasy, ghost stories, witchcraft, female leads and animal familiars — and their first book had all of it. Their second, a classic gothic horror about a nanny, a creepy child who makes hand-made dolls and a dollhouse nobody may touch, fitted the same publisher just as precisely.
 
-💬 What was the one change that finally made your page convert — and did you expect it to be that one?
+Their practical rules, compressed. Finish the book: "Pitches or unfinished works seem to specifically be for people who have already made it." Make it stand alone, because most publishers will not take a series on a first book — so write it as a standalone with a series OPTION. Watch the length; they put the common cut-off at about 90,000 words for a first book, and note you can pitch the longer version once you are in. Then follow every small press and agent who does exactly your kind of book, and be ready to go the moment they open to submissions, because "so much of it is about timing and being in the right place at the right time."
 
+And the warning, which belongs in bold after the week we have just had: "be extremely weary of anyone that charges you for anything. A legitimate publisher pays for everything for you." They did not pay for editors or beta readers before querying, and note that publishers have their own editors. If you want to pay for those things you can — but nobody offering you a deal should be asking you for money.
 
-3. The free answer to both of the above: the six stories you already have and have never used
+Their second book is being released first, in May. Which is its own small lesson about how little control over sequence an author has.
 
-Jenny Hansen at Writers Helping Writers, yesterday morning, 3 November. It is the piece this digest would hand to Sunday's author who had $27 in the bank and asked where to start, and it costs nothing but a blank page.
+🔗 https://www.reddit.com/r/writing/comments/1xo4thg/got_my_second_trad_publishing_deal_in_a_year_and/
 
-Her diagnosis, borrowed from her work with business owners, and it lands: they are good at what they do but cannot explain why it matters, because "their expertise has become so familiar to them that they no longer recognize what makes it valuable." She calls it Invisible Value, and says authors have it too. We know everything about our books, and then we reduce all of it to "a genre, a short description, and a purchase link…and we stop talking about the good stuff."
+💬 Have you ever found a publisher or agent who wanted exactly your kind of book — and how did you find them?
 
-The line that reframes the whole problem: "When you use facts and figures to do the job that story is supposed to do, no one will know why your work is special."
 
-Her six stories, compressed, and none of them is the plot of your novel:
+4. Fifteen books written, broken even, and eight finished manuscripts sitting in a drawer
 
-Your Core Story — the one message you want remembered about you and your books, not your bio or your pitch. For series authors: what single message connects all of them?
+Posted yesterday afternoon, 4 November, and it is the most interesting strategic question of the week because of how much work is already done.
 
-Your Origin Story — not when you first picked up a pencil. "What happened that made this particular book feel necessary?" Her sharper version: sometimes the story is not how you became a writer, it is why you could not NOT write this one.
+Their position, stated plainly. Never planned to be a writer; the stories would not stop. First science fiction novel self-published in 2023, sequel in 2025. Fifteen books written to date across novels and novellas. Sales are okay; they have broken even on all their publishing investments and are not yet in profit.
 
-Your Reader Impact Story — what happened when the writing reached someone. A reader who got through something because of it; someone who recognised themselves in a character. Use them, with permission.
+What is out and scheduled: a science fiction trilogy with books one and two published and book three set for March 2027; a progressive fantasy saga with a novella and a novel out and two more novels due before the end of this year; and one contemporary romance, written originally for their wife.
 
-Your Against-the-Odds Story — the manuscript that spent five years in a drawer; the character who refused to cooperate until you threw out half the outline; discovering three drafts in that you had been telling the wrong story. Not a list of what went wrong, but what you did when it did.
+What is in the drawer, finished and heavily edited, needing only front and back matter: six romance novellas, a romance companion anthology, and an epic fantasy novel.
 
-Your Values-in-Action Story — instead of telling readers that courage or community matters to you, tell them a story that shows it.
+The question: dump the backlog into the market now to capitalise on having it, or space the releases out strategically? And across three different genres, how should the releases be sequenced to build visibility and finally reach profit?
 
-Your Future Vision Story — the promise you are making. Justice eventually prevailing; ordinary people doing extraordinary things; the badly flawed getting a second chance.
+Why it is worth the group's attention rather than a one-line answer. Rapid release is conventionally advised for a series in one genre with one audience, where each book feeds the next. This is three audiences. Six romance novellas plus an anthology is a rapid-release run in its own right, aimed at readers who have never heard of the science fiction. Tuesday's item here was a different author facing the mirror-image version of this — a series not yet written, wondering whether to bank books before launching. This one has banked them already and now has to decide where to point them.
 
-And the exercise, which is the part to do today. Grab a blank page and answer: which character surprised you or hijacked the plot? What real place, memory or discovery inspired your world? Which research discovery changed something important? Which scene nearly defeated you, and how did you solve it? What hidden detail would readers love to know? What has a reader said that you will never forget? Her claim is that most authors are shocked how much comes out, and that it is enough for newsletters, blog posts, interviews, social posts and at least one reader conversation. She suggests doing it monthly.
+If you have released a backlog, the useful answer is in what order, over how long, and what the second genre did to the first.
 
-Her closing distinction is the thing to keep: "Marketing helps people discover you and your books. Storytelling helps them understand why they might care about it."
+🔗 https://www.reddit.com/r/selfpublish/comments/1xnouz4/i_have_a_book_backlog_as_a_breakeven_indie_author/
 
-🔗 https://writershelpingwriters.net/2026/11/increase-visibility-for-your-book-with-these-stories-within-a-story/
+💬 Would you release six novellas in one run or spread them over a year — and what makes you say that?
 
-💬 Answer one of her six questions here — the character who hijacked your plot, or the thing a reader said that you will never forget.
 
+5. A 2024 debut novel is becoming a TV series, with the author as an executive producer
 
-4. The survey finding, at last: writers who use AI to HELP do better. Writers who use AI to WRITE do worse.
+Published this afternoon Australian time, 5 November, by David Smith at ArtsHub, and first reported by Deadline.
 
-Josh Bernoff published his first headline finding yesterday, 3 November, from his survey of 1,500 writers on AI and the writing profession — the survey this digest noted when he called for responses in late September, when it closed on 7 October, and when the first verbatim answers appeared on 16 October. This is the payoff.
+What is happening. Bri Lee's 2024 debut novel The Work, published by Allen & Unwin, is being developed as a television series. Dollhouse Pictures, a Sydney production collective led by Rose Byrne, Krew Boylan, Shannon Murphy and Jessica Carrera, is producing. Hannah Lehmann is creator and showrunner — she previously created Two Sides for Snapchat's Snap Originals and is writing Mirrorball for Easy Tiger. Screen Australia is supporting development.
 
-The finding, in his framing. He splits respondents into two groups: writers who use AI to help with their work, and writers who use AI to write. The first group succeeds more. The second does not. His three lines carry it: "AI is a great writing assistant." "AI is not even a good writer." "And that makes all the difference."
+The two details to notice, because they are the ones that transfer. Bri Lee is an executive producer on the adaptation of her own novel, alongside Carrera. And the project is in DEVELOPMENT with public development funding — no broadcaster, no streamer and no commission is reported, and no figures are public.
 
-The caveat, which he states himself and which this digest will not bury: the analysis is "far from complete". This is one person's survey and a preliminary cut of it. Treat it as the best-evidenced thing available on the question rather than as settled.
+That second point is the honest frame, and it connects to Sunday's screen item here about staged deals where the later steps are options the studio holds. Development is the first step. Most projects in development do not get made. What this author has is a credit, a seat in the room and a producer attached — which is a great deal more than a hopeful email, and is not yet a show.
 
-What he uses it for himself, which is the specific and useful part: data analysis, identifying problems in his writing, capturing the right voice, and choosing the right word. Note what is not on that list — producing sentences a reader will see. His verdict on AI prose is unsparing: repetitive, clichéd, soulless, shallow, inaccurate and tedious. He calls it slop. He also notes in passing that AI-generated writing is not copyrightable, without developing it.
+Lee on the plan: the team is making it "properly gutsy, hella sexy, and seriously funny." Carrera on the book: its "seductive world, where everything has a value and the rules are constantly shifting."
 
-Why it matters beyond the argument. Set it beside Saturday's item here on writing an AI policy, which offered three honest positions — AI-minimal, AI-assisted, AI-integrated — and declined to say which was right. This is the first piece of evidence that the middle position is not a compromise but the one that pays. One survey does not settle it. It is a great deal more than anybody had last month.
+🔗 https://www.artshub.com.au/news/news/bri-lee-novel-the-work-heads-to-tv-via-rose-byrnes-dollhouse-pictures-2879058/
 
-🔗 https://bernoff.com/blog/the-ai-augmented-writer
+💬 If a producer optioned your book, would you want a credit on the adaptation — or would you rather be paid and left alone?
 
-💬 Where does AI earn its place in your process, if anywhere — and where have you decided it does not?
 
+6. "I want to write ALL THE BOOKS" — a residency, a 93-year-old mother, and an honest trade
 
-5. "Has anyone had this? Am I just paranoid?" — the approach, happening live
+Posted yesterday afternoon, 4 November, and it is the most human thing in today's digest. It is also a route to writing time that this digest almost never covers, so the practical part comes first.
 
-Posted yesterday evening, 3 November, by a writer who can feel something is wrong and cannot name it. After last week's lead here on the Guardian's investigation into literary scams, this is what the first move looks like from the receiving end.
+The route. Writers' residencies give you somewhere to stay and, often, meals provided, for a stretch of weeks. This writer applied to the Point Reyes residency last year and was not selected; they are considering Yaddo next, and say themselves "I know, lottery odds." They already have a quiet place to write for two months a year — their own home, in summer. What draws them to a residency is not the desk. It is that people say having meals simply provided makes an enormous difference to productivity, and that the community of other writers and artists could be inspiring in a way they are not currently getting.
 
-What is happening to them. They have been posting word-count updates for a rewrite on Threads. Two people have asked to "talk about my book in private" — having been told functionally nothing about it beyond "I'm rewriting it from a portal fantasy to a second world fantasy" and that it is "a sapphic faery tale inspired by the legend of Tamlin." The conversations feel odd: "almost reminiscing of the kind of hype up BS that chat bots do." Their question: "If it is a scam what is the scam!?"
+The dilemma, which is why this is a post and not a listing. Their 93-year-old mother lives in assisted living nearby. She does not depend on them practically, but she does depend on them for morale — getting off the campus, feeling connected — and there are no other relatives locally. A daily phone call would only go so far. Part of them thinks they should not try for a residency while she is alive, which could be years, as she is "freakishly healthy!" Part of them notes they are in their late fifties, published their first book last year at a small press, and are acutely aware that their own writing career is compressed by time: "I have so many more ideas I'm eager to dive into and the limited number of years is a bummer." They float a compromise — limit the total time away.
 
-The answer, from the reporting rather than from guesswork. The ask comes later, and the flattery comes first — that is the design. The Guardian's piece quoted the people who field these daily: WritersWeekly's managing editor on what is being targeted, "Not every author is a narcissist, but they all want to be recognised"; the Society of Authors receiving at least a dozen reports a week and tracing the spike to generative AI, which is why the praise now sounds personal; and the Karachi spreadsheet with 403 authors on it, each labelled by type, with columns for who found the profile and who made first contact. "Talk about my book in private" is first contact. The service — a website, social media management, an agent, a film deal — arrives once there is a relationship.
+Their latest book is on submission, and they mention, with good humour, that applying to things is one way of managing the obsession with waiting: shift to something uncertain but exciting that you can actually act on, "after which my control is over!"
 
-So: not paranoid. Their instinct that the warmth was synthetic was the correct read, and the right response to a stranger who praises a book they know nothing about is to let the conversation stay public and see whether it survives that.
+If you have been on a residency, what they are asking is whether the thing people claim about it is true — whether provided meals and other writers around you genuinely change the work, enough to be worth what it costs at home.
 
-The uncomfortable counterweight, and it is Monday's item here: an author who got a genuine message from a reader on Facebook Marketplace and whose first thought was also "Is this a scam??" It was a man who likes science fiction. The cost of this industry is not only the money people lose. It is that a real reader now has to get past your guard.
+🔗 https://www.reddit.com/r/PubTips/comments/1xnp1pd/discussion_experiences_with_writer_residencies/
 
-🔗 https://www.reddit.com/r/writing/comments/1xn2yo6/is_this_a_scam/
+💬 Have you ever had a stretch of uninterrupted writing time away from home — and did the work actually change?
 
-💬 Has a flattering stranger ever approached you about your work — and what did they eventually ask for?
 
+7. 🎬 New from ALLi, fifteen hours ago: writing to market without losing your voice
 
-6. Do you actually need a website to launch a book?
+"How to Write to Market Without Losing Your Creative Voice", from the Alliance of Independent Authors, posted yesterday afternoon.
 
-Posted on Monday, 2 November, and it is a fair question rather than a naive one — the asker's own framing is that people seem to care more about social profiles than about standard websites these days.
+Pointer only — nobody here has watched it, and the title is confirmed from YouTube's own data. The age comes off the channel page rather than a feed, so "about fifteen hours before this digest" is a range, not a timestamp.
 
-The question: if the book will be sold on Amazon and other retailers, and all the book information is there, is a website still necessary?
+Worth flagging because it sits exactly between two of today's items: item 3's advice to find the publisher who wants your kind of book, and item 4's problem of three genres and three audiences. Writing to market and keeping a voice is the argument underneath both.
 
-Worth answering with this week in mind rather than from first principles. A retailer page is rented space whose rules change — this digest spent Tuesday on authors unable to enrol audiobooks after a platform rename, and last week on a reporting dashboard that made sales look like they had vanished. A mailing list and a site you control are the only assets in this business that cannot be renamed out from under you.
+🔗 https://www.youtube.com/watch?v=uqQ1Tq8r3CM
 
-Two things from this week's items sharpen it further. Item 3 above is a plan for a year of material about your books, and that material needs somewhere permanent to live. And last Wednesday's lead was a critical flaw in the software most author websites run on — which is the honest other side: a site you own is also a site you are responsible for patching.
-
-So the real question is not "website or no website" but "what is the smallest site that is worth owning". For most people that is a page with the books, a short biography, a contact route that is not your home address, and a newsletter sign-up — and nothing else to maintain.
-
-🔗 https://www.reddit.com/r/selfpublish/comments/1xm2k6r/do_you_actually_need_a_website_for_your_book/
-
-💬 Do you have an author website — and what does it actually do for you that your retailer pages do not?
+💬 Have you ever written deliberately to market — and did it feel like a compromise or a relief?
 
 
 —
-Scout notes: six items — two from news and trade press, four from the community lanes. Today's edition is heavily weighted to marketing, and that is because the lanes were: two authors published real spending figures within hours of each other on Monday, a free method for the same problem arrived on Tuesday, and the survey finding landed the same afternoon. Nothing was padded to make that shape. AI lane: item 4, and it is the payoff of a survey this digest has followed since the call for responses in late September — the finding is preliminary by the author's own statement and is labelled as such. YouTube lane: nothing fresh today. Swept in full, the RSS route failed on all six channels at four attempts each, the channel pages served as the fallback, and every video inside the seven-day gate has already run here. Screen lane: swept in full — it took four request shapes — and nothing cleared the bar: craft and format questions, a treatment posted for feedback, and a request for pitch examples. Behind a wall: Books+Publishing Australia announced three 2027 writers' festivals this morning — Sydney, Manly and Northern Territory — all subscriber-only with no readable body, so I could not tell you whether any carries an open call for writers, which is the only part that would matter. Elizabeth Spann Craig's blog returned 403 for a twenty-third day. Writer Beware has published nothing since 16 October, though its co-founder is quoted at second hand in item 5. Reddit was the slowest it has been all week: r/selfpublish needed three request shapes and r/writing, r/PubTips and r/Screenwriting four each. r/PubTips carried nothing but query critiques this morning, which is why it supplied no item.
+Scout notes: seven items — three from news and trade press, three from the community lanes, one from the video lane. The lead is time-critical by design: that contest opened at 05:06 UTC this morning and closes 24 hours later, so for once reading the digest on the day it arrives matters. AI lane: covered inside item 2 rather than as its own piece — a working writer's use of AI to tidy a dictated transcript "without changing words", which is yesterday's survey finding in practice. A targeted search of the lane turned up nothing new and dated: everything it returned was the Anthropic settlement, the Meta suits and the opt-out filings, all of which this digest has run. YouTube lane: the feeds failed on all six channels at four attempts each and the channel pages served instead; two new videos were found, one read in full because its show notes carry a transcript (item 2) and one flagged as a pointer (item 7). A third channel's page carried an entry whose age and title I could not establish from any route, so it is not mentioned as an item. Screen lane: swept in full on the second request shape, and item 5 is the screen-relevant item today — it came from the Australian arts press, not the forum, which carried a free virtual script-reading session, a question about where screenwriters get notes now, and craft questions on animation and serials. Behind a wall: Jane Friedman has a follow-up on the Catapult closing, "It Isn't the End of Literature", drawing on two people who have run small presses through precarious stretches — it is subscriber-only and only its first line is readable, so it is named here rather than summarised. Elizabeth Spann Craig's blog returned 403 for a twenty-fourth day. Writer Beware has published nothing since 16 October. Reddit: r/selfpublish and r/PubTips answered first time, r/Screenwriting on the second shape and r/writing on the third.
 
 —
 Curated daily for this community. Spotted something worth sharing?
