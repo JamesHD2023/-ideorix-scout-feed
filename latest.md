@@ -1,143 +1,139 @@
-📚 Daily Writer's Scout — Friday, 06 November 2026
+📚 Daily Writer's Scout — Saturday, 07 November 2026
 
-1. KDP has answered on the missing page reads — and it changed your historical figures too
+1. You have until 20 November to check what the Anthropic settlement thinks you are owed
 
-This digest refused to repeat a claim on 30 October. A video title said KDP's reports had crashed; nothing could be found confirming it, Amazon's own documentation explains several ordinary reasons a dashboard looks wrong, and the advice given here was to wait a day before concluding your sales had vanished. On Sunday the video was retitled to ask where the page reads had gone. Yesterday, 5 November, the answer arrived.
+Victoria Strauss published this at Writer Beware yesterday evening, 6 November — her first post in three weeks, and the most useful thing written about this settlement by anyone. This digest has covered it twice: the dispute window extending from 30 to 60 days on 30 September, and the correction on 26 October to the first payment figure. Here is what has actually been learned, and the date to put in your diary.
 
-What KDP has said, via a FAQ it published on 31 October called KDP Reporting Updates, and via a reply to Dale L. Roberts, who asked and published the response. Two things in it matter.
+The deadline. The claims portal updates on 13 NOVEMBER, showing submissions received through 2 November. You then have until 20 NOVEMBER to review the list of works scheduled for the first distribution. If the allocation shown against your work is wrong, that is the window in which to say so.
 
-First, the cause. Audiobook listening through Audible Plus USED to count towards your overall KENP pages-read total. That activity has been taken out of KENP reporting and is now reported separately under Audible royalties. KDP says the change mainly affects authors in the Virtual Voice audiobook beta.
+On the money, stated carefully because two figures are circulating and they are not in conflict. Strauss gives the estimated payout as about $3,100 per work, across nearly 500,000 eligible works from a $1.5 billion fund. The $2,203.56 this digest ran on 26 October was class counsel's figure for the FIRST distribution, out of the money currently in the fund — because Anthropic pays in four instalments and the last two, $450 million each, fall due within 12 and 24 months of preliminary approval. The default split between publishers and authors on non-educational works is 50/50. Preliminary approval was 25 September 2025; final approval 21 July 2026. Strauss's view on whether the money arrives: "But we will get our money."
 
-Second, and this is the part to sit up for: the removal applies to HISTORICAL DATA as well. Your past page-read figures have been restated. If you keep a record of monthly page reads, the numbers in your dashboard for earlier months may no longer match what you wrote down — and nothing in the dashboard tells you that.
+What went wrong in the claims process, which is why checking matters. Publishers claiming 100% on books that are 50/50. Claims on books whose rights had reverted, and on self-published books. Claims by agents, who were never eligible. And corrections that do not always stick, because each one needs manual review — something nobody disclosed up front. Her line on that: "Okay, but why wasn't that disclosed upfront, so claimants wouldn't be repeatedly visiting their portals".
 
-The timing explains the panic. The reporting changes began around 21 October, the day before Kindle+ was announced. So authors watching their page reads move for no stated reason were looking at a reporting change, not a sales collapse — exactly as the caution here suggested, though for a reason nobody could have guessed.
+Two lessons that outlive this settlement, and both are jobs for this month rather than opinions.
 
-The honest caveat, which Roberts raises himself: a couple of authors say their KENP numbers changed despite having no Virtual Voice audiobooks at all. So KDP's explanation may not cover every case. If yours is one of them, his advice on how to ask is good — be specific about what is missing, when the discrepancy started, and what your earlier reports showed, so there is something concrete to investigate.
+Copyright registration decides eligibility. Only timely registered works were eligible, which excluded a great many self-published, small-press and non-US books — and some publishers failed to register books they were contractually required to register. Her instruction: "Don't take it on faith, though. If your contract requires your publisher to register your copyright, make sure they do". Check the Copyright Office database yourself. And note the timing, because this digest ran it on 24 October: US copyright registration fees rise on 12 November. If you are going to register, the cheaper week is this one.
 
-And the practical lesson, which this digest gave on Monday for a different reason and which has just been proved: keep your own running total of monthly page reads outside the dashboard. It is the only copy that cannot be restated.
+ISBNs decide eligibility too. A book with only an ASIN — Amazon's own product code — may be excluded from settlements that require an ISBN. A similar suit against Meta excluded ASINs. If your ebooks have no ISBN, that is a decision with consequences you cannot see yet.
 
-🔗 https://selfpub.substack.com/p/kdp-responds-to-missing-page-reads
-🔗 https://www.youtube.com/watch?v=mM5GZMRCvQ4
+And a warning that fits this fortnight exactly. Phoenix Trade Finance has been offering to buy claims for "up to" $1,500 per book. Set that against an estimated $3,100. Strauss's advice is to be wary of claim buyers offering less than your share for immediate cash, and of anyone asking for personal details or phone numbers. There are 164 AI copyright lawsuits being tracked, so this will not be the last settlement anyone offers to buy out of you cheaply.
 
-💬 Did your page reads change around 21 October — and do you have a record from before it to compare?
+🔗 https://writerbeware.blog/2026/11/06/anthropic-copyright-settlement-some-things-weve-learned/
 
+💬 Have you checked your allocation in the portal — and did it match what you expected?
 
-2. Three months, no money spent at all: 22 sales, 67 free, 16,957 pages read
 
-Posted last night, 5 November, and it is the single most useful counterweight to Wednesday's lead here, where an author published full accounts of a $503 campaign that produced about 500 copies given away and "barely 20" pages read.
+2. Some authors have not been paid by Barnes & Noble Press since March
 
-This author's constraint was absolute and they say why: not currently in paid employment because of family carer obligations, so "my parameter was that I could spend time on it, but no actual money." No paid advertising, no marketing spend, no ARC readers, nobody engaged to generate reviews, no established mailing list, no audience. Social accounts created from scratch with very few genuine followers — and most of the attention those get is "dubious accounts offering paid reviews or promotional services which I ignore." Writing under pen names, deliberately separate from their personal and professional life, so no friends, family or colleagues to buy the books.
+ALLi published this yesterday afternoon, 6 November, and is collecting cases. If you distribute through Barnes & Noble Press, read it today.
 
-Their only promotion: occasional targeted self-recommendations in relevant, self-promotion-friendly subreddits.
+What happened, as far as anyone can establish. Early in 2026 B&N moved its banking from Chase to Wells Fargo. Two changes followed: from 2 March international authors are paid only in US dollars, and a Bank Beneficiary Address became mandatory before royalties could be issued. ALLi says the change also broke payments to certain institutions — digital banks and intermediary banks among them — and that B&N has not disclosed this publicly. A B&N representative privately admitted the company "is unable to process payments to some institutions" and is waiting on guidance from its banking partners.
 
-The numbers, August to October 2026, across pen names and all Amazon marketplaces, in Australian dollars with their own indicative conversions:
+What authors are being told instead. B&N's public help centre says no action is needed. Some agents have informally suggested authors switch to a different type of bank account. There has been no clarifying statement.
 
-August — 3 paid ebooks, 0 free downloads, 897 KENP pages, $6.69 AUD (about $4.68 USD).
-September — 10 paid, 13 free, 7,590 pages, $85.57 AUD (about $59.90).
-October — 9 paid, 54 free, 8,470 pages, $89.17 AUD (about $62.42).
-Total — 22 paid, 67 free, 16,957 pages read, $181.43 AUD (about $127 USD).
+The scale. Some authors have waited, in ALLi's words, "the better part of a year", and some have had no money since March 2026. ALLi compiled a dossier of member cases in September. Affected authors are disproportionately OUTSIDE the US and often bank with Starling or Wise. Some had return fees deducted from royalties that never arrived. Some were wrongly told their own banking details were at fault.
 
-Put those two weeks' items side by side, because the comparison is the story. One author spent $503 and got about 20 pages read. This author spent nothing and got 16,957. Neither is a model anyone should copy blindly and neither author claims otherwise — this one is explicit: "I'm definitely not claiming that what happened to me will happen to everyone." But the pairing demolishes the idea that spend is the variable that matters most.
+ALLi wrote to B&N asking for five things: written confirmation that royalties continue to accrue, a timeline, refunds of fees on failed payments, an interim payment method, and a published list of unsupported banks. No reply. They have written again. Their framing is the right one: "Royalties owed are a contractual debt under B&N's own Royalty and Payment Terms." And: "The debt is theirs, and the burden of finding a way to pay it should be too."
 
-One more comparison worth having, because this digest now has three of these from the last month and together they give new authors a range rather than a single anecdote. On 15 October: a KDP urban fantasy debut reporting A$2,524.76 in royalties over its first three months. Today: A$181.43 over three months with no money spent at all. Both are three-month figures from a debut self-publisher on the same platform, and they differ by a factor of roughly fourteen. If you are about to publish and wondering what is normal, the honest answer is that the range is that wide, and anyone quoting you a single number is quoting you theirs.
+What to do. If you are affected, email ALLi with "B&N Press payments" in the subject line, giving your bank name, the amount owed or delayed, the date of your last successful payment, whether B&N blamed your details, and — if you have been paid — whether you had to change banks first. A few lines is enough and reports are confidential. There is no form and no deadline.
 
-And their own finding, which runs against the standard advice and which they are plainly tired of hearing: all their books bar one are designed as standalones. Some share a universe and recurring characters, so they COULD be grouped into a series, and they have deliberately chosen not to — "I get the snots at constantly seeing people being told they should/must artificially engineer a 'series' to maximise sales." Despite that, they have watched readers go from one book to another and sometimes buy several at once. Readers do find another book by the same author without being funnelled.
+While you wait, three checks worth making: that your name matches EXACTLY across your B&N vendor account, your tax form and your bank account, suffixes like "Ltd." included; that the Bank Beneficiary Address field is complete, noting a PO Box will not be accepted; and that you have requested payment by an alternative method in writing.
 
-🔗 https://www.reddit.com/r/selfpublish/comments/1xowzs5/three_months_into_selfpublishing_on_kdp_whats/
+🔗 https://selfpublishingadvice.org/unpaid-by-barnes-noble-press-help-us-count-the-cost/
 
-💬 What is the most you have ever earned from a month where you spent nothing on marketing?
+💬 Have you been paid by Barnes & Noble Press since March — and if not, who have you told?
 
 
-3. A deal arrived through open submission. No agent. The call is next week.
+3. Zero budget, no audience: what would you do first, and what would you skip?
 
-Posted yesterday afternoon, 5 November, and it is the exact next problem after yesterday's item here, where an author explained that the way in was finding the publisher who wanted their particular book.
+Posted yesterday morning, 6 November, and the asker is explicit that it is hypothetical — they are trying to understand priorities, not promote a book. Which makes it a better question than most, and it lands in the one week this digest can actually answer it with numbers.
 
-Where they are. Fifty-odd queries, one full request, one rejection, manuscript shelved. Then, as a hail mary, the open submission process at a respected Toronto-based independent publisher. Three months later: "pretty much the best email of my life", offering a small deal for a paperback in winter 2029. They are thrilled, full stop. They are also un-agented and, in their own words, "not a savvy negotiator."
+Their framing. A standalone psychological thriller. No mailing list, no social following, no money for ads or a cover designer. They have noticed that the discussion here "often jumps straight to ads and ARCs", and they suspect that with no budget the real list is much shorter: cover, blurb, keywords and categories, sample pages, a few honest reviews. Which would you put first? Which would you drop? And "is there something cheap that people underestimate?"
 
-What they know to ask about: rights — foreign, TV and film. What they are tempted to ask and are nervous about: why the publication date is two years out. And the fear underneath the whole post, which anyone who has been handed an offer will recognise: that pushing will make them look ungrateful and the publisher will move on to somebody else waiting in the wings.
+What this week supplies, and it is unusually direct evidence. On Wednesday an author published full accounts of a $503 campaign across Meta, Amazon ads, TikTok, Instagram, Goodreads and Reddit, which produced about 500 copies given away and barely 20 pages read. Yesterday a different author published three months with NO money spent at all — 22 paid sales, 67 free downloads, 16,957 pages read, about A$181 in royalties — whose only promotion was occasional targeted self-recommendations in self-promotion-friendly subreddits. Both authors are explicit that their own result is not a rule.
 
-Worth answering properly, because the group has people who have sat on both sides of this call. The things that are normal to ask and do not make you difficult: which rights are being granted and which you keep; what happens to foreign and screen rights if nobody exercises them; what triggers a reversion; what the royalty rates and accounting periods are; whether there is an option on your next book and how it works. Asking why the date is 2029 is also entirely reasonable — small presses schedule years out for real production reasons, and the answer tells you how seriously your book is being planned rather than parked.
+So the honest answer to "what would you skip" is not a guess this week. Paid advertising, on the only two sets of real accounts anyone here has published, was not what distinguished the outcomes.
 
-The two structural points from this week that bear on it. The Society of Authors' CEO, quoted here on 28 October, telling first-time authors that the excitement of an offer is exactly the moment to slow down, because contracts "are the bedrock of your creative career". And yesterday's item: a legitimate publisher pays for everything. Nothing in a real offer requires money from you.
+The thing people underestimate is the question worth answering in the thread, and the candidates from this week's items are specific: a blurb whose first line survives the "read more" fold; categories and keywords, which are free and which almost nobody revisits after launch; and the free professional read on offer this month that this digest ran on Thursday. Tuesday's item here also made the mechanical point that a sprayed-edge special edition cannot come from print-on-demand at any price — so some of the things that look like money are not purchasable at all.
 
-If you have negotiated an un-agented deal, what this author needs is what you asked on that first call and what you wish you had.
+🔗 https://www.reddit.com/r/selfpublish/comments/1xp9sph/zero_budget_no_audience_what_would_you_do_first/
 
-🔗 https://www.reddit.com/r/PubTips/comments/1xokq2s/pubq_got_a_deal_on_open_submission_no_agent_and/
+💬 With no money at all, what is the ONE thing you would do first — and the one you would skip?
 
-💬 What is the one question you wish you had asked before signing your first contract?
 
+4. "Did any of you approach independent booksellers?" — the question this digest asked a week ago, now being asked in the wild
 
-4. The pre-publication checklist, written out in full by someone who has done it many times
+Posted yesterday evening, 6 November, in two sentences: if you approached independent booksellers, how did you ask them to stock your book, and what stage were you at — reviews, promotion?
 
-Posted yesterday evening, 5 November, and it is the kind of post that should be pinned somewhere. An experienced self-publisher has written out the checklist they work through before every KDP and IngramSpark upload, in order, because "I've seen the same small mistakes get books rejected or make them look amateur."
+It is in today's edition because of where it came from. On 1 November this digest ran ALLi's reading of the Sarah J. Maas launch numbers — 300 midnight parties in the UK, 1,500 across the US and Canada selling 150,000 tickets — and the line in it that was actually about indie authors: that independent booksellers now actively WANT to work with them on events and exclusive editions. The discussion question attached was whether anyone here had ever knocked on that door. A week later, someone in a much larger room is asking the same thing, which suggests the answer is that very few people have.
 
-Step one is editing and proofreading, and their list of what to check is more complete than most paid services': typos including names and places; consistency of names, spellings, numbers and dates; punctuation including closing quotes; double spaces and stray blank lines; consistent formatting of headings, quotes and lists; plot holes and timeline errors with every statistic and quotation verified; chapter titles and numbers in order; front matter with the title and author name matching the cover EXACTLY; back matter with the author note, your other books and a review request; and one last full read after the final edit.
+What makes the question hard, and worth real answers rather than encouragement. A bookshop stocking you is a commercial decision with a return risk attached — which this digest covered on 28 October, when an author was asked to switch their IngramSpark setting to returnable as a condition of being stocked, meaning they carry the cost of unsold copies coming back. So "how did you ask" is really three questions: what you had ready, what terms you offered, and whether you were asking them to stock the book or to host you.
 
-Their methods are mostly free, and three are worth lifting on their own. Use Find and Replace to collapse double spaces, and turn on the paragraph marks to see them — the ¶ button in Word, View then Show non-printing characters in Google Docs, View then Show Invisibles in Pages. Listen to the book using Read Aloud or a free text-to-speech tool, because "your ears catch what your eyes miss." And check your headings actually appear in the navigation pane or document outline, which is the cheapest test of whether your ebook will have a working table of contents.
+If you have done this, the useful answer is the mechanics: did you walk in or email, did you bring a copy, what did they ask for, and did you end up on the shelf, on consignment, or at an event instead.
 
-Their guidance on using AI for this deserves special notice, because it is this week's survey finding applied by someone who was not trying to prove a point. Give it context first and constrain it: "This is a thriller for adult readers. Fix only spelling, grammar and punctuation. Do not change my style" — one chapter at a time. For clarity, "ask it to point out long or confusing sentences without rewriting them, so the book stays in your voice." For consistency, give it your list of names and preferred spellings and ask it to list every variation it finds. And one honest limit: "AI can miss spacing problems, so do this one yourself."
+🔗 https://www.reddit.com/r/selfpublish/comments/1xpj9qb/did_any_of_you_approach_independent_booksellers/
 
-Step two is where to publish, and the practical note in it is about timing rather than platforms: open both your KDP and IngramSpark accounts BEFORE your files are ready, because tax and bank verification take time.
+💬 Have you ever got a book into a bookshop — and what did you have ready when you asked?
 
-🔗 https://www.reddit.com/r/selfpublish/comments/1xorjqg/the_checklist_i_use_before_publishing_a_book_on/
 
-💬 What is on your pre-publication checklist that is not on theirs?
+5. Four Australian deadlines, one on Monday, one on Tuesday — and a programme that opens on Wednesday
 
+Two sources this morning, and because both held their detail behind a wall or a link, every one of these was looked up at its own source.
 
-5. A provost resigned over AI in his writing — and it was not a detector that caught him
+Start with the one that is not a prize. The Writers Lab — the only programme in the world devoted entirely to script development for women and non-binary screenwriters over 40 — is bringing its first Australian and New Zealand intensive to the Gold Coast, 30 April to 4 May 2027. Twelve writers are selected through a Trans-Tasman call. You apply with a 20-page sample of a feature or television pilot script at twlstories.org, and submissions OPEN on 11 NOVEMBER and close on 11 DECEMBER. Supported by Meryl Streep and Nicole Kidman; funded by the Screenrights Cultural Fund, Minderoo Pictures, Screen Queensland, the WeirAnderson Foundation and the South Australian Film Corporation; with the Academy Nicholl Fellowship as official recommending partner, the Writers Guild of America East collaborating and Sundance as referral partner. Founded in New York in 2015 by Elizabeth Kaiden and Nitza Wilon with Kyle Ann Stokes. The article does not state a fee, so that is worth checking before you plan around it. If you are an Australian or New Zealand woman or non-binary writer over 40 with twenty pages, Wednesday is your date.
 
-Josh Bernoff's newsletter yesterday, 5 November, carried this among several items, and it is worth pulling out and dating properly, because it is the first real-world consequence story of this kind this digest has carried — and because the method matters more than the outcome.
+ArtsHub's weekly opportunities round-up went up this morning, 7 November, and names three writing prizes. Their details are behind a paywall, so I looked each one up independently — and one closes in three days.
 
-What happened, from the reporting rather than the newsletter summary. Santiago Schnell resigned as provost of Dartmouth on 28 October — nine days ago, not this week — after a faculty-led review found he had "used AI to meaningfully alter his writing in violation of at least one publication's AI use and/or disclosure requirement". The piece at the centre of it was an August opinion column in the Washington Post, which was about AI cheating by college students. Dartmouth's president said he had resigned and was leaving the university. His lawyer has questioned the fairness of the process; Schnell has acknowledged using ChatGPT and other tools while maintaining the ideas and substance were his own.
+The Aurealis Awards, for Australian speculative fiction, close on Tuesday 10 November. Works first published between 1 January and 30 November 2026 are eligible, and the ceremony is on 20 February 2027 at GenreCon in Brisbane. Entry is across a set of genre categories; I found two different counts for how many and am not going to pick one, so check the guidelines. If you have published speculative fiction in Australia this year, that is a weekend job.
 
-Now the part that matters for every author reading this. The Boston Globe reported that the Washington Post column had been identified as 100% AI-generated by Pangram, the detection tool. But the review committee said it did NOT use AI detection tools. What it reviewed was his logs from Dartmouth's own enterprise AI tool, together with his emails.
+The Calibre Essay Prize for 2027, run by Australian Book Review, is open from 2 November to 2 February. Non-fiction essays of 2,000 to 5,000 words on any subject, with a $10,000 prize pool — one listing gives $5,000, $3,000 and $2,000 for the top three. Entry is AU$30, or AU$20 at the subscriber rate.
 
-Hold that against the last eight days in this digest. On Friday, Jane Friedman argued the public detection scandals will fade because publishers will quietly score manuscripts before acquisition. On Saturday, ALLi's guide to writing an AI policy said to keep your drafts, notebooks, version histories and your AI chats, because that is your evidence if your work is ever questioned. Here is a case settled on exactly that evidence — and it cuts both ways. Logs can exonerate you. Logs can also convict you. Whatever your position on using these tools, the record of how you worked is becoming the thing that decides the argument, and it is being kept whether or not you choose to keep it.
+The Neilma Sidney Short Story Award is also named, and I could not establish its deadline or prize this morning from any source I could reach, so I am telling you it exists rather than guessing at the detail.
 
-One other item from the same newsletter, reported by Adam Morgan in The Frontlist: authors are frustrated that publishers use AI to generate marketing material while warning authors against using similar tools. No publisher is named and no figures are given. It is the same asymmetry this digest ran on 29 October from WIRED's reporting, which is now a month old and has not gone away.
+And one not writer-specific but worth a look if you are in Brisbane: the Creative Sparks Grant, up to $15,000 for new work for Brisbane audiences, open to "creative workers" and to not-for-profit community arts and cultural organisations — closing 9 NOVEMBER, so Monday. It does not name writers, so check the eligibility before you spend an evening on it.
 
-🔗 https://bernoff.com/blog/the-cost-of-slop-dartmouth-provost-undone-publisher-ai-controversy-newsletter-5-november-2026
-🔗 https://www.insidehighered.com/news/governance/executive-leadership/2026/10/28/dartmouth-provost-resigns-over-ai-use
+Why this is an item rather than a listing. Yesterday's digest carried a survey of 850 Australian craft and design practitioners in which just over half had NEVER applied for a grant, and the single biggest reason was not ineligibility — only 14% — but not knowing what was available, at 45%. This is the test of that finding. Four opportunities, two closing within three days, all of them public. And the Calibre entry fee is the other half of yesterday's number: 92% of those who entered prizes paid to do so.
 
-💬 Could you show, if you had to, how you wrote your last book — and would you want to?
+🔗 https://thehollywoodreporter.com.au/2026/11/03/the-writers-lab-program-for-screenwriters-arrives-in-australia-with-support-from-meryl-streep-and-nicole-kidman/
+🔗 https://www.artshub.com.au/news/career-advice/best-opportunities-grants-awards-for-creatives-this-week-30-2878932/
 
+💬 Which award or grant have you got your eye on — and has a deadline ever gone past you while you thought about it?
 
-6. 92% of them paid to enter prizes. 57% earn under $10,000 a year.
 
-Published this morning Australian time, 6 November, by Jane O'Sullivan at ArtsHub. The honest caveat up front: this survey is of craft and design practitioners, not writers, so none of these figures is about us. It is in here because the economics are a mirror and two of the numbers should change what an author does this month.
+6. "Purple prose" is the wrong complaint, and here is the better question
 
-The survey. Run by the Australian Design Centre — which was closing as it reported — with the Australian Craft and Design Centres network, the National Association for the Visual Arts and Craft Australia. 850 responses across 16 disciplines. Around eight in ten respondents identified as women.
+Posted last night, 6 November, and it is the sharpest craft argument of the weekend because it replaces a label with a test.
 
-The income picture. For 57%, practice income was $10,000 a year or less. For 29%, it was zero or a loss. Six in ten worked in other professions. Just over half spent more than 25 hours a week on their practice. And still 50% remained optimistic about their future in the sector.
+The claim. It is near impossible to judge a passage "purple" out of context. People use the term for any ornate writing, but you cannot determine "overly" without knowing what the moment is doing — "something as mundane as taking a bite of food or looking at a person can absolutely warrant that kind of meticulous attention in the right circumstance."
 
-The two numbers to act on. Of those who entered prizes, 92% PAID entry fees. And 68% said they were not paid exhibition fees when they took part in exhibitions. Four in ten built their professional standing through unpaid or underpaid work — "Doing unpaid artwork to get a chance at landing the paid job is so normalised," as one respondent put it. Set that beside what this digest has covered about paid-entry author prizes and festival appearances: a sector where nearly everyone pays to be considered and most are not paid to appear is a sector transferring money from practitioners to institutions, and the normality of it is the mechanism.
+The better question, and this is the part to keep: instead of "is this excessive?", ask "does this make sense?"
 
-And the number that is the opportunity rather than the indictment. Just over half had NEVER applied for a grant. The leading reason was not ineligibility — only 14% said that. It was not knowing what was available: 45%. Then not thinking they would be competitive, 35%; time, 32%; complexity, 31%. Most who did apply sought $10,000 or less.
+Then they do the work of showing it, with a sentence they wrote to be criticised: "She stole herself before seeping into the heavy brush with all the conviction of a terrified field mouse running from the roar of a merciless tractor." Their diagnosis is not that it is too descriptive. It is that the descriptions fight each other. "Seeped" — is she being dispersed through the leaves, or falling through them passively? And then a mouse fleeing a tractor, which takes a calm, quiet action and compares it to a bombastic one. So what is the reader meant to picture, and what is the tone of the place?
 
-If you have never looked at what funding exists for writers where you live, that 45% is the most actionable figure in today's digest. The money is not reaching people because they do not know it is there.
+That is a usable revision tool and it costs nothing. Take the passage somebody called purple, and instead of cutting adjectives, ask what each image is asking the reader to see, and whether the images agree with each other and with the tone of the scene. Sometimes the answer is that the sentence is overwritten. Often the answer is that it is confused, and cutting it short would have hidden the problem rather than fixed it.
 
-🔗 https://www.artshub.com.au/news/news/landmark-survey-finds-most-craft-and-design-practitioners-earn-less-than-10000-a-year-2879068/
+It pairs with Tuesday's item here, where an author asked how to catch scenes that have everything in them and still read flat — and noted that "add conflict" does not explain the quiet scenes that work. Same shape of mistake in the opposite direction: a label standing in for a diagnosis.
 
-💬 Have you ever applied for a writing grant — and if you have not, which of those five reasons is yours?
+🔗 https://www.reddit.com/r/writing/comments/1xpohun/i_think_people_use_the_term_purple_prose_way_too/
 
+💬 Has anyone ever called your writing purple — and when you looked again, was it ornate or was it confused?
 
-7. 🎬 New overnight: The Self Publishing Show on surviving Black Friday
 
-"The Self Publishing Show (Episode 472) Surviving Black Friday", posted about five hours before this digest.
+7. 🎬 Day five of writing a book in public: 10,000 words
 
-Pointer only — nobody here has watched it, and the title and channel are confirmed from YouTube's own data. The age comes off the channel page, so that is a range rather than a timestamp.
+"My Biggest Writing Day Yet — 10,000 Words & a Dream Unboxing 📚✨ ROUGH DRAFT DIARIES DAY 5", from Heart Breathings, posted about ten hours before this digest.
 
-Timely rather than merely topical. This digest ran Written Word Media's three holiday windows on 27 October: the Turkey 10 from 21 to 30 November, when advertising costs rise by anywhere from 50% to triple and the advice is to pull back on paid ads and lean on fixed-price promotion and your own list; then the gifting weeks; then the window from 26 December, which they argue is the best launch slot of the year. Black Friday is two and a half weeks away, which is about the last moment to book promotion inventory.
+Pointer only — nobody here has watched it, and the title and channel are confirmed from YouTube's own data. The age comes off the channel page rather than a feed, so that is a range, not a timestamp.
 
-A note on this one for the record: the same video appeared on the channel page yesterday with no readable age and no title data from any route, so it was left out of yesterday's edition rather than guessed at. Today both arrived.
+Worth flagging because this digest ran the start of it. On 1 November, the first day of the month, we pointed at the same channel's invitation to write a book alongside them over thirty days as part of the Rough Draft Challenge — the replacement for the NaNoWriMo that no longer exists, in which you set your own target. This is day five of that, in public, with a number attached. Whether 10,000 words in a day is inspiring or alarming depends entirely on where you are in your own month; either way, somebody is doing the thing they said they would do, on camera, which is rarer than it sounds.
 
-🔗 https://www.youtube.com/watch?v=Sws37t8-mc8
+🔗 https://www.youtube.com/watch?v=HkDyFnf8Fto
 
-💬 Are you running anything for Black Friday this year — and have you booked it yet?
+💬 How is your November going — and are you ahead of where you thought you would be or behind?
 
 
 —
-Scout notes: seven items — three from news and trade press, three from the community lanes, one from the video lane. Two loops closed today, both opened by this digest refusing to guess. The lead is the answer to the missing page reads, which this digest declined to call a crash on 30 October; KDP's own FAQ of 31 October and an author's published exchange with them give the cause, and the detail nobody had was that historical figures were restated too. And item 7 is a video that appeared on a channel page yesterday with no age and no title from any route, so it was left out rather than guessed at — today both were readable. AI lane: item 5, with the date corrected to 28 October and the method corrected from the newsletter's framing: the committee said it did not use detection tools and reviewed enterprise AI logs and emails instead. YouTube lane: the feeds answered on one of six channels; the pages served for the rest, so today's video age is a range. Screen lane: swept in full, first request shape, and nothing cleared the bar — a free local meet-up, a weekly page-share thread, and two links to interviews with established directors. Behind a wall: Books+Publishing Australia reports Chloe Anne winning the 2026 Richell Prize for Emerging Writers, which is subscriber-only, so it is named rather than summarised. Elizabeth Spann Craig's blog returned 403 for a twenty-fifth day. Writer Beware has published nothing since 16 October. Reddit: r/PubTips and r/Screenwriting answered first time, r/writing on the second shape, r/selfpublish on the third.
+Scout notes: seven items — three from news and trade press, three from the community lanes, one from the video lane — and nothing padded. Today is unusually full of DEADLINES, which is why they lead: 13 and 20 November for the settlement portal; 9 November for a Brisbane grant, 10 November for the Aurealis Awards, and 11 November for a screenwriting programme that opens rather than closes. AI lane: the lead is the settlement, which is the acceptance argument's financial end; nothing new surfaced in the lane itself beyond Indie Author Magazine's weekly round-up confirming the Meta terms pause, which this digest led on Monday. YouTube lane: fresh today, and only just — the RSS route failed on all six channels at four attempts each and the channel pages served instead, where five carried nothing new and the sixth had posted about ten hours before this run. Its age is a range, not a timestamp, and the title was confirmed against YouTube directly. Screen lane: the Writers Lab in item 5 came from the screenwriting forum, which is where that programme was flagged; the rest of the lane was personal news, a weekly thread and a film discussion. Three figures in today's edition are marked as unverified or conflicting rather than smoothed over: the Neilma Sidney Award's deadline, which I could not establish from any source; the Aurealis category count, where two sources disagree; and the Calibre prize split, which comes from one listing rather than the organiser. Behind a wall: ArtsHub's opportunity details, which is why each one was looked up separately. Elizabeth Spann Craig's blog returned 403 for a twenty-sixth day. Writer Beware published for the first time since 16 October, and it is today's lead. Reddit: r/selfpublish, r/writing and r/Screenwriting answered first time, r/PubTips on the second shape.
 
 —
 Curated daily for this community. Spotted something worth sharing?
