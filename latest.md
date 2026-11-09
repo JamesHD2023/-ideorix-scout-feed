@@ -1,121 +1,119 @@
-📚 Daily Writer's Scout — Sunday, 08 November 2026
+📚 Daily Writer's Scout — Monday, 09 November 2026
 
-1. AO3 has been offline for ten days, and copies of writers' work have appeared elsewhere
+1. A writing app closes TOMORROW — and if you ever gave it an AI key, change that key today
 
-ALLi's news summary flagged this yesterday, 7 November, and because the claim is a security breach at a site holding millions of writers' work, every part of it was checked against other reporting before being written up here. Two corrections to the version going round came out of that.
+This one has a deadline, so it leads. Raptor Write — an AI-assisted writing app that ran on your own API keys — is shutting down on 10 NOVEMBER, which is tomorrow. Its own login page says it plainly: "Both versions of Raptor Write will become unavailable after November 10, 2026. Please make sure to export and back up all of your projects before then."
 
-What happened. Archive of Our Own went offline on 29 OCTOBER. At 01:27 UTC on 30 October the Organization for Transformative Works, which runs it, said it had detected evidence of a security incident. So this is not a this-week story — the site has been dark for ten days.
+That is the first half. The second half matters to far more people than Raptor Write's own users, so read it even if you have never heard of the app.
 
-How long it will be down. The estimate is two to four weeks, revised by OTW itself, not simply four. As of early November there was no confirmed return date, and the organisation has said it is prioritising a restoration that is right and safe over a quick one.
+The same notice carries a SECURITY warning: "Due to a recent security incident at our hosting provider (Railway), please revoke and replace any OpenRouter or AI provider API keys you have used with Raptor Write with a new, never-before-used key out of an abundance of caution." Railway disclosed that incident on 21 October after detecting unusual activity on the systems that hold customers' environment variables — the place a hosted app keeps its secrets — and its own follow-up says the attacker was hunting AI provider API keys.
 
-What has NOT happened, and this is the reassuring part, stated as OTW stated it: no AO3 data has been deleted. Rebecca Tushnet: "There is no data loss and we look forward to restoring the site as soon as possible." As of 6 November the scope of the incident was still being determined — there was no public attribution, no identified attacker, and no confirmed breach of the user database. Nobody has said your account details were taken. Nobody has said they were not, either.
+I opened the app's settings panel myself this morning to see the scale of it. It takes keys for NINE providers: OpenRouter, OpenAI, Anthropic, Google, MistralAI, DeepSeek, Perplexity, XAI and Cohere. So "any AI provider key" is not a formality. If you used this app with a paid key, that key should be rotated today, not when you get round to it.
 
-Now the part that is actually about your work, and the reason this leads today. CLONE SITES HAVE APPEARED. One went up on 1 November carrying thousands of stories that had previously been on AO3. OTW has also warned about scammers taking advantage of the outage. This digest is not naming the clone, for the same reason it did not name the one-star-review site on 31 October: a site republishing writers' work without their say-so does not need traffic from here.
+The transferable lesson is the one to take away even if none of this touches you. An API key you paste into somebody else's writing tool is a key that now lives on somebody else's server, and deleting the app or closing the tab does not revoke it — only going back to the provider and cancelling it does. Every author who has tried a key-based AI writing tool this year has keys sitting in places they have forgotten. The ones that cost money are worth an hour of your Monday.
 
-What to do if you have work on AO3, in order. Do not enter your AO3 username and password anywhere that claims to be a mirror, a backup or a restoration tool — that is the shape the scams in this gap will take. If you reused that password anywhere else, change it there now rather than waiting to learn whether the user database was touched. Search for your own titles and your pen name and see whether your work has been copied somewhere you did not put it. And if you have no local copy of work that exists only on AO3, that is the lesson of the whole episode: a platform you do not control is not a backup.
+🔗 https://www.raptorwrite.com/redirect.html
 
-Set this beside 26 October here, when an author found their novel being given away on Spotify and a document-hosting site, credited as read by them. Different mechanism, same exposure. The work lives where you keep it.
-
-🔗 https://selfpublishingadvice.org/reedsy-relaunches-discovery/
-🔗 https://fanlore.org/wiki/2026_AO3_Major_Outage
-
-💬 Do you have a local copy of everything you have published online — including the things you posted years ago?
+💬 How many AI provider keys do you reckon you have live right now — and could you name every tool that holds one?
 
 
-2. Reedsy has relaunched a $299 rival to Kirkus. The same weekend, an author who paid Kirkus asks whether the star was worth it.
+2. 🤖 Vellum shipped an AI feature on Wednesday and had pulled it by Thursday
 
-Two things landed within a day of each other and they answer each other, so they are one item.
+The biggest AI story in the author world this week is not a model release. It is a formatting app reading the room.
 
-First, the news, and the caveat comes first because it has to. ALLi reported yesterday, 7 November, that Reedsy has relaunched Discovery as a paid editorial review service aimed squarely at Kirkus — $299, charged only when a reviewer picks up your text, producing a 350-word review within 30 days of pickup, which you can then use on any platform. Reedsy's argument is that indie authors should have access to the same critical voices traditionally published authors get.
+Vellum — the Mac book-formatting tool a very large number of indies use, and the source of all those "formatted with Vellum" lines — released version 4.2 on 4 NOVEMBER with a new feature called Vellum Automation. It let an author optionally connect an outside AI assistant to Vellum to do publishing donkey-work: updating back matter across a backlist, assembling box sets, generating EPUBs. It needed a Vellum Press licence and macOS 14 or newer, it was off unless you turned it on, and Vellum said no AI had been built into the app.
 
-Why the caveat. Those figures rest on ONE source. I could not reach Reedsy's own pricing page this morning, and no independent test of the new model exists yet. ALLi also disclose, to their credit, that Reedsy is an ALLi Partner Member and tell readers to do their own due diligence. So treat $299 and 350 words as reported rather than confirmed, and check Reedsy's own page before you spend anything.
+On 5 NOVEMBER Vellum released 4.2.1 and removed it completely.
 
-And the history, because it matters. Discovery existed before at $50, and the criticism of that version was substantial — including authors reporting that they paid and received no review at all. Reedsy's own announcement says social features and reader reviews were removed as part of a staged revamp. So this is a relaunch of a service with a record, not a new arrival, and the price has gone up roughly six-fold.
+What the objections actually were, because they are more interesting than "authors do not like AI". One was about the specific assistant the demo used and the copyright litigation attached to its maker. One was about the Vellum credit line — the worry that a tool with a trusted name lending its machinery to AI workflows quietly lends its reputation too. One was the slippery slope from opt-in today to default later. And one was simple opposition to AI anywhere near creative work. Worth noting in the same breath: a prompt widely quoted in the backlash, about generating a whole book, does not appear in Vellum's own demo.
 
-Now the other half. In r/PubTips on Friday, 6 November, an author laid out exactly what buying a review actually buys. Their literary novel was published by a small press. Kirkus declined it on the publisher's submission — "not surprising", they say. They believed in the book and paid the fee themselves to get it onto Kirkus's desk, which placed it in the Indie Reviews stream. The reviewer gave it a STARRED review, and the praise was substantial rather than the synopsis-with-adjectives that service is often accused of. Kirkus then emailed to say they are running it in the 15 December issue, in a Best Indie Books theme, under something like Featured Starred Review. Reportedly around 3% of Indie reviews get a star, on Kirkus's own figure.
+Vellum's own account of the reversal is the honest part. It said the feature was "definitely not to encourage AI-generated writing", and then, on the 5th, that it had underestimated how strongly many customers would object to Vellum working with AI assistants AT ALL.
 
-Their question is the only one that matters, and they ask it without self-pity: "Will anyone care? Does this rate with agents at all, i.e., might they be interested in repping my next novel? In short, does any good come of this?"
+That last sentence is the actual news. The company got the technology right by its own lights — opt-in, non-generative, aimed at admin rather than prose — and still misread its customers by a mile. Whatever you think about AI in publishing, that is the market speaking, and it is worth more than any survey.
 
-That is the question to put against a $299 price tag. Nobody in this group should answer it from theory. If a paid review — Kirkus, Discovery, or any of them — has ever moved anything for you, that is the post the whole room needs.
+🔗 https://whitneyafoster.substack.com/p/vellum-folded-in-24-hours-what-it
 
-🔗 https://www.reddit.com/r/PubTips/comments/1xpidvv/pubq_kirkus_starred_review_will_appear_in/
-🔗 https://selfpublishingadvice.org/reedsy-relaunches-discovery/
-
-💬 Have you ever paid for a review — and did anything measurable come of it?
+💬 Where exactly is your line — AI for formatting and admin, AI for editing, AI for prose, or none of it?
 
 
-3. How Kindle+ actually pays for audiobooks: a separate pool, and per page listened
+3. 334 pitches, 17 publishers, 38% asked to see more — and the seven things they said afterwards
 
-From ALLi's news podcast of Friday, 6 November, in which ALLi news editor Dan Holloway explains what the switch means for authors — and it is the mechanical detail that has been missing from this story for two and a half weeks. Taken from ALLi's own written summary of the episode, which is where these three points are set out; the episode itself is a pointer, not something listened to here.
+The Australian Society of Authors published the results of its October speed-pitching event THIS MORNING, 9 November, and it is the most useful thing in today's sweep for anyone who pitches to publishers or agents anywhere.
 
-Kindle Unlimited became Kindle Plus and audiobooks were folded in; this digest ran that on 23 October. What was never explained was how the money works. Three things, as ALLi set them out: audiobooks get a SEPARATE royalty pool from ebooks; payment is per PAGE LISTENED; and the episode covers WHICH ACX and Virtual Voice titles qualify — note the wording, which is which of them, not all of them. If you have a human-narrated or a machine-narrated title you are counting on, the qualifying conditions are the part to check rather than assume.
+The numbers first, because they are rarely published at all. Seventeen publishers and literary agents took part over two days. Authors delivered 334 pitches. The request rate was 38 PER CENT — that is, nearly four in ten pitches ended with somebody asking to see the manuscript. If your mental model of pitching is that almost nobody says yes, that number is worth sitting with. Memoir was in demand (nine representatives asked for it), narrative non-fiction was the most popular non-fiction sub-genre, and interest rose in speculative fiction, thrillers and romance.
 
-Why that matters, and why it belongs next to Friday's lead here rather than on its own. On Friday this digest reported KDP's answer on the missing page reads: Audible Plus listening used to count towards your overall KENP total, that activity has been taken OUT of KENP reporting, and the removal was applied to historical figures as well. Put the two together and the picture is coherent for the first time. Listening is no longer counted in the same pool as reading. It has its own pool, its own metric and its own line in your reports — which is precisely why your KENP number moved and why your past months were restated.
+Then the takeaways, which are the publishers' own notes on what went wrong in the room:
 
-The practical consequences, if the mechanics are as described. Your audiobook earnings and your ebook earnings are now competing for different money, so a strong audio month no longer flatters your page reads and a weak one no longer drags them down. Per page listened means length behaves the way it does in ebooks — long books accrue more per completed listen. And Virtual Voice titles being in scope at all means machine-narrated audio can sit in the same pool as audio you paid a human to narrate, which is a competitive fact rather than an opinion, and worth knowing before you commission.
+Know your genre and classify the book accurately — they spot uncertainty instantly. Bring comparison titles; having none prompts a request for them and suggests you have not read widely in your own genre (and for an Australian pitch, include at least one Australian comp). Slow down — a rushed pitch is simply harder to follow. Know your word count against your genre's normal range: roughly 75,000 to 90,000 for adult fiction, often 100,000-plus for science fiction and fantasy, and be careful pitching far outside it. Let the tone of the pitch match the tone of the book, dark parts and light. Say what drew YOU to this story — they are buying an author, not only a manuscript. And if you have already submitted to publishers directly, that counts against you with an agent, whose main job is to take the book to those publishers.
 
-🔗 https://selfpublishingadvice.org/podcast-amazon-rebrands-kindle-unlimited/
+One more line from the ASA deserves repeating to anyone who got a no: a rejection in that room is often capacity or an overlapping title on their list, not a verdict on your pitch.
 
-💬 Have you seen audiobook earnings appear as a separate line yet — and does it look better or worse than when it was mixed in?
+🔗 https://www.asauthors.org.au/news/october-2026-vlsd-results-takeaways/
 
-
-4. "Why wasn't I introducing my HERO in the reader magnet??"
-
-Posted yesterday in the small hours, 7 November, and it is the most useful self-criticism this digest has carried. An author launching book two of a series in January worked out what was wrong with their reader magnet, and published the mistake so nobody else repeats it.
-
-What they had built. A reader magnet made of the first five chapters of book two, cut as a novella — chosen partly, they admit, because those five chapters came to almost exactly 10,000 words and "fit the novella-shaped hole I wanted to fill". It got a few hundred takers.
-
-What they realised. By excerpting the opening of book two, they were introducing the VILLAIN. The hero does not arrive until the next chapter. So the free sample they were running ads against introduced a bad guy and some secondary characters, and nothing else.
-
-And then the better answer, which was sitting in front of them. Book two mainly takes place between chapters eight and nine of book one — so chapters one to eight of BOOK ONE are the hero's origin story and the source of his driving purpose. That is the reader magnet. Their reasoning: "Someone really has to fall in love with the high concept of the book to want to buy it. If the excerpt from the first book whets the reader's whistle for more adventure with the hero, it sells BOTH BOOKS."
-
-Their own summary, which is the line to keep: "unless your bad guy has HUGE main character energy (like Freddy Kreuger), pimp out the goddamn hero in your reader magnet!"
-
-Two things worth drawing out. The transferable rule is not about heroes and villains specifically — it is that a free sample has to make the reader want MORE OF SOMETHING, and whatever that something is has to be in the sample. And the mistake was caused by convenience: a word count that happened to fit. That is how most of these decisions get made, which is why saying it out loud is worth more than the rule.
-
-🔗 https://www.reddit.com/r/selfpublish/comments/1xpu0jm/had_a_marketing_epiphany_and_just_need_to_call/
-
-💬 What is in your reader magnet — and does it make somebody want the thing your book is actually about?
+💬 Have you pitched live to a publisher or agent — and what did you learn in the three minutes that no guide had told you?
 
 
-5. Goodreads will not merge the editions it told them to create
+4. The Christmas print deadlines are now — and a Canadian author shows what they cost outside the US
 
-Posted on Friday, 6 November, and it is the fourth platform-support failure this digest has carried in seven days, which has stopped being a coincidence.
+If you want paperbacks or hardcovers in anyone's hands by Christmas, IngramSpark's recommended order-by dates are live, and I read them off IngramSpark's own page this morning rather than off a summary, because the market matters.
 
-The situation. An author went through several cover designs. Goodreads told them the only way to change a cover is to create a new edition — so they now have multiple editions of one book. The book is still UNPUBLISHED. They asked Goodreads to remove the old "editions" because the listing is a mess. Goodreads repeatedly replied with policy about published works. They repeatedly explained the book is unpublished. In their words: "It's genuinely as though I'm corresponding with someone who can't read, which is ironic, or really bad AI." The last email said "this will be our final email on the matter."
+UNITED STATES: hardcover by 30 November, paperback by 7 December. UNITED KINGDOM: hardcover by 4 DECEMBER, paperback by 7 December. AUSTRALIA: hardcover by 30 November, paperback by 7 December. Note the UK hardcover date is four days LATER than the US one — several roundups this week carried the US figures only. The page itself carries no year and no guarantee, and says turnaround times are estimates affected by order volume and holidays, so treat the dates as the last sensible moment rather than a promise. Reported by AuthorSupport on 2 November and in Indie Author Magazine's roundup on the 6th.
 
-They also note, fairly, that the older route — posting in the Goodreads librarians' group — was never ideal either, but that direct support turned out worse.
+Now the part that puts those dates in perspective. In r/selfpublish YESTERDAY, 8 November, a Canadian author publishing their first two books laid out why wide print distribution is harder than the deadline suggests. Two concrete obstacles, neither of which is in any guide. First, on returns they can realistically only choose return-and-destroy, because IngramSpark charges around $20 PER COPY to ship returns to a Canadian address — and a book that is not returnable is a book most bookshops will not stock, which is the whole point of being on Ingram. Second, an ISBN trap: publish the hardcover through KDP first and you cannot then use that same ISBN on IngramSpark, because there is no way to opt out of Amazon distribution when you set up wide distribution there.
 
-Why it is an item rather than a grumble. Line it up with the week: KDP restating historical page-read figures with no notice in the dashboard; authors unable to enrol human-narrated audiobooks after the Kindle+ rename, one of them stuck because a shut-down Amazon programme still holds their ebook rights with nobody left to ask; Barnes & Noble Press not paying some authors since March while its help centre says no action is needed. Now a metadata problem created by a platform's own instruction, which that platform will not undo.
+The shape generalises well beyond Canada. The order you set your editions up in decides what you can do with them later, and the shipping economics of returns are a different problem in every country that is not the United States. If you are outside the US and planning print, work the returns question out BEFORE you buy the ISBN, not after.
 
-The common shape, and it is the thing to take away rather than the anger: in every one of those four cases the author is the only party keeping a record, and the platform's support channel is not where the problem gets solved. The librarians' group is the answer here, tedious as it is — for the same reason ALLi collecting B&N cases is the answer there. Where support fails, the route that works is the one with other authors in it.
+🔗 https://www.ingramspark.com/holiday-ordering
+🔗 https://www.reddit.com/r/selfpublish/comments/1xr6xlc/canadian_authors_how_do_you_do_it/
 
-🔗 https://www.reddit.com/r/selfpublish/comments/1xp7omh/abysmal_support_from_goodreads/
-
-💬 Have you ever got a platform to fix something — and what was the route that finally worked?
+💬 If you are outside the US and selling print wide — what is your actual setup, and what did you have to undo to get there?
 
 
-6. The character who is funnier in your head than on the page
+5. Setting a book in your real hometown
 
-Posted on Friday evening, 6 November, and it is the craft question this digest would pick for a Sunday because it is the common experience nobody names.
+Posted in r/writing yesterday, 8 November, and it is the kind of question that sounds like a craft question and is quietly a rights question too.
 
-The problem, exactly as described. They have a clear picture of a character — the humour, the personality, how they bounce off other people. Then they start writing and "something feels wrong". The character comes out boring, or predictable, and not what was imagined.
+The author is plotting book eleven or twelve and wants to set it in their own small town, with scenes around a nearby university, after a career of books set in Tampa, Vegas, LA and New York. The reason is good: a small town gives them culture clashes and comparisons they cannot get in a metro area. The hesitation is also good: they do not want to paint the real place badly, and they ask straight out whether to invent a name "to avoid possible defamation" or use the real one and hope the residents take it well.
 
-Their own working theory, which is further than most people get: an interesting character feels REAL, and real means contradictions and unexpected reactions, flaws and hidden motivations. "A funny character shouldn't be funny all the time or a brave character shouldn't always be fearless."
+Two things worth separating, because the thread will blur them. Using a real PLACE is ordinary and legal — novels are set in real cities constantly. The risk arrives with real INSTITUTIONS and recognisable real PEOPLE: a named local business behaving criminally in your plot, or a character who is plainly the actual mayor. That is where invention earns its keep, and it is why so many writers use a real region and a fictional town inside it.
 
-That theory is right and it is also not the whole answer, which is why the thread is worth your Sunday. A character who is vivid in your head is usually vivid because you know their CONTEXT — what they would do in situations that are not in the book. On the page the reader only gets the scenes you wrote, so a personality can arrive flattened not because it was written badly but because it was never put under pressure where the reader could see it. The funny character is funny in your head because you have imagined them responding to a hundred things. In chapter four they respond to one.
+And the softer half the author has already spotted: you have to live there afterwards. A fictional town lets you write the dynamic honestly without a neighbour reading themselves into the worst character in the book.
 
-Which connects to two items from this week. On Tuesday someone asked how to catch scenes that have everything in them and still read flat; yesterday someone argued that "purple prose" is usually a diagnosis of confusion rather than excess. All three are the same shape: a label for the symptom, when the fix needs the cause.
+🔗 https://www.reddit.com/r/writing/comments/1xr42zm/using_real_towns_whats_your_opinion/
 
-If you have pulled a character off the page and made them live, the answer the thread needs is the mechanism — which scene you added, what you made them want, or what you took away.
+💬 Real place or invented one — and if you used a real one, did anyone local ever say anything?
 
-🔗 https://www.reddit.com/r/writing/comments/1xpoya2/do_you_ever_feel_like_your_characters_are_more/
 
-💬 Which of your characters came out flatter than you imagined — and what finally fixed them?
+6. When a magazine's "no hate speech" rule collides with a story ABOUT racism
+
+Also posted in r/writing yesterday, 8 November, and it is the most genuinely difficult question in today's sweep.
+
+A Black writer has spent this year submitting their first short story to literary magazines. The story's protagonist is Black and one sequence puts him in a racially charged confrontation, including a racial slur spoken by the people abusing him. The magazines' submission guidelines state that they do not accept hate speech, bigotry or blatant racism — and the writer's question is whether a guideline written to keep racism OUT of a magazine is, in practice, keeping stories about racism out too. Their frustration is that they are being asked to soften the one part of the story that is doing the work.
+
+Why this belongs in a self-publishing digest. First, because the answer is probably more hopeful than the writer fears: those clauses are overwhelmingly aimed at the writer's own stance, not at what a character says, and a great deal of celebrated literary fiction depicts racist speech unsparingly. Fit and framing are the real variables, and a cover letter that says in one line what the scene is doing changes how a slush reader meets page three. Second, because the deeper point is a publishing-structure point: when a gate is written as a blanket rule, the people most likely to be caught by it are the people writing closest to the subject. That is worth understanding whichever route you publish by.
+
+And third, because it is exactly the problem self-publishing exists to route around. A writer who cannot find a magazine whose guidelines fit this story can publish it themselves, uncut, this month.
+
+🔗 https://www.reddit.com/r/writing/comments/1xr543e/i_feel_like_my_short_story_is_being_censored_or/
+
+💬 Have submission guidelines ever ruled out something your story needed — and what did you do about it?
+
+
+7. Nobody tells you what to actually DO with the copyedit file
+
+A small, unglamorous, enormously useful thread from r/PubTips on 6 November. A debut memoirist has their copyedits back as a Word document with tracked changes, knows to write STET for a change they are refusing, and asks the question no style guide answers: do you ACCEPT the changes you agree with, or just leave them? And if you are making new changes of your own, do those go in as tracked changes too?
+
+The convention, for anyone else staring at their first one: leave the copyeditor's marks as they are rather than accepting them — accepting a change makes it invisible, and the production team needs to see what was done and by whom. Say STET (or a comment) where you are refusing one. And make your own new edits WITH track changes on, so your pass is distinguishable from theirs. The underlying principle is the thing to remember: a copyedit file is a record of who decided what, and a clean-looking document is a destroyed record.
+
+It is worth knowing even if you never work with a publisher. If you hire a copyeditor yourself, the same discipline is what lets you see what a stranger did to your prose — and lets you change your mind in a week's time.
+
+🔗 https://www.reddit.com/r/PubTips/comments/1xpmdt8/discussion_copyediting_procedure_question_from_a/
+
+💬 How do you handle an editor's tracked changes — accept as you go, or leave the whole record intact?
 
 
 —
-Scout notes: six items — three from news and trade press, three from the community lanes, and a Sunday-sized edition with nothing padded. The lead was checked against other reporting before being written up, which produced two corrections to the version in the feeds: AO3 went offline on 29 October rather than this week, and OTW's own estimate is two to four weeks rather than four. The clone site carrying writers' work is described but not named, on the same reasoning used on 31 October. One figure set is explicitly single-sourced and labelled as such in the item: Reedsy's $299 price, 350-word length and 30-day window, which come from ALLi's summary alone — Reedsy's own pricing page returned a 404 this morning and no independent test exists. AI lane: quiet today on new developments. Swept in full; the Virtual Voice detail in item 3 is machine narration as a royalty fact rather than an AI story, and nothing else surfaced that this digest has not run in the last four days. YouTube lane: nothing fresh today. Swept in full and the result is stated from the log rather than assumed: the RSS route returned 404 on all six channels at four attempts each in the sweep and again at three further attempts each on a retry round, so the channel pages served as the fallback and were read. Two things inside the seven-day gate had not run here as videos, and both were set aside deliberately — The Creative Penn's video of the creator-and-critic interview, which this digest already ran from the blog post on Wednesday, and three earlier days of the Heart Breathings drafting series whose latest day ran here yesterday. Nothing else inside the gate. Screen lane: swept in full on the third request shape and nothing cleared the bar — an organisational-tools question, a hypothetical about writing a spec for a particular star, and personal news. Elizabeth Spann Craig's blog returned 403 for a twenty-seventh day. Reddit: r/writing answered first time, r/selfpublish on the second shape, r/PubTips and r/Screenwriting on the third.
+Scout notes: seven items — four from news, trade press and the named AU sources, three from the community lanes, so community is well under half today. AI lane: NOT quiet — it carries the lead and item 2. The Vellum dates (4.2 on 4 November, 4.2.1 on 5 November) are corroborated by two independent write-ups and an AI-and-writing newsletter; Vellum's own release-notes page could not be reached this morning, so the version numbers are reported rather than read at source, and the objections are summarised from one write-up that is openly an opinion piece. The Raptor Write notice and the nine-provider key list in item 1 were read off the app's own pages this run, and the Railway incident details come from third-party reporting rather than Railway's own status page. IngramSpark's dates were read off IngramSpark's own page, which carries no year — the dated hook is this week's reporting, not the page. YouTube lane: nothing fresh today. The RSS route returned 404 on all six channels at four attempts each, so the channel pages served as the fallback and were read; everything inside the seven-day gate had already run here or was the same story twice — a Creative Penn video of a blog post this digest ran on Thursday, and four earlier days of the Heart Breathings drafting series whose latest ran on Saturday, one of which also sat on the seven-day boundary with no date I could confirm. Screen lane: swept on the first request shape and nothing new since yesterday's edition; the freshest screen threads had already run or been judged and set aside. Routes: Writers Helping Writers was failing on a wrong hostname in this run's own fetch list and is repaired; Writer Beware needed its redirect followed; Publishing Perspectives returned nothing on two attempts; Elizabeth Spann Craig's blog returned 403 for a twenty-eighth day. Reddit: r/selfpublish, r/PubTips and r/Screenwriting all answered first time, r/writing on the second shape after a 429. Housekeeping for an interactive turn: the overnight container rebuild lost this spec's two most recent tuning edits, which were never merged — they need re-landing.
 
 —
 Curated daily for this community. Spotted something worth sharing?
