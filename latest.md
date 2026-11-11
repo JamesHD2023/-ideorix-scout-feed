@@ -1,129 +1,109 @@
-📚 Daily Writer's Scout — Tuesday, 10 November 2026
+📚 Daily Writer's Scout — Wednesday, 11 November 2026
 
-1. 🤖 Google, OpenAI, Anthropic and Microsoft agreed one line of code to keep AI off your website — and the best piece written about it says it changes nothing
+1. Books with keywords sold 113% more. Books with long descriptions sold 119% more. Here is the survey, and here is why those numbers are not a promise.
 
-The four companies announced it at the end of last week: a single robots.txt instruction — it is written __usage_ai-training — that tells all their crawlers not to use your site's content for AI training. Until now you had to name each bot separately — Google-Extended for Google's, and a different string for every other one, updated whenever a company renamed a crawler. Two lines in one file now does what a growing list used to.
+ALLi's news summary yesterday, 10 November, carried the best-numbered thing an indie author will read this month: a new NielsenIQ BookData survey, "The importance of metadata for discovery and sales", which updates a study first run in 2012 and so can show what has CHANGED. It is UK market data, written up by ALLi's news editor Dan Holloway, and The Bookseller covered it too.
 
-If you have an author website, that is worth ten minutes with whoever manages it. robots.txt sits at the root of your site, the change is small, and it costs you nothing.
+The figures, as reported:
 
-Now the honest part, which is why this leads rather than just gets a mention. Jonathan Bailey at Plagiarism Today — who has covered copyright for over twenty years and is not an AI sceptic by temperament — published a piece on 2 NOVEMBER arguing the standard will not help, and his reasons are hard to dismiss.
+Books with KEYWORDS sold 113% more copies than books without them — and specificity was what mattered, with "enemies to lovers", "open door romance" and "slow burn" given as the examples. Books with a LONG description sold 119% more than books with no description at all. Books with an AUTHOR BIOGRAPHY sold 67% more on average than books without one. COVERS drove about 12.5% of sales overall, ranging from mid-single digits across much of non-fiction to around 20% for children's activity books and sagas. "Look inside" drove 8.2% of e-book sales. And the discovery shift behind all of it: physical bookshops fell from just over 24% to just over 16% as the source of a sale, while online is now about 60% of UK sales.
 
-It gives rights holders NO new tools: robots.txt is voluntary and blocks nothing physically — it is a sign asking politely, and it has always been possible to put that sign up. It only ever affects FUTURE crawling, and Bailey's own position is that twenty-plus years of his work is already inside the training sets, which no instruction can undo. And the copies that reached those sets, he says, mostly did not come through his front door at all: they came via pirate datasets, archives and third parties, none of which read your robots.txt. His verdict is that real consent would need a permission-first model, and that companies with this much money at stake will not adopt one — so he calls the announcement a feel-good gesture.
+The finding that will surprise people most: a SHORT description — they used 350 characters — was associated with 11% FEWER copies sold than having no description at all. Read that twice before you trim your blurb.
 
-Set it beside 27 October here, when Meta's business terms quietly dropped the word "train" and left robots.txt as the only lever authors had. Same lever, now easier to pull, and the same question underneath: a lever that only works on people who were going to ask permission anyway.
+Now the part most coverage left out, and it is why this leads rather than simply gets cheered. Ivan Massow, writing at Tomorrow's Publisher on 8 November, read the method. The study covers the 100,000 BESTSELLING printed titles of 2025 matched against BookScan sales — not all published books. It compares titles that have a thing against titles that do not; it does not change one field and measure what happens. So popular authors, bigger marketing budgets, genre, a book's age and its availability could all be driving BOTH how well its record is maintained AND how many copies it sells. His line on the headline figure is the one to keep: 119% is "not a promise that adding a paragraph will double a book's sales". He also notes, fairly, that BookData sells metadata services.
 
-So do it — it is cheap and it is the record of your intent, which may matter later. Just do not file it under "problem solved".
+So what is it worth? A great deal, as long as you read it as a description of what well-tended books look like rather than a lever. Nobody is going to tell you that a long description, real keywords and an author bio are a BAD idea, and all three are free. The 24-page report is free for an email address.
 
-🔗 https://www.plagiarismtoday.com/2026/11/02/ai-companies-announce-new-blocking-standard/
+🔗 https://selfpublishingadvice.org/nielseniq-survey/
+🔗 https://tomorrowspublisher.today/news/the-book-trades-discovery-problem-starts-with-its-own-data-manual-2026-11-08-book-metadata/index.html
 
-💬 Have you ever touched your site's robots.txt — and would you know who to ask to add two lines to it?
-
-
-2. An 81-year-old science-fiction writer just won the Booker, and said the genre label is finished
-
-M John Harrison won the 2026 Booker Prize last night in London for THE END OF EVERYTHING, chosen unanimously from 163 entries, and the £50,000 went to a writer who published his first short story in 1966 and has never been on the Booker shortlist before.
-
-Three things in this that matter to anybody writing genre fiction.
-
-He is a SCIENCE-FICTION writer, not a literary novelist who dabbled. His 2006 novel Nova Swing won the Arthur C. Clarke Award and the Philip K. Dick Award. The winning book is a dystopia: a scavenger and his aunt in southern England after an unexplained invasion has collapsed society, starting when he finds an alien artefact on a beach. The chair of judges, Mary Beard, called it "the politics of now seen through the lens of the future" and said the panel chose it unanimously.
-
-Harrison said the win is a sign that genre labels are becoming outdated, and that he wants the conversation to move past words like "mainstream" and "speculative fiction". He has argued that line should be blurred for most of his career; he is now the writer who took the prize that was supposed to be on the other side of it.
-
-And the detail that will cheer a lot of people here: at 81 he is the oldest Booker winner, past Margaret Atwood at 79, after SIXTY YEARS of writing. Other coverage reports the book as the shortest on the shortlist at 198 pages. Length did not decide it, a career of accumulating respect did, and the respect came from inside genre.
-
-The shortlist he beat: Marlon James, Douglas Stuart, Elizabeth Strout, Rebecca Perry and Luke Kennard.
-
-🔗 https://www.abc.net.au/news/2026-11-10/booker-prize-2026-m-john-harrison-the-end-of-everything/107342508
-
-💬 Does a win like this change anything about how you describe your own book — or is the genre label still the thing selling it?
+💬 Which of the four — long description, keywords, author bio, cover — is weakest on your own books right now?
 
 
-3. "Never give up" is the worst advice she ever got — 221 rejections say so
+2. 🤖 A detector scored a public apology 50% AI. The man who ran it explains why that means almost nothing.
 
-From Writer's Digest yesterday, 9 November, by Stephanie Wrobel, the bestselling author of Darling Rose Gold, and it is the most useful career piece in today's sweep because it argues against something nobody argues against.
+Josh Bernoff published this yesterday, 10 November, and it is the most useful thing written about AI detection in weeks precisely because he does not reach a verdict.
 
-Her case: "never give up" leaves out the only question that matters, which is PERSISTENCE ON WHAT. The goal is a writing career. A particular manuscript, premise, agent or route to publication is not the goal, and refusing to let one go can cost you the thing you actually wanted.
+What happened: Nvidia's chief executive Jensen Huang issued a short public apology. Bernoff ran it through Pangram, which rated it 50% AI-generated. The flagged passages were lines like "I take full responsibility for what I did and the hurt I caused" and the phrasing about having "fallen short".
 
-The numbers that make it more than a nice thought. In graduate school she wrote five short stories and collected 221 REJECTIONS. She quit short fiction and moved to novels. Her first finished novel drew FIVE offers of representation within a month. Her own summary: she had given up on the right thing.
+And then he does the thing almost nobody does with a detector score. He says, in his own piece, that detectors are LEAST RELIABLE ON SHORT TEXTS — so a short statement is close to the worst possible input. And he points out the alternative explanation for every flagged line: public apologies have a tiny vocabulary. "I take full responsibility" is not evidence of a machine; it is evidence of an apology. His conclusion is that he cannot tell, and his sharpest observation is a joke with a point in it: Huang's writing reads about as machine-like as ChatGPT's does.
 
-Two more she names without flattering herself. She spent months on a horror screenplay and abandoned it at page 51, when she could no longer say what the story was trying to say — and admits she had kept going mainly so the months already spent would not be wasted. And she dropped a television pilot on realising its concept was too close to shows she had already seen.
+Why this matters here rather than being gossip about a chief executive. Authors are being accused of AI writing on exactly this kind of number — this digest carried the Caine Prize accusation on 14 October, where the lesson was that a detector score is not proof — and the same detector appeared here on 30 September in SCBWI's rules. The useful takeaway is narrower and more defensible than "detectors don't work": they are weakest on SHORT passages, and weakest of all on passages written in a form whose phrasing is conventional by design. Your acknowledgements page, your blurb, your query letter and your author bio are all short, and all written in a house style. Those are the parts of your book most likely to be flagged, and the least meaningful to flag.
 
-The questions she offers instead of the slogan are the part to keep. Is this hard, or have I stopped being interested? Is the EXECUTION failing, or is the premise the problem? Am I continuing because I believe in this, or only to avoid wasting what I have already spent? Have I reshaped the story so much for buyers that I no longer want to write it? And on the shiny new idea: give it time before trusting it — shelving something is not killing it.
+🔗 https://bernoff.com/blog/did-nvidia-ceo-jensen-huang-use-ai-to-write-his-apology
 
-🔗 https://www.writersdigest.com/the-worst-writing-advice-i-ever-received-never-give-up
-
-💬 What did you give up on — and did it turn out to be the right thing to give up?
+💬 Has anything you wrote ever been called AI — and what was it about the passage that made somebody think so?
 
 
-4. How to take 10,000 words out of a memoir, with the arithmetic
+3. Her publisher printed her real name on the back cover
 
-Also from yesterday, 9 November: Lisa Cooper Ellison, writing on Jane Friedman's site, on cutting a manuscript down — and unlike most advice of this kind it comes with a method you can run tomorrow.
+Posted in r/PubTips last night, 10 November, and it is the kind of thing that makes you check your own files.
 
-Her reframe first: you are DISTILLING, not cutting, and the word matters because it stops you approaching your own book as demolition.
+An author three months from their debut received advance copies from their publisher and found their REAL NAME printed on the back cover. They write erotic romance and had deliberately chosen a pseudonym to keep their personal life separate from their writing identity. Their agent has been asked to raise it with the publisher; they had heard nothing back at the time of posting, and said plainly that they were panicking.
 
-Then the mechanics, and the rule is one target per pass — never try to fix everything at once.
+Their actual question is the practical one, and it is worth knowing the answer to before you need it: at what point in the process does changing the physical book become impossible?
 
-The FILTER WORDS pass is the one with the numbers in it. Search for perception verbs — saw, heard, felt, noticed, realized, wondered, remembered — and delete them unless the act of perceiving is itself the point of the moment ("she felt the floor give way" is doing work; "she felt a wave of sadness" is usually standing in front of the sadness). Her test for whether it is worth your week: take your SLOWEST page, revise just that one, count the words you saved, and multiply by your page count. Her example is 15 words a page across 300 pages — 4,500 words, from one pass, without losing a scene.
+Roughly, and this is the shape rather than any one publisher's schedule: a cover is cheap to change while it is a file, awkward once advance copies are printed and catalogues and retail listings carry it, and expensive once the print run exists. Three months out is usually still inside the window for the BOOK — the harder problem is everything the old cover has already been sent to, because an ARC is in reviewers' hands and a listing is in retailers' systems. The fix is a correction campaign as much as a reprint.
 
-The PASSIVE VOICE pass she is honest about: it saves a word or two at a time, so it buys vitality rather than length. Her zombie trick for spotting it is the best version of that test I have seen — add "by zombies" after the verb, and if the sentence still makes sense, it is probably passive.
+Two things worth taking from it whichever way you publish. A pen name is only as private as the quietest party handling your paperwork — contracts, payment details, copyright registration and metadata all tend to want your legal name, and each one is a place it can surface. And if you use a pen name for safety rather than branding, say so IN WRITING to everyone who touches the book, early, rather than assuming the reason is obvious.
 
-Two pieces of sequencing that save real work. Settle STRUCTURE before you line-edit: deciding which scenes leave the book first means you are not polishing prose you are about to delete. And keep a file of everything you remove — removed passages become essays, newsletters and openings for the next book. She also says, plainly, to let yourself feel the loss before moving on, which is the only honest thing anybody says about this.
+🔗 https://www.reddit.com/r/PubTips/comments/1xt21f4/pubq_pseudonym_leak/
 
-🔗 https://janefriedman.com/need-to-cut-10000-words-from-your-memoir-start-here/
-
-💬 What is your cutting method — and what is the most you have ever taken out of one book?
+💬 If you write under a pen name — do you know every place your legal name is attached to that book?
 
 
-5. Attention spans are shrinking and short stories still aren't selling. Why?
+4. Two writers posted their querying numbers four hours apart. Put them side by side.
 
-Posted in r/writing yesterday morning, 9 November, and it is the kind of question that is more interesting the longer you look at it.
+Both in r/PubTips, last night and the early hours — 10 and 11 November — and neither knew about the other.
 
-The author's puzzle, stated plainly: everything else is getting shorter, everyone says they have no time to read, and yet short stories have nothing like the audience of novels, podcasts or long-form video. They read short fiction themselves for exactly the reason that should make it mainstream — a whole plot inside whatever odd pocket of time exists, no commitment to a novel let alone a series, and free short-story podcasts to fill a drive. Their question is why the shortening that happened to every other medium has mostly not happened to fiction.
+The first is leaving. Adult dark fantasy, 117,000 words, SEVEN MONTHS of querying: 40 queries sent between 13 May and 30 September, and ZERO full or partial requests. Two agents invited them to query at pitch events and then did not request the full. No feedback that showed where the gap was. Their own reading of it is unusually clear-eyed — the book was one they had been writing since college, not written with the market in mind, and perhaps hard to see a pitch for. They set themselves a deadline of the end of the year, the year is nearly over, and they are going to self-publish it instead. They posted their stats, they said, as a counterbalance to all the stories about getting an agent in six days.
 
-Worth putting two things from recent weeks against it. On 27 October this digest carried the news that studios were paying up to seven figures for UNPUBLISHED short stories — so somebody is placing a very high value on exactly this form while readers reportedly will not pick it up. And yesterday's edition carried a writer unable to place a single short story with literary magazines at all. Short fiction, on this week's evidence, is simultaneously the hardest form to sell to readers, the hardest to place with editors, and the one Hollywood is bidding on.
+The second got the agent. Horroromance, 85,000 words: 45 queries from 7 September, NINETEEN requests, TWO offers, first offer on 15 October — six weeks from first query. And the details underneath are the interesting part. It was their THIRD time querying and their second success. They had no beta readers beyond friends. They barely personalised any query, reasoning that personalisation made sense when agents gave actionable feedback and makes less now that form rejections are normal — and noting that the one time they did personalise everything was the time nothing happened at all. They wrote the first draft in about seven weeks, revised for a month, and queried. They also said, unprompted, that six weeks is absolutely not the norm.
 
-One answer the thread will probably land on, for what it is worth: short-form media wins where it is FRICTIONLESS and discovery is free, and short fiction is the one short form with no discovery engine behind it. A reader finds a novel by its cover, its series, its author's backlist. Nothing points them at one twenty-page story.
+What the pair is actually evidence of. Effort was not the variable: the one who failed queried for seven months and the one who succeeded for six weeks. The request rate is where the two diverge completely — 0 out of 40 against 19 out of 45 — and a request rate that low is information about the PACKAGE (query, opening pages, concept), not about persistence. That is the diagnostic worth stealing from this, and it is the same conclusion as the 18 October edition here, where another author had zero requests from seventy agents in six months. Three accounts now, same signal.
 
-🔗 https://www.reddit.com/r/writing/comments/1xrmfey/why_arent_short_stories_more_popular/
+🔗 https://www.reddit.com/r/PubTips/comments/1xt41xn/discussion_my_stats_of_not_getting_an_agent/
+🔗 https://www.reddit.com/r/PubTips/comments/1xsxkgj/discussion_agented_stats_thoughts/
 
-💬 Do you read short stories — and if not, what would actually get you to?
-
-
-6. The strange empty week after you finish a first draft
-
-Two separate threads in r/writing within a day and a half of each other — one yesterday evening, 9 November, one overnight, 10 November — asking the same thing from the two ends of it.
-
-The first has what they call post-first-draft depression. They know the advice is to leave it alone and come back with fresh eyes, and they do not know what to do with themselves meanwhile. Other projects are there, but nothing has the pull the finished one had. The question is not how to edit; it is how to survive the gap without losing momentum or heart.
-
-The second has just about finished a messy first draft — written on the motto of getting it on the page and dealing with it later — and has never actually DONE a second draft, because everything they have written is in some state of half-finished. It is dialogue-heavy and choppy. They are wondering whether to open a blank document and rebuild on the skeleton of draft one rather than edit in place.
-
-What makes them worth putting together is that they are the same problem seen from either side: nobody teaches the handover between drafting and revising. There is a great deal written about how to finish a draft and a great deal about how to revise, and almost nothing about the week in between, which is where a lot of books quietly stop.
-
-If you have an answer to either half, that is the thread. Especially the rebuild-from-scratch question — that one divides experienced writers sharply, and the person asking has no way of knowing that from the outside.
-
-🔗 https://www.reddit.com/r/writing/comments/1xs4uxs/what_do_you_guys_usually_do_after_finishing_a/
-🔗 https://www.reddit.com/r/writing/comments/1xsa6ga/second_draft_strategies/
-
-💬 What do you do in the gap between finishing a draft and starting the next one — and do you rebuild or edit in place?
+💬 If you have queried — what was your request rate, and what did you change when it was low?
 
 
-7. Amazon keywords when you cannot pay for a tool
+5. The trouble with "write what you know"
 
-From r/selfpublish yesterday morning, 9 November, and it is the most practical question in today's sweep because almost every answer to it costs $20 a month.
+From Jane Friedman's site yesterday, 10 November, by Tudor Robins, who has written more than twenty novels across equestrian fiction, small-town romance and cozy mystery. It is the rare craft piece that argues with advice nobody argues with.
 
-The author is setting up their KDP keywords, has found that every keyword research tool they can see wants a subscription, and has been told to use Amazon's own search suggestions instead. Their follow-up is the real question, and it is sharper than the original: how do you know which suggestions are worth TARGETING? Is there any way to see search volume, or how much competition a phrase has, for free?
+Her experience: horses were what she knew, her horse books did well, and then what she knew turned into a cage. Readers came to expect accurate equestrian detail in every book — she mentions being corrected over a missed helmet — and some wanted fewer relationships and more horses. She felt pressure to keep riding regularly to stay current, which is expensive and takes time. Her own phrase for where it ended up is the best line in the piece: you are "only as good as the last obscure horse fact you can include". She is also honest that most of the pressure was self-imposed. Nobody asked her to prove she still rode.
 
-The honest answer is that the free route gives you DEMAND signals and no volume numbers — Amazon's autocomplete tells you which phrases real shoppers type, in rough order of popularity, and that is genuinely useful and genuinely not the same as a number. What the paid tools sell is the estimate, and estimates of Amazon search volume are modelled rather than measured, which is worth knowing before you pay for one.
+What she did about it. She wrote cozy mysteries and romances with no horses on the covers or in the blurbs, and started a separate newsletter list so the audiences would not be mixed. Those books sold reasonably and did not replace the income — and she found that readers in every genre have their own expectations, so she had not escaped the problem, only changed which one she had. She has gone back to horse fiction because she wants to, not because she is obliged to.
 
-This also lines up with 7 November here, when a no-budget author asked what to do first and what to skip. Keyword tools are a good candidate for the skip list at the start — and a better buy later, once you have sales data of your own to check the tool's guesses against.
+Her conclusion is the transferable part: treat your experience as A RESOURCE INSTEAD OF A BOUNDARY. And the sharpest practical distinction in the piece is between what you KNOW and what you feel you must keep DOING to go on being allowed to know it.
 
-🔗 https://www.reddit.com/r/selfpublish/comments/1xrnfk2/how_do_you_find_amazon_keywords_for_your_book/
+🔗 https://janefriedman.com/the-trouble-with-writing-what-you-know/
 
-💬 How did you choose your seven KDP keywords — guesswork, autocomplete, or a paid tool that earned its money?
+💬 Has the thing you know best started to limit what you are allowed to write?
+
+
+6. The gumball machine that fixed her book-fair nerves
+
+Posted in r/selfpublish yesterday afternoon, 10 November, and it is the most specific, most usable piece of in-person selling advice this digest has carried.
+
+A former high-school teacher — extroverted, used to talking for a living — discovered that selling her subject and selling her own book are completely different jobs. Her account of her first event is worth it on its own: no banner, a pitch she was still writing in real time, barely any stock, rain, relocated indoors, a leaking roof, and 25 books lost to water damage and ants.
+
+What she could not solve was the opening. When do you start pitching — as they walk away, as they glance over, do you force eye contact to tell them the bookmarks are free? She had already tried free bookmarks, stickers and free books.
+
+Her fix was to put those same giveaways inside a GUMBALL MACHINE, filled by her kid with discount coupons — 5%, 10%, 20% — and small freebies, from a fidget toy or keychain up to a printed slip for a free copy of one of her books. To keep it legal it was a free play with either a purchase or an Instagram follow.
+
+And then the two reasons it worked, which are not about gumballs at all. First, it gave her a line to open with that was not a pitch: "every gumball is a winner" — which, she says, bought her a few seconds to breathe and reset. Second, somebody holding a 20% coupon will stop and hear the pitch, so she pitched far more often: she reckons she improved more in that one six-hour event than in her three previous events combined, because the machine kept producing people to practise on.
+
+That is the real lesson. The prop was not a sales tactic, it was a way to remove the hardest second of the day and buy herself repetitions.
+
+🔗 https://www.reddit.com/r/selfpublish/comments/1xssogn/find_your_gumball_machine_my_lesson_on_attending/
+
+💬 What is your opening line at a table or a signing — and who taught it to you, or did you have to find it the hard way?
 
 
 —
-Scout notes: seven items — four from news, trade press and the named sources, three from the community lanes, so community is under half today. AI lane: NOT quiet — it carries the lead. One story was deliberately NOT carried: Jane Friedman reported a new nonprofit publisher seeking speculative-fiction submissions, and I could not reach its own site or any page stating whether it charges authors anything, so the scam filter keeps it out until its terms can be read — the piece itself is behind her paid subscription. Two items are reported rather than read at source: the robots.txt token's submission to the IETF and its rollout dates appear only in third-party coverage, so this digest states only what Plagiarism Today's own article describes; and the Booker book's 198 pages and shortest-on-the-shortlist status come from other outlets, not from the ABC report linked above. An agent-vetting thread from r/PubTips was dropped as too close to the unagented-offer item that ran on 6 November — the ledger's near-dupe sweep caught it, and seven honest items is the right outcome. YouTube lane: nothing fresh today, and precisely so: the RSS route returned 404 on all six channels at four attempts each, the channel pages served as the fallback and were read, and every video on all six pages was one this run saw yesterday, a day older — not a single channel has posted since. Screen lane: swept on the second request shape and it did answer with fresh threads, two of which were looked at and both dropped — a bare link-drop sharing an unproduced John Hughes screenplay, which carries no discussion to report and a rights question this digest will not amplify, and a historical-research question whose body would not fetch after three attempts, so the spec's give-up rule applies rather than writing it up from its title. Routes: Writer Beware needed the plain no-slash form WITH its redirect followed (the browser-agent form returned 429 today, exactly as this spec's route table warns); Writers Helping Writers is fixed and returned twelve items; Publishing Perspectives failed on both attempts again; Elizabeth Spann Craig's blog returned 403 for a twenty-ninth day; Books+Publishing's article pages return 403 to a reader, so the Booker item was sourced elsewhere. Reddit: r/writing answered first time, r/PubTips and r/Screenwriting on the second shape, r/selfpublish on the fourth after three 429s, and three thread bodies needed a second or third attempt.
+Scout notes: six items — three from news and trade press, three from the community lanes, an even split and no padding. AI lane: NOT quiet — item 2. Two things were deliberately held back by the ledger rather than dropped silently: a third Heart Breathings video from the same November drafting challenge this digest already ran on 1 and 7 November, and a paid-marketing-tools thread too close to Tuesday's free-keywords item. The lead is reported rather than measured: every NielsenIQ figure above comes from ALLi's write-up of the survey, not from the report itself, and the methodological objections come from one named critic who had read the same write-up — if you act on any single number, get the free report. YouTube lane: ONE of the six channel feeds answered this morning, Heart Breathings on its third attempt, and it is worth saying what that bought, because it is an argument for retrying: the feed showed four posts from the last six days that the channel's own videos page does not list at all, with exact publication times instead of "5 days ago". Everything inside the gate was from the series already run here twice. The other five channels failed four attempts each and their pages carried nothing new since yesterday. Screen lane: swept and answered first time; its best candidate — a Mike Nichols note that every scene has to be a negotiation, a fight, a seduction or one other thing — could not be read, its body refusing three attempts, so the spec's give-up rule applies and it is not written up from its title. It is worth someone's look if the thread recovers. Routes: Writer Beware needs the plain no-slash form WITH redirects followed, which is now twice in two days this run's own fetch list got wrong in opposite directions; Publishing Perspectives failed again on both attempts; Elizabeth Spann Craig's blog returned 403 for a thirtieth consecutive day and should probably come out of the list. Reddit: r/selfpublish and r/Screenwriting answered first time, r/writing on the third shape, r/PubTips on the fourth after three 429s; three thread bodies needed a retry, and two never answered at all after three attempts each.
 
 —
 Curated daily for this community. Spotted something worth sharing?
