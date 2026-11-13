@@ -1,119 +1,114 @@
-📚 Daily Writer's Scout — Thursday, 12 November 2026
+📚 Daily Writer's Scout — Friday, 13 November 2026
 
-1. 🤖 77% of the people who work in publishing have a negative view of AI. 73% say their own company uses it.
+1. 🤖 52 briefs have been filed in the OpenAI case. One of them is an authors' organisation arguing AGAINST the authors — and its reasons are about writers like you.
 
-Publishers Weekly published its 2026 Salary & Jobs Report on 6 November, in the 9 November issue, and those two numbers sitting next to each other are the most useful thing an indie author will read about AI this month. The survey had 886 respondents from inside the industry.
+ALLi's news summary yesterday, 12 November, pointed at this and it is the most consequential thing in today's sweep, so I went to the filings rather than the coverage.
 
-Seventy-seven per cent view AI negatively. Seventy-three per cent say their company uses it in some fashion — up from 63% last year, with market research the most common use. And the specific thing they are most worried about is named: that they could find themselves involved in publishing a book SUBSTANTIALLY WRITTEN BY AI.
+Where the case stands. The consolidated copyright actions against OpenAI and Microsoft — brought by book authors including the Authors Guild, and by news organisations including the New York Times — are before Judge Sidney Stein in the Southern District of New York, at the summary judgment stage. The Copyright Alliance counted 52 amicus briefs filed in a single week, nearly 30 of them backing the authors and publishers. Publishing Perspectives puts the total above 50. An amicus brief is an outsider's submission: somebody with no direct stake telling the court how it should think about the question.
 
-The rest of the report is worth knowing too, because it is the economics underneath those opinions. Median salary $78,000, DOWN from $80,000 in 2024. An average raise of about 3%. And only 29% said they were happy in their job.
+The fight inside those briefs is about one idea: MARKET DILUTION. The theory is that training a model on your book harms the market for it, because the model can then generate NEW works that compete with yours — even works that do not copy a word of it. The trade bodies are for it: the AAP, IBPA, STM and CCC filed jointly on the authors' side, arguing from OpenAI's own statements that the copying will dilute the market for original work. This digest carried the other half on 23 October, when the judge ruled that the plaintiffs could not put Tuhin Chakrabarty's market-dilution study in as evidence.
 
-Why this is the lead rather than industry gossip. These are the people who read your submissions, edit your books, and decide what a publisher's AI policy says. A 77/73 split is not a disagreement about technology — it is a workforce using a tool it does not trust because the employer bought it. That tells you what to expect from editors, agents and publishers over the next year far better than any vendor announcement: policies written defensively, disclosure questions asked carefully, and no appetite whatever for a manuscript that smells machine-made.
+And then the brief that is worth your attention. AUTHORS ALLIANCE — a separate organisation from ALLi — asked for leave to file on 29 October, on the defendants' side, addressing that one question and nothing else. They take no position on how OpenAI got the training data or whether any particular output infringes. Their argument, in four parts: dilution is ORDINARY COMPETITION, and the fair-use factor it is being squeezed into covers substitutes for your expression, not new works competing for the same readers; scale does not change the kind of harm, which they call "competition at scale, not substitution at scale"; the theory would end up protecting ideas, facts and genres, which the law deliberately leaves free; and it would fall hardest on authors who BUILD ON earlier work — scholars, critics, biographers.
 
-Josh Bernoff flagged the figures in his newsletter yesterday, 11 November, calling it publishing's AI ambivalence, which is the right word.
+That last point is the one to sit with, because it is the opposite of how this case is usually described here. On their reading, a dilution rule favours large rightsholders with deep catalogues and the money to hire market experts, and costs individual authors and small publishers who rely on fair use and would have to disprove speculative claims about a market that never existed. They put it another way too: a rule that shields an established author from non-infringing AI competition would also shield them from non-infringing HUMAN competition — the new scholarship, the open textbook, the critical study that succeeds precisely by displacing what it builds on.
 
-And the same week gave us the live demonstration. Vellum — the Mac formatting app — shipped an optional AI automation feature on 4 November and withdrew it on the 5th after its own customers objected; this digest carried that on Tuesday, and Jane Friedman wrote it up yesterday. The Self-Publishing Show covered it in episode 473 yesterday too, where James Blatch and Cissy Mecca go through the controversy and what they call the heated reaction from parts of the author community. So: the staff do not trust it, the customers reject it even when it is opt-in and non-generative, and the companies keep adopting it anyway. That is the whole state of play in three data points.
+I am not telling you who is right. Scholars including Rebecca Tushnet, Edward Lee, Pamela Samuelson and Christopher Sprigman filed on the same side, calling the dilution theory without precedent; nearly thirty briefs say otherwise. What is worth knowing is that "good for authors" is doing a lot of work in the headlines about this case, and at least one organisation of authors has gone to court to say it is not that simple.
 
-🔗 https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101719-salary-and-jobs-report-2026.html
-🔗 https://www.youtube.com/watch?v=9lvrGSqJCZg
+🔗 https://www.authorsalliance.org/2026/10/30/authors-alliance-files-amicus-brief-in-in-re-openai-copyright-infringement-litigation/
+🔗 https://selfpublishingadvice.org/collins-crowns-mogging-word-of-the-year/
 
-💬 If an agent or publisher asked you tomorrow to declare exactly how you used AI on your book, could you answer in one honest paragraph?
-
-
-2. One short story, five pay days — the licensing chain nobody explains
-
-On Tuesday this digest carried a writer asking why short stories are not more popular when every other medium is getting shorter. Joanna Penn has spent the last week answering the business half of that question in a run of short videos on the Creative Penn channel, and between them they describe a chain most authors have never been told about.
-
-The order matters, and this is the piece people get wrong. Her 7 November video says DO NOT self-publish the short story first: if you might ever submit it to a competition, an anthology or a publisher, offer FIRST PUBLICATION RIGHTS first — because you usually get the rights back after six months to a year, and then you can self-publish it anyway. Publish it yourself on day one and you have spent the one thing those markets pay for.
-
-Then the chain, from her 8 November video: the same story can be licensed again and again — a commissioned anthology, then a self-published single, then your own collection, then another anthology, then a magazine. One story, five pay days, from one piece of work.
-
-And the product at the end, from 10 November: a single short story does not print well and a chapbook is too small, so gather them into a COLLECTION. A collection is a proper product you can market and price, which a loose story on a retailer page is not.
-
-Put that against Tuesday's puzzle and the picture changes. Short fiction does not lack an audience so much as it lacks a PRODUCT and a sequence — and the sequence is the part that is free to learn. Readers were never going to buy twenty pages at a time; they will buy a collection, and the anthologies and magazines pay separately on the way there.
-
-Pointer-only on all three: these are short videos read from their titles and descriptions this morning, not watched.
-
-🔗 https://www.youtube.com/watch?v=M6qQT6s3f1U
-🔗 https://www.youtube.com/watch?v=gKtPUDx7p88
-
-💬 Do you have short stories sitting unpublished — and had you been told to hold off self-publishing them?
+💬 If a court ruled that training on your book is a harm you can sue over, would that help you — or mostly help the people with the biggest catalogues?
 
 
-3. The data says discovery moved online. The practitioners are moving back off it.
+2. 🎬 Film schools are now teaching screenwriters to use AI — and the students are getting hired
 
-Worth putting two things from this week side by side.
+The LA Times published this on 11 November and it reached r/Screenwriting last night, where the thread is as interesting as the article.
 
-Yesterday's lead here was the NielsenIQ survey, which measured where UK sales actually come from now: physical bookshops have fallen from just over 24% to just over 16% as the source of a sale, and online is about 60%. That is the direction everyone assumes, with numbers attached for once.
+What is being reported: screenwriting teachers in Los Angeles have moved from warning students about AI to teaching it. Justin Trevor Winters runs a class at Loyola Marymount called "Producing and Screenwriting With AI". His position is that the technology works as a layer ON TOP OF craft mastery, not instead of it — and he is blunt that some students arrive hoping he will hand them a magical tool that makes them talented. His students are getting work: one made an AI-assisted animated short that led to industry meetings, another came in new to AI and finished the fifteen-week class with a short film that helped land him a job. IndieWire's version of the same shift carries the line the schools keep using: teaching is not endorsing.
 
-And on 9 November, Joanna Penn posted a short video making the opposite-looking argument — that online is now SO CROWDED that sales are shifting, and naming where to: print-on-demand special editions, selling DIRECT from your own store, and selling in person at fairs, conventions, markets and libraries.
+The caution in the piece is the useful part for novelists too. Relying on AI too early in the creative cycle can stop a beginner finding their own point of view, because it tends to flatten distinctive voices into generic storytelling — and the mundane hours, the drudgery of not knowing, are often what produce anything worth reading.
 
-Both are true, and the combination is the actionable bit. Online is where the market is and that is exactly why it is hard: you are competing with everything, on a page you do not control, against a recommendation engine you cannot see. The places Penn names are small, but in each one you keep the margin, you keep the customer relationship, and you are not ranked against a million other books.
+Then the argument the thread objects to. A writer quoted in the coverage makes the access case: AI is one more route for people who do not live in Los Angeles, do not have great teachers and cannot give their whole lives to craft because they have to earn a living. The r/Screenwriting poster takes that apart — you do not need to live in LA for good teaching, something doing the hard work for you is not a teacher, and needing a day job has nothing to do with it.
 
-Set it beside Wednesday's gumball-machine item here — an author who improved more at one six-hour book fair than in three previous events combined, because a prop bought her the chance to pitch repeatedly. That is what "selling in person" looks like in practice, and it is a skill, not a venue.
+And they land on a genuinely new, practical question, which is why this is an item and not AI chatter: if you are choosing a screenwriting course, ASK WHAT ITS AI POLICY IS, and decide whether you are comfortable with it. That question did not exist two years ago and it now belongs on the list beside tuition and faculty.
 
-Pointer-only: Penn's video was read from its title and description this morning, not watched.
+Note on sourcing: the LA Times page itself could not be fetched here this morning. The facts above come from its syndicated version and the trade coverage, plus the quotations the Reddit poster reproduced.
 
-🔗 https://www.youtube.com/watch?v=J4ScYbl7ANQ
+🔗 https://www.reddit.com/r/Screenwriting/comments/1xuq7hd/la_times_hollywood_warned_young_screenwriters/
 
-💬 What proportion of your sales now comes from somewhere other than a big retailer — and is it growing?
-
-
-4. Somebody is putting your cover art on Spotify with a 12-second podcast attached
-
-Posted in r/selfpublish in the early hours, 12 November, and it is worth two minutes of your morning even if you only use the check at the end.
-
-An author found their book being used without permission on Spotify AND Amazon Music: a third party had posted TWELVE-SECOND auto-generated "podcast" episodes about it, as promotion driving listeners to their own website, lastoutline.com. One of the episodes for their book apparently says, in full, "For book cover art view gallery." The site, they say, scrapes cover art, author names, titles and other details from Amazon and claims to be an Amazon affiliate — a claim the author has asked the Amazon Associates team to check. The descriptions on the site are AI-generated and badly so, including a heading reading "About This Books". And their DMCA notices bounce: the only email address listed returns everything sent to it.
-
-I read the site's own front page this morning rather than take the description on trust. It calls itself an "Audiobook & Digital Library" offering "PREMIUM AUDIOBOOK COLLECTIONS", it carries the Amazon Associate disclosure, and it carries this line: "All audiobook previews are provided for educational purposes." That sentence is the tell. A site hosting "previews" of other people's books, reaching for an educational-purposes defence on its own homepage, is telling you what it knows about its position.
-
-What has actually happened so far, as the author reports it: Spotify has REMOVED every instance of their book, and Amazon is investigating. So the complaint route works, slowly, one platform at a time.
-
-What I am not claiming: I have not verified that this operation is a genuine Amazon affiliate, nor independently confirmed the episodes, nor can I say how any infringement claim would be decided. This is one author's account plus the site's own words.
-
-THE CHECK, which is the useful part regardless. Search your own titles and your pen name on Spotify and on Amazon Music, not just on the bookshops. Look for very short episodes with generated-sounding titles. It costs five minutes, and almost nobody thinks to look there — this is the second time in three weeks this digest has carried an author finding their work on a music-and-podcast platform, after the author on 26 October who found their novel being given away on Spotify and a document-hosting site.
-
-🔗 https://www.reddit.com/r/selfpublish/comments/1xu1uvo/suspicious_thirdparty_website_lastoutlinecom/
-
-💬 Have you ever searched for your own book on Spotify or Amazon Music — and what came back?
+💬 If you were starting a writing course tomorrow, what would you want its AI policy to say?
 
 
-5. "The first half is decent. The second half is fantastic." Now what?
+3. A debut author took the free ISBN from both platforms. Now they want to get into bookshops.
 
-Posted in r/writing a few hours ago, 12 November, and it is the most useful structural problem this digest has carried in a fortnight, because the author has already thought past the obvious answer.
+Posted in r/selfpublish last night, 12 November, and it is a small question with an expensive answer hidden in it.
 
-Their situation: many revisions, what they believe is the final draft, and one piece of feedback that keeps coming back from readers — the first half is decent, the second half is fantastic. They know the top reply will be "start over", and they explain exactly why that does not work: almost everything that makes the second half land DEPENDS on the events of the first half. It is a payoff. Their fear is the right fear: readers who find the first half underwhelming will never reach the part everybody loves.
+Their situation: first novel out last week, ebook next week, listed on both Amazon and IngramSpark, horror and thriller, and now looking at local independent bookshops and asking how to approach them. They mention, in passing and apologetically, that they took the FREE ISBN from both — "due to being a pretty poor new author".
 
-Why this is more interesting than it looks. "The second half is better" is usually not a quality problem at all — it is a PROMISE problem. The second half is working because the first half built it; what readers are reporting is that the first half does not feel like it is going anywhere while it does that building. The fix is almost never to rewrite the setup, it is to make the setup read as consequential while it happens: an earlier question the reader wants answered, tension in scenes whose real job is groundwork, and some of the second half's energy shown early rather than only promised.
+That line is the thing to stop on, because it is the most common expensive mistake in self-publishing and almost nobody explains it before you make it.
 
-Which is the same shape as three items this digest ran in the last fortnight — the flat scene that has everything in it, the character who is funnier in your head, the "purple prose" complaint — all symptoms described accurately and all with their cause somewhere the label does not point.
+A free ISBN from a platform is not yours. It is assigned by that platform, which is recorded as the publisher of record on that edition — so a KDP free ISBN identifies an Amazon edition, and it cannot be carried into wide distribution. Taking a second free one from IngramSpark does not fix that; it creates a SECOND, separate edition of the same book, with a different identifier, a different publisher of record and separate sales records. Which is exactly the trap this digest carried on Sunday from a Canadian author who found they could not use a KDP hardcover ISBN on IngramSpark at all.
 
-Worth reading alongside it: Writers Helping Writers published a piece on 10 November on preparing yourself for feedback on a draft, which is the other half of this problem — knowing what to do with a note like this one is the skill.
+What it means practically for the bookshop question. A shop ordering through Ingram will order the Ingram edition, which is fine. What is not fine is being the publisher of record on neither edition when a shop asks who they are buying from, and finding that your Amazon edition and your Ingram edition look like two different books to every system that counts them. If you are early enough, buying your own ISBNs — one per format — and republishing under them is the cheapest version of this fix you will ever get.
 
-🔗 https://www.reddit.com/r/writing/comments/1xu3bir/what_do_you_do_when_beta_readers_tell_you_the/
+On the actual question: what a shop needs from you is trade terms, not enthusiasm. Returnability, a wholesale discount they recognise, availability through the channel they already order from, and a reason this particular book suits their shelves. One-paragraph introduction, one-line pitch, and the ordering details — not your blurb.
 
-💬 Has a reader ever told you the back half was the good half — and what did you change in the front?
+🔗 https://www.reddit.com/r/selfpublish/comments/1xurh03/does_anyone_have_any_tips_on_contacted_indie/
+
+💬 Did you buy your own ISBNs — and if you used a free one, has it cost you anything yet?
 
 
-6. 5,500 copies, then an agent came knocking — and now they are frightened
+4. Before you put a dog in your novel
 
-Posted in r/PubTips last night, 12 November, and it is the most complete self-publishing success story this digest has carried, told by someone who cannot enjoy it.
+From Jane Friedman's site yesterday, 12 November, by Jacqueline Sheehan — a psychologist and New York Times bestselling novelist — and it is a much better craft piece than the title suggests.
 
-The numbers, because they matter. They queried through 2025: SIXTY rejections, ONE full request, and that agent ghosted them and then left the agency. They believed in the book, had an editorial and marketing background, and self-published it — investing heavily in editing and design. Published in May. Five months later: 5,500+ COPIES SOLD, almost 1,000 ratings and reviews, a large library readership, people discussing it in Facebook book groups, and royalties making a significant difference to their family's finances. Mostly word of mouth and their own social media. Total ad spend: about $1,000.
+Her argument: a dog changes the direction of a novel, so give it a deliberate job rather than letting it sit in the background. Dogs perceive the world differently — through scent, and through acute sensitivity to other people's agitation — which makes them an instrument for showing what human characters are hiding. Her example from her own book: the dog positions herself, tense, BETWEEN two people during a confrontation, while the humans entirely miss what is happening.
 
-Then agents came to them. They signed with one two months ago for SUB RIGHTS ONLY — their own choice, because they were not ready to let go of the book. There is interest from one screen agent, and another screen agent who would be interested if it were traditionally published. Their agent is pushing for traditional publication and likes the second book enough to want a two-book deal.
+The four craft points. Give the dog a plausible presence — "a dog in fiction, just as in real life, is a commitment", and writers constantly forget theirs offstage. Learn actual dog body language, because ear, tail and torso positions mean specific things and readers who own dogs will know when you have got it wrong. Give each dog a distinct personality and a specific bond with the protagonist, as you would a human character. And let the dog be a CATALYST — the cause of a turning point rather than decoration.
 
-And here is the honest part. They are not celebrating, they are anxious. Two fears, both specific. First, giving away rights to a book they are deeply attached to and watching "someone else kill it after I figured out how to bring it to life" — the publisher-did-not-market-it stories they read on Reddit and Threads, which they acknowledge may be an echo chamber of negativity. Second, money: they have been reading how little even a six-figure deal amounts to. Against that they set the things self-publishing cannot give them — scale beyond what they can do alone, bookshops, and the respect of a traditionally published author, while adding, tellingly, that they are certain their own readers neither know nor care.
+The pitfalls are the commercially useful part. Neglect, so readers are left wondering where the dog went. Treating it as furniture. And killing it — she cites a man in a bookshop telling her he would not buy a book if the dog died. Whatever you think of that as criticism, it is a purchasing decision, and there are a lot of him.
 
-What makes it worth the room's attention. This is the exact decision the whole industry argument is about, being made by somebody with real numbers rather than a position. It also sits precisely opposite Wednesday's item here, where an author with 40 queries and zero requests gave up on trad publishing and went indie. Same week, same crossroads, traffic in both directions.
+🔗 https://janefriedman.com/before-you-include-a-dog-in-your-novel/
 
-🔗 https://www.reddit.com/r/PubTips/comments/1xtzsd7/pubq_i_got_an_agent_based_on_my_selfpublished/
+💬 Is there an animal in your book — and does it do anything the plot would miss if you cut it?
 
-💬 With 5,500 copies and royalties that matter, would you sign the two-book deal — and what would you need to see in it first?
+
+5. You had a brilliant idea. It turns out Dickens had it first.
+
+Posted in r/writing yesterday, 12 November, and it is the most relatable thing in today's sweep.
+
+The writer came up with a concept for a play: detectives interrogate a group about a murder, the audience votes at the interval on who should stand trial, act two is that trial, and at the end the audience votes on guilt. A genuinely good idea. Then they did some research and found it is essentially the premise of The Mystery of Edwin Drood — Dickens's unfinished last novel, whose famous stage adaptation has the audience vote on the murderer because Dickens died before telling anyone who did it.
+
+Their question is the real one: with endless stories already written, similar concepts feel unavoidable — so where is the line between "similar ideas" and "this is basically the same thing"?
+
+The answer worth having, in two parts. Legally and practically, a PREMISE is not ownable: ideas, plots and situations are free, and what copyright protects is the expression — the actual words, scenes and characters. Which is precisely the point Authors Alliance is arguing in today's lead item, from the other direction.
+
+And creatively, the overlap is usually good news. If a classic shares your premise, the premise WORKS — it has been tested on audiences for a century — and what you now know is which parts of your version have to be yours. Their play and Drood share a mechanic and nothing else: a different cast, a different crime, a different century, a different reason the audience is voting. Finding the precedent on day two is lucky. Finding it after writing it is a rewrite.
+
+🔗 https://www.reddit.com/r/writing/comments/1xug0c1/coming_up_with_a_concept_that_already_exists/
+
+💬 Have you ever found your idea already existed — and did you drop it, or make it properly yours?
+
+
+6. The "nice comment, let's talk on Discord" approach is now on three more platforms
+
+Posted in r/selfpublish yesterday, 12 November. On 4 November this digest carried a writer asking whether a pattern of friendly strangers on Threads was a scam. Here is the same pattern, from a different author, across three more places — which makes it worth saying plainly.
+
+What they describe. On Itch, where they publish game and tabletop material, somebody is going around asking developers casual personal questions — what games do you like — and then asking to move to Instagram, Discord or other socials. On Booksie, where they publish their own writing, the same shape: friendly feedback, then an offer to discuss ideas, always ON ANOTHER PLATFORM, even though Booksie has its own private messaging. On AO3, where they posted fanfiction and later originals, a normal comment, and when they replied, the same push to take it elsewhere.
+
+Their own description is the diagnostic: it is not rude and it is not sexual, it just rubs wrong, and they did not get these before. And they notice the detail that matters most — on some of these platforms they do not even have a profile, so there is nothing about them to have attracted anybody.
+
+The shape, named: the approach is not the scam. The MOVE is the scam. Every variety of this — romance fraud, crypto introductions, fake agents, fake foreign-rights offers — needs you off the platform that has moderation, reporting and a record, and onto one that does not. Which is why the friendliness is generic and the push is specific.
+
+What to do, and it is cheap: keep the conversation where it started. A genuine reader, a genuine collaborator and a genuine publishing professional can all say what they want in the first message, on the platform you are already on. Anybody who cannot has told you something.
+
+🔗 https://www.reddit.com/r/selfpublish/comments/1xu96pu/new_type_of_harrassement_comments/
+
+💬 Have you had one of these — and what did the opening message look like?
 
 
 —
-Scout notes: six items — three from news, trade press and the video lane, three from the community lanes, an even split. AI lane: NOT quiet — it carries the lead. The Publishers Weekly figures were checked against PW's own report page rather than taken from the newsletter that flagged them, and the comparison with last year's 63% comes from the same source. Item 4 names a website, which this digest has declined to do three times in the last fortnight — the difference is that this is a warning rather than a story about somebody's work being republished, and the naming rests on the site's own front page, read this morning, as well as on the author's account; what is NOT verified is stated inside the item. YouTube lane: the route is BACK — all six channel feeds answered, five on the first attempt and one on the second. Read against this run's own logs rather than memory: zero of six answered on Monday and on Tuesday, one of six yesterday, six of six today — so the lane had been running on channel pages and their floored relative dates for most of a fortnight. That matters beyond today: the feeds show exact publication times and they list posts the channel pages never carried. Two video items ran from it and three more were held — a Peter James interview, because Creative Penn interviews have run here six times in six weeks and this edition already carries that channel twice; a KDP Select versus wide episode, because it would have been the sixth Kindle+ and exclusivity item in three weeks; and a third day of the same Heart Breathings drafting series. Screen lane: swept and answered first time, but its best candidate — pro screenwriters on how they sold their first script — refused its body on three attempts, so the give-up rule applies and it is not written up from its title; that is the second day running the screen lane has lost an item that way. Routes: Writer Beware is permanently fixed in this run's fetch list and answered first time with the plain form and redirects followed; Publishing Perspectives failed again, the fifth day running; Elizabeth Spann Craig's blog returned 403 for a thirty-first consecutive day. A Jane Friedman item on Tin House moving to Substack was dropped because it is premium and only the announcement sentence is readable. Reddit: r/Screenwriting answered first time, the other three lanes on the second shape after a 429 each; two thread bodies needed a retry and one never answered.
+Scout notes: six items — three from news and trade press, three from the community lanes, an even split. AI lane: NOT quiet — it carries the lead and item 2. The lead was built from the Authors Alliance's OWN filing post rather than from the summary that pointed at it, and the brief count comes from two sources that agree ("52 filed in a week, nearly 30 backing the plaintiffs" from the Copyright Alliance, "more than 50" from Publishing Perspectives); no ruling on the summary judgment motions has been found, and this digest is not predicting one. Item 2's own source, the LA Times page, is not reachable from here — stated inside the item, with the facts taken from its syndicated version and trade coverage. Two things were held back rather than dropped silently: a seven-year, seven-book, 700-rejection querying account from r/PubTips, because that would be the fourth querying-outcome item in four days and the restraint is the point; and the third Vellum item in three days, a Self-Publishing with Dale news episode from yesterday leading on it — although the fact that it has now reached every authortube news show is itself the measure of how much that reversal mattered. YouTube lane: swept in full, and the route is intermittent rather than fixed — ONE of six feeds answered today against six of six yesterday, so the other five ran on channel pages. Nothing fresh clears the bar: an ALLi video from yesterday afternoon exists but the page route carries no description at all, so it could only be a bare title, and the two other fresh items were the Vellum episode above and a Creative Penn interview already held yesterday. One route note worth recording: the channel page today timed the Vellum episode at "5 hours ago" when yesterday's feed gave its publication as 11 November at 15:18 — the pages lag and the feeds do not, which is why the feeds are preferred whenever they answer. Screen lane: answered first time and produced item 2. Routes: Writer Beware answered first time again with the fixed form; Publishing Perspectives failed for a sixth consecutive day, so its coverage of the amicus briefs was reached by search rather than directly; Elizabeth Spann Craig's blog returned 403 for a thirty-second consecutive day. The October Global Fund and page rate were checked and are NOT out yet — Amazon publishes around the 15th, so that is next week's item, not today's. Reddit: r/selfpublish, r/writing and r/Screenwriting answered first time, r/PubTips on the third shape after two 429s; one thread body needed a retry and one never answered.
 
 —
 Curated daily for this community. Spotted something worth sharing?
