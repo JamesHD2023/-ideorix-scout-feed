@@ -1,126 +1,127 @@
-📚 Daily Writer's Scout — Saturday, 14 November 2026
+📚 Daily Writer's Scout — Sunday, 15 November 2026
 
-1. The editor impersonation scam is now the most-reported fraud at Writer Beware — two or three a day. Here is exactly how it runs.
+1. A CORRECTION, and it matters to your money: Kindle+ audio is NOT a separate pool. It is the same pot as your page reads.
 
-Victoria Strauss published this at Writer Beware last night, 13 November, and it is the most important thing in today's sweep because it follows one author's case from the first email to the wire transfer, with dates.
+On 8 November this digest told you that Kindle+ audiobooks get a SEPARATE royalty pool from ebooks. That was wrong, and I am correcting it from Amazon's own page, read this morning.
 
-This digest carried one author's version of this on 21 October — a real editor's name on a fake email address, an agent's name with one letter changed. This is the investigation behind it, and the scale is the news: Strauss says the Editor Scam is now the fraud most reported to Writer Beware, at TWO OR THREE REPORTS A DAY and hundreds in total, and that the operators use each stolen name for a few weeks before switching to another.
+What KDP's "Royalties in Kindle+" help page actually says. "The amount you earn from the KDP Select Global Fund will be determined based on your share of total pages read OR LISTENED TO by Kindle+ subscribers." And then, plainly: "You'll get ONE royalty payment for pages read and listened to in Kindle+." The Prior Months' Royalties Report shows "the Kindle+ royalties column for COMBINED pages read and listened."
 
-The sequence, as she documents it:
+So there is one Global Fund, one KENP measure covering both reading and listening, and one payment. Listening does not have its own pot.
 
-28 OCTOBER — an email from "Nick Whitney, Senior Editor" at "Sohopress", praising the writer's book in specific detail. The editor is a real person. The publisher is real, as Soho Press. The email address is Gmail, and the house name has lost its space.
-30 OCTOBER — the writer replies. The editor asks for the manuscript.
-3 NOVEMBER — the manuscript is sent, and the writer is REFERRED ON to an agent. "Betsy Amster" is a real agent. The email address has an extra "r" in her name.
-4 NOVEMBER — the agent reads the manuscript within HOURS and says it needs a comprehensive rewrite.
-5 NOVEMBER — a proposal arrives from the agent's company, Booklume: US$900 for a complete rewrite. A nudge follows on the 6th.
-7 TO 9 NOVEMBER — payment. Wire transfer, PayPal or a payment app are offered. The wire goes to a PERSONAL ACCOUNT held by a third party with no visible connection to Booklume or the "agent".
+Where the error came from, because it is instructive. Amazon's page ALSO says "Your Audible earnings are separate from Kindle+" — and the 6 November KDP update, which this digest ran correctly, said Audible Plus listening had been taken out of KENP reporting. Both true. What is separate is AUDIBLE. What is combined is Kindle+ listening and Kindle+ reading. The 8 November item compressed those two facts into one wrong sentence and I repeated it.
 
-What saved this writer: they contacted the REAL Betsy Amster, who confirmed it was a scam. No money lost. About two weeks gone.
+Why the difference is worth your attention rather than just mine. If audio had its own pool, a strong audio month could not dilute what your page reads are worth. Because it is one pool, every page LISTENED by a Kindle+ subscriber is dividing the same monthly money as every page READ. The per-page rate now moves on the combined volume of both.
 
-The tells, which are the part to keep. A Gmail or other non-company address. A publisher or agent name altered by a space or a single letter. A one-page company website with no staff, no client list, four books of which two have dead Amazon links, and no mention of the agent whose name is in the signature. Pressure to decide quickly. And the phrasing: Strauss names the stock AI openers and closers — "I recently came across your book", "Warm regards" — the words "particularly", "especially" and "intriguing", and replies that begin "thoughtful response" or "thoughtful message". She also notes Booklume.org was registered on 22 August 2026 to a registrant in Oyo, Nigeria, with no domain privacy, and that the account holder's name points the same way.
+Three more mechanics from the same page, all useful and none of them widely known. You are paid the FIRST TIME a subscriber reads or listens to a given page — if they return to that page in the same or a different format it counts as re-reading and earns nothing more, and listening first then reading second is also re-reading. If a reader uses Immersive Reading and the KENP rates differ between the formats, the page pays at the HIGHER rate. And Kindle+ audiobooks are currently available for distribution in the US marketplace only.
 
-Two things worth saying plainly. A real acquiring editor does not refer you to a paid rewrite service, and a real agent does not charge you to fix your book — that is the whole scam in one sentence. And wire transfers are effectively irreversible, which is why they are the method of choice.
+Finally, the figure, because today is the 15th and KDP's own page says monthly KENP numbers "will be finalized near the 15th of the following month". The widget at the foot of that page reads: Total KDP Select Author Earnings, OCTOBER 2026 — $71.1 MILLION. Treat that as what it says it is — total KDP Select author earnings, which is not identical to the Global Fund line Amazon announces in the community forum, and the October per-page rate itself was not published anywhere I could find this morning. October is also the first month that includes Kindle+ listening, so when the rate does land it will not be directly comparable with September's.
 
-The check costs one email: look up the agent or editor on their employer's own website and write to the address PUBLISHED THERE. That is what worked here.
+🔗 https://kdp.amazon.com/en_US/help/topic/G201541130
 
-🔗 https://writerbeware.blog/2026/11/13/the-editor-impersonation-scam-from-solicitation-to-source/
-
-💬 Have you had one of these? What was the name they borrowed, and what gave it away?
+💬 Has your KENP number behaved strangely since the Kindle+ change — and does your report show the combined column?
 
 
-2. If you wrote in Raptor Write, your drafts are probably not gone
+2. Seven ideas out of SelfPubCon, and four of them come with numbers
 
-On Monday this digest led with Raptor Write closing on 10 November and told readers to export that day. It has closed — the page now reads "Service Retired • November 10, 2026". I went back to it this morning, and it has changed: there are now TWO recovery routes that did not exist in the closing notice.
+ALLi published its highlights report last night, 14 November, covering 13 sessions from the Self-Publishing Advice Conference that ran online from 16 to 19 October. The conference weekend was free; the replays are now behind membership or a pass, so the free report is what is readable today — which is why this runs on the report's date rather than the conference's.
 
-If you used the ORIGINAL pre-1.0 version, your drafts were never on their server at all. They were saved in your own browser's storage — Local Storage and IndexedDB — on the machine you wrote on. The site now runs a scanner on that page that finds them and packages them into a ZIP of text and markdown chapters plus a full backup JSON. The catch is the important bit: browser storage is tied to the EXACT browser and the EXACT computer. If you wrote on a laptop and are reading this on a desktop, the scanner finds nothing — you have to open that page on the machine you wrote on, in the browser you wrote in.
+The seven, with the specifics worth keeping:
 
-They also publish a manual route, which is worth knowing for any browser-based writing tool: press F12 (Cmd-Option-I on a Mac), open the Application or Storage tab, and look under IndexedDB → project-store → kv → current_project, or under Local Storage for keys named projects or storyContent. Copy the text out into anything that saves files.
+OWN THE READER RELATIONSHIP — Jane Friedman's keynote, arguing that book sales should be one income stream among several and that what you own is the reader, not the title. Her example: Tim Ferriss's sales drop was his publisher's problem, because he still had his readers.
 
-And if you used RAPTOR WRITE 1.0, the server-stored accounts, projects, chapters, worksheets and custom prompts were exported to a central archive before shutdown. You request yours by emailing Dean at the Future Fiction Academy — dean@futurefictionacademy.com — from the address on your account.
+MAKE SURE AI CAN FIND YOU — Orna Ross on reader reach: a clear website, the SAME self-description everywhere, and a separate page per genre. The test is one you can run in a minute — ask an AI assistant to recommend a book like yours and see whether you come up.
 
-Why it is worth a second item rather than a footnote. Monday's advice was act now, and that was right. The quieter lesson is the one underneath: a tool that stores your work in your browser is storing it somewhere you can still reach after the company is gone, and a tool that stores it on a server is not. Most writers never ask which kind they are using, and the answer decides whether a shutdown is an inconvenience or a loss.
+WRITE THE STORY ABOUT YOUR STORY — Tayo Olarewaju launched a UK superhero comic direct, without Amazon, and gathered 1,352 EMAIL SUBSCRIBERS IN THREE MONTHS. His challenge to new writers is a good one: pitch it to me first, because "you haven't sold the manuscript to me".
 
-🔗 https://www.raptorwrite.com/redirect.html
+YOU HAVE MORE THAN ONE LOCAL MARKET — Penny Sansevieri, 25 years in book marketing: local means where you live, where you are FROM, where the book is SET, and where your readers are. One author promoted her novel in the Oregon town the book is set in, and the town invited her to do signings.
 
-💬 Do you know where your current writing tool actually keeps your words — your machine, or theirs?
+TEST THE IDEA BEFORE YOU GIVE IT A YEAR — Kickstarter's Oriana Leckert with Russell Nohelty and Day Leitão. The figure that will stop people: Nohelty's six retailer-published books earned under $1,000 IN TOTAL, while his Kickstarter campaigns made $10,000 EACH. Leitão simply asked her followers whether a special edition should have gilded or printed edges; they chose printed.
 
+KEEP THE HUMANS DOING THE HUMAN STUFF — Chelle Honiker of Indie Author Magazine runs AI agents for admin across eight brands while people write and edit every article. The detail that makes the point: her agent spotted that Meta had quietly changed her midlife paranormal ads to target men.
 
-3. 133 ARC readers. 12 reviews. Here are the numbers.
+READERS CONNECT WITH PERSPECTIVE, NOT INFORMATION — Nicholas Kotar, arguing that as AI produces more content the craft of deciding what is WORTH SAYING becomes the advantage. He also dropped work making up 39% of his monthly income because it was burning him out, and says his income recovered within a month.
 
-Posted in r/selfpublish yesterday, 13 November, by a debut contemporary romance author on her launch day, and it is the most useful set of marketing figures this digest has carried in weeks because she ran TWO routes side by side and counted both.
+🔗 https://selfpublishingadvice.org/selfpubcon26-highlights-7-ideas-from-the-2026-self-publishing-advice-conference/
 
-ROUTE ONE: NetGalley, on a one-month Co-Op rather than the full package, because of budget. She got 93 REQUESTS. She rejected 20 of them — on 0% feedback rates or negative comments left by other authors in the co-op, which is itself a useful detail about what the co-op shows you. Of the 73 she accepted, she received FOUR reviews: three 4-star and one 3-star. Only two were crossposted to Goodreads.
-
-ROUTE TWO: a second ARC platform, gifted by a friend, distributed through BookFunnel. 80 SIGN-UPS, of which 60 opened the onboarding email and downloaded the book. From those she got TEN Goodreads reviews: six 5-star and four 4-star. Eight of the sign-ups were her own social media followers.
-
-So: 133 active readers, 12 reviews, and the free-to-her route produced more than twice as many as the paid one. Her Goodreads rating is 4.33, which she rightly calls strong for a debut, and she is not sure she will use NetGalley again for book two in March.
-
-Two more figures she volunteers without being asked, and they are the honest part. One reviewer gave her 3 stars on NetGalley and 2.5 on Goodreads while saying they do not enjoy romance and the book made them cry. And after six months of promotion — 518 Instagram followers, 119 Facebook, 245 TikTok, posting five times a week — she launched with SEVEN pre-orders.
-
-What to take from it. ARC reviews convert at roughly 9% of readers who actually receive the book, on this one honest sample. A reader who came through your own audience is worth several who came through a catalogue. And "0% feedback rate" is a column you can filter on before you give your book away.
-
-🔗 https://www.reddit.com/r/selfpublish/comments/1xvausz/my_netgalley_and_arc_experience/
-
-💬 If you have run ARCs — how many readers did it take to get one review, and which route did it come from?
+💬 Which of the seven would actually change something in your next three months?
 
 
-4. Her memoir is not finished. She has an agent anyway — because non-fiction does not sell the way fiction does.
+3. He changed the pen name on a published book the way the support bot told him to. KDP terminated his account.
 
-Posted in r/PubTips yesterday, 13 November. The headline is an offer of representation; the thing actually worth knowing is WHY it was possible, because it is the single biggest structural difference between fiction and non-fiction publishing and a great many writers have never been told it.
+Posted in r/selfpublish yesterday evening, 14 November, and whatever the cause turns out to be, the warning is worth two minutes.
 
-FICTION sells on a finished manuscript. NON-FICTION and memoir sell on a PROPOSAL — a formal document that argues the book, the market, the comparable titles and the author's standing, plus sample chapters. The book does not have to exist yet.
+What he says happened. He wanted to adjust the author name on his book — a pen name. He asked KDP's AI support bot how, and did what it told him. The change sat submitted for two or three days. Then a termination notice arrived. He appealed. The ban was upheld. He has no idea what the violation was, and says so: "I have no idea what I did."
 
-What she sent: a formal non-fiction book proposal, a synopsis, and three completed chapters. She is not famous and has no platform. She notes that the usual advice is for non-celebrity memoirists to finish the book first — and she tried anyway.
+His own conclusion is the item: "Please be careful making changes to books that you've already hit publish on."
 
-Her timeline, which is useful on its own: 6 September, first 10 queries, her absolute top choices. Early October, another 10, after tweaking the query letter. Two weeks ago, another 14. Thirty-four in total. Results: two full requests, one light revise-and-resubmit on two of six chapters with the suggestion an offer could follow, seven rejections, one personalised rejection from an agent who had just signed something similar, and one offer.
+What this is and is not. It is one author's account, and we do not know what KDP saw — an author-name change on a live book can look, from the outside, like exactly the pattern used to hijack a listing or to pass a book off as someone else's work, and account actions are taken on signals we cannot see. What is NOT in doubt is the position he is in: no explanation, no route back, and the change was made through the tool's own interface after asking the platform's own support channel.
 
-The offer came from her first batch of ten — a request and a call SIX WEEKS after querying, "just as I was beginning to give up hope on that first batch". Then three more weeks to get the call in the diary.
+Two practical things, both cheap. First, treat a support bot's answer as information, not permission — if a change to a published book touches your identity on it (author name, pen name, imprint), ask a human and keep the reply. Second, this is the fifth platform-support failure this digest has carried in three weeks, after KDP's restated page reads, ACX enrolment, Barnes & Noble non-payment and Goodreads' edition refusal, and the common shape has not changed: the author is the only party keeping a record. Keep screenshots of what the interface offered you and what support told you, before you click.
 
-And the grown-up note she adds, which is the reason this is an item: she had mixed feelings about that delay, and is still weighing it, "because I know the working relationship matters as much as the excitement of getting an offer". Communication has improved while contract questions are being asked, and she says the contract looks good so far.
+And if your whole business is one account, today is a good day to ask what you would do on the morning it closed.
 
-For indie authors the proposal point still matters. The proposal is the document that makes you argue your market, your comps and your reader before you write 80,000 words — and that is exactly the work a self-publisher skips and then pays for later.
+🔗 https://www.reddit.com/r/selfpublish/comments/1xwca6l/like_others_i_was_randomly_terminated_unsure_of/
 
-🔗 https://www.reddit.com/r/PubTips/comments/1xvcsec/discussion_agent_offered_representation_for/
-
-💬 If you write non-fiction or memoir — have you ever written a formal proposal, and did it change the book?
+💬 Do you have a copy of your books, your reader list and your sales records somewhere that is not the platform?
 
 
-5. 60,000 words in, and the ages do not work
+4. A second advance, no agent, and a publisher who deals mostly with agented authors
 
-Posted in r/writing yesterday, 13 November, as a rant, and it carries a better practical lesson than most craft articles.
+Posted in r/PubTips on 13 November, and it is the kind of question almost nobody answers honestly in public.
 
-They took the standard advice — get the story down, do not get hung up on details in a first draft. Sixty thousand words later they found a continuity error. Easy to correct on its own, except that "if you pull at that thread, literally all the twists and turns in the book come unravelled".
+Their position: a book published this year with a large national non-fiction publisher — not Big Five, but the biggest in their country. Advance: 5,000. They are a few hundred short of EARNING OUT. They have just pitched the next book, and the publisher is progressing to an offer and a contract. They have no agent. The new book needs more research than the last. Their question is simply what to keep in mind, and their honest admission is that the admin side makes them feel clueless.
 
-So they did the sensible thing and started building a timeline — not to put in the book, just to keep themselves straight. The timeline does not work. The book spans decades, and they spent 25 minutes trying to establish how old one character was when a particular thing happened before giving up and going to work.
+The things worth knowing before that conversation, and they are all leverage they already have:
 
-Their own conclusion is the item: if a specific timeline MATTERS to your story, work it out before you start writing, whether you plot or not.
+EARNING OUT IS THE ARGUMENT. An author whose advance has nearly been covered by royalties has demonstrated that the publisher's risk on them is low. That is the single strongest fact in the room and it belongs in the first sentence.
 
-Worth being precise about what this does and does not argue against. "Write the draft, fix it later" is good advice about PROSE — you cannot sentence-polish your way to a finished book. It is bad advice about FACTS, because a fact is load-bearing: ages, dates, who knew what and when, how long a journey takes. Prose is replaceable, structure is not, and a wrong date in chapter three can move thirty scenes.
+RESEARCH IS A COST, AND COSTS ARE NEGOTIABLE SEPARATELY. A book needing travel, archive access, interviews or permissions costs money before it earns any, and an advance is partly there to fund the writing. It is reasonable to say what the research will cost and ask for the advance to reflect it — or to ask for an expenses line, which some publishers will grant more readily than a bigger advance.
 
-The cheap version, if you are mid-draft right now: one page, one column of dates, one row per character with their age at each. It is twenty minutes and it is the difference between a correction and an unravelling.
+THE ADVANCE IS NOT THE ONLY NUMBER. Royalty rates, the payment SCHEDULE (how much on signature, on delivery, on publication), territory, audio and translation rights, and the option clause on book three are all terms, and some are worth more over five years than a few thousand up front.
 
-🔗 https://www.reddit.com/r/writing/comments/1xv9wue/you_ever_just_60k_words_in_and_found_a_hole_a_rant/
+AND THE AGENT QUESTION IS LIVE RIGHT NOW. A publisher moving to offer on a second book is the easiest moment an author ever has to attract an agent, because the deal is already there — many will take on a client to negotiate a contract in hand. An agent's commission on a 5,000 advance is small; what they are selling here is the rest of the contract.
 
-💬 Do you keep a timeline — and has a date or an age ever broken something late in a draft?
+🔗 https://www.reddit.com/r/PubTips/comments/1xv834q/pubtipnegotiating_next_advance/
+
+💬 If you have negotiated a contract yourself — what did you ask for that you nearly did not?
 
 
-6. The skill that makes podcast interviews easy is improv, and it has actual techniques
+5. The sagging middle, from inside it
 
-From Writer's Digest yesterday, 13 November, by media coach Paula Rizzo, and it is the rare interview-advice piece with methods in it rather than encouragement.
+Posted in r/writing yesterday, 14 November, and it is the third structural problem this digest has carried in five days, which is itself the interesting part.
 
-The technique worth stealing is what she calls the ACCORDION METHOD: prepare your key points, and for each one have a SHORT, a MEDIUM and a LONG version ready. You are not memorising answers — you are choosing a length to fit the moment. That single habit is what separates a guest who sounds relaxed from one who gives a four-minute answer to a thirty-second question.
+Where they are: Act 1 of a Second World War spy love story finished at 28,000 words with what they call a satisfying culmination. Act 3 they already know. Act 2 is the problem — two threads, a love affair whose principals have only just met in person and a cat-and-mouse spy plot, which have to braid together and build towards what Act 3 needs. They are feeling their way forward and finding it tricky.
 
-The rest, briefly. "Yes, and" — acknowledge what the interviewer actually asked, then add to it and bridge to your point; her example is validating a worry about cost before mentioning the free and low-cost options in your book. Treat it as a conversation and listen rather than recite. If you misspeak, pause, fix it in a few words and move on — no extended backtracking, no apologising. Stay present instead of drafting your next answer while they are still talking, and let yourself pause before replying. Follow the energy: if something lands, go further into it. And frame the whole thing as sharing what you know with the listeners rather than selling your book, which she says is the thing that settles nerves.
+The observation they make in passing is the best thing in the post: it is funny how these structural patterns turn up even when you are not consciously using any writing theory.
 
-Why it belongs in a self-publishing digest: podcasts are the one promotional channel genuinely open to indie authors at any level, and the difference between a guest who gets invited back and one who does not is almost never the book.
+Which is the useful frame. A sagging middle is not a failure of invention, it is usually a shortage of PRESSURE — Act 1 raised a question and Act 2 has to keep raising the cost of answering it. With two threads the specific trick is that they must interfere with each other: the romance should make the spy work harder, and the spy work should make the romance more dangerous, so that every advance in one is a complication in the other. Two plots running politely in parallel is what sagging feels like from the inside.
 
-🔗 https://www.writersdigest.com/improv-the-hidden-talent-that-makes-authors-perfect-for-media-interviews
+Put it beside Thursday's item here, where beta readers told a writer the second half was far better than the first, and Friday's, where a writer 60,000 words in found the timeline would not hold. Three different writers, three different stages, and all three problems live in the middle of the book — the part nobody plans and everybody has to write.
 
-💬 What is the question you dread in an interview — and have you prepared an answer for it yet?
+🔗 https://www.reddit.com/r/writing/comments/1xw363p/the_sagging_middle_act/
+
+💬 How do you handle your middle — plan it in advance, or find it on the way through?
+
+
+6. Why your pitch gets ignored: 250 words, taken apart
+
+Josh Bernoff published this on 13 November and it is free training for anybody who emails bookshops, reviewers, podcasters or journalists — which is every self-published author eventually.
+
+He reproduces a PR pitch he received in full and lists what is wrong with it. The flaws are worth reading as a checklist against your own: it was sent to someone whose beat it does not match — he writes about writing and books, not startups; after 250 words he still cannot tell what the company does; the news is not news; the geography is irrelevant to the reader; the phrasing is stock ("I built a business around AI", a team "rowing in the same direction"); and the underlying premise — I had this problem so others must — is both a cliché and, he notes, a common cause of failure.
+
+His verdict on the AI question is the line to carry: using AI to write a pitch "scales your irrelevance". The problem was never the prose, it was that the pitch should not have been sent to him at all, and generating it faster only sends more of them.
+
+One honest tension, since this digest ran the other side of it on Tuesday. Bernoff cites a Pangram detection as evidence the email was AI-written — and Tuesday's item here, from Bernoff himself, made the point that detectors are LEAST reliable on short texts, which a 250-word email certainly is. Both of his observations can stand: the email reads like machine output, and a detector score on 250 words is weak evidence. The reason the pitch failed does not depend on who or what typed it.
+
+The transferable rule, in one line: before you write a word of a pitch, establish that this specific person covers this specific kind of thing — and then say in your first sentence what the thing actually is.
+
+🔗 https://bernoff.com/blog/250-words-of-pr-drivel
+
+💬 What is the best pitch you have ever sent — and what made the person say yes?
 
 
 —
-Scout notes: six items — three from news and trade press, three from the community lanes, an even split. AI lane: QUIET TODAY. Both query shapes were run, the news-shaped one and the one naming the tools, and neither returned anything dated to the last 48 hours; the only AI content in today's edition is the scam's stock AI phrasing in item 1, which is a fraud tell rather than a development. Two items were taken despite the ledger flagging them, and both for stated reasons. Item 1 shares its subject with an author's own account of the same scam here on 21 October — this is Writer Beware's investigation behind that anecdote, with the money route, the scale and the registration details, and the earlier item is cited in the body. Item 2 shares its subject with Monday's lead, and is the follow-up the 45-day rule allows: the site has CHANGED since Monday and now carries two recovery routes that did not exist in its closing notice, both read off the page this morning. Item 4 was taken for the proposal fact, not as another querying-stats post — that would have been the fifth in a week, and one was held yesterday for exactly that reason. YouTube lane: nothing fresh today. All six feeds failed four attempts each, the sixth was retried four more times by hand and returned 404 every time, and all six channel pages were read; everything inside the seven-day gate had already run here or was held earlier this week, including an ALLi video whose only available detail is its title. Screen lane: it took SIX request shapes to reach it — four 429s, then a 403 served as a 190 KB block page, then an answer — and nothing cleared the bar: the two freshest threads were a one-line structure question with no discussion in it and a treatment posted for critique. Routes: Writer Beware answered first time; Publishing Perspectives failed for a seventh consecutive day; Elizabeth Spann Craig's blog returned 403 for a thirty-third consecutive day. Reddit: r/selfpublish and r/writing answered first time, r/PubTips on the fourth shape after three 429s, r/Screenwriting on the sixth; two thread bodies needed a retry.
+Scout notes: six items — three from news and trade press, three from the community lanes, an even split. AI lane: QUIET TODAY on new developments. Both query shapes were run and neither returned anything inside 48 hours; the AI content in this edition is secondhand — a conference session on AI findability in item 2, the AI support bot in item 3, and a detector claim in item 6 — rather than a development. The lead is a CORRECTION of this digest's own 8 November item, made from Amazon's own help page read this morning, with the likely source of the error named; if you acted on that item, the thing to re-read is which pool your audio listening is paid from. The October figure in the lead is quoted as what the page calls it, total KDP Select author earnings, and is explicitly NOT presented as the Global Fund line or the per-page rate — neither of which was published anywhere reachable this morning, which was checked rather than assumed. Item 2 follows the gate's rule for a development whose source predates the window: the conference ran 16 to 19 October, the report is dated 14 November, the report is what is linked, and the conference dates are stated in the item. Item 3 is one author's account of an account termination and says so inside the item, including what we cannot know about what the platform saw. YouTube lane: nothing fresh today. All six feeds failed four attempts each — one returned a 500 rather than a 404, which is the same outcome — and all six channel pages were read; every video inside the gate had already run here or was held earlier in the week. Screen lane: answered on the third request shape after two 429s, and nothing cleared the bar — the freshest threads were a bare one-line question about selling a first screenplay after fifty, which this digest will not write up from a title, and a feature posted for critique. Routes: Writer Beware answered first time; Publishing Perspectives failed for an eighth consecutive day and is now search-only in practice; Elizabeth Spann Craig's blog returned 403 for a thirty-fourth consecutive day. Reddit: r/selfpublish, r/writing and r/PubTips all answered first time, r/Screenwriting on the third shape; one thread body needed a retry.
 
 —
 Curated daily for this community. Spotted something worth sharing?
