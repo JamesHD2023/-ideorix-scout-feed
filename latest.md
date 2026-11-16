@@ -1,127 +1,98 @@
-📚 Daily Writer's Scout — Sunday, 15 November 2026
+📚 Daily Writer's Scout — Monday, 16 November 2026
 
-1. A CORRECTION, and it matters to your money: Kindle+ audio is NOT a separate pool. It is the same pot as your page reads.
+1. 🤖 Australia's authors have launched a national campaign: no training on our work without permission and payment
 
-On 8 November this digest told you that Kindle+ audiobooks get a SEPARATE royalty pool from ebooks. That was wrong, and I am correcting it from Amazon's own page, read this morning.
+The Australian Society of Authors announced this a few hours ago, early on 16 November, with Australian creative industry and media organisations behind it. It is called NOT AI'S TO TAKE, and it is the clearest single ask any author body has made on this subject.
 
-What KDP's "Royalties in Kindle+" help page actually says. "The amount you earn from the KDP Select Global Fund will be determined based on your share of total pages read OR LISTENED TO by Kindle+ subscribers." And then, plainly: "You'll get ONE royalty payment for pages read and listened to in Kindle+." The Prior Months' Royalties Report shows "the Kindle+ royalties column for COMBINED pages read and listened."
+The demand, in their words rather than mine: AI companies should need PERMISSION, and AGREED PAYMENT, before using Australian creative work to train their models — and the Australian Government should hold firm on its commitment to the creative industries.
 
-So there is one Global Fund, one KENP measure covering both reading and listening, and one payment. Listening does not have its own pot.
+The argument they are making, and it is a good one to borrow whatever country you are in. Australian businesses already PAY to use copyright-protected music, books, films, journalism and art. The campaign's position is that major AI companies are seeking ways to use the same material without asking permission or negotiating with the industries they are drawing on. The campaign site puts the sector at $70.3 BILLION to the Australian economy and almost 600,000 WORKERS — I checked those figures on the campaign's own page this morning rather than take them from the write-up.
 
-Where the error came from, because it is instructive. Amazon's page ALSO says "Your Audible earnings are separate from Kindle+" — and the 6 November KDP update, which this digest ran correctly, said Audible Plus listening had been taken out of KENP reporting. Both true. What is separate is AUDIBLE. What is combined is Kindle+ listening and Kindle+ reading. The 8 November item compressed those two facts into one wrong sentence and I repeated it.
+What an author can actually do, which is why this leads rather than gets a mention. There are four things on the site, and they take minutes: SIGN the petition; SEND A LETTER TO YOUR MP straight from the page — they ask you to do it even if you have written before; TAKE THE POLL; and DOWNLOAD THE TOOLKIT to share with your own networks. No deadline is stated.
 
-Why the difference is worth your attention rather than just mine. If audio had its own pool, a strong audio month could not dilute what your page reads are worth. Because it is one pool, every page LISTENED by a Kindle+ subscriber is dividing the same monthly money as every page READ. The per-page rate now moves on the combined volume of both.
+Two honest notes. The campaign names no company and no minister, so this is pressure on a policy direction rather than a specific bill — and the ASA explicitly frames it as about FOREIGN AI using Australian work, which is a political framing as much as a legal one. And this is the same question the OpenAI case is being argued over in New York, which this digest covered on Friday: there, an authors' organisation went to court on the OTHER side, arguing that a broad "market dilution" harm would hurt individual authors most. You can be for permission-and-payment and still think that case is the wrong instrument. It is worth knowing both are happening in the same month.
 
-Three more mechanics from the same page, all useful and none of them widely known. You are paid the FIRST TIME a subscriber reads or listens to a given page — if they return to that page in the same or a different format it counts as re-reading and earns nothing more, and listening first then reading second is also re-reading. If a reader uses Immersive Reading and the KENP rates differ between the formats, the page pays at the HIGHER rate. And Kindle+ audiobooks are currently available for distribution in the US marketplace only.
+🔗 https://www.asauthors.org.au/news/not-ais-to-take-join-our-campaign/
+🔗 https://nottheirstotake.com.au/
 
-Finally, the figure, because today is the 15th and KDP's own page says monthly KENP numbers "will be finalized near the 15th of the following month". The widget at the foot of that page reads: Total KDP Select Author Earnings, OCTOBER 2026 — $71.1 MILLION. Treat that as what it says it is — total KDP Select author earnings, which is not identical to the Global Fund line Amazon announces in the community forum, and the October per-page rate itself was not published anywhere I could find this morning. October is also the first month that includes Kindle+ listening, so when the rate does land it will not be directly comparable with September's.
-
-🔗 https://kdp.amazon.com/en_US/help/topic/G201541130
-
-💬 Has your KENP number behaved strangely since the Kindle+ change — and does your report show the combined column?
+💬 Would you pay attention to a "trained with permission" label on an AI tool — or has that ship sailed?
 
 
-2. Seven ideas out of SelfPubCon, and four of them come with numbers
+2. 🤖 "I think an agent fed my manuscript to AI"
 
-ALLi published its highlights report last night, 14 November, covering 13 sessions from the Self-Publishing Advice Conference that ran online from 16 to 19 October. The conference weekend was free; the replays are now behind membership or a pass, so the free report is what is readable today — which is why this runs on the report's date rather than the conference's.
+Posted in r/PubTips in the early hours, 16 November, on a throwaway account, and it is the AI story nobody had thought to worry about yet.
 
-The seven, with the specifics worth keeping:
+What happened, as they tell it. An agent requested a call, then kept several authors waiting — one for weeks; this writer only a few days. The call was very short. It was a revise-and-resubmit. And the agent COMPLIMENTED THEM ON SOMETHING THAT DOES NOT HAPPEN IN THE BOOK — not a misremembering, they say, but nothing even resembling it. The revision notes were equally strange: a couple of hundred words of tweaks to one chapter that made no sense in the context of the story. The rest of the call felt like the agent was interviewing them.
 
-OWN THE READER RELATIONSHIP — Jane Friedman's keynote, arguing that book sales should be one income stream among several and that what you own is the reader, not the title. Her example: Tim Ferriss's sales drop was his publisher's problem, because he still had his readers.
+Their conclusion is in the title, and their evidence for it is that one compliment: "It felt like an AI hallucination. Even if someone was skimming, I'd be shocked if they came to that conclusion about what was happening in the book."
 
-MAKE SURE AI CAN FIND YOU — Orna Ross on reader reach: a clear website, the SAME self-description everywhere, and a separate page per genre. The test is one you can run in a minute — ask an AI assistant to recommend a book like yours and see whether you come up.
+What makes this worth the room's attention rather than a vent. They did the due diligence. A legitimate agency, a good reputation in querying groups, clean on Publishers Marketplace, nothing in the whisper networks, sales that check out. And there is no way to establish what actually happened — an agent who skimmed badly, confused two manuscripts, or ran it through a summariser all produce the same call. That is the real finding: a writer can do everything right and still have no way to tell, and no recourse either way.
 
-WRITE THE STORY ABOUT YOUR STORY — Tayo Olarewaju launched a UK superhero comic direct, without Amazon, and gathered 1,352 EMAIL SUBSCRIBERS IN THREE MONTHS. His challenge to new writers is a good one: pitch it to me first, because "you haven't sold the manuscript to me".
+They are not naming the agent, and neither is this digest. They also say they were afraid to post at all, in case the agent saw it and they got blacklisted — which is its own comment on the power balance.
 
-YOU HAVE MORE THAN ONE LOCAL MARKET — Penny Sansevieri, 25 years in book marketing: local means where you live, where you are FROM, where the book is SET, and where your readers are. One author promoted her novel in the Oregon town the book is set in, and the town invited her to do signings.
+Two practical thoughts, offered as thoughts. If a call produces notes that do not match your book, ASK A SPECIFIC QUESTION about a scene only a reader would know — politely, as clarification. And whatever the answer, it is information about whether this person has read your work, which is the only thing you are actually trying to find out before signing a long-term contract with them.
 
-TEST THE IDEA BEFORE YOU GIVE IT A YEAR — Kickstarter's Oriana Leckert with Russell Nohelty and Day Leitão. The figure that will stop people: Nohelty's six retailer-published books earned under $1,000 IN TOTAL, while his Kickstarter campaigns made $10,000 EACH. Leitão simply asked her followers whether a special edition should have gilded or printed edges; they chose printed.
+🔗 https://www.reddit.com/r/PubTips/comments/1xxcr7p/discussion_i_think_an_agent_fed_my_manuscript_to/
 
-KEEP THE HUMANS DOING THE HUMAN STUFF — Chelle Honiker of Indie Author Magazine runs AI agents for admin across eight brands while people write and edit every article. The detail that makes the point: her agent spotted that Meta had quietly changed her midlife paranormal ads to target men.
-
-READERS CONNECT WITH PERSPECTIVE, NOT INFORMATION — Nicholas Kotar, arguing that as AI produces more content the craft of deciding what is WORTH SAYING becomes the advantage. He also dropped work making up 39% of his monthly income because it was burning him out, and says his income recovered within a month.
-
-🔗 https://selfpublishingadvice.org/selfpubcon26-highlights-7-ideas-from-the-2026-self-publishing-advice-conference/
-
-💬 Which of the seven would actually change something in your next three months?
+💬 Has anyone ever described your book back to you in a way that proved they had not read it?
 
 
-3. He changed the pen name on a published book the way the support bot told him to. KDP terminated his account.
+3. A $29.95 ad service, taken apart with its own evidence
 
-Posted in r/selfpublish yesterday evening, 14 November, and whatever the cause turns out to be, the warning is worth two minutes.
+Posted in r/selfpublish yesterday, 15 November, and it is the most carefully documented consumer review this digest has carried. The author says every figure comes from the company's own site, its emails to them, and the dashboards they could see, and that they have screenshots and will share them with anyone who asks.
 
-What he says happened. He wanted to adjust the author name on his book — a pen name. He asked KDP's AI support bot how, and did what it told him. The change sat submitted for two or three days. Then a termination notice arrived. He appealed. The ban was upheld. He has no idea what the violation was, and says so: "I have no idea what I did."
+The service is AnybookSEO, advertised on Facebook, from $29.95 for a month. Its site promises that "Real People Manage Every Campaign" and that "every book listing and every platform is checked by a real member of our team before promotion starts", with promotion across Google, Facebook, Instagram, social media and partner websites.
 
-His own conclusion is the item: "Please be careful making changes to books that you've already hit publish on."
+What arrived: a metrics link, routed through a free URL shortener. No ad account access, no links to the ads, nothing checkable. This author runs their own Meta ads and knows you can pull a direct link or preview for any ad, so they asked where theirs were. They were told these are "advertising placements across platforms, rather than a fixed set of public social-media posts", and then sent three images as proof — which, they say, look AI-generated and none of which they could find running anywhere.
 
-What this is and is not. It is one author's account, and we do not know what KDP saw — an author-name change on a live book can look, from the outside, like exactly the pattern used to hijack a listing or to pass a book off as someone else's work, and account actions are taken on signals we cannot see. What is NOT in doubt is the position he is in: no explanation, no route back, and the change was made through the tool's own interface after asking the platform's own support channel.
+Then the traffic, and this is the part worth reading twice. Day one: nothing all day, then a burst of about 104 clicks at the end of the day. Day two: nothing, then about 99. Day three: the same. 302 clicks in three bursts. Their own universal book link, a completely separate set of analytics, showed the SAME bursts — and showed 179 of 493 clicks, 36%, coming from countries its tool groups as "Other". The shortener's own statistics report device, browser and operating system but nothing about where a click came from, and its OS breakdown lists iOS 9.3, 11.1, 12.4 and 12.5 — versions from 2016 to 2020.
 
-Two practical things, both cheap. First, treat a support bot's answer as information, not permission — if a change to a published book touches your identity on it (author name, pen name, imprint), ask a human and keep the reply. Second, this is the fifth platform-support failure this digest has carried in three weeks, after KDP's restated page reads, ACX enrolment, Barnes & Noble non-payment and Goodreads' edition refusal, and the common shape has not changed: the author is the only party keeping a record. Keep screenshots of what the interface offered you and what support told you, before you click.
+The explanations they were given: the metrics "are updated daily, rather than in real time" (their own separate link shows the same bursts), and each counted click is a "qualified visit lasting more than 15 seconds" — on an Amazon page the company does not control.
 
-And if your whole business is one account, today is a good day to ask what you would do on the morning it closed.
+What this is: one author's documented experience, and inference from a traffic pattern rather than proof of what produced it. What it is enough for: real ads do not arrive in three identical end-of-day bursts, and no service that will not show you the ad is a service you can verify. The test that costs nothing — ask to see a live ad before you pay, and use your own tracking link so you have a second set of numbers.
 
-🔗 https://www.reddit.com/r/selfpublish/comments/1xwca6l/like_others_i_was_randomly_terminated_unsure_of/
+🔗 https://www.reddit.com/r/selfpublish/comments/1xx1xft/anybookseo_review_i_paid_2995_for_humanmanaged/
 
-💬 Do you have a copy of your books, your reader list and your sales records somewhere that is not the platform?
-
-
-4. A second advance, no agent, and a publisher who deals mostly with agented authors
-
-Posted in r/PubTips on 13 November, and it is the kind of question almost nobody answers honestly in public.
-
-Their position: a book published this year with a large national non-fiction publisher — not Big Five, but the biggest in their country. Advance: 5,000. They are a few hundred short of EARNING OUT. They have just pitched the next book, and the publisher is progressing to an offer and a contract. They have no agent. The new book needs more research than the last. Their question is simply what to keep in mind, and their honest admission is that the admin side makes them feel clueless.
-
-The things worth knowing before that conversation, and they are all leverage they already have:
-
-EARNING OUT IS THE ARGUMENT. An author whose advance has nearly been covered by royalties has demonstrated that the publisher's risk on them is low. That is the single strongest fact in the room and it belongs in the first sentence.
-
-RESEARCH IS A COST, AND COSTS ARE NEGOTIABLE SEPARATELY. A book needing travel, archive access, interviews or permissions costs money before it earns any, and an advance is partly there to fund the writing. It is reasonable to say what the research will cost and ask for the advance to reflect it — or to ask for an expenses line, which some publishers will grant more readily than a bigger advance.
-
-THE ADVANCE IS NOT THE ONLY NUMBER. Royalty rates, the payment SCHEDULE (how much on signature, on delivery, on publication), territory, audio and translation rights, and the option clause on book three are all terms, and some are worth more over five years than a few thousand up front.
-
-AND THE AGENT QUESTION IS LIVE RIGHT NOW. A publisher moving to offer on a second book is the easiest moment an author ever has to attract an agent, because the deal is already there — many will take on a client to negotiate a contract in hand. An agent's commission on a 5,000 advance is small; what they are selling here is the rest of the contract.
-
-🔗 https://www.reddit.com/r/PubTips/comments/1xv834q/pubtipnegotiating_next_advance/
-
-💬 If you have negotiated a contract yourself — what did you ask for that you nearly did not?
+💬 What is the most useless thing you have paid for in book marketing — and how long did it take to work that out?
 
 
-5. The sagging middle, from inside it
+4. Pen names: the practical answers, after a week that showed why they matter
 
-Posted in r/writing yesterday, 14 November, and it is the third structural problem this digest has carried in five days, which is itself the interesting part.
+ALLi published this yesterday, 15 November — Michael La Ronn and Sacha Black in a member Q&A, with a full transcript on the page. It lands in a useful week: this digest carried an author finding their LEGAL name printed on the back cover of their publisher's advance copies on Wednesday, and an author whose KDP account was terminated after changing the pen name on a published book yesterday. Here are the answers to the questions those two raised.
 
-Where they are: Act 1 of a Second World War spy love story finished at 28,000 words with what they call a satisfying culmination. Act 3 they already know. Act 2 is the problem — two threads, a love affair whose principals have only just met in person and a cat-and-mouse spy plot, which have to braid together and build towards what Act 3 needs. They are feeling their way forward and finding it tricky.
+Why they use one. Sacha's reason is privacy and family — she describes being recognised while driving with her child, calls a pen name a kind of insurance, and puts it well: it lets you "retain some pieces of you for you". Michael's is professional separation: he works in insurance and does not want employers finding his fiction. And the third reason is the one people skip — plan for the book that unexpectedly takes off, because you cannot add privacy afterwards.
 
-The observation they make in passing is the best thing in the post: it is funny how these structural patterns turn up even when you are not consciously using any writing theory.
+The administrative answers, which are the part worth keeping:
 
-Which is the useful frame. A sagging middle is not a failure of invention, it is usually a shortage of PRESSURE — Act 1 raised a question and Act 2 has to keep raising the cost of answering it. With two threads the specific trick is that they must interfere with each other: the romance should make the spy work harder, and the spy work should make the romance more dangerous, so that every advance in one is a complication in the other. Two plots running politely in parallel is what sagging feels like from the inside.
+COPYRIGHT. You normally own the copyright yourself. Company ownership makes sense only in narrow situations and needs a written contract.
+REGISTRATION. Michael's point is a useful one for US authors: registering copyright does not require your real name on the public record — you can register under the pen name.
+BUSINESS REGISTRATION. This is where identities leak. Registering a business generally requires a real person's name, so a PO box or a mailbox service address is the practical protection.
+TAX. It varies by country, and they do not pretend otherwise — Sacha's UK example is that a company receiving payments can incur corporation tax, with personal tax possibly due again on money passed through it. Both say to use professionals, including an IP and business lawyer.
 
-Put it beside Thursday's item here, where beta readers told a writer the second half was far better than the first, and Friday's, where a writer 60,000 words in found the timeline would not hold. Three different writers, three different stages, and all three problems live in the middle of the book — the part nobody plans and everybody has to write.
+And the dull practical one: choose a name that is easy to SPELL and SAY, ideally a couple of syllables, because you will be saying it on podcasts and people will be typing it into search boxes. Look at naming conventions in your genre; test options on friends.
 
-🔗 https://www.reddit.com/r/writing/comments/1xw363p/the_sagging_middle_act/
+🔗 https://selfpublishingadvice.org/podcast-why-every-author-should-consider-a-pen-name/
 
-💬 How do you handle your middle — plan it in advance, or find it on the way through?
+💬 If you use a pen name — what made you choose it, and is your legal name findable anyway?
 
 
-6. Why your pitch gets ignored: 250 words, taken apart
+5. 89 free downloads, $0 spent, and the thing that actually moved the needle
 
-Josh Bernoff published this on 13 November and it is free training for anybody who emails bookshops, reviewers, podcasters or journalists — which is every self-published author eventually.
+Posted in r/selfpublish yesterday, 15 November, by an author whose first LitRPG novel came out on 31 October. They ran a three-day free Kindle promotion from 12 to 14 November with no advertising at all, and counted it.
 
-He reproduces a PR pitch he received in full and lists what is wrong with it. The flaws are worth reading as a checklist against your own: it was sent to someone whose beat it does not match — he writes about writing and books, not startups; after 250 words he still cannot tell what the company does; the news is not news; the geography is irrelevant to the reader; the phrasing is stock ("I built a business around AI", a team "rowing in the same direction"); and the underlying premise — I had this problem so others must — is both a cliché and, he notes, a common cause of failure.
+The numbers: SIX downloads to begin with. Then they posted in a few subreddits — r/FreeBooks, r/BooksFree and the LitRPG one — and finished with 89 FREE DOWNLOADS, with the book briefly reaching #2 in three Amazon free Kindle categories. The rankings went back to normal the moment the promotion ended, which they expected.
 
-His verdict on the AI question is the line to carry: using AI to write a pitch "scales your irrelevance". The problem was never the prose, it was that the pitch should not have been sent to him at all, and generating it faster only sends more of them.
+The six-to-89 jump is the whole lesson, and it is not about Reddit specifically. A free promotion is a PRICE change, not a marketing campaign — Amazon does not go and find readers for you because a book is free. The downloads came from the author going to places where readers of free books already gather and telling them. Without that step the promotion produced six.
 
-One honest tension, since this digest ran the other side of it on Tuesday. Bernoff cites a Pangram detection as evidence the email was AI-written — and Tuesday's item here, from Bernoff himself, made the point that detectors are LEAST reliable on short texts, which a 250-word email certainly is. Both of his observations can stand: the email reads like machine output, and a detector score on 250 words is weak evidence. The reason the pitch failed does not depend on who or what typed it.
+Their own summing-up is honest about the rest: the financial return at this point is basically nonexistent, and what they have is 89 copies in people's libraries, some of which will never be opened. Set it beside 6 November here, when an author published their three-month zero-spend figures, and the pattern across both is the same — free is cheap to try, slow to pay, and only works at all if you do the distribution yourself.
 
-The transferable rule, in one line: before you write a word of a pitch, establish that this specific person covers this specific kind of thing — and then say in your first sentence what the thing actually is.
+🔗 https://www.reddit.com/r/selfpublish/comments/1xwv8hk/my_first_kdp_free_promotion_here_are_the_results/
 
-🔗 https://bernoff.com/blog/250-words-of-pr-drivel
-
-💬 What is the best pitch you have ever sent — and what made the person say yes?
+💬 Have you run a free promotion — where did you announce it, and did anything come back weeks later?
 
 
 —
-Scout notes: six items — three from news and trade press, three from the community lanes, an even split. AI lane: QUIET TODAY on new developments. Both query shapes were run and neither returned anything inside 48 hours; the AI content in this edition is secondhand — a conference session on AI findability in item 2, the AI support bot in item 3, and a detector claim in item 6 — rather than a development. The lead is a CORRECTION of this digest's own 8 November item, made from Amazon's own help page read this morning, with the likely source of the error named; if you acted on that item, the thing to re-read is which pool your audio listening is paid from. The October figure in the lead is quoted as what the page calls it, total KDP Select author earnings, and is explicitly NOT presented as the Global Fund line or the per-page rate — neither of which was published anywhere reachable this morning, which was checked rather than assumed. Item 2 follows the gate's rule for a development whose source predates the window: the conference ran 16 to 19 October, the report is dated 14 November, the report is what is linked, and the conference dates are stated in the item. Item 3 is one author's account of an account termination and says so inside the item, including what we cannot know about what the platform saw. YouTube lane: nothing fresh today. All six feeds failed four attempts each — one returned a 500 rather than a 404, which is the same outcome — and all six channel pages were read; every video inside the gate had already run here or was held earlier in the week. Screen lane: answered on the third request shape after two 429s, and nothing cleared the bar — the freshest threads were a bare one-line question about selling a first screenplay after fifty, which this digest will not write up from a title, and a feature posted for critique. Routes: Writer Beware answered first time; Publishing Perspectives failed for an eighth consecutive day and is now search-only in practice; Elizabeth Spann Craig's blog returned 403 for a thirty-fourth consecutive day. Reddit: r/selfpublish, r/writing and r/PubTips all answered first time, r/Screenwriting on the third shape; one thread body needed a retry.
+Scout notes: FIVE items today, which is at the bottom of the usual band and deliberate. Monday's 05:00 build runs before Monday's news cycle exists and the weekend editions took what there was — two of today's five are from news and trade press, three from the community lanes, and I would rather ship the smaller honest edition than top it up. Two things were looked at and left out on those grounds: a review-abuse thread from this morning and an Australian opportunities roundup that turned out to be a members-only teaser with no writer-relevant detail readable. AI lane: NOT quiet — it carries the lead and item 2, and both are the rejection direction rather than adoption. The lead's two figures were read off the campaign's own site this morning, not off the write-up, and the site's fourth action (a poll) is one the write-up did not list. Item 2 is one author's suspicion about an agent they do not name, and the digest does not name them either; the item says plainly that the same evidence fits an agent who skimmed badly, and that the absence of any way to tell is the actual finding. Item 3 names a service, as the 12 November item did, because the author documented it from the company's own site, emails and dashboards and offers the screenshots — the item states where evidence ends and inference begins. Item 4 is the third pen-name item in six days and was taken because it ANSWERS the two warnings that preceded it rather than repeating them. The October KDP per-page rate was checked again and is still not published; the $71.1 million October total ran here yesterday and is not repeated. YouTube lane: nothing fresh today. All six feeds failed four attempts each — that is seven of the last eight days with zero or one feed answering — and all six channel pages were read; every video inside the gate had already run or been held this week. Screen lane: answered first time and nothing cleared the bar; its freshest threads were an app-recommendation request and two craft questions with one-line bodies. Routes: Writer Beware answered first time; Publishing Perspectives failed for a ninth consecutive day; Elizabeth Spann Craig's blog returned 403 for a thirty-fifth consecutive day. Reddit: r/selfpublish, r/writing and r/Screenwriting answered first time, r/PubTips on the third shape after two 429s; one thread body needed a retry.
 
 —
 Curated daily for this community. Spotted something worth sharing?
