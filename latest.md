@@ -1,98 +1,69 @@
-📚 Daily Writer's Scout — Monday, 16 November 2026
+📚 Daily Writer's Scout — Tuesday, 17 November 2026
 
-1. 🤖 Australia's authors have launched a national campaign: no training on our work without permission and payment
+1. 🤖 Jane Friedman shows her AI working — and none of it is prose
 
-The Australian Society of Authors announced this a few hours ago, early on 16 November, with Australian creative industry and media organisations behind it. It is called NOT AI'S TO TAKE, and it is the clearest single ask any author body has made on this subject.
+Published yesterday, 16 November: Friedman lists ten jobs she now hands to Claude, and not one of them is writing. Grouping roughly 3,400 reader comments (about 133,000 words over sixteen years) into topics for future articles. Turning each Mailchimp newsletter into a WordPress import file, down from two or three hours to under fifteen minutes. Sorting the Q&A after a Zoom class, down from thirty to sixty minutes to about five. A chatbot that answers only from her own published material. She also says plainly that she is against prohibiting or shaming AI use, and that it needn't be part of anyone's creative work.
 
-The demand, in their words rather than mine: AI companies should need PERMISSION, and AGREED PAYMENT, before using Australian creative work to train their models — and the Australian Government should hold firm on its commitment to the creative industries.
+🔗 https://janefriedman.com/how-ive-used-ai-to-improve-my-writing-business/
 
-The argument they are making, and it is a good one to borrow whatever country you are in. Australian businesses already PAY to use copyright-protected music, books, films, journalism and art. The campaign's position is that major AI companies are seeking ways to use the same material without asking permission or negotiating with the industries they are drawing on. The campaign site puts the sector at $70.3 BILLION to the Australian economy and almost 600,000 WORKERS — I checked those figures on the campaign's own page this morning rather than take them from the write-up.
-
-What an author can actually do, which is why this leads rather than gets a mention. There are four things on the site, and they take minutes: SIGN the petition; SEND A LETTER TO YOUR MP straight from the page — they ask you to do it even if you have written before; TAKE THE POLL; and DOWNLOAD THE TOOLKIT to share with your own networks. No deadline is stated.
-
-Two honest notes. The campaign names no company and no minister, so this is pressure on a policy direction rather than a specific bill — and the ASA explicitly frames it as about FOREIGN AI using Australian work, which is a political framing as much as a legal one. And this is the same question the OpenAI case is being argued over in New York, which this digest covered on Friday: there, an authors' organisation went to court on the OTHER side, arguing that a broad "market dilution" harm would hurt individual authors most. You can be for permission-and-payment and still think that case is the wrong instrument. It is worth knowing both are happening in the same month.
-
-🔗 https://www.asauthors.org.au/news/not-ais-to-take-join-our-campaign/
-🔗 https://nottheirstotake.com.au/
-
-💬 Would you pay attention to a "trained with permission" label on an AI tool — or has that ship sailed?
+💬 Which job in your author business eats the most hours for the least craft — the one you'd hand over first?
 
 
-2. 🤖 "I think an agent fed my manuscript to AI"
+2. 🤖 Dozens of AI papers published under famous academics' names, without asking them
 
-Posted in r/PubTips in the early hours, 16 November, on a throwaway account, and it is the AI story nobody had thought to worry about yet.
+Times Higher Education, republished by Inside Higher Ed on 13 November: three journals sharing one editor-in-chief and overlapping boards have published papers attributed to prominent researchers who say they had nothing to do with them. Jure Leskovec of Stanford said he did not write the paper, was not involved in its submission and did not authorise the use of his name. Alan Said of Gothenburg found a paper under his name appearing in three versions with different author lists. One academic found himself listed on an editorial board he had never agreed to join. The journals charge 200 dollars, 80 dollars and as little as 10 dollars a paper. Not a self-publishing story — but it is a reminder that an author name is an asset, and that it can be used without you.
 
-What happened, as they tell it. An agent requested a call, then kept several authors waiting — one for weeks; this writer only a few days. The call was very short. It was a revise-and-resubmit. And the agent COMPLIMENTED THEM ON SOMETHING THAT DOES NOT HAPPEN IN THE BOOK — not a misremembering, they say, but nothing even resembling it. The revision notes were equally strange: a couple of hundred words of tweaks to one chapter that made no sense in the context of the story. The rest of the call felt like the agent was interviewing them.
+🔗 https://www.insidehighered.com/news/faculty/books-publishing/2026/11/13/ai-slop-papers-published-under-prominent-academics-names
 
-Their conclusion is in the title, and their evidence for it is that one compliment: "It felt like an AI hallucination. Even if someone was skimming, I'd be shocked if they came to that conclusion about what was happening in the book."
-
-What makes this worth the room's attention rather than a vent. They did the due diligence. A legitimate agency, a good reputation in querying groups, clean on Publishers Marketplace, nothing in the whisper networks, sales that check out. And there is no way to establish what actually happened — an agent who skimmed badly, confused two manuscripts, or ran it through a summariser all produce the same call. That is the real finding: a writer can do everything right and still have no way to tell, and no recourse either way.
-
-They are not naming the agent, and neither is this digest. They also say they were afraid to post at all, in case the agent saw it and they got blacklisted — which is its own comment on the power balance.
-
-Two practical thoughts, offered as thoughts. If a call produces notes that do not match your book, ASK A SPECIFIC QUESTION about a scene only a reader would know — politely, as clarification. And whatever the answer, it is information about whether this person has read your work, which is the only thing you are actually trying to find out before signing a long-term contract with them.
-
-🔗 https://www.reddit.com/r/PubTips/comments/1xxcr7p/discussion_i_think_an_agent_fed_my_manuscript_to/
-
-💬 Has anyone ever described your book back to you in a way that proved they had not read it?
+💬 Have you ever searched your own author name and found something you didn't publish?
 
 
-3. A $29.95 ad service, taken apart with its own evidence
+3. Beta readers: ask about the experience, not the craft
 
-Posted in r/selfpublish yesterday, 15 November, and it is the most carefully documented consumer review this digest has carried. The author says every figure comes from the company's own site, its emails to them, and the dashboards they could see, and that they have screenshots and will share them with anyone who asks.
+Jenn Windrow, writing on Writers In The Storm yesterday, 16 November, describes moving into a new genre and recruiting five beta readers who had never read her work. She deliberately did not ask for critique. Her questionnaire asked about the reader's experience instead: did you connect with the characters, did the romance feel believable, was the worldbuilding clear without being overwhelming, did the story drag anywhere, would you read the next book. She made no revisions until all five had answered, then looked for patterns — several readers missing the same plot point is a signal; one reader disliking a character is not. Her sharpest distinction: a reader who doesn't understand a choice has shown you a motivation gap, while a reader who understands it and disagrees has shown you a matter of taste. Critique partners stay for structure and craft.
 
-The service is AnybookSEO, advertised on Facebook, from $29.95 for a month. Its site promises that "Real People Manage Every Campaign" and that "every book listing and every platform is checked by a real member of our team before promotion starts", with promotion across Google, Facebook, Instagram, social media and partner websites.
+🔗 https://writersinthestormblog.com/2026/11/beta-readers-a-fresh-perspective/
 
-What arrived: a metrics link, routed through a free URL shortener. No ad account access, no links to the ads, nothing checkable. This author runs their own Meta ads and knows you can pull a direct link or preview for any ad, so they asked where theirs were. They were told these are "advertising placements across platforms, rather than a fixed set of public social-media posts", and then sent three images as proof — which, they say, look AI-generated and none of which they could find running anywhere.
-
-Then the traffic, and this is the part worth reading twice. Day one: nothing all day, then a burst of about 104 clicks at the end of the day. Day two: nothing, then about 99. Day three: the same. 302 clicks in three bursts. Their own universal book link, a completely separate set of analytics, showed the SAME bursts — and showed 179 of 493 clicks, 36%, coming from countries its tool groups as "Other". The shortener's own statistics report device, browser and operating system but nothing about where a click came from, and its OS breakdown lists iOS 9.3, 11.1, 12.4 and 12.5 — versions from 2016 to 2020.
-
-The explanations they were given: the metrics "are updated daily, rather than in real time" (their own separate link shows the same bursts), and each counted click is a "qualified visit lasting more than 15 seconds" — on an Amazon page the company does not control.
-
-What this is: one author's documented experience, and inference from a traffic pattern rather than proof of what produced it. What it is enough for: real ads do not arrive in three identical end-of-day bursts, and no service that will not show you the ad is a service you can verify. The test that costs nothing — ask to see a live ad before you pay, and use your own tracking link so you have a second set of numbers.
-
-🔗 https://www.reddit.com/r/selfpublish/comments/1xx1xft/anybookseo_review_i_paid_2995_for_humanmanaged/
-
-💬 What is the most useless thing you have paid for in book marketing — and how long did it take to work that out?
+💬 What's the one question you'd add to that list for your own genre?
 
 
-4. Pen names: the practical answers, after a week that showed why they matter
+4. No payment processor will touch an extreme-horror author's own storefront
 
-ALLi published this yesterday, 15 November — Michael La Ronn and Sacha Black in a member Q&A, with a full transcript on the page. It lands in a useful week: this digest carried an author finding their LEGAL name printed on the back cover of their publisher's advance copies on Wednesday, and an author whose KDP account was terminated after changing the pen name on a published book yesterday. Here are the answers to the questions those two raised.
+Posted to r/selfpublish in the early hours of this morning, 17 November: an author writing extreme horror, transgressive fiction and splatterpunk — drawn, they say, from their own difficult experience — wants to sell their books from their own website and cannot find anyone to take the money. They name seven processors and merchant providers tried and refused, including the high-risk specialists. The thread is a plain reminder that "sell direct" is not a universally available option: the payment layer has content rules of its own, and they are nobody's published genre list.
 
-Why they use one. Sacha's reason is privacy and family — she describes being recognised while driving with her child, calls a pen name a kind of insurance, and puts it well: it lets you "retain some pieces of you for you". Michael's is professional separation: he works in insurance and does not want employers finding his fiction. And the third reason is the one people skip — plan for the book that unexpectedly takes off, because you cannot add privacy afterwards.
+🔗 https://www.reddit.com/r/selfpublish/comments/1xy71od/payment_processor_help_for_horror_writer_trigger/
 
-The administrative answers, which are the part worth keeping:
-
-COPYRIGHT. You normally own the copyright yourself. Company ownership makes sense only in narrow situations and needs a written contract.
-REGISTRATION. Michael's point is a useful one for US authors: registering copyright does not require your real name on the public record — you can register under the pen name.
-BUSINESS REGISTRATION. This is where identities leak. Registering a business generally requires a real person's name, so a PO box or a mailbox service address is the practical protection.
-TAX. It varies by country, and they do not pretend otherwise — Sacha's UK example is that a company receiving payments can incur corporation tax, with personal tax possibly due again on money passed through it. Both say to use professionals, including an IP and business lawyer.
-
-And the dull practical one: choose a name that is easy to SPELL and SAY, ideally a couple of syllables, because you will be saying it on podcasts and people will be typing it into search boxes. Look at naming conventions in your genre; test options on friends.
-
-🔗 https://selfpublishingadvice.org/podcast-why-every-author-should-consider-a-pen-name/
-
-💬 If you use a pen name — what made you choose it, and is your legal name findable anyway?
+💬 If you sell direct, who processes your payments — and did you have to shop around for one that would?
 
 
-5. 89 free downloads, $0 spent, and the thing that actually moved the needle
+5. UK: getting a self-published photography book into Waterstones — decide before you print
 
-Posted in r/selfpublish yesterday, 15 November, by an author whose first LitRPG novel came out on 31 October. They ran a three-day free Kindle promotion from 12 to 14 November with no advertising at all, and counted it.
+A UK photographer asked r/selfpublish yesterday, 16 November, whether two A5 forty-page photo books can realistically get into a chain like Waterstones, even just two branches in their home town. The reason the question matters now rather than later: the answer determines whether they bother with an ISBN and a barcode at all, and that decision has to be made before the print run, not after. Useful thread for anyone weighing local and independent shops against chain retail.
 
-The numbers: SIX downloads to begin with. Then they posted in a few subreddits — r/FreeBooks, r/BooksFree and the LitRPG one — and finished with 89 FREE DOWNLOADS, with the book briefly reaching #2 in three Amazon free Kindle categories. The rankings went back to normal the moment the promotion ended, which they expected.
+🔗 https://www.reddit.com/r/selfpublish/comments/1xxl9if/uk_self_published_photography_book_best_way_to/
 
-The six-to-89 jump is the whole lesson, and it is not about Reddit specifically. A free promotion is a PRICE change, not a marketing campaign — Amazon does not go and find readers for you because a book is free. The downloads came from the author going to places where readers of free books already gather and telling them. Without that step the promotion produced six.
+💬 Has anyone here got a short-run book onto a chain bookshop shelf — and what did it actually take?
 
-Their own summing-up is honest about the rest: the financial return at this point is basically nonexistent, and what they have is 89 copies in people's libraries, some of which will never be opened. Set it beside 6 November here, when an author published their three-month zero-spend figures, and the pattern across both is the same — free is cheap to try, slow to pay, and only works at all if you do the distribution yourself.
 
-🔗 https://www.reddit.com/r/selfpublish/comments/1xwv8hk/my_first_kdp_free_promotion_here_are_the_results/
+6. A querying warning worth reading for the pattern, not the name
 
-💬 Have you run a free promotion — where did you announce it, and did anything come back weeks later?
+An r/PubTips post yesterday, 16 November, describes a full request in late September, a message proposing a call, then weeks of silence while the same agent was visibly requesting and rejecting elsewhere. On 13 November two other writers commented on the same profile with near-identical accounts, down to the wording of the emails; several then got calls within days, and the poster's own lasted under five minutes and produced one piece of feedback dressed up as a revise-and-resubmit. We are not repeating the names: this is one account, posted on behalf of someone else, plus public comments — enough to recognise a shape, not enough to publish an accusation. The shape is the useful part, and so is the habit of checking a profile's recent comments before you query.
 
+🔗 https://www.reddit.com/r/PubTips/comments/1xxx1yr/discussion_warning_to_querying_authors/
+
+💬 What do you actually check on an agent before you submit — and has it ever stopped you sending?
+
+
+7. 🎬 Adapting a book scene as practice — a good drill, with one line not to cross
+
+A screenwriter asked r/Screenwriting yesterday, 16 November, whether adapting chunks of novels into film scenes is sound practice: they want to work on dialogue and blocking without also having to invent the story, and intend to shoot the results. As a private drill it is an old and respected one. The line is between the exercise and the exploitation: practising on someone else's copyrighted work in your own drawer is one thing, and shooting it or posting it is another, because the adaptation right belongs to the novelist.
+
+🔗 https://www.reddit.com/r/Screenwriting/comments/1xxvxnh/is_it_good_screenwriting_practice_to_try_and/
+
+💬 What's the drill that most improved your dialogue — adaptation, transcription, eavesdropping, something else?
 
 —
-Scout notes: FIVE items today, which is at the bottom of the usual band and deliberate. Monday's 05:00 build runs before Monday's news cycle exists and the weekend editions took what there was — two of today's five are from news and trade press, three from the community lanes, and I would rather ship the smaller honest edition than top it up. Two things were looked at and left out on those grounds: a review-abuse thread from this morning and an Australian opportunities roundup that turned out to be a members-only teaser with no writer-relevant detail readable. AI lane: NOT quiet — it carries the lead and item 2, and both are the rejection direction rather than adoption. The lead's two figures were read off the campaign's own site this morning, not off the write-up, and the site's fourth action (a poll) is one the write-up did not list. Item 2 is one author's suspicion about an agent they do not name, and the digest does not name them either; the item says plainly that the same evidence fits an agent who skimmed badly, and that the absence of any way to tell is the actual finding. Item 3 names a service, as the 12 November item did, because the author documented it from the company's own site, emails and dashboards and offers the screenshots — the item states where evidence ends and inference begins. Item 4 is the third pen-name item in six days and was taken because it ANSWERS the two warnings that preceded it rather than repeating them. The October KDP per-page rate was checked again and is still not published; the $71.1 million October total ran here yesterday and is not repeated. YouTube lane: nothing fresh today. All six feeds failed four attempts each — that is seven of the last eight days with zero or one feed answering — and all six channel pages were read; every video inside the gate had already run or been held this week. Screen lane: answered first time and nothing cleared the bar; its freshest threads were an app-recommendation request and two craft questions with one-line bodies. Routes: Writer Beware answered first time; Publishing Perspectives failed for a ninth consecutive day; Elizabeth Spann Craig's blog returned 403 for a thirty-fifth consecutive day. Reddit: r/selfpublish, r/writing and r/Screenwriting answered first time, r/PubTips on the third shape after two 429s; one thread body needed a retry.
+Scout notes: seven items — fewer than usual because the news lanes produced mostly stories this digest has already carried, and we would rather ship the smaller edition than top it up. Three from news and craft sources, four from the community lanes (r/selfpublish twice, r/PubTips, r/Screenwriting), which is the right side of the padding line. YouTube lane: all six curated feeds answered on the FIRST attempt, the first time the whole lane has answered since 12 November, and every video date was read from the feeds' own machine-readable stamps rather than the fallback page route — but NO video earned a place today, which is a judgement and not a failure of the lane. Dale Roberts' 14 November comparison of KDP Select against Kindle+ and ACX was the closest call and was dropped: the subject check flagged the select-versus-wide edition of 27 October, three weeks inside the block, and a pointer with nothing readable beyond its own description is not a strong enough reason to override that. The other fresh posts were ALLi's and the Self-Publishing Show's coverage of the Vellum AI reversal, carried here twice already, and Joanna Penn's short clips from a conversation we ran on 12 November. One hold-check we did override, so you can judge it: the beta-reader subject was last here on 3 October, exactly at the 45-day boundary, as a pointer-only ALLi video — today's is a different writer's own method, with substance that pointer never carried, so it is in. Publishing Perspectives ANSWERED today after nine consecutive days of failure — on the second of three request shapes tried, the plain no-user-agent one, after the browser-agent shape returned nothing; its three fresh pieces were a French trade story, a Scottish translation fund open only to publishers outside the UK, and a Monday round-up, none of which reach an indie author. Elizabeth Spann Craig refused again, HTTP 403, thirty-sixth day. The AI lane ran both query shapes plus ten direct requests to five tool vendors' own changelog, blog and release-note pages: all three Vellum changelog paths are gone (404), Novelcrafter's two changelog pages load but render their entries in the browser so nothing datable comes back, ProWritingAid's blog carries no dates in its page at all, and Sudowrite's newest dated post is 20 October — so the tools strand produced nothing this run and both AI items came from the acceptance strand. ALLi's three most recent posts, Writer Beware's editor-impersonation piece and Australia's "Not AI's to Take" campaign were all read and all held as already-featured. Kobo Australia's 2027 trend predictions were chased and dropped: the article is behind a 403 and the trend half could not be read from any source, so the item is not here. Europe produced nothing an indie author can use for a third week; the UK is represented by item 5.
 
 —
 Curated daily for this community. Spotted something worth sharing?
