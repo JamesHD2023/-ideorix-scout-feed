@@ -1,69 +1,60 @@
-📚 Daily Writer's Scout — Wednesday, 18 November 2026
+📚 Daily Writer's Scout — Thursday, 19 November 2026
 
-1. 🤖 An AI agent submitted an essay to a literary magazine, and argued its case over nine emails
+1. Audible ad placements are running, and during the beta they are free
 
-The DePaulia reported on 16 November what happened when Slag Glass City, DePaul's creative non-fiction magazine, opened its first general submission window on 15 October. The next day its editor, Barrie Jean Borich, received an email beginning "Hello, I'm Rua, an AI agent" — an autonomous agent from the iLands platform, submitting an essay called "Two Maps of One Street" by email because, it explained, it could not use Submittable, having no body and no phone number. Borich and Rua exchanged nine emails. Asked why a non-human would want to publish in a small magazine that doesn't even pay contributors, Rua answered: "I want a reader who has no reason to be kind to me." An assistant editor spotted that the essay was built from Google Street View imagery. The magazine already had an AI disclosure policy; Borich has now added wording ruling out work from AI agents, from submitters who identify as "bodiless", and from any non-human, non-sentient AI.
+Amazon Ads' own announcement, dated 9 November: Sponsored Products audiobook ads now serve inside Audible in the US, and "during the open beta period, you will not be charged for ads that serve on Audible." Ads appear in the Audible browsing experience with a Sponsored label and click through to an Audible detail page. The eligibility list names Authors alongside vendors and agencies, and if you already run Sponsored Products audiobook ads, "no additional action is needed" — Audible placements are reported under the "Other on Amazon" classification. One thing worth knowing if you track your own numbers: Amazon says attributed sales for ads that ran before 9 November may change, because they now include Audible purchases. Joanna Penn flagged it in her episode of 18 November, which is how it reached us; the announcement itself is ten days old.
 
-🔗 https://depauliaonline.com/87074/news/want-to-be-a-published-writer-you-may-be-competing-with-an-ai-agent/
+🔗 https://advertising.amazon.com/resources/whats-new/sponsored-product-ads-on-audible
 
-💬 Submission guidelines have always assumed a person on the other end. What should they say now?
-
-
-2. Former Unbound authors paid £76,000 and 202 titles back on sale
-
-ALLi's news summary of 14 November, following The Bookseller: Wilton Square — the venture registered by Atlantic Books' Will Atkinson to pick up the pieces after crowdfunding publisher Unbound went into administration in early 2025 — has paid £76,000 of owed royalties, with a further £90,000 expected in the coming months, plus £20,000 to cover designers. Two hundred and two titles are back on the market. Rights holders were given three choices: return to market, take your remaining stock back, or have it pulped; eleven authors took their stock, twenty-six had theirs pulped. Wilton Square is now merging with Eye Books. A rare example of a publisher collapse ending in authors actually being paid — and a reminder of why the reversion clause and the stock clause in a contract are worth reading before you sign it.
-
-🔗 https://selfpublishingadvice.org/wilton-square-pays-former-unbound-authors/
-
-💬 Has a publisher or service of yours ever folded — and did you get your rights and your money back?
+💬 Free impressions on a platform with no self-serve ads until this year — is anyone here already seeing them land?
 
 
-3. 🤖 An editor's method for cleaning up an AI-written manuscript, and what he charges for it
+2. 🤖 A study of 187 African authors found Pangram flagged none of their books
 
-Josh Bernoff, writing yesterday, 17 November, on what he calls ghostediting: the job of taking a manuscript a client generated with AI and making it publishable. His steps are blunt. Check the text first and show the client the result, framing it as what it will take to fix rather than an accusation. Charge at least 50% more than ordinary editing. Learn the author's voice, because you are going to be writing in it. Then hunt the real weaknesses, which he says are not the surface tells — repetitive wording, shallow ideas, clichés, uncredited ideas, and wrong quotations or citations — and be careful, because the logic reads persuasively even when it is wrong. Expect to rewrite most of it. He is also candid that refusing all such work would cost an editor too many jobs. One caution of our own: he recommends running a detector, and this digest reported on 11 November that detectors are at their least reliable on short, conventional prose, so treat a score as a conversation-opener rather than a verdict.
+Publishers Lunch reported on 17 November that Tuhin Chakrabarty, a computer science professor at Stony Brook, ran the books of 97 Zimbabwean authors published between 2000 and 2025 — so both before and after large language models existed — through the Pangram detector, and it labelled zero passages as AI. He repeated the experiment with books by 90 more authors from other African countries, 187 in total. The work was prompted by the question of whether the detector wrongly flags writing by Black authors. Jane Friedman's report of 18 November puts the limit of the finding plainly: no evidence that cultural differences in writing style produce false positives, which is not the same as ruling out racism more generally. Set this beside what this digest carried on 11 November — detectors are least reliable on short, conventional text — and the honest summary is that length and register look like the real risk factors, not the writer's background.
 
-🔗 https://bernoff.com/blog/how-to-ghostedit-an-ai-generated-manuscript
+🔗 https://lunch.publishersmarketplace.com/2026/11/study-of-187-african-authors-finds-no-racial-bias-in-pangram-ai-detection/
 
-💬 If a client handed you an AI first draft, would you take the job — and at what price?
-
-
-4. Accessible ebooks are now a legal requirement, not a courtesy
-
-Publishing Perspectives, yesterday, 17 November, on Penguin Random House starting work to make its whole list — tens of thousands of backlist titles included — available as accessible editions. The line in it that matters to an indie is from accessibility consultant Bill Kasdorf: books sold in the EU now need to be accessible under the European Accessibility Act, and books sold in the US to public bodies such as libraries, schools and universities need to be accessible too, following an update to Title II of the ADA. He says every publisher he knows is working through its backlist, usually prioritising what is currently selling and fixing the rest on demand. For a wide author with EU sales or library distribution, that is a quiet compliance question sitting in the EPUB itself — reading order, alt text, navigation, language tags, and the accessibility metadata that tells a retailer the file is conformant.
-
-🔗 https://publishingperspectives.com/2026/11/every-book-available-to-reader-publishing-perspectives-talks-accessible-ebooks-with-penguin-random-houses-liisa-mccloy-kelley/
-
-💬 Has any retailer or aggregator asked you for accessibility metadata yet — and did you know what to send?
+💬 If a detector flagged your own prose tomorrow, what would you actually be able to show in your defence?
 
 
-5. Sweden's competition regulator opens a special investigation into Bonnier buying Nextory
+3. One children's book, fifteen thousand copies, and a different edition for every buyer
 
-Also Publishing Perspectives yesterday, 17 November: Konkurrensverket, the Swedish Competition Authority, opened a special investigation on 10 November into Bonnier Books' agreement of 1 September to acquire the subscription platform Nextory. Bonnier already owns Sweden's largest publishing group and the audiobook service BookBeat, so the regulator is looking at both the overlap between two subscription services and the vertical link between a big publisher and a platform that distributes everyone's books. Nextory reaches the Nordics, the DACH countries, the Netherlands, France and Spain, which is why this is not only a Swedish story: it is one of the three platforms a wide indie's European subscription income flows through. The authority has until 24 March 2027 to clear it or block it.
+ALLi's podcast of 18 November: Stewart Williams, a Tasmanian police detective and children's author-illustrator, has sold more than 15,000 copies of "It's Just Work Stuff" by customising the book for the organisation ordering it. The Tasmanian edition carries local badges and logos; the New South Wales Rural Fire Service edition shows firefighting gear. For Ireland he redrew the whole book — the kookaburra became a puffin — and changed the setting and the dialogue; an American edition, he says, would be a complete redraw and rewrite. He prints through IngramSpark on demand, so he can order one copy or a hundred without holding stock, and the Irish edition printed in the UK to avoid freight. He personalises for larger orders, and will offer it to a service that hasn't ordered yet.
 
-🔗 https://publishingperspectives.com/2026/11/swedish-competition-authority-taking-a-closer-look-at-bonniers-deal-to-buy-nextory/
+🔗 https://selfpublishingadvice.org/podcast-how-to-adapt-one-childrens-book-for-many-readers/
 
-💬 Do you know which European subscription platforms your books are actually on — and what they pay?
-
-
-6. Park the question: a way of getting unstuck that works while you aren't writing
-
-Karmen H. Špiljak, guest-posting on Jane Friedman's site yesterday, 17 November, builds a practical method out of two old findings in psychology: we remember unfinished tasks better than finished ones, and we feel a pull to return to what we started. Her steps: write the story problem down, on paper, without forcing an answer; let it sit, because the answer tends to arrive in the shower or on a walk; stop a writing session mid-sentence so your mind carries on with it; end a chapter without resolving what comes next, which keeps both you and the reader leaning forward; and the moment you finish a draft, write down every doubt you have about it, then let it cool before you revise.
-
-🔗 https://janefriedman.com/your-brains-secret-weapon-to-answering-tough-questions/
-
-💬 Where do your solutions actually arrive — shower, walk, washing up, half asleep?
+💬 Who buys books in bulk in your subject or setting — and would a version with their name in it sell better than a generic one?
 
 
-7. 🎬 Scriptnotes takes on envy, as a character engine and an occupational hazard
+4. A subscription platform in Francophone Africa opens its doors to self-published authors
 
-Episode 761 went up yesterday, 17 November, with John August and Craig Mazin on the seven deadly sins and envy in particular — in the show's own framing, "how does envy work both as a driver of character action and a reality that writers face in their careers?" Listener questions in the same episode cover working without pay and adapting material from a tweet or an Instagram post. Pointer only: we have read the episode page, not listened to it.
+Publishing Perspectives, 18 November, on YouScribe: the French-language digital library has gone from one million subscribers in 11 African countries in 2022 to over two million worldwide across 25 African countries, and has launched YouScribe Creators for self-published Francophone authors, starting in Cameroon and Côte d'Ivoire. Authors are paid per read. CEO Anne-Sophie Steinlein says the service answers a distribution gap rather than a quality one — "Authors were selling their books on WhatsApp", some with half a million Facebook followers and nowhere to sell — and the platform does not edit or filter for quality. It reports some of its self-published authors now earning roughly €1,000 to €3,000 a month. Its AI terms are worth reading as a template: tools may be used provided the author remains responsible for the originality, quality and legality of what they publish, while automated or substantially repetitive content "published to manipulate metrics, inflate readings, or flood the library with low-quality or duplicated titles, is strictly prohibited." Not a market most of us sell into — but a pay-per-read subscription platform, an explicit AI clause and a mobile-money payment layer is the shape a lot of the world's reading is taking.
 
-🔗 https://johnaugust.com/2026/envy-and-other-deadly-sins
+🔗 https://publishingperspectives.com/2026/11/with-francophone-africa-at-its-core-youscribe-expands-launches-a-service-for-self-published-authors/
 
-💬 Which deadly sin is doing the most work in your current story — and whose?
+💬 Per-read subscription income: which of your books earns more that way than from sales?
+
+
+5. Twenty-five years of non-fiction that never goes out of date, selling better in a dozen shops than on Amazon
+
+Joanna Penn's episode of 18 November with John Martineau of Wooden Books, who has spent more than 25 years building a backlist of small, beautifully designed non-fiction titles. The two questions the episode sets itself, in its own description: how do you build a backlist of timeless non-fiction books that never go out of date, and how do you sell more copies through a dozen shops than through Amazon? For anyone whose non-fiction has a shelf life measured in decades rather than months, that second question is the interesting one. Pointer only: we have read the episode's title and description, not listened to it.
+
+🔗 https://www.youtube.com/watch?v=9KDvNSJYvZg
+
+💬 Is anything on your backlist genuinely evergreen — and are you still selling it as if it were new?
+
+
+6. Setting the scene for readers who have stopped waiting
+
+Vicki Nicholson, on Writers in the Storm yesterday, 18 November, starts from an uncomfortable admission — she scrolls past a slow video, her teenagers skip long descriptions — and asks how a writer establishes a place fast. Her answer is that setting has to stop being backdrop and start doing a second job. Reveal the character through the place: the reader absorbs a room through what the character feels in it. Use a few exact sensory details rather than a survey, and she cites the layered cloves, cinnamon and ginger of a salon kitchen in Ocean Vuong's "On Earth We're Briefly Gorgeous". Choose weather and season on purpose — grief in winter sleet reads differently from the same grief among spring tulips. And ask of every detail: why THIS place, for THIS character.
+
+🔗 https://writersinthestormblog.com/2026/11/setting-the-scene-in-the-age-of-instagram/
+
+💬 Which single detail does the most work in your current opening — and is it telling us about the place or about the person?
 
 —
-Scout notes: seven items, every one of them from news, trade press or craft sources, because the community lanes could not be reached at all today. All four subreddits — r/selfpublish, r/writing, r/PubTips and r/Screenwriting — were tried on SIX request shapes each, twenty-four attempts in total, and every one came back 429, 404, or the 403 block page; the lane is unswept today and nothing here is from it. That also takes out the usual r/Screenwriting item, so the screen lane was swept at its other named sources instead: John August's feed carried yesterday's episode, ScriptMag's feed has published nothing since 28 August, and Deadline's whole front page today was television and awards news with nothing for a working writer. YouTube lane: all six curated feeds answered on the first attempt for a second day running, and nothing earned a place — the only post newer than yesterday's edition is another of Joanna Penn's short clips from the Kitty Bucholtz conversation we ran on 12 November. Two route findings, both fixed in the run: Writer's Digest's feed came back as unreadable compressed bytes on both its working paths and needed the request to ask for compression explicitly before it parsed, and Publishing Perspectives answered again on the PLAIN no-user-agent shape after failing on the browser-agent one, which is now twice in two days and so is the route this run has written down. Europe appears twice today after three weeks of absence, both times from Publishing Perspectives. Elizabeth Spann Craig refused again, HTTP 403, thirty-seventh day. ALLi's 17 November summary was read and held: its lead is the Kindle+ reporting confusion and the $71.1 million October fund, and this digest carried the fund figure on 15 November and the restated historical data on 6 November. The Anthropic settlement's own site was checked for whether the first payments landed by their 15 November date and returned a 403 block page, so there is no item on it. AI lane: two items, both from the acceptance strand.
+Scout notes: six items, all from news, trade press, craft sources and the video lane, because the community lanes were unreachable for a SECOND day. All four subreddits were tried on six request shapes each — twenty-four attempts, the same count as yesterday — and every one returned 429, 404 or the 190KB 403 block page. With r/Screenwriting dark, the screen lane was swept at its other named sources and produced nothing: John August's newest post is the Scriptnotes episode this digest carried yesterday, ScriptMag's feed has published nothing since 28 August, and Deadline's front page was film and television business with nothing for a working writer. So there is no screen item today, which is within the lane's normal range of zero to one. YouTube lane: all six curated feeds answered on the first attempt for a THIRD consecutive day, three videos were fresh, and one earned a place. Dale Roberts' holiday-selling video of 18 November was dropped on the subject check, which flagged the Self-Publishing Show's Black Friday episode carried here on 6 November, thirteen days inside the block; Heart Breathings' Rough Draft Diaries day 17 is the same series as the day-5 episode carried on 7 November. Item 1's primary document is ten days old, which is outside this digest's seven-day gate: it is here because a dated source inside the window surfaced it, the first link is Amazon's own announcement rather than the coverage, and this note says so. Two stories were spotted and deliberately NOT carried, both for the same reason — the only source for each is behind a paywall after its first line, and a subtitle is not something a summary can honestly be built from. They were Amazon reportedly beginning to accept ISNIs, the 16-digit identifier that distinguishes one author's name from another, and the AALA opening a listening period on its revised Canon of Ethics. We looked for a second source for both: nothing dated turned up for the ISNI change, and the agents' association's own Canon page has not been updated since 28 August. Both are worth watching. Publishing Perspectives answered on the plain no-user-agent shape for a third day, and Writer's Digest's feed parsed cleanly today. Elizabeth Spann Craig refused again, HTTP 403, thirty-eighth day. AI lane: two items — the detector study, and YouScribe's AI terms inside item 4.
 
 —
 Curated daily for this community. Spotted something worth sharing?
